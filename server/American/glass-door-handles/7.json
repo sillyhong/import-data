@@ -1,0 +1,451 @@
+{
+    "total": 1168,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-LpfzV4624_L7I-VHH",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57073",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-12",
+          "hs_code": "851690",
+          "product_desc": "CF-RV21, 21 RV RANGE OVEN,SS PANEL,BLACK KNOBS WITH SILVER RING.BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SS FRAME AND SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A05289",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "235.0",
+          "weight": "7440.0",
+          "vessel_name": "MAERSK EMDEN",
+          "voyage": "136N",
+          "measure_unit": "X",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-10-25",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "INKU6652712"
+        },
+        "highlight": {
+          "product_desc": [
+            "CF-RV21, 21 RV RANGE OVEN,SS PANEL,BLACK KNOBS WITH SILVER RING.BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SS FRAME AND SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>"
+          ]
+        },
+        "sort": [
+          1635120000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-LsN6S4624_L7IBp_0",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-15",
+          "hs_code": "321511",
+          "product_desc": "CF-RV17BB,17 RV RANGE OVEN, BLACK PANEL,BLACKKNOBS WITH SILVER RING BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO. BLACK <font color='red'>HANDLE</font>. SPARE PARTS<br/>",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A05021",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "343.0",
+          "weight": "9500.0",
+          "vessel_name": "COSCO SPAIN",
+          "voyage": "046E",
+          "measure_unit": "X",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-10-25",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "CBHU9150620"
+        },
+        "highlight": {
+          "product_desc": [
+            "CF-RV17BB,17 RV RANGE OVEN, BLACK PANEL,BLACKKNOBS WITH SILVER RING BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO. BLACK <font color='red'>HANDLE</font>. SPARE PARTS<br/>"
+          ]
+        },
+        "sort": [
+          1635120000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmK2n4624_L7I1QFW",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "SHENZHEN ZHONGYUAN ELECTRONIC CO LTD",
+          "notify_party_name": "GOLDEN STATE FC LLC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-10-08",
+          "hs_code": "851621",
+          "product_desc": " HAMMER WIRE TIGHTENER <font color='red'>DOOR</font> <font color='red'>HANDLE</font> STEP DRILL MINING WEDGE S",
+          "carrier_sasc_code": "AMZD",
+          "bill_of_lading": "AMZDCN211303E103",
+          "shipper_address": "ROOM 201 BUILDING A NO 1 QIANWANRD CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "C/O GOLDEN STATE FC LLC 24300 NANDINA AVEMORENO VALLEY CA 92551- ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "473.0",
+          "weight": "5527.0",
+          "vessel_name": "ONE IBIS",
+          "voyage": "0023E",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "24300 NANDINA AVEMORENO VALLEY CA 92551-9534UNITED STATES ",
+          "new_date": "2021-10-23",
+          "shipper_name": "SHENZHEN ZHONGYUAN ELECTRONIC CO LTD",
+          "container_id": "HMMU6031797"
+        },
+        "highlight": {
+          "product_desc": [
+            " HAMMER WIRE TIGHTENER <font color='red'>DOOR</font> <font color='red'>HANDLE</font> STEP DRILL MINING WEDGE S",
+            "BUBBLE BAG WALL HOOKS PADLOCK WATER <font color='red'>GLASS</font> COVER SAW FRAME TURNTABLE PAINTING TOOLS TRIMMING KNIFE"
+          ]
+        },
+        "sort": [
+          1634947200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Lkdlw4624_L7IvWGv",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "SHENZHEN ZHONGYUAN ELECTRONIC CO LTD",
+          "notify_party_name": "GOLDEN STATE FC LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-10-08",
+          "hs_code": "851621",
+          "product_desc": " HAMMER WIRE TIGHTENER <font color='red'>DOOR</font> <font color='red'>HANDLE</font> STEP DRILL MINING WEDGE S",
+          "carrier_sasc_code": "AMZD",
+          "bill_of_lading": "AMZDCN211303E103",
+          "shipper_address": "ROOM 201 BUILDING A NO 1 QIANWANRD CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "C/O GOLDEN STATE FC LLC 24300 NANDINA AVEMORENO VALLEY CA 92551- ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "473.0",
+          "weight": "5527.0",
+          "vessel_name": "ONE IBIS",
+          "voyage": "0023E",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "24300 NANDINA AVEMORENO VALLEY CA 92551-9534UNITED STATES ",
+          "new_date": "2021-10-23",
+          "shipper_name": "SHENZHEN ZHONGYUAN ELECTRONIC CO LTD",
+          "container_id": "HMMU6031797"
+        },
+        "highlight": {
+          "product_desc": [
+            " HAMMER WIRE TIGHTENER <font color='red'>DOOR</font> <font color='red'>HANDLE</font> STEP DRILL MINING WEDGE S",
+            "BUBBLE BAG WALL HOOKS PADLOCK WATER <font color='red'>GLASS</font> COVER SAW FRAME TURNTABLE PAINTING TOOLS TRIMMING KNIFE"
+          ]
+        },
+        "sort": [
+          1634947200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-Lp7Sl4624_L7I-ySC",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "SHENZHEN ZHONGYUAN ELECTRONIC CO LTD",
+          "notify_party_name": "GOLDEN STATE FC LLC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-08",
+          "hs_code": "851621",
+          "product_desc": " HAMMER WIRE TIGHTENER <font color='red'>DOOR</font> <font color='red'>HANDLE</font> STEP DRILL MINING WEDGE S",
+          "carrier_sasc_code": "AMZD",
+          "bill_of_lading": "AMZDCN211303E103",
+          "shipper_address": "ROOM 201 BUILDING A NO 1 QIANWANRD CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "C/O GOLDEN STATE FC LLC 24300 NANDINA AVEMORENO VALLEY CA 92551- ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "473.0",
+          "weight": "5527.0",
+          "vessel_name": "ONE IBIS",
+          "voyage": "0023E",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "24300 NANDINA AVEMORENO VALLEY CA 92551-9534UNITED STATES ",
+          "new_date": "2021-10-23",
+          "shipper_name": "SHENZHEN ZHONGYUAN ELECTRONIC CO LTD",
+          "container_id": "HMMU6031797"
+        },
+        "highlight": {
+          "product_desc": [
+            " HAMMER WIRE TIGHTENER <font color='red'>DOOR</font> <font color='red'>HANDLE</font> STEP DRILL MINING WEDGE S",
+            "BUBBLE BAG WALL HOOKS PADLOCK WATER <font color='red'>GLASS</font> COVER SAW FRAME TURNTABLE PAINTING TOOLS TRIMMING KNIFE"
+          ]
+        },
+        "sort": [
+          1634947200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-LtA1-4624_L7IClJ2",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57069, XIAMEN",
+          "country": "CN, CHINA",
+          "importer": "HONG KONG BESTIME GROUP",
+          "notify_party_name": "GOLDEN STATE FC LLC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-01",
+          "hs_code": "851621",
+          "product_desc": "STORAGE BOX <font color='red'>DOOR</font> <font color='red'>HANDLE</font> SHOWER CADDY BASKET <font color='red'>GLASS</font> CANISTERS WATERING BULBS WALL CLOCK SUCCULENT POT",
+          "carrier_sasc_code": "AMZD",
+          "bill_of_lading": "AMZDCN2127CA7BAA",
+          "shipper_address": "COMPANY LIM ITED FLAT 03 15/F CARNIVAL COMM BLDG 18 JAVA RD NORTH POINT HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "COMPANY LIM ITED11263 OLEANDER AVE ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "664.0",
+          "weight": "5684.0",
+          "vessel_name": "COSCO HOPE",
+          "voyage": "046E",
+          "measure_unit": "---",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "LAX9 11263 OLEANDER AVE ",
+          "new_date": "2021-10-21",
+          "shipper_name": "HONG KONG BESTIME GROUP",
+          "container_id": "CMAU7443900"
+        },
+        "highlight": {
+          "product_desc": [
+            "STORAGE BOX <font color='red'>DOOR</font> <font color='red'>HANDLE</font> SHOWER CADDY BASKET <font color='red'>GLASS</font> CANISTERS WATERING BULBS WALL CLOCK SUCCULENT POT"
+          ]
+        },
+        "sort": [
+          1634774400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-Ln40M4624_L7I7Rds",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "48940, IZMIT",
+          "country": "FM, MICRONESIA",
+          "importer": "ANT YAPI NEW YORK LLC",
+          "notify_party_name": "N/A",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-20",
+          "hs_code": "830241",
+          "product_desc": "MARBLE , SIDE TABLE FOR DAYBED, <font color='red'>GLASS</font> <font color='red'>DOOR</font> , MARBLE STOOL, METAL <font color='red'>DOOR</font> <font color='red'>HANDLE</font>, ALUMINUM <font color='red'>DOOR</font> FRAME PIPING, LEATHER COATED<br/>",
+          "carrier_sasc_code": "TRKU",
+          "bill_of_lading": "TRKUFBL520080",
+          "shipper_address": "AKAT MAH HARE SOKAK NO:14 BESIKTAS ",
+          "quantity_unit": "CRT",
+          "consignee_address": "730 FIFTH AVE 57 TH STREET ",
+          "marks_numbers": "AND NUMBERS<br/>",
+          "quantity": "7.0",
+          "weight": "1501.0",
+          "vessel_name": "MELCHIOR SCHULTE",
+          "voyage": "2131W",
+          "measure_unit": "---",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-10-20",
+          "shipper_name": "MORE KONTRAT TASARIM VE INSAAT A S",
+          "container_id": "BSIU9479226"
+        },
+        "highlight": {
+          "product_desc": [
+            "MARBLE , SIDE TABLE FOR DAYBED, <font color='red'>GLASS</font> <font color='red'>DOOR</font> , MARBLE STOOL, METAL <font color='red'>DOOR</font> <font color='red'>HANDLE</font>, ALUMINUM <font color='red'>DOOR</font> FRAME PIPING, LEATHER COATED<br/>"
+          ]
+        },
+        "sort": [
+          1634688000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-Lo4Hh4624_L7I9oCy",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-04",
+          "hs_code": "851690",
+          "product_desc": "CF-RV17B, 17 RV RANGE OVEN,SS PANEL,BLACK KNOBS WITH SILVER RING.BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A05571",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "343.0",
+          "weight": "9500.0",
+          "vessel_name": "CMA CGM LYRA",
+          "voyage": "0TX9R",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-10-19",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "CMAU4473979"
+        },
+        "highlight": {
+          "product_desc": [
+            "CF-RV17B, 17 RV RANGE OVEN,SS PANEL,BLACK KNOBS WITH SILVER RING.BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>"
+          ]
+        },
+        "sort": [
+          1634601600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlJbP4624_L7IyQ8Q",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-10-04",
+          "hs_code": "851690",
+          "product_desc": "CF-RV17B, 17 RV RANGE OVEN,SS PANEL,BLACK KNOBS WITH SILVER RING.BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A05571",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "343.0",
+          "weight": "9500.0",
+          "vessel_name": "CMA CGM LYRA",
+          "voyage": "0TX9R",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-10-19",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "CMAU4473979"
+        },
+        "highlight": {
+          "product_desc": [
+            "CF-RV17B, 17 RV RANGE OVEN,SS PANEL,BLACK KNOBS WITH SILVER RING.BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>"
+          ]
+        },
+        "sort": [
+          1634601600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-Lo6c74624_L7I9rM4",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-04",
+          "hs_code": "321511",
+          "product_desc": "CF-RV17B,17 RV RANGE OVEN, SS PANEL,BLACK KNOBS WITH SILVER RING. BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITHSILKPRINT",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A05637",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "686.0",
+          "weight": "19000.0",
+          "vessel_name": "CMA CGM LYRA",
+          "voyage": "0TX9R",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-10-19",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "CMAU5647479,SEGU4618399"
+        },
+        "highlight": {
+          "product_desc": [
+            "CF-RV17B,17 RV RANGE OVEN, SS PANEL,BLACK KNOBS WITH SILVER RING. BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITHSILKPRINT",
+            " LOGO. SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>CF-RV17BB-D,17 RV RANGE OVEN(DIGITAL), BLACK <font color='red'>GLASS</font> PANEL,BLACK KNOBS",
+            " WITH SILVER RING.BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO.BL"
+          ]
+        },
+        "sort": [
+          1634601600000
+        ]
+      }
+    ]
+  }

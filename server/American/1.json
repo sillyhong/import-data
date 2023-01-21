@@ -1,0 +1,447 @@
+{
+  "total": 16111,
+  "max_score": null,
+  "hits": [
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-Lm-U24624_L7I4IkX",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "CAOSHI TRADE LTD",
+        "notify_party_name": "UQI SHIPPING INC",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-15",
+        "hs_code": "870899",
+        "product_desc": " INJECTOR RADIATOR FAN ASSEMBL Y <font color='red'>DOOR</font> <font color='red'>HANDLE</font> DRIVE SHAFT SUSP",
+        "carrier_sasc_code": "LFFV",
+        "bill_of_lading": "LFFVNGB11000837",
+        "shipper_address": " 2-4-48 326 QIANHU AVENUE DONG QIAN LAKE TOURIST RESORT NINGBO Z HEJIANG PROVINCE ",
+        "quantity_unit": "PKG",
+        "consignee_address": "170 S LINCOLN ST STE 150 SPOKANE WA99201 OVERSEAS@YDL-LOGISTICS COM I MPORT@UQISHIPPINGINC COM ",
+        "marks_numbers": "ORIAN USA MADE IN CHINA . . . . . . . . . .<br/>",
+        "quantity": "355.0",
+        "weight": "12367.0",
+        "vessel_name": "YM TOTALITY",
+        "voyage": "007E",
+        "measure_unit": "---",
+        "unloading_port": "2704, LOS ANGELES, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "21450 GOLDEN SPRINGS DR UNIT 220 DIAMOND BAR CA 91789 IMPORT@UQISHIPPINGINC COM EVA@UQISHIPPINGINC COM ",
+        "new_date": "2021-12-30",
+        "shipper_name": "NINGBO FANGHAO IMPORT & EXPORT CO LTD",
+        "container_id": "TCNU1057623"
+      },
+      "highlight": {
+        "product_desc": [
+          " INJECTOR RADIATOR FAN ASSEMBL Y <font color='red'>DOOR</font> <font color='red'>HANDLE</font> DRIVE SHAFT SUSP"
+        ]
+      },
+      "sort": [
+        1640822400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LmedT4624_L7I2eAU",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57035, SHANGHAI",
+        "country": "CN, CHINA",
+        "importer": "SHENYANG YEFU COMMERCE CO LTD",
+        "notify_party_name": "GOLDEN STATE FC LLC",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-15",
+        "hs_code": "830241",
+        "product_desc": "IRON <font color='red'>DOOR</font> LOCK IRON FLOOR GUIDE IRON <font color='red'>DOOR</font> <font color='red'>HANDLE</font> STAINLESS STEEL <font color='red'>DOOR</font> LOCK SET MAGNETIC PANELS FOR CAR GARAGE <font color='red'>DOOR</font> DECORATION IRON <font color='red'>DOOR</font> <font color='red'>HANDLE</font> SET<br/>",
+        "carrier_sasc_code": "AMZD",
+        "bill_of_lading": "AMZDCN219FA96AA7",
+        "shipper_address": " RM 1908 NO 115 BEIZHAN RD SHENHE ",
+        "quantity_unit": "CTN",
+        "consignee_address": " C/O F BA1568 N LINDEN AVE ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "204.0",
+        "weight": "3600.0",
+        "vessel_name": "NYK THEMIS",
+        "voyage": "0077E",
+        "measure_unit": "---",
+        "unloading_port": "2704, LOS ANGELES, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "1568 N LINDEN AVE ",
+        "new_date": "2021-12-30",
+        "shipper_name": "SHENYANG YEFU COMMERCE CO LTD",
+        "container_id": "TCNU4546546"
+      },
+      "highlight": {
+        "product_desc": [
+          "IRON <font color='red'>DOOR</font> LOCK IRON FLOOR GUIDE IRON <font color='red'>DOOR</font> <font color='red'>HANDLE</font> STAINLESS STEEL <font color='red'>DOOR</font> LOCK SET MAGNETIC PANELS FOR CAR GARAGE <font color='red'>DOOR</font> DECORATION IRON <font color='red'>DOOR</font> <font color='red'>HANDLE</font> SET<br/>"
+        ]
+      },
+      "sort": [
+        1640822400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LmesS4624_L7I2fAG",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "23645, SOUTH RIDING POINT",
+        "country": "TR, TURKEY",
+        "importer": "INDUSTRIAS ACROS WHIRPOOL S DE RL",
+        "notify_party_name": "INDUSTRIAS ACROS WHIRPOOL S DE RL",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-24",
+        "hs_code": "841899",
+        "product_desc": "REFRIGERATOR <font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>",
+        "carrier_sasc_code": "PUSJ",
+        "bill_of_lading": "PUSJISTATML00557",
+        "shipper_address": "1 ORGANIZE SANAYI BOLGESI 1 NOLU YOL NO 13 ADAPZARI",
+        "quantity_unit": "CAS",
+        "consignee_address": "ANTIGUA CARRETERA A ROMA KM9 COL EL MILAGRO APODACA NUEVO LEON ",
+        "marks_numbers": "ACROS WHIRPOOL<br/>",
+        "quantity": "31.0",
+        "weight": "8406.0",
+        "vessel_name": "METHONI",
+        "voyage": "147W",
+        "measure_unit": "---",
+        "unloading_port": "5201, MIAMI, FL",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "ANTIGUA CARRETERA A ROMA KM9 COL EL MILAGRO APODACA NUEVO LEON ",
+        "new_date": "2021-12-30",
+        "shipper_name": "AMRA FILTRE SISTEMLERI SAN VE TIC AS",
+        "container_id": "FCIU5766848"
+      },
+      "highlight": {
+        "product_desc": [
+          "REFRIGERATOR <font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>"
+        ]
+      },
+      "sort": [
+        1640822400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LnArj4624_L7I4TcX",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "GAATU INC",
+        "notify_party_name": "GOLDEN STATE FC LLC",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-28",
+        "hs_code": "840991",
+        "product_desc": "STRIP LIGHT VEHICLE <font color='red'>DOOR</font> <font color='red'>HANDLE</font> CYLINDER LINER IGNITION COIL SPARK PLUGS RUBBER BLANKET IRON RING",
+        "carrier_sasc_code": "AMZD",
+        "bill_of_lading": "AMZDCN21CBEF4CD1",
+        "shipper_address": " D3F BLOCK 8 JINFANGHUA E-COMMERCE INDUSTRIAL PARK XINHE STREET 2# HEB ",
+        "quantity_unit": "CTN",
+        "consignee_address": "890 HILLVIEW COURT SUITE 260 MILPI TAS ",
+        "marks_numbers": "FBA<br/>",
+        "quantity": "986.0",
+        "weight": "11632.0",
+        "vessel_name": "ZHONG AN XIN HUA YUAN",
+        "voyage": "146E",
+        "measure_unit": "---",
+        "unloading_port": "1401, NORFOLK, VA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "24300 NANDINA AVE ",
+        "new_date": "2021-12-30",
+        "shipper_name": "SHENZHEN JOOTOP TECHNOLOGIES CO LT",
+        "container_id": "SUDU8854200"
+      },
+      "highlight": {
+        "product_desc": [
+          "STRIP LIGHT VEHICLE <font color='red'>DOOR</font> <font color='red'>HANDLE</font> CYLINDER LINER IGNITION COIL SPARK PLUGS RUBBER BLANKET IRON RING"
+        ]
+      },
+      "sort": [
+        1640822400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LnBYq4624_L7I4W96",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*906*802",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "AMERICAN",
+        "notify_party_name": "MASTERPIECE INT T L",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-15",
+        "hs_code": "960321",
+        "product_desc": "PLATE,<font color='red'>DOOR</font> STOP, PLATE AND <font color='red'>HANDLE</font><br/>",
+        "carrier_sasc_code": "EFSV, EXPEDITED FREIGHT SERVICE INC",
+        "bill_of_lading": "EFSVMZM477200D",
+        "shipper_address": " 189 CHUNYUAN ROAD YINZHOU CENTKE NINGBO CHINA ",
+        "quantity_unit": "CTN",
+        "consignee_address": "8360 ELDER CREEK RD SACRAMENTO CA 95828 USA ",
+        "marks_numbers": "ABS PO NO: MODEL NO: QTY: C/T NO: PRODUCTION DATE: MADE IN CHINA<br/>",
+        "quantity": "54.0",
+        "weight": "1206.0",
+        "vessel_name": "CAP SAN VINCENT",
+        "voyage": "2105E",
+        "measure_unit": "CM",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "10",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "400 OYSTER POINT BLVD SUITE 410 SOUTH SAN FRANCISCO CA 94080 USA",
+        "new_date": "2021-12-30",
+        "shipper_name": "NINGBO TONGYI METALWORK CO LTD",
+        "container_id": "SMCU7022363"
+      },
+      "highlight": {
+        "product_desc": [
+          "PLATE,<font color='red'>DOOR</font> STOP, PLATE AND <font color='red'>HANDLE</font><br/>"
+        ]
+      },
+      "sort": [
+        1640822400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LnBRe4624_L7I4WRu",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "PRIME LINE PRODUCTS",
+        "notify_party_name": "PRIME LINE PRODUCTS",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-15",
+        "hs_code": "830241",
+        "product_desc": "<font color='red'>DOOR</font> REINFORCER SLIDING <font color='red'>DOOR</font> <font color='red'>HANDLE</font> HS CODE:830241 THIS SHIPMENT CONTAINS NO WOOD PACKING MATERIALS<br/>",
+        "carrier_sasc_code": "HNLT",
+        "bill_of_lading": "HNLTSZ21A33047",
+        "shipper_address": "TD NO 342 YONG MING RD DALI DIST TAICHUNG CITY TAIWAN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "26950 SAN BERNARDINO AVE REDLANDS CA 92374 USA ",
+        "marks_numbers": "BOX ___OF ___ P.O.<br/>",
+        "quantity": "1716.0",
+        "weight": "12285.0",
+        "vessel_name": "MSC AURIGA",
+        "voyage": "145A",
+        "measure_unit": "X",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "26950 SAN BERNARDINO AVE REDLANDS CA 92374 USA",
+        "new_date": "2021-12-30",
+        "shipper_name": "PROSPERITY INC",
+        "container_id": "BMOU5931820"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>DOOR</font> REINFORCER SLIDING <font color='red'>DOOR</font> <font color='red'>HANDLE</font> HS CODE:830241 THIS SHIPMENT CONTAINS NO WOOD PACKING MATERIALS<br/>"
+        ]
+      },
+      "sort": [
+        1640822400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LmesS4624_L7I2fAu",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "23645, SOUTH RIDING POINT",
+        "country": "TR, TURKEY",
+        "importer": "INDUSTRIAS ACROS WHIRPOOL S DE RL",
+        "notify_party_name": "INDUSTRIAS ACROS WHIRPOOL S DE RL",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-24",
+        "hs_code": "841899",
+        "product_desc": "REFRIGERATOR <font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>",
+        "carrier_sasc_code": "PUSJ",
+        "bill_of_lading": "PUSJISTATML00539",
+        "shipper_address": "1 ORGANIZE SANAYI BOLGESI 1 NOLU YOL NO 13 ADAPZARI",
+        "quantity_unit": "CAS",
+        "consignee_address": "ANTIGUA CARRETERA A ROMA KM9 COL EL MILAGRO APODACA NUEVO LEON ",
+        "marks_numbers": "ACROS WHIRPOOL<br/>",
+        "quantity": "55.0",
+        "weight": "13866.0",
+        "vessel_name": "METHONI",
+        "voyage": "147W",
+        "measure_unit": "---",
+        "unloading_port": "5201, MIAMI, FL",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "ANTIGUA CARRETERA A ROMA KM9 COL EL MILAGRO APODACA NUEVO LEON ",
+        "new_date": "2021-12-30",
+        "shipper_name": "AMRA FILTRE SISTEMLERI SAN VE TIC AS",
+        "container_id": "MSCU5241331"
+      },
+      "highlight": {
+        "product_desc": [
+          "REFRIGERATOR <font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>"
+        ]
+      },
+      "sort": [
+        1640822400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-Lmi6N4624_L7I2hJK",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57018, SHEKOU",
+        "country": "CN, CHINA",
+        "importer": "SPECTRUM BRANDS INC",
+        "notify_party_name": "N/A",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-15",
+        "hs_code": "830241",
+        "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> PART HTS #8302410000 PO NO. B100534 ITEM NO. 5068.039.IMR15 2 PLTS STC 126 CTNS . T 949",
+        "carrier_sasc_code": "BANQ, KUEHNE & NAGEL INC.",
+        "bill_of_lading": "BANQSZX1900081",
+        "shipper_address": " 106BUILDING A5 YONGJING GARDEN EASTERN DISTRICT GUANGDONG ZHONGSHAN CN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "DBA KWIKSET 19701 DA VINCI LAKE FOREST CA 92610 US ",
+        "marks_numbers": "ITEM NO. 5068.039. IMR15<br/>",
+        "quantity": "126.0",
+        "weight": "1771.0",
+        "vessel_name": "MSC TAMPICO",
+        "voyage": "UU148",
+        "measure_unit": "X",
+        "unloading_port": "2704, LOS ANGELES, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "N/A",
+        "new_date": "2021-12-30",
+        "shipper_name": "ZHONG SHAN JUFENG TRADE CO LTD",
+        "container_id": "MSMU5252721"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> PART HTS #8302410000 PO NO. B100534 ITEM NO. 5068.039.IMR15 2 PLTS STC 126 CTNS . T 949"
+        ]
+      },
+      "sort": [
+        1640822400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-Lm-JS4624_L7I4HoP",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "LIGHT WISDOM INC",
+        "notify_party_name": "TRANS WORLD FREIGHT SYSTEM CORP",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-15",
+        "hs_code": "854720",
+        "product_desc": "HOSE PLASTIC HOSE WITH FITTINGS PLASTIC PIPESPLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PLASTIC CAR CUP HOLDER C AR ASHTRAY BUSHING PLASTIC<br/>",
+        "carrier_sasc_code": "ONPL",
+        "bill_of_lading": "ONPLSZLGB21A0091",
+        "shipper_address": " ROOM 1302 CHAPTER HOUSE 84 86 DES VOEUX ROAD CENTRAL CENTRAL HONG KONG ",
+        "quantity_unit": "CTN",
+        "consignee_address": "6547 N ACADEMY BLVD 2266 CO 80918 COLORADO SPRINGS ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "1302.0",
+        "weight": "16336.0",
+        "vessel_name": "ONE SWAN",
+        "voyage": "018E",
+        "measure_unit": "---",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "145 02 156TH STREET 2FL JAMAICA NY 11434 ",
+        "new_date": "2021-12-30",
+        "shipper_name": "LIGHT SUNSHINE LIMITED",
+        "container_id": "RFCU5097901"
+      },
+      "highlight": {
+        "product_desc": [
+          "HOSE PLASTIC HOSE WITH FITTINGS PLASTIC PIPESPLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PLASTIC CAR CUP HOLDER C AR ASHTRAY BUSHING PLASTIC<br/>"
+        ]
+      },
+      "sort": [
+        1640822400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LnD_N4624_L7I4gWh",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "DILLON & DARIA S DESIGN LLC",
+        "notify_party_name": "DILLON & DARIA S DESIGN LLC",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-20",
+        "hs_code": "392210",
+        "product_desc": "TELESCOPING SHOWER CURTAIN ROD TELESCOPING CURTAIN ROD SHOWER HOOKS <font color='red'>DOOR</font> <font color='red'>HANDLE</font> ALUMINUM CABINET",
+        "carrier_sasc_code": "COHE, COHO TRANSPORT",
+        "bill_of_lading": "COHECSZ21017548",
+        "shipper_address": "UNIT D 3/F BOLD WIN INDUSTRRIAL B LDG 16-18 WAH SING STREET KWAI CHUNG N T ",
+        "quantity_unit": "CTN",
+        "consignee_address": "56 WESTWOODS BLVD ",
+        "marks_numbers": "UTOPIA ALLEY-HOCKESSIN,DE P.O.#: DESC: PC/ CTN DESIGN/ENGINEERED IN US-MADE IN CHINA N .W.=KGS G.W.=KGS SIZE=CUFT MEAS.=INCH<br/>",
+        "quantity": "1309.0",
+        "weight": "9223.0",
+        "vessel_name": "CMA CGM ALEXANDER VON H",
+        "voyage": "0TULL",
+        "measure_unit": "CM",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "56 WESTWOODS BLVD ",
+        "new_date": "2021-12-29",
+        "shipper_name": "CREATIVE SOLUTIONS HOLDING COMPANY",
+        "container_id": "TCKU7833289"
+      },
+      "highlight": {
+        "product_desc": [
+          "TELESCOPING SHOWER CURTAIN ROD TELESCOPING CURTAIN ROD SHOWER HOOKS <font color='red'>DOOR</font> <font color='red'>HANDLE</font> ALUMINUM CABINET"
+        ]
+      },
+      "sort": [
+        1640736000000
+      ]
+    }
+  ],
+  "url": "countrys=imiker_us&from_time=2017-01-01&to_time=2022-01-04&product_desc=door+handles&importer=&shipper_name=&country="
+}

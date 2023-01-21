@@ -1,0 +1,446 @@
+{
+    "total": 13229,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Ln9FC4624_L7I7cIq",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57069, XIAMEN",
+          "country": "CN, CHINA",
+          "importer": "FEIDA HOME CENTER CORP",
+          "notify_party_name": "FEIDA HOME CENTER CORP",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-15",
+          "hs_code": "830241",
+          "product_desc": "SHOWN ROOM/METAL <font color='red'>DOOR</font>/PU LINE/LOCK/WATERPROOF STRIP/SHOWER TRAY/BIT/HARDWARE ACCESSORIES/CERAMIC BASIN/HINGE/FAUCET/<font color='red'>HANDLE</font>/LAUNCHING DEVICE<br/>",
+          "carrier_sasc_code": "AMAW",
+          "bill_of_lading": "AMAWA2109370217",
+          "shipper_address": " 6/F AITEFO BUILDING JINSHAN ROAD BO ZONE FUZHOU CHINA FUZHOU ",
+          "quantity_unit": "CTN",
+          "consignee_address": "2718 COLLEGE POINT BLVD FLUSHING NY UNITED STATES 11354 ",
+          "marks_numbers": "AS ADDRESSED<br/>",
+          "quantity": "681.0",
+          "weight": "26720.0",
+          "vessel_name": "COSCO SHIPPING CAMELLIA",
+          "voyage": "0UPAL",
+          "measure_unit": "CM",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "2718 COLLEGE POINT BLVD FLUSHING NY UNITED STATES 11354 ",
+          "new_date": "2021-12-19",
+          "shipper_name": "FUZHOU SISS IMPORT & EXPORT CO LTD",
+          "container_id": "CAAU6337662"
+        },
+        "highlight": {
+          "product_desc": [
+            "SHOWN ROOM/METAL <font color='red'>DOOR</font>/PU LINE/LOCK/WATERPROOF STRIP/SHOWER TRAY/BIT/HARDWARE ACCESSORIES/CERAMIC BASIN/HINGE/FAUCET/<font color='red'>HANDLE</font>/LAUNCHING DEVICE<br/>"
+          ]
+        },
+        "sort": [
+          1639872000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LneEK4624_L7I6Lct",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58309, KAO HSIUNG",
+          "country": "TW, TAIWAN",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-04",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> & WINDOW REGULATOR & CABLE<br/>",
+          "carrier_sasc_code": "EXDO, EXPEDITORS INTERNATIONAL",
+          "bill_of_lading": "EXDO6810824186",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "B.S.C. (IN OVAL.) DANVILLE C/NO: MADE IN TAIWAN R.O.C.<br/>",
+          "quantity": "219.0",
+          "weight": "3187.0",
+          "vessel_name": "ONE MINATO",
+          "voyage": "015E",
+          "measure_unit": "CM",
+          "unloading_port": "1401, NORFOLK, VA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-19",
+          "shipper_name": "N/A",
+          "container_id": "TLLU8173971"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> & WINDOW REGULATOR & CABLE<br/>"
+          ]
+        },
+        "sort": [
+          1639872000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LnfAR4624_L7I6QDd",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "GREY GOAT SUPPLY LTD",
+          "notify_party_name": "GREY GOAT SUPPLY LTD",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-07",
+          "hs_code": "392210",
+          "product_desc": "SHOWER HINGES <font color='red'>HANDLES</font> GLASS CLAMPS SHOWER <font color='red'>DOOR</font> SET STAND-OFF<br/>",
+          "carrier_sasc_code": "CHKM, CHEROKEE MILLING COMPANY INC",
+          "bill_of_lading": "CHKMGTRT21100177",
+          "shipper_address": "FACTORY ADD: NO 38-2 HAITANWEI INDUSTRIAL ESTATE ZHOUJUN VILLAGE JIANGMEN GUANGDONG CHINA JIANGMEN CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "71 STRADADR UNIT #6 WOODBRIDGE ON L4L 5V9 CANADA MICHAEL TORONTO ON L4L5V9 CA ",
+          "marks_numbers": "GGS<br/>",
+          "quantity": "826.0",
+          "weight": "12284.0",
+          "vessel_name": "YM TRUTH",
+          "voyage": "007E",
+          "measure_unit": "X",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "71 STRADADR UNIT #6 WOODBRIDGE ON L4L 5V9 CANADA MICHAEL TORONTO ON L4L5V9 CA ",
+          "new_date": "2021-12-18",
+          "shipper_name": "PROWIN HARDWARE CO LTD",
+          "container_id": "CPSU6464995"
+        },
+        "highlight": {
+          "product_desc": [
+            "SHOWER HINGES <font color='red'>HANDLES</font> GLASS CLAMPS SHOWER <font color='red'>DOOR</font> SET STAND-OFF<br/>"
+          ]
+        },
+        "sort": [
+          1639785600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Lnfa-4624_L7I6SCO",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "SHENYANG YEFU COMMERCE CO LTD",
+          "notify_party_name": "GOLDEN STATE FC LLC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-05",
+          "hs_code": "830241",
+          "product_desc": "BARN <font color='red'>DOOR</font> HARDWARE IRON FLOOR GUIDE STAINLESS STEEL <font color='red'>DOOR</font> LOCK SET IRON <font color='red'>DOOR</font> <font color='red'>HANDLE</font> SET<br/>",
+          "carrier_sasc_code": "AMZD",
+          "bill_of_lading": "AMZDCN215E90CCCE",
+          "shipper_address": " RM 1908 NO 115 BEIZHAN RD SHENHE ",
+          "quantity_unit": "CTN",
+          "consignee_address": " C/O F BA12300 BERMUDA ROAD ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "158.0",
+          "weight": "2797.0",
+          "vessel_name": "PRESIDENT CLEVELAND",
+          "voyage": "0DBBH",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "12300 BERMUDA ROAD ",
+          "new_date": "2021-12-18",
+          "shipper_name": "SHENYANG YEFU COMMERCE CO LTD",
+          "container_id": "BEAU4116655"
+        },
+        "highlight": {
+          "product_desc": [
+            "BARN <font color='red'>DOOR</font> HARDWARE IRON FLOOR GUIDE STAINLESS STEEL <font color='red'>DOOR</font> LOCK SET IRON <font color='red'>DOOR</font> <font color='red'>HANDLE</font> SET<br/>"
+          ]
+        },
+        "sort": [
+          1639785600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmY0q4624_L7I2KA9",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*800*800",
+          "loading_port": "58023, PUSAN",
+          "country": "KR, REPUBLIC OF KOREA",
+          "importer": "KYLE VOYTKO",
+          "notify_party_name": "B&H INTERNATIONAL TRADE CO LTD",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-10",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>",
+          "carrier_sasc_code": "JCSM",
+          "bill_of_lading": "JCSM280110106661",
+          "shipper_address": " NO 348 JIUGAN RD JIUTING TOWN SONGJIANG DIST SHANGHAI CHINA SHANGHAI SH 247200 CN ",
+          "quantity_unit": "PCS",
+          "consignee_address": "30 KNOLLCREST CT NORMAL IL 61761 US ",
+          "marks_numbers": "21416<br/>",
+          "quantity": "1.0",
+          "weight": "18.0",
+          "vessel_name": "PRESIDENT CLEVELAND",
+          "voyage": "0DBBI",
+          "measure_unit": "CF",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": " XINHAI SUN 333 S GILPIN ST DENVER CO 80209 US ",
+          "new_date": "2021-12-18",
+          "shipper_name": "SHANGHAI QINGXING TRADE CO LTD",
+          "container_id": "CMAU8805330"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>"
+          ]
+        },
+        "sort": [
+          1639785600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Lnf7G4624_L7I6Upk",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "58309, KAO HSIUNG",
+          "country": "TW, TAIWAN",
+          "importer": "IMT MODULAR PARTITIONS L T D",
+          "notify_party_name": "IMT MODULAR PARTITIONS L T D",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-15",
+          "hs_code": "830241",
+          "product_desc": "<font color='red'>DOOR</font> PARTS (GLASS PATCH FITTING LOCK WITH <font color='red'>HANDLE</font> ANGLE ADGUST 75CTNS(3PALLET) HS CODE: 83 02.41<br/>",
+          "carrier_sasc_code": "PSLA",
+          "bill_of_lading": "PSLAM21112083TRT",
+          "shipper_address": "12F -1 NO 666 SEC 2 WU CHUAN WEST ROAD TAICHUNG TAIWAN R O C ",
+          "quantity_unit": "CTN",
+          "consignee_address": "40 PENN DRIVE TORONTO ON M9L 2A9 CANADA TEL: 416-7434513",
+          "marks_numbers": "P.O. D202108-26 TORONTO C/NO.1A-39A, 1-13,1C-23C MADE IN TAIWAN<br/>",
+          "quantity": "75.0",
+          "weight": "1296.0",
+          "vessel_name": "OOCL VANCOUVER",
+          "voyage": "128E",
+          "measure_unit": "CM",
+          "unloading_port": "3001, SEATTLE, WA",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "40 PENN DRIVE TORONTO ON M9L 2A9 CANADA TEL: 416-7434513",
+          "new_date": "2021-12-18",
+          "shipper_name": "DOOR & WINDOW HARDWARE CO",
+          "container_id": "FFAU3333440"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> PARTS (GLASS PATCH FITTING LOCK WITH <font color='red'>HANDLE</font> ANGLE ADGUST 75CTNS(3PALLET) HS CODE: 83 02.41<br/>"
+          ]
+        },
+        "sort": [
+          1639785600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmY044624_L7I2KBp",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*800*800",
+          "loading_port": "58023, PUSAN",
+          "country": "KR, REPUBLIC OF KOREA",
+          "importer": "READ GUCKENBERG",
+          "notify_party_name": "B&H INTERNATIONAL TRADE CO LTD",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-10",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>",
+          "carrier_sasc_code": "JCSM",
+          "bill_of_lading": "JCSM280110107028",
+          "shipper_address": " NO 348 JIUGAN RD JIUTING TOWN SONGJIANG DIST SHANGHAI CHINA SHANGHAI SH 247200 CN ",
+          "quantity_unit": "PCS",
+          "consignee_address": "1029 MISSOULA AVE BUTTE MT 59701 US",
+          "marks_numbers": "21783<br/>",
+          "quantity": "1.0",
+          "weight": "20.0",
+          "vessel_name": "PRESIDENT CLEVELAND",
+          "voyage": "0DBBI",
+          "measure_unit": "CF",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": " XINHAI SUN 333 S GILPIN ST DENVER CO 80209 US ",
+          "new_date": "2021-12-18",
+          "shipper_name": "SHANGHAI QINGXING TRADE CO LTD",
+          "container_id": "CMAU8805330"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>"
+          ]
+        },
+        "sort": [
+          1639785600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LngDX4624_L7I6VRm",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*802",
+          "loading_port": "47031, ALGECIRAS",
+          "country": "TR, TURKEY",
+          "importer": "ELECTROLUX HOME PRODUCTS INC",
+          "notify_party_name": "DHL GLOBAL FORWARDING",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-18",
+          "hs_code": "851690",
+          "product_desc": "OVEN <font color='red'>DOOR</font> <font color='red'>HANDLE</font> HS CODE: 8 51690000019 SHIPPER- TEL:+9 02642769010 , FAX:+90264276 9012, TAXID",
+          "carrier_sasc_code": "MAEU, MAERSK LINES, INC.",
+          "bill_of_lading": "MAEU608766334",
+          "shipper_address": "TICARET A S 1 ORGANIZE SAN BOLG 1 NOLU YOL HANLI NO:13 ADAPAZARI SAKARYA 54060 ",
+          "quantity_unit": "PKG",
+          "consignee_address": "1100 INDUSTRIAL DR SPRINGFIELD TN 37172 UNITED STATES +18472334574 ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "468.0",
+          "weight": "13240.0",
+          "vessel_name": "MAERSK DETROIT",
+          "voyage": "145W",
+          "measure_unit": "CM",
+          "unloading_port": "1703, SAVANNAH, GA",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "LB",
+          "notify_party_address": "4925 SIRONA DRIVE SUITE 300 CHARLOTTE NC 28273 UNITED STATES +01 704 5876036",
+          "new_date": "2021-12-18",
+          "shipper_name": "ARMA FILTRE SISTEMLERI SANAYI VE",
+          "container_id": "MSKU3642571"
+        },
+        "highlight": {
+          "product_desc": [
+            "OVEN <font color='red'>DOOR</font> <font color='red'>HANDLE</font> HS CODE: 8 51690000019 SHIPPER- TEL:+9 02642769010 , FAX:+90264276 9012, TAXID"
+          ]
+        },
+        "sort": [
+          1639785600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LngG74624_L7I6Vd-",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-03",
+          "hs_code": "732190",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> ROSETTE & PLATE DOORLOCK PARTS IN.<br/>",
+          "carrier_sasc_code": "SFOK",
+          "bill_of_lading": "SFOKNGB21120148",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "V 21TN0251165B EMTEK LOS ANGELES NO.<br/>",
+          "quantity": "636.0",
+          "weight": "10866.0",
+          "vessel_name": "YM TARGET",
+          "voyage": "005E",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-18",
+          "shipper_name": "N/A",
+          "container_id": "BEAU2281537"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> ROSETTE & PLATE DOORLOCK PARTS IN.<br/>"
+          ]
+        },
+        "sort": [
+          1639785600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Lmc724624_L7I2bVc",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58301, CHI LUNG",
+          "country": "TW, TAIWAN",
+          "importer": "SUNCAST CORP",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-03",
+          "hs_code": "731829",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> PIN 2PLTS 74CTNS HS CODE 731829<br/>",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL375997123TPE",
+          "shipper_address": "L NO 27 LANE 187 CYONGLIN S RD XINZHUANG DIST ",
+          "quantity_unit": "PKG",
+          "consignee_address": " 701 NORTH KIRK ROAD BATAVIA IL 6051PHONE 630-879-2050 ",
+          "marks_numbers": "SUNCAST CORPORATION C NO. MADE IN TAIWAN R.O.C.<br/>",
+          "quantity": "74.0",
+          "weight": "1092.0",
+          "vessel_name": "YM UNIFORM",
+          "voyage": "221E",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-18",
+          "shipper_name": "WEH SHENG PRECISION INDUSTRIAL CO",
+          "container_id": "SEKU4403841"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> PIN 2PLTS 74CTNS HS CODE 731829<br/>"
+          ]
+        },
+        "sort": [
+          1639785600000
+        ]
+      }
+    ]
+  }

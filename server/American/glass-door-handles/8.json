@@ -1,0 +1,460 @@
+{
+    "total": 1168,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlJu04624_L7IySae",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-10-04",
+          "hs_code": "321511",
+          "product_desc": "CF-RV17B,17 RV RANGE OVEN, SS PANEL,BLACK KNOBS WITH SILVER RING. BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITHSILKPRINT",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A05637",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "686.0",
+          "weight": "19000.0",
+          "vessel_name": "CMA CGM LYRA",
+          "voyage": "0TX9R",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-10-19",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "CMAU5647479,SEGU4618399"
+        },
+        "highlight": {
+          "product_desc": [
+            "CF-RV17B,17 RV RANGE OVEN, SS PANEL,BLACK KNOBS WITH SILVER RING. BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITHSILKPRINT",
+            " LOGO. SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>CF-RV17BB-D,17 RV RANGE OVEN(DIGITAL), BLACK <font color='red'>GLASS</font> PANEL,BLACK KNOBS",
+            " WITH SILVER RING.BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO.BL"
+          ]
+        },
+        "sort": [
+          1634601600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-LqNIR4624_L7I_Gtp",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "MARY KASTNER PMK INTERNATIONAL LLC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-19",
+          "hs_code": "392490",
+          "product_desc": "FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED <font color='red'>GLASS</font>",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV142103385322",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "PO#40695 PO#40695 THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME<br/>",
+          "quantity": "1250.0",
+          "weight": "11782.0",
+          "vessel_name": "EVER LIVELY",
+          "voyage": "0979A",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "1107 SW GRADY WAY BLDG B STE 120 RENTON WA 98057 PH#206-439-1863 FX#206-241-9989 ",
+          "new_date": "2021-10-19",
+          "shipper_name": "N/A",
+          "container_id": "EISU8204459"
+        },
+        "highlight": {
+          "product_desc": [
+            "FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED <font color='red'>GLASS</font>",
+            " PARTS INCLUDE ROLLERS,GUIDE MECHANISMS,<font color='red'>HANDLES</font> AND PLASTIC"
+          ]
+        },
+        "sort": [
+          1634601600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-Lq02e4624_L7I_6by",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-04",
+          "hs_code": "851690",
+          "product_desc": "CF-RV21,21 RV RANGE OVEN, SS PANEL,BLACK KNOBS WITH SILVER RING. BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITHSS FRAME AND",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A05645",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "1048.0",
+          "weight": "31820.0",
+          "vessel_name": "CMA CGM LYRA",
+          "voyage": "0TX9R",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-10-19",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "TCKU7903811,CAIU9135668,CMAU7681620,INKU6318541"
+        },
+        "highlight": {
+          "product_desc": [
+            "CF-RV21,21 RV RANGE OVEN, SS PANEL,BLACK KNOBS WITH SILVER RING. BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITHSS FRAME AND",
+            " SILVER RING BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO. SILKPRIN",
+            " SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>CF-RV17BB,17 RV RANGE OVEN, BLACK PANEL,BLACKKNOBS WITH"
+          ]
+        },
+        "sort": [
+          1634601600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlKJZ4624_L7IyUaJ",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-10-04",
+          "hs_code": "851690",
+          "product_desc": "CF-RV21,21 RV RANGE OVEN, SS PANEL,BLACK KNOBS WITH SILVER RING. BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITHSS FRAME AND",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A05645",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "1048.0",
+          "weight": "31820.0",
+          "vessel_name": "CMA CGM LYRA",
+          "voyage": "0TX9R",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-10-19",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "TCKU7903811,CAIU9135668,CMAU7681620,INKU6318541"
+        },
+        "highlight": {
+          "product_desc": [
+            "CF-RV21,21 RV RANGE OVEN, SS PANEL,BLACK KNOBS WITH SILVER RING. BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITHSS FRAME AND",
+            " SILVER RING BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO. SILKPRIN",
+            " SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>CF-RV17BB,17 RV RANGE OVEN, BLACK PANEL,BLACKKNOBS WITH"
+          ]
+        },
+        "sort": [
+          1634601600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-LlMyH4624_L7IyhZ7",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,2000*806*800",
+          "loading_port": "58309, KAO HSIUNG",
+          "country": "TW, TAIWAN",
+          "importer": "N/A",
+          "notify_party_name": "EXPEDITORS INTERNATIONAL OF WASHING",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-07",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font>, WINDOW REGULATOR FUEL TANK STRAP VEHICLE SPEED SENSOR, CAMSHAFT POSITION SENSOR <font color='red'>DOOR</font>",
+          "carrier_sasc_code": "OOLU, ORIENT OVERSEAS CONTAINER LINE INC",
+          "bill_of_lading": "OOLU2125287410",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "DORMAN PRODUCTS WARSAW, KY SHIPMENT# 210818 CODE: 102505 C/NO. W01-W49 MADE IN TAIWAN DORMAN OH (IN TRI.) PO#4510243352 VENDOR CODE: 53052 COUNTRY OF ORIGIN : TAIWAN PACKING STATEMENT : SHIPPER STATES THAT THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATE",
+          "quantity": "1451.0",
+          "weight": "11437.0",
+          "vessel_name": "COSCO PORTUGAL",
+          "voyage": "046E",
+          "measure_unit": "CM",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "519 KAISER DR SUITE A FOLCROFT PA UNITED STATES",
+          "new_date": "2021-10-14",
+          "shipper_name": "N/A",
+          "container_id": "TGHU6853306,FCIU5912562"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font>, WINDOW REGULATOR FUEL TANK STRAP VEHICLE SPEED SENSOR, CAMSHAFT POSITION SENSOR <font color='red'>DOOR</font>",
+            " <font color='red'>HANDLE</font> AUTO SPARE PARTS, BRAKE MASTER CYLINDER BLOWER RESISTOR, HARNESS, PIGTAIL MIRROR, MIRROR PLATE, MIRROR, <font color='red'>GLASS</font>, TENSIONER,<br/>AUTOMOTIVE PARTS AND ACC"
+          ]
+        },
+        "sort": [
+          1634169600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-Lt58v4624_L7IDuls",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "35177, SAO PAULO",
+          "country": "DE, GERMANY",
+          "importer": "QUINCAILLERIE RICHELIEULTEE",
+          "notify_party_name": "QUINCAILLERIE RICHELIEULTEE",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-05",
+          "hs_code": "830140",
+          "product_desc": "ZAMAC SLIDING <font color='red'>DOOR</font> SYSTEMS AND DAMPERS; ALUMINIUM <font color='red'>HANDLES</font> FOR WOOD OR <font color='red'>GLASS</font> DOORS<br/>",
+          "carrier_sasc_code": "SHPT, SHIPCO TRANSPORT",
+          "bill_of_lading": "SHPTSS0821SP8407",
+          "shipper_address": " RODOVIA BR 470 KM 174 5 4075 VERANPOLIS RS 95330000 BR ",
+          "quantity_unit": "BOX",
+          "consignee_address": "7900 HENRI-BOURASSA WEST SUITE 200 MONTREAL QU H4S1V4 CA",
+          "marks_numbers": "ROMETAL 01 38<br/>",
+          "quantity": "38.0",
+          "weight": "343.0",
+          "vessel_name": "MSC TAVVISHI",
+          "voyage": "6N",
+          "measure_unit": "CM",
+          "unloading_port": "1001, NEW YORK, NY",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "7900 HENRI-BOURASSA WEST SUITE 200 MONTREAL QU H4S1V4 CA",
+          "new_date": "2021-10-13",
+          "shipper_name": "ROMETAL COMP PARA MOVEIS LTDA",
+          "container_id": "JXLU7814694"
+        },
+        "highlight": {
+          "product_desc": [
+            "ZAMAC SLIDING <font color='red'>DOOR</font> SYSTEMS AND DAMPERS; ALUMINIUM <font color='red'>HANDLES</font> FOR WOOD OR <font color='red'>GLASS</font> DOORS<br/>"
+          ]
+        },
+        "sort": [
+          1634083200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-LpEeH4624_L7I94FX",
+        "_score": null,
+        "_source": {
+          "container_size": "4500*906*800",
+          "loading_port": "57000, HULUTAO",
+          "country": "CN, CHINA",
+          "importer": "FRAMELESS HARDWARE COMPANY INC",
+          "notify_party_name": "SWIFT CARGO INC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-09-24",
+          "hs_code": "830250",
+          "product_desc": "256 CARTONS = 6 PALLETS <font color='red'>HANDLE</font> HS CODE: 8302500000, SHOWER <font color='red'>DOOR</font> SLIDER KIT HS CODE: 8302419045",
+          "carrier_sasc_code": "CHKM, CHEROKEE MILLING COMPANY INC",
+          "bill_of_lading": "CHKMJMLAX2108006",
+          "shipper_address": " #1 8TH STREET CHANGLONG INDUSTRIAL ZONE SIJIU TOWN TAISHAN CTIY GUANGDONG CHINA CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": " 4361 FIRESTONE BLVD SOUTH GATE CA 90280 ",
+          "marks_numbers": "FHC<br/>",
+          "quantity": "256.0",
+          "weight": "2929.0",
+          "vessel_name": "ONE OWL",
+          "voyage": "0017E",
+          "measure_unit": "X",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "16700 VALLEY VIEW AVE SUITE 162 LA MIRADA CA 90638 US ",
+          "new_date": "2021-10-09",
+          "shipper_name": "LEADER HARDWARE MANUFACTURER LIMITED",
+          "container_id": "HMMU9021597"
+        },
+        "highlight": {
+          "product_desc": [
+            "256 CARTONS = 6 PALLETS <font color='red'>HANDLE</font> HS CODE: 8302500000, SHOWER <font color='red'>DOOR</font> SLIDER KIT HS CODE: 8302419045",
+            ", BRACKET HS CODE: 8302419080, SHOWER HINGES HS CODE: 8302109030, <font color='red'>GLASS</font> CLAMP HS CODE: 8302419045, THRU",
+            "-<font color='red'>GLASS</font> FINGER PULL HS CODE: 8302419045, POLY BAG HS CODE: "
+          ]
+        },
+        "sort": [
+          1633737600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-LqEpK4624_L7I-7kc",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-09-26",
+          "hs_code": "851690",
+          "product_desc": " <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SS FRAME AND SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A05160",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "578.0",
+          "weight": "16940.0",
+          "vessel_name": "CMA CGM T. ROOSEVELT",
+          "voyage": "0TX9N",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-10-09",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "CXDU1342483,TRHU5412801"
+        },
+        "highlight": {
+          "product_desc": [
+            " <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SS FRAME AND SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE",
+            "21 RV RANGE OVEN,SS PANEL,BLACK KNOBS WITH SILVER RING.BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SS FRAME AND SILKPRINT",
+            " LOGO. SS <font color='red'>HANDLE</font>. SPARE PARTS<br/>17 RV RANGE OVEN,SS PANEL, BLACK KNOBS WITH SILVER RING.BLACK"
+          ]
+        },
+        "sort": [
+          1633737600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-LnDLD4624_L7I4dVq",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*806*802",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "PACIFIC CITADEL CAPITAL INC",
+          "notify_party_name": "PACIFIC CITADEL CAPITAL INC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-10-02",
+          "hs_code": "851690",
+          "product_desc": "REFRIGERATOR <font color='red'>DOOR</font> SHELF BIN, MICROWAVE <font color='red'>GLASS</font> PLATE, MOTOR, DRYER HEATING ELEMENT, DRYER HEATING",
+          "carrier_sasc_code": "EFSV, EXPEDITED FREIGHT SERVICE INC",
+          "bill_of_lading": "EFSVMZS063700A",
+          "shipper_address": "6007# ZHENPU RD MIAODAI INDUSTRIAL ZONE ZHENHAI NINGBO CHINA",
+          "quantity_unit": "CTN",
+          "consignee_address": "3149 PRODUCTION WAY BURNABY BC V5A 3H1 CANADA ",
+          "marks_numbers": "MX<br/>",
+          "quantity": "215.0",
+          "weight": "2505.0",
+          "vessel_name": "SEATTLE BRIDGE",
+          "voyage": "068E",
+          "measure_unit": "CM",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "3149 PRODUCTION WAY BURNABY BC V5A 3H1 CANADA ",
+          "new_date": "2021-10-05",
+          "shipper_name": "NINGBO MINGXING ELECTRICAL TECHNOLO",
+          "container_id": "KKFU6775591"
+        },
+        "highlight": {
+          "product_desc": [
+            "REFRIGERATOR <font color='red'>DOOR</font> SHELF BIN, MICROWAVE <font color='red'>GLASS</font> PLATE, MOTOR, DRYER HEATING ELEMENT, DRYER HEATING",
+            " TUBE, FILTER, METAL ROLLER, LID SWITCH,DRAIN PUMP, BELTS, PLASTIC <font color='red'>HANDLE</font>, STOVE KNOB, REFRIGERATOR"
+          ]
+        },
+        "sort": [
+          1633392000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2110",
+        "_id": "AX-LnLm-4624_L7I5BlV",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "MARY KASTNER PMK INTERNATIONAL LLC",
+          "type": "us_2110",
+          "estimate_arrival_date": "2021-09-28",
+          "hs_code": "392490",
+          "product_desc": "FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED <font color='red'>GLASS</font>",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV142103301366",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "PO#40688 PO#40688 THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME<br/>",
+          "quantity": "1397.0",
+          "weight": "10291.0",
+          "vessel_name": "EVER LIBERAL",
+          "voyage": "0976E",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "1107 SW GRADY WAY BLDG B STE 120 RENTON WA 98057 PH#206-439-1863 FX#206-241-9989 ",
+          "new_date": "2021-09-30",
+          "shipper_name": "N/A",
+          "container_id": "TXGU6090709"
+        },
+        "highlight": {
+          "product_desc": [
+            "FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED <font color='red'>GLASS</font>",
+            " PARTS INCLUDE ROLLERS,GUIDE MECHANISMS,<font color='red'>HANDLES</font> AND PLASTIC"
+          ]
+        },
+        "sort": [
+          1632960000000
+        ]
+      }
+    ]
+  }

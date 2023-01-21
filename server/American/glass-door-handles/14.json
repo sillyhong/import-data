@@ -1,0 +1,460 @@
+{
+    "total": 1168,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2107",
+        "_id": "AX-LbJ1D4624_L7IjHd9",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57037",
+          "country": "CN, CHINA",
+          "importer": "ECU WORLDWIDE CANADA VANCOUVER",
+          "notify_party_name": "ECU WORLDWIDE CANADA VANCOUVER",
+          "type": "us_2107",
+          "estimate_arrival_date": "2021-05-28",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> CONSOLIDATED CARGO <font color='red'>DOOR</font> <font color='red'>HANDLE</font> <font color='red'>GLASS</font> BOTTLE BLADES @ATTN FREYA FANG<br/>",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV142102543765",
+          "shipper_address": "ROOM 19 G-H HAIXING PLAZA NO 1 RUIJIN ROAD S HUANGPU DISTRICT SHANGHAI TEL:021-51720456 FAX:021-34160877 ",
+          "quantity_unit": "PKG",
+          "consignee_address": "SUITE 260 10691 SHELLBRIDGE WAY RICHMOND B C V7X 2W8 CANADA D: 604 244-3190 EXT 3107 F: 604 244-7019 ",
+          "marks_numbers": "THE SAME THE SAME THE SAME THE SAME<br/>",
+          "quantity": "605.0",
+          "weight": "25228.0",
+          "vessel_name": "OOCL ANTWERP",
+          "voyage": "119E",
+          "measure_unit": "X",
+          "unloading_port": "3001, SEATTLE, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "SUITE 260 10691 SHELLBRIDGE WAY RICHMOND B C V7X 2W8 CANADA D: 604 244-3190 EXT 3107 F: 604 244-7019 ",
+          "new_date": "2021-07-13",
+          "shipper_name": "TRIUMPH LINK LOGISTICS LIMITED",
+          "container_id": "MAGU5282998"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> CONSOLIDATED CARGO <font color='red'>DOOR</font> <font color='red'>HANDLE</font> <font color='red'>GLASS</font> BOTTLE BLADES @ATTN FREYA FANG<br/>"
+          ]
+        },
+        "sort": [
+          1626134400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2107",
+        "_id": "AX-LdRmP4624_L7ImSuy",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "BONGESTAR INC",
+          "notify_party_name": "N/A",
+          "type": "us_2107",
+          "estimate_arrival_date": "2021-07-06",
+          "hs_code": "841520",
+          "product_desc": "HOSE PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PLASTIC PLASTIC DECORATIONS CASTERS PLASTIC RAG WHEEL PLASTIC BRAIDED ROPE",
+          "carrier_sasc_code": "OTED",
+          "bill_of_lading": "OTEDSSH121105557",
+          "shipper_address": " ROOM A222 3 F HENG FUNG INDUSTRY PHASE 2 2G HOK YUEN STREET HUNGHOM KOWLOON HONG KONG ",
+          "quantity_unit": "CTN",
+          "consignee_address": "6547 N ACADEMY BLVD 2266 COLORADO SPRINGS CO 80918 UNITED STATES ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "970.0",
+          "weight": "14051.0",
+          "vessel_name": "ARGUS",
+          "voyage": "113E",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-07-11",
+          "shipper_name": "JUSTAR TRADE LIMITED",
+          "container_id": "MOTU5815905"
+        },
+        "highlight": {
+          "product_desc": [
+            "HOSE PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PLASTIC PLASTIC DECORATIONS CASTERS PLASTIC RAG WHEEL PLASTIC BRAIDED ROPE",
+            " COLOURED FLAG UMBRELLA SEAT PLASTIC <font color='red'>GLASS</font> FIBRES BELT <font color='red'>GLASS</font> FIBRES WOVEN WIDTH:5CM JOINT STAINLESS"
+          ]
+        },
+        "sort": [
+          1625961600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2109",
+        "_id": "AX-LlOuy4624_L7IynvM",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "BONGESTAR INC",
+          "notify_party_name": "N/A",
+          "type": "us_2109",
+          "estimate_arrival_date": "2021-07-06",
+          "hs_code": "841520",
+          "product_desc": "HOSE PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PLASTIC PLASTIC DECORATIONS CASTERS PLASTIC RAG WHEEL PLASTIC BRAIDED ROPE",
+          "carrier_sasc_code": "OTED",
+          "bill_of_lading": "OTEDSSH121105557",
+          "shipper_address": " ROOM A222 3 F HENG FUNG INDUSTRY PHASE 2 2G HOK YUEN STREET HUNGHOM KOWLOON HONG KONG ",
+          "quantity_unit": "CTN",
+          "consignee_address": "6547 N ACADEMY BLVD 2266 COLORADO SPRINGS CO 80918 UNITED STATES ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "970.0",
+          "weight": "14051.0",
+          "vessel_name": "ARGUS",
+          "voyage": "113E",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-07-11",
+          "shipper_name": "JUSTAR TRADE LIMITED",
+          "container_id": "MOTU5815905"
+        },
+        "highlight": {
+          "product_desc": [
+            "HOSE PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PLASTIC PLASTIC DECORATIONS CASTERS PLASTIC RAG WHEEL PLASTIC BRAIDED ROPE",
+            " COLOURED FLAG UMBRELLA SEAT PLASTIC <font color='red'>GLASS</font> FIBRES BELT <font color='red'>GLASS</font> FIBRES WOVEN WIDTH:5CM JOINT STAINLESS"
+          ]
+        },
+        "sort": [
+          1625961600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2107",
+        "_id": "AX-La3IF4624_L7IiJvU",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "MARY KASTNER PMK INTERNATIONAL LLC",
+          "type": "us_2107",
+          "estimate_arrival_date": "2021-07-11",
+          "hs_code": "392490",
+          "product_desc": "FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED <font color='red'>GLASS</font>",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV142101738104",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "PO#40617 PO#40617 THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME<br/>",
+          "quantity": "1075.0",
+          "weight": "15192.0",
+          "vessel_name": "EVER SMART",
+          "voyage": "0323E",
+          "measure_unit": "X",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "1107 SW GRADY WAY BLDG B STE 120 RENTON WA 98057 PH#206-439-1863 FX#206-241-9989 ",
+          "new_date": "2021-07-11",
+          "shipper_name": "N/A",
+          "container_id": "EGHU9190537"
+        },
+        "highlight": {
+          "product_desc": [
+            "FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED <font color='red'>GLASS</font>",
+            " PARTS INCLUDE ROLLERS,GUIDE MECHANISMS,<font color='red'>HANDLES</font> AND PLASTIC"
+          ]
+        },
+        "sort": [
+          1625961600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2107",
+        "_id": "AX-Lg51l4624_L7Iq4kD",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*906*802",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2107",
+          "estimate_arrival_date": "2021-07-07",
+          "hs_code": "761010",
+          "product_desc": "FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> SYSTEMS COMPL ETE WITH ALUMINUM FRAMED <font color='red'>GLASS</font> PANELS HS:761 0100030",
+          "carrier_sasc_code": "SYGY",
+          "bill_of_lading": "SYGYESH210101900",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "1022.0",
+          "weight": "14375.0",
+          "vessel_name": "HYUNDAI GLOBAL",
+          "voyage": "0084E",
+          "measure_unit": "---",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-07-11",
+          "shipper_name": "N/A",
+          "container_id": "TGBU5089228"
+        },
+        "highlight": {
+          "product_desc": [
+            "FULLY ASSEMBLED RV SHOWER <font color='red'>DOOR</font> SYSTEMS COMPL ETE WITH ALUMINUM FRAMED <font color='red'>GLASS</font> PANELS HS:761 0100030",
+            " SHOWER SYSTEM CONSISTING OF EXTRUDED PVC COMPONENTS;VARIOUS PLASTIC INJECTED PART S INCLUDE ROLLERS,GUIDE MECHANISMS,<font color='red'>HANDLES</font> AND PLASTIC CURTAIN<br/>"
+          ]
+        },
+        "sort": [
+          1625961600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2108",
+        "_id": "AX-LY_Lt4624_L7IbkY7",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57069, XIAMEN",
+          "country": "CN, CHINA",
+          "importer": "HONG KONG BESTIME GROUP",
+          "notify_party_name": "GOLDEN STATE FC LLC",
+          "type": "us_2108",
+          "estimate_arrival_date": "2021-06-30",
+          "hs_code": "731442",
+          "product_desc": "<font color='red'>GLASS</font> JAR WITH LID WOVEN WIRE MESH YOGA MAT RACK THROW PILLOW COVERS PLASTIC PLATES GRILL PRESS HSS",
+          "carrier_sasc_code": "AMZD",
+          "bill_of_lading": "AMZDCN21612478A0",
+          "shipper_address": "COMPANY LIM ITED FLAT 03 15/F CARNIVAL COMM BLDG 18 JAVA RD NORTH POINT HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "COMPANY LIM ITED11263 OLEANDER AVE ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "839.0",
+          "weight": "10056.0",
+          "vessel_name": "MSC ARIANE",
+          "voyage": "122N",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "LAX9 11263 OLEANDER AVE ",
+          "new_date": "2021-07-08",
+          "shipper_name": "HONG KONG BESTIME GROUP",
+          "container_id": "TGHU7551620"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>GLASS</font> JAR WITH LID WOVEN WIRE MESH YOGA MAT RACK THROW PILLOW COVERS PLASTIC PLATES GRILL PRESS HSS",
+            " COBALT S HOOKS SHORT <font color='red'>HANDLE</font> SPOONS GROUND ANCHOR TIRE DRESSING APPLICATOR COFFE POUR OVER TEA CUPS",
+            " AND SAUCERS FLOWER PLANTERS <font color='red'>DOOR</font> MAT WIRE BASKET PLASTIC"
+          ]
+        },
+        "sort": [
+          1625702400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2107",
+        "_id": "AX-LbVEb4624_L7Ijwvx",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57069, XIAMEN",
+          "country": "CN, CHINA",
+          "importer": "HONG KONG BESTIME GROUP",
+          "notify_party_name": "GOLDEN STATE FC LLC",
+          "type": "us_2107",
+          "estimate_arrival_date": "2021-06-30",
+          "hs_code": "731442",
+          "product_desc": "<font color='red'>GLASS</font> JAR WITH LID WOVEN WIRE MESH YOGA MAT RACK THROW PILLOW COVERS PLASTIC PLATES GRILL PRESS HSS",
+          "carrier_sasc_code": "AMZD",
+          "bill_of_lading": "AMZDCN21612478A0",
+          "shipper_address": "COMPANY LIM ITED FLAT 03 15/F CARNIVAL COMM BLDG 18 JAVA RD NORTH POINT HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "COMPANY LIM ITED11263 OLEANDER AVE ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "839.0",
+          "weight": "10056.0",
+          "vessel_name": "MSC ARIANE",
+          "voyage": "122N",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "LAX9 11263 OLEANDER AVE ",
+          "new_date": "2021-07-08",
+          "shipper_name": "HONG KONG BESTIME GROUP",
+          "container_id": "TGHU7551620"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>GLASS</font> JAR WITH LID WOVEN WIRE MESH YOGA MAT RACK THROW PILLOW COVERS PLASTIC PLATES GRILL PRESS HSS",
+            " COBALT S HOOKS SHORT <font color='red'>HANDLE</font> SPOONS GROUND ANCHOR TIRE DRESSING APPLICATOR COFFE POUR OVER TEA CUPS",
+            " AND SAUCERS FLOWER PLANTERS <font color='red'>DOOR</font> MAT WIRE BASKET PLASTIC"
+          ]
+        },
+        "sort": [
+          1625702400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2109",
+        "_id": "AX-Lk_Hq4624_L7Ixisb",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+          "loading_port": "57073",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2109",
+          "estimate_arrival_date": "2021-07-07",
+          "hs_code": "321511",
+          "product_desc": " RING BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO. BLACK <font color='red'>HANDLE</font>.",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A03248",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "2979.0",
+          "weight": "87160.0",
+          "vessel_name": "MAERSK ENSENADA",
+          "voyage": "123N",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-07-08",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "FBLU0078608,FCIU7389487,BMOU6947333,BEAU5711122,MEDU8222120,MSCU7580777,MSDU8164042,MEDU4677409,MSCU5305734,TCNU7882246"
+        },
+        "highlight": {
+          "product_desc": [
+            " RING BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO. BLACK <font color='red'>HANDLE</font>.",
+            "CF-RV17BB,17 RV RANGE OVEN, BLACK PANEL,BLACKKNOBS WITH SILVER RING BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT",
+            " LOGO. BLACK <font color='red'>HANDLE</font>. SPARE PARTS<br/>CF-RV17BB,17 RV RANGE OVEN, BLACK PANEL,BLACKKNOBS WITH SILVER"
+          ]
+        },
+        "sort": [
+          1625702400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2107",
+        "_id": "AX-LZkkJ4624_L7IdhRH",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+          "loading_port": "57073",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2107",
+          "estimate_arrival_date": "2021-06-23",
+          "hs_code": "321511",
+          "product_desc": "CF-RV21,21 RV RANGE OVEN, SS PANEL,BLACK KNOBS WITH SILVER RING. BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITHSS FRAME AND",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A03148",
+          "shipper_address": " UNIT 04 7 F BRIGHT W AY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "4207.0",
+          "weight": "123120.0",
+          "vessel_name": "MSC CLORINDA",
+          "voyage": "QJ122",
+          "measure_unit": "X",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-07-08",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "TXGU5387288,FFAU3958438,TXGU5383282,FFAU3958459,FFAU2330806,TXGU5387890,TXGU5383235,FFAU3958295,TXGU5387082,TXGU5387040,TXGU5387605,MEDU4679356,FFAU3960707,TGBU4052348"
+        },
+        "highlight": {
+          "product_desc": [
+            "CF-RV21,21 RV RANGE OVEN, SS PANEL,BLACK KNOBS WITH SILVER RING. BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITHSS FRAME AND",
+            " SILKPRINT LOGO.SS <font color='red'>HANDLE</font>. SPARE PARTS CF-RV17-DB,041421B2,DRAWER <font color='red'>DOOR</font>,<br/>CF-RV17BB,17 RV RANGE",
+            " OVEN, BLACK PANEL,BLACKKNOBS WITH SILVER RING BLACK <font color='red'>GLASS</font> D"
+          ]
+        },
+        "sort": [
+          1625702400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2107",
+        "_id": "AX-Ld3-64624_L7InFf9",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+          "loading_port": "57073",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2107",
+          "estimate_arrival_date": "2021-07-07",
+          "hs_code": "321511",
+          "product_desc": " RING BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO. BLACK <font color='red'>HANDLE</font>.",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A03248",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "2979.0",
+          "weight": "87160.0",
+          "vessel_name": "MAERSK ENSENADA",
+          "voyage": "123N",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-07-08",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "FBLU0078608,FCIU7389487,BMOU6947333,BEAU5711122,MEDU8222120,MSCU7580777,MSDU8164042,MEDU4677409,MSCU5305734,TCNU7882246"
+        },
+        "highlight": {
+          "product_desc": [
+            " RING BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT LOGO. BLACK <font color='red'>HANDLE</font>.",
+            "CF-RV17BB,17 RV RANGE OVEN, BLACK PANEL,BLACKKNOBS WITH SILVER RING BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font> WITH SILKPRINT",
+            " LOGO. BLACK <font color='red'>HANDLE</font>. SPARE PARTS<br/>CF-RV17BB,17 RV RANGE OVEN, BLACK PANEL,BLACKKNOBS WITH SILVER"
+          ]
+        },
+        "sort": [
+          1625702400000
+        ]
+      }
+    ]
+  }

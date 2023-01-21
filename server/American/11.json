@@ -1,0 +1,446 @@
+{
+    "total": 13229,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Ln_fE4624_L7I7iNY",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58309, KAO HSIUNG",
+          "country": "TW, TAIWAN",
+          "importer": "AUTOMANN INC",
+          "notify_party_name": "AUTOMANN INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-05",
+          "hs_code": "870829",
+          "product_desc": "AUTO PARTS H.S. CODE:8708.29, 8301.60 (WINDO W REGULATOR,<font color='red'>DOOR</font> <font color='red'>HANDLE</font>, WINDOW CRANK, LATCH)60 CTNS ON 8 PLTS<br/>",
+          "carrier_sasc_code": "OERT",
+          "bill_of_lading": "OERT101702K04312",
+          "shipper_address": "NO 4 DINGPING RD RUIFANG DIST NEW TAIPEI CITY 22452 TAIWAN R O C ",
+          "quantity_unit": "CTN",
+          "consignee_address": "251 DOCKS CORNER ROAD MONROE TOWNSHIP NJ 08831 U S A ",
+          "marks_numbers": "AM PO# 6079488-NJ CTN#: MADE IN TAIWAN<br/>",
+          "quantity": "60.0",
+          "weight": "1108.0",
+          "vessel_name": "EVER FAR",
+          "voyage": "01A",
+          "measure_unit": "CM",
+          "unloading_port": "1001, NEW YORK, NY",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "251 DOCKS CORNER ROAD MONROE TOWNSHIP NJ 08831 U S A ",
+          "new_date": "2021-12-20",
+          "shipper_name": "HUSHAN AUTOPARTS INC",
+          "container_id": "SEGU5001354"
+        },
+        "highlight": {
+          "product_desc": [
+            "AUTO PARTS H.S. CODE:8708.29, 8301.60 (WINDO W REGULATOR,<font color='red'>DOOR</font> <font color='red'>HANDLE</font>, WINDOW CRANK, LATCH)60 CTNS ON 8 PLTS<br/>"
+          ]
+        },
+        "sort": [
+          1639958400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmTZP4624_L7I10n4",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "LIGHT VICTORY INC",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-04",
+          "hs_code": "392220",
+          "product_desc": "HOSE WITH FITTINGS PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PLASIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> COVER PLASTIC DUST",
+          "carrier_sasc_code": "OTED",
+          "bill_of_lading": "OTEDSSH121110723",
+          "shipper_address": " ROOM 1302 CHAPTER HOUSE 84-86 DES VOEUX ROAD CENTRAL CENTRAL HONG KONG ",
+          "quantity_unit": "CTN",
+          "consignee_address": "6547 N ACADEMY BLVD #2266 CO 80918 COLORADO SPRINGS ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "698.0",
+          "weight": "8362.0",
+          "vessel_name": "CMA CGM MISSISSIPPI",
+          "voyage": "0TXAF",
+          "measure_unit": "X",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-20",
+          "shipper_name": "LIGHT SPIRIT LIMITED",
+          "container_id": "TRHU6052398"
+        },
+        "highlight": {
+          "product_desc": [
+            "HOSE WITH FITTINGS PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PLASIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> COVER PLASTIC DUST"
+          ]
+        },
+        "sort": [
+          1639958400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmS3m4624_L7I1y0k",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58309, KAO HSIUNG",
+          "country": "TW, TAIWAN",
+          "importer": "MAXZONE VEHICLE LIGHTING CORP",
+          "notify_party_name": "MAXZONE VEHICLE LIGHTING CORP",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-17",
+          "hs_code": "830260",
+          "product_desc": "AUTO PARTS (<font color='red'>DOOR</font> <font color='red'>HANDLE</font>)<br/>",
+          "carrier_sasc_code": "OOLU, ORIENT OVERSEAS CONTAINER LINE INC",
+          "bill_of_lading": "OOLU2683680119",
+          "shipper_address": "4 DINGPING RD RUEIFANG TOWNSHIP 22 TAIPEI TAIWAN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "15889 SLOVER AVE FONTANA CA UNITED STATES ",
+          "marks_numbers": "MARKS & NOS. DEPO/MAXZONE AUTO PARTS (H2) 24 KLIMER RD. EDISON, NJ08817 TEL: 732-393-0666 FAX: 732-985-3499 PI# MAZ0238HU-H2-ED H2119 CTN#: MADE IN TAIWAN<br/>",
+          "quantity": "52.0",
+          "weight": "271.0",
+          "vessel_name": "EVER FAIR",
+          "voyage": "1123W",
+          "measure_unit": "CM",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "15889 SLOVER AVE FONTANA CA UNITED STATES ",
+          "new_date": "2021-12-20",
+          "shipper_name": "HUSHAN AUTOPARTS INC",
+          "container_id": "CSNU6332595"
+        },
+        "highlight": {
+          "product_desc": [
+            "AUTO PARTS (<font color='red'>DOOR</font> <font color='red'>HANDLE</font>)<br/>"
+          ]
+        },
+        "sort": [
+          1639958400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Ln-Gw4624_L7I7ex2",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*806*800",
+          "loading_port": "58309, KAO HSIUNG",
+          "country": "TW, TAIWAN",
+          "importer": "COMPONENT HARDWARE GROUP INC",
+          "notify_party_name": "BRILLIANT GROUP",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-04",
+          "hs_code": "830210",
+          "product_desc": "<font color='red'>DOOR</font> PARTS HINGE LATCH <font color='red'>HANDLE</font> LOCK KEEPER STRIKE NYLON CAM<br/>",
+          "carrier_sasc_code": "BGPL",
+          "bill_of_lading": "BGPLNB114871",
+          "shipper_address": " 1F NO 5 LANE 61 SEC 1 HOU SHIN ROADCHUNG LI CITY CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": " PO BOX 2020 1890 SWARTHMORE AVENUE LAKEWOOD NJ 08701 US ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "1190.0",
+          "weight": "18679.0",
+          "vessel_name": "EVER FAR",
+          "voyage": "0TSAH",
+          "measure_unit": "---",
+          "unloading_port": "1001, NEW YORK, NY",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "LOGISTICS CORP 159 NORTH CENTRAL AVE VALLEY STREAMUS ",
+          "new_date": "2021-12-20",
+          "shipper_name": "JIUN HOONG INDUSTRIES CO LTD",
+          "container_id": "CMAU8176979"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> PARTS HINGE LATCH <font color='red'>HANDLE</font> LOCK KEEPER STRIKE NYLON CAM<br/>"
+          ]
+        },
+        "sort": [
+          1639958400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmTMs4624_L7I1zuK",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*906*802",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "1 EXPEDITORS INTERNATINAL/SAV",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-18",
+          "hs_code": "911290",
+          "product_desc": "BYPASS LOPPER LONG <font color='red'>HANDLE</font> RA KE BYPASS PRUNER RUBBER HA NDLE TOOL AST MOVE TYPE: CY TO <font color='red'>DOOR</font> PO",
+          "carrier_sasc_code": "MAEU, MAERSK LINES, INC.",
+          "bill_of_lading": "MAEU268496047",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "6518.0",
+          "weight": "35323.0",
+          "vessel_name": "MAERSK ONTARIO",
+          "voyage": "146E",
+          "measure_unit": "CM",
+          "unloading_port": "5301, HOUSTON, TX",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "LB",
+          "notify_party_address": "2 EAST BRYAN STREET SUITE 901 SAVANNAH GA 31401 MICHELLE ANDERSON",
+          "new_date": "2021-12-20",
+          "shipper_name": "N/A",
+          "container_id": "SEKU4725730"
+        },
+        "highlight": {
+          "product_desc": [
+            "BYPASS LOPPER LONG <font color='red'>HANDLE</font> RA KE BYPASS PRUNER RUBBER HA NDLE TOOL AST MOVE TYPE: CY TO <font color='red'>DOOR</font> PO"
+          ]
+        },
+        "sort": [
+          1639958400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LnII34624_L7I40WU",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "LIGHT VICTORY INC",
+          "notify_party_name": "TRANS WORLD FREIGHT SYSTEM CORP",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-09",
+          "hs_code": "392520",
+          "product_desc": "HOSE WITH FITTINGS|PLASTIC JOINT | PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font>|PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> <font color='red'>DOOR</font> <font color='red'>HANDLE</font>|PLASIC CAR",
+          "carrier_sasc_code": "FLXT, FLEXIBLE TRANSPORTATION INC",
+          "bill_of_lading": "FLXT00001162949A",
+          "shipper_address": " ROOM 1302 CHAPTER HOUSE 84-86 DES VOEUX ROAD CENTRAL CENTRAL HONG KONG ",
+          "quantity_unit": "CTN",
+          "consignee_address": "6547 N ACADEMY BLVD #2266 CO 80918 COLORADO SPRINGS ",
+          "marks_numbers": "WI26009440,WI26312112,WI26233841, WI26149904,<br/>",
+          "quantity": "1482.0",
+          "weight": "19186.0",
+          "vessel_name": "CMA CGM CASSIOPEIA",
+          "voyage": "0TXA7",
+          "measure_unit": "CM",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "145-02 156TH STREET 2FL JAMAICA NY 11434 EMAIL:IMPORT@TRANSWORLDUS COM ",
+          "new_date": "2021-12-20",
+          "shipper_name": "LIGHT SPIRIT LIMITED",
+          "container_id": "TCNU4611894"
+        },
+        "highlight": {
+          "product_desc": [
+            "HOSE WITH FITTINGS|PLASTIC JOINT | PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font>|PLASTIC <font color='red'>DOOR</font> <font color='red'>HANDLE</font> <font color='red'>DOOR</font> <font color='red'>HANDLE</font>|PLASIC CAR"
+          ]
+        },
+        "sort": [
+          1639958400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LoHiT4624_L7I71UF",
+        "_score": null,
+        "_source": {
+          "container_size": "4500*907*802",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "CRAFT BILT MANUFACTURING COMPANY",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-09",
+          "hs_code": "392520",
+          "product_desc": "WINDOW <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PARTS<br/>",
+          "carrier_sasc_code": "MFGT",
+          "bill_of_lading": "MFGTSZNYC4010677",
+          "shipper_address": " NO 7 QINGHU ROAD QINGHUTOU TANGXI A ",
+          "quantity_unit": "CTN",
+          "consignee_address": " 53 SOUDERTON-HATFIELD PIKE ",
+          "marks_numbers": "CRAFTBILT PALLET NO.: 1 4<br/>",
+          "quantity": "121.0",
+          "weight": "1390.0",
+          "vessel_name": "ONE MUNCHEN",
+          "voyage": "030E",
+          "measure_unit": "CM",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-20",
+          "shipper_name": "DONGGUAN SHUANGXIN INDUSTRIAL CO LTD",
+          "container_id": "KKFU9065572"
+        },
+        "highlight": {
+          "product_desc": [
+            "WINDOW <font color='red'>DOOR</font> <font color='red'>HANDLE</font> PARTS<br/>"
+          ]
+        },
+        "sort": [
+          1639958400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Lmxa24624_L7I3ZcV",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "48940, IZMIT",
+          "country": "TR, TURKEY",
+          "importer": "BSH HOME APPLIANCES CORP",
+          "notify_party_name": "SCHENKER INC CHICAGO BRANCH",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-15",
+          "hs_code": "842211",
+          "product_desc": "DISHWASHER <font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>",
+          "carrier_sasc_code": "TRKU",
+          "bill_of_lading": "TRKUEVYORF957491",
+          "shipper_address": "SANAYI VE TICARET A S SAKARYA 1 ORGANIZE SANAYI BOLGESI ",
+          "quantity_unit": "CTN",
+          "consignee_address": " 100 BOSCH BOULEVARD ",
+          "marks_numbers": "AND NUMBERS<br/>",
+          "quantity": "333.0",
+          "weight": "5595.0",
+          "vessel_name": "MELCHIOR SCHULTE",
+          "voyage": "2137W",
+          "measure_unit": "---",
+          "unloading_port": "1401, NORFOLK, VA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": " 10501 SEYMOUR AVENUE SUITE 100 ",
+          "new_date": "2021-12-20",
+          "shipper_name": "ARMA FILTRE SISTEMLERI",
+          "container_id": "TRKU2060694"
+        },
+        "highlight": {
+          "product_desc": [
+            "DISHWASHER <font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>"
+          ]
+        },
+        "sort": [
+          1639958400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmUZE4624_L7I14kL",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*800*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "BRENDAN HANNABURY",
+          "notify_party_name": "B&H INTERNATIONAL TRADE CO LTD",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-25",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>",
+          "carrier_sasc_code": "JCSM",
+          "bill_of_lading": "JCSM280110105838",
+          "shipper_address": "ROOM 106 BLDG 2 NO 135 MINXING RD Q SHANGHAI CN ",
+          "quantity_unit": "PCS",
+          "consignee_address": "315 TURNPIKE ST 5954 NORTH ANDOVER MA 01845 US ",
+          "marks_numbers": "19393<br/>",
+          "quantity": "1.0",
+          "weight": "19.0",
+          "vessel_name": "MSC NERISSA",
+          "voyage": "144A",
+          "measure_unit": "CF",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": " XINHAI SUN 333 S GILPIN ST DENVER CO 80209 US ",
+          "new_date": "2021-12-20",
+          "shipper_name": "SHANGHAI FEILA SUPPLY CHAIN MGMT",
+          "container_id": "MEDU4621267"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>"
+          ]
+        },
+        "sort": [
+          1639958400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LoBSo4624_L7I7mh1",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "EXPEDITORS LOUISVILLE",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-22",
+          "hs_code": "160242",
+          "product_desc": "1314 CARTON PACKED IN 44 PALLET SS FZ <font color='red'>DOOR</font> <font color='red'>HANDLE</font> W/C SUPPLIER: CHI SING METAL MANUFACTORYCO. LTD",
+          "carrier_sasc_code": "ZIMU, ZIM ISRAEL NAVIGATION CO",
+          "bill_of_lading": "ZIMUHKG83277267",
+          "shipper_address": "N/A",
+          "quantity_unit": "PKG",
+          "consignee_address": "N/A",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "416.0",
+          "weight": "276580.0",
+          "vessel_name": "CLEMENTINE MAERSK",
+          "voyage": "15E",
+          "measure_unit": "CF",
+          "unloading_port": "1703, SAVANNAH, GA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "LB",
+          "notify_party_address": "4801 COMMERCE CROSSINGS LOUISVILLE KY 40229 GE-SDF@EXPEDITORS COM TEL: 5023676700 ",
+          "new_date": "2021-12-19",
+          "shipper_name": "N/A",
+          "container_id": "ZCSU8923663,ZCSU7791238,CAAU5273413,JXLU8844712,ZCSU7789755,BMOU4523172,TCNU4248705"
+        },
+        "highlight": {
+          "product_desc": [
+            "1314 CARTON PACKED IN 44 PALLET SS FZ <font color='red'>DOOR</font> <font color='red'>HANDLE</font> W/C SUPPLIER: CHI SING METAL MANUFACTORYCO. LTD"
+          ]
+        },
+        "sort": [
+          1639872000000
+        ]
+      }
+    ]
+  }

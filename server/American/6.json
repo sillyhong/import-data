@@ -1,0 +1,448 @@
+{
+    "total": 16111,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmkC34624_L7I2lvY",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*800*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "PAUL PAPAGEORGIOU",
+          "notify_party_name": "HAIKANG TRADE INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-21",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>",
+          "carrier_sasc_code": "JCSM",
+          "bill_of_lading": "JCSM286469658647",
+          "shipper_address": " NO 348 JIUGAN RD JIUTING TOWN SONGJ SHANGHAI SH CN ",
+          "quantity_unit": "PCS",
+          "consignee_address": "2 TARFSIDE RD LYNN MA 01904 US",
+          "marks_numbers": "22725<br/>",
+          "quantity": "1.0",
+          "weight": "14.0",
+          "vessel_name": "EVER LINKING",
+          "voyage": "0987E",
+          "measure_unit": "CF",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "14726 RAMONA AVE NUM E9 CHINO CA 91710 US ",
+          "new_date": "2021-12-26",
+          "shipper_name": "SHANGHAI QINGXING TRADE CO LTD",
+          "container_id": "EMCU5415136"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>"
+          ]
+        },
+        "sort": [
+          1640476800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LnBfe4624_L7I4XdA",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58023, PUSAN",
+          "country": "KR, REPUBLIC OF KOREA",
+          "importer": "LAKLARA INC",
+          "notify_party_name": "LAKLARA INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-10",
+          "hs_code": "920810",
+          "product_desc": "624 PKGS OFJUICES <font color='red'>DOOR</font> <font color='red'>HANDLE</font> MUSIC ALBUM<br/>",
+          "carrier_sasc_code": "BNXC",
+          "bill_of_lading": "BNXCBSTIW2111231",
+          "shipper_address": "BUILDING 168 GUDEOKRO SEO GU BUSAN KOREA ",
+          "quantity_unit": "PKG",
+          "consignee_address": "DBA FBA4YOU 17616 W VALLEY HWY TUKWILA WA 98188 U S A ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "624.0",
+          "weight": "6777.0",
+          "vessel_name": "YM UPWARD",
+          "voyage": "074E",
+          "measure_unit": "---",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "DBA FBA4YOU 17616 W VALLEY HWY TUKWILA WA 98188 U S A ",
+          "new_date": "2021-12-25",
+          "shipper_name": "MS GLOBAL BIO SOMOON",
+          "container_id": "SEGU5303971"
+        },
+        "highlight": {
+          "product_desc": [
+            "624 PKGS OFJUICES <font color='red'>DOOR</font> <font color='red'>HANDLE</font> MUSIC ALBUM<br/>"
+          ]
+        },
+        "sort": [
+          1640390400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LnTjA4624_L7I5kBR",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*906*802",
+          "loading_port": "58201, HONG KONG",
+          "country": "HK, HONG KONG",
+          "importer": "UNISON HARDWARE INC",
+          "notify_party_name": "UNISON HARDWARE INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-10",
+          "hs_code": "830140",
+          "product_desc": "HANDLESHINGES LOCKS LOCK ACCESSORIES <font color='red'>DOOR</font> STOPPER CYLINDERS <font color='red'>HANDLE</font> ACCESSORIES<br/>",
+          "carrier_sasc_code": "BNXC",
+          "bill_of_lading": "BNXCGDJW21A050",
+          "shipper_address": "FLOOR NORTH BLOCK 77 MU XUYUA N STREET NANJING CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "6 WAYNE COURTSACRAMENTO CA 95829 USA ",
+          "marks_numbers": "CANC650590PALLETS:1-14<br/>",
+          "quantity": "423.0",
+          "weight": "4879.0",
+          "vessel_name": "EVER FAME",
+          "voyage": "1220E",
+          "measure_unit": "---",
+          "unloading_port": "2811, OAKLAND, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "6 WAYNE COURTSACRAMENTO CA 95829 USA ",
+          "new_date": "2021-12-25",
+          "shipper_name": "CHINA ARTS AND CRAFTSIMPORT&EXPORTC 14TH",
+          "container_id": "BMOU5767949"
+        },
+        "highlight": {
+          "product_desc": [
+            "HANDLESHINGES LOCKS LOCK ACCESSORIES <font color='red'>DOOR</font> STOPPER CYLINDERS <font color='red'>HANDLE</font> ACCESSORIES<br/>"
+          ]
+        },
+        "sort": [
+          1640390400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LnSt64624_L7I5gyn",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58023, PUSAN",
+          "country": "CN, CHINA",
+          "importer": "NAVISTAR INC",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-14",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>HANDLE</font>, <font color='red'>DOOR</font> OUTSIDE, BLACK, LH,<font color='red'>HANDLE</font>, <font color='red'>DOOR</font> OUTSIDE, BLACK, RH,<font color='red'>HANDLE</font>, <font color='red'>DOOR</font> OUTSIDE, CHROME, LH,<font color='red'>HANDLE</font>, <font color='red'>DOOR</font> OUTSIDE, CHROME, RH<br/>",
+          "carrier_sasc_code": "TOPO, TOR PETROLEUM CORP",
+          "bill_of_lading": "TOPONGBORDLA4753",
+          "shipper_address": "L NO 580 BEACH ROAD 2 HANGZHOU BAY INDUSTRIAL DEVELOPMENT ZONE NINGBO C N ",
+          "quantity_unit": "PKG",
+          "consignee_address": "1300 OAKLEY INDUSTRIAL BOULEVARD FAIRBURN 30213 US ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "44.0",
+          "weight": "3638.0",
+          "vessel_name": "ONE MARVEL",
+          "voyage": "057E",
+          "measure_unit": "---",
+          "unloading_port": "5301, HOUSTON, TX",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-25",
+          "shipper_name": "NINGBO HUADE AUTOMOBILE PARTS CO",
+          "container_id": "TGBU4267768"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>HANDLE</font>, <font color='red'>DOOR</font> OUTSIDE, BLACK, LH,<font color='red'>HANDLE</font>, <font color='red'>DOOR</font> OUTSIDE, BLACK, RH,<font color='red'>HANDLE</font>, <font color='red'>DOOR</font> OUTSIDE, CHROME, LH,<font color='red'>HANDLE</font>, <font color='red'>DOOR</font> OUTSIDE, CHROME, RH<br/>"
+          ]
+        },
+        "sort": [
+          1640390400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmqpG4624_L7I29-j",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*800*800",
+          "loading_port": "58023, PUSAN",
+          "country": "KR, REPUBLIC OF KOREA",
+          "importer": "BRETT COLQUITT",
+          "notify_party_name": "HAIKANG TRADE INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-18",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>",
+          "carrier_sasc_code": "JCSM",
+          "bill_of_lading": "JCSM286587194194",
+          "shipper_address": " NO 348 JIUGAN RD JIUTING TOWN SONGJ SHANGHAI SH 247200 CN ",
+          "quantity_unit": "PCS",
+          "consignee_address": "5001 WAYFARING TREE AVE LAS VEGAS NV 89131 US",
+          "marks_numbers": "23642<br/>",
+          "quantity": "1.0",
+          "weight": "18.0",
+          "vessel_name": "PRESIDENT TRUMAN",
+          "voyage": "0DBBK",
+          "measure_unit": "CF",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "14726 RAMONA AVE NUM E9 CHINO CHINO CA 91710 US ",
+          "new_date": "2021-12-24",
+          "shipper_name": "SHANGHAI QINGXING TRADE CO LTD",
+          "container_id": "CMAU5805105"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>"
+          ]
+        },
+        "sort": [
+          1640304000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmQiB4624_L7I1qCm",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*802",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-09",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> ROSETTE & PLATE <font color='red'>DOOR</font> BUMPER DOORL.<br/>",
+          "carrier_sasc_code": "SFOK",
+          "bill_of_lading": "SFOKNGB21105464",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "OCK PARTS INV21TN0247148 EMTEK LOS ANGELES NO.<br/>",
+          "quantity": "586.0",
+          "weight": "11092.0",
+          "vessel_name": "MSC JOSSELINE",
+          "voyage": "2106E",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-24",
+          "shipper_name": "N/A",
+          "container_id": "BSIU3144694"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> ROSETTE & PLATE <font color='red'>DOOR</font> BUMPER DOORL.<br/>"
+          ]
+        },
+        "sort": [
+          1640304000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LnJ5t4624_L7I48v6",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*906*802",
+          "loading_port": "22519, PANAMA CANAL ?C CARIBBEAN",
+          "country": "CN, CHINA",
+          "importer": "EA INTERNATIONAL LTD",
+          "notify_party_name": "DJ POWERS",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-09",
+          "hs_code": "870829",
+          "product_desc": "HS#9401.90.1085 SEAT COVER SET H.S.#8708.29.5060 GRAB <font color='red'>HANDLE</font> THIS SHIPMENT CONTAINS NO WO OD",
+          "carrier_sasc_code": "SABC",
+          "bill_of_lading": "SABC203707K00657",
+          "shipper_address": " FIFTH BUILDING OF INDUSTRIAL ZONE NO 189 JINKANG STREET SHIJIAO COUNTRY QINGCHENG DISTRICT ",
+          "quantity_unit": "CTN",
+          "consignee_address": "752 WINER INDUSTRIAL WAY; SUITE F LAWRENCEVILLE GA 30046 CONTACT: JESSICA PENG PHONE: 770 -806-9070 ",
+          "marks_numbers": "EA<br/>",
+          "quantity": "454.0",
+          "weight": "5307.0",
+          "vessel_name": "EVER FORWARD",
+          "voyage": "1122E",
+          "measure_unit": "CM",
+          "unloading_port": "1703, SAVANNAH, GA",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "4777 AVIATION PARKWAY SUITE A COLLEGE PARK GA 30349 USA ATTN: MARY JOHNSTON TEL: 404-761-5974",
+          "new_date": "2021-12-24",
+          "shipper_name": "QINGYUAN SUNLANDA COMMERCE CO LTD",
+          "container_id": "FFAU2701240"
+        },
+        "highlight": {
+          "product_desc": [
+            "HS#9401.90.1085 SEAT COVER SET H.S.#8708.29.5060 GRAB <font color='red'>HANDLE</font> THIS SHIPMENT CONTAINS NO WO OD",
+            " PACKAGING MATERIALS. CY/<font color='red'>DOOR</font> <font color='red'>DOOR</font> TO LAWRENCEVILLE,GA <font color='red'>DOOR</font> BY ATL<br/>"
+          ]
+        },
+        "sort": [
+          1640304000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmQ2l4624_L7I1rLc",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "58201, HONG KONG",
+          "country": "HK, HONG KONG",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2022-01-04",
+          "hs_code": "901890",
+          "product_desc": "PLASTIC INJECTION MOLDED PARTS (RAW MATERIALS) WITH PACKAGING (HS CODE NO 9018.90) FLAPPER <font color='red'>DOOR</font>",
+          "carrier_sasc_code": "BANQ, KUEHNE & NAGEL INC.",
+          "bill_of_lading": "BANQHKG6930191",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "1 PLASTIC PALLET<br/>",
+          "quantity": "31.0",
+          "weight": "131.0",
+          "vessel_name": "COSCO SPAIN",
+          "voyage": "0TCAB",
+          "measure_unit": "X",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-24",
+          "shipper_name": "N/A",
+          "container_id": "TCNU2510061"
+        },
+        "highlight": {
+          "product_desc": [
+            "PLASTIC INJECTION MOLDED PARTS (RAW MATERIALS) WITH PACKAGING (HS CODE NO 9018.90) FLAPPER <font color='red'>DOOR</font>",
+            " LEVER (3MM) D05835P01 & IYU04053701 FDA CODE NO 79G--CJ 1CTN 4000PCS <font color='red'>HANDLE</font> SHROUD (NIGHTHAWK"
+          ]
+        },
+        "sort": [
+          1640304000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmQ0K4624_L7I1rCX",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58309, KAO HSIUNG",
+          "country": "TW, TAIWAN",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-10",
+          "hs_code": "870829",
+          "product_desc": "AUTO PARTS (<font color='red'>DOOR</font> <font color='red'>HANDLE</font> H.S. CODE:8708.29)<br/>",
+          "carrier_sasc_code": "OERT",
+          "bill_of_lading": "OERT101701K03566",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "A.P.A. INDUSTRIES, INC. PO#18090 CTN#: MADE IN TAIWAN<br/>",
+          "quantity": "32.0",
+          "weight": "148.0",
+          "vessel_name": "COSCO SPAIN",
+          "voyage": "047E",
+          "measure_unit": "CM",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-24",
+          "shipper_name": "N/A",
+          "container_id": "FFAU2305594"
+        },
+        "highlight": {
+          "product_desc": [
+            "AUTO PARTS (<font color='red'>DOOR</font> <font color='red'>HANDLE</font> H.S. CODE:8708.29)<br/>"
+          ]
+        },
+        "sort": [
+          1640304000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Lmqki4624_L7I290Y",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*800*800",
+          "loading_port": "58023, PUSAN",
+          "country": "KR, REPUBLIC OF KOREA",
+          "importer": "CIERRA MCCLAIN",
+          "notify_party_name": "HAIKANG TRADE INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-18",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>",
+          "carrier_sasc_code": "JCSM",
+          "bill_of_lading": "JCSM286526147863",
+          "shipper_address": " NO 348 JIUGAN RD JIUTING TOWN SONGJ SHANGHAI SH 247200 CN ",
+          "quantity_unit": "PCS",
+          "consignee_address": "1201 CLEVELAND ST APT 528 DENTON TX 76201 US ",
+          "marks_numbers": "23121<br/>",
+          "quantity": "1.0",
+          "weight": "14.0",
+          "vessel_name": "PRESIDENT TRUMAN",
+          "voyage": "0DBBK",
+          "measure_unit": "CF",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "14726 RAMONA AVE NUM E9 CHINO CHINO CA 91710 US ",
+          "new_date": "2021-12-24",
+          "shipper_name": "SHANGHAI QINGXING TRADE CO LTD",
+          "container_id": "CMAU5805105"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font><br/>"
+          ]
+        },
+        "sort": [
+          1640304000000
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,451 @@
+{
+    "total": 13229,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Ln9wc4624_L7I7d5X",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800,4000*900*800",
+          "loading_port": "58309, KAO HSIUNG",
+          "country": "TW, TAIWAN",
+          "importer": "N/A",
+          "notify_party_name": "EXPEDITORS INTERNATIONAL",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-05",
+          "hs_code": "392520",
+          "product_desc": "INV DM1327HU <font color='red'>DOOR</font> <font color='red'>HANDLE</font> RELEASE CABLE <font color='red'>DOOR</font> CABLE WINDOW <font color='red'>HANDLE</font> WASHER WINDOW REGULATOR<br/>INV",
+          "carrier_sasc_code": "HYSL",
+          "bill_of_lading": "HYSLNTPE21100539",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "MADE IN TAIWAN<br/>MADE IN TAIWAN<br/>MADE IN TAIWAN<br/>",
+          "quantity": "2810.0",
+          "weight": "21259.0",
+          "vessel_name": "ONE MINATO",
+          "voyage": "015E",
+          "measure_unit": "---",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "519 KAISER DRIVE SUITE A FOLCROFT PA 19032 USA",
+          "new_date": "2021-12-15",
+          "shipper_name": "N/A",
+          "container_id": "DFSU7082508,TGBU5105144,TGBU4625964"
+        },
+        "highlight": {
+          "product_desc": [
+            "INV DM1327HU <font color='red'>DOOR</font> <font color='red'>HANDLE</font> RELEASE CABLE <font color='red'>DOOR</font> CABLE WINDOW <font color='red'>HANDLE</font> WASHER WINDOW REGULATOR<br/>INV",
+            " DM1327HU <font color='red'>DOOR</font> <font color='red'>HANDLE</font> RELEASE CABLE <font color='red'>DOOR</font> CABLE WINDOW <font color='red'>HANDLE</font> WASHER WINDOW REGULATOR<br/>INV DM1327HU",
+            " <font color='red'>DOOR</font> <font color='red'>HANDLE</font> RELEASE CABLE <font color='red'>DOOR</font> CABLE WINDOW <font color='red'>HANDLE</font> WASHER "
+          ]
+        },
+        "sort": [
+          1639526400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmCML4624_L7I0oy2",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58309, KAO HSIUNG",
+          "country": "TW, TAIWAN",
+          "importer": "HOLLEY PERFORMANCE PRODUCTS INC",
+          "notify_party_name": "UPS CUSTOMS BROKERAGE",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-30",
+          "hs_code": "830260",
+          "product_desc": "AUTO SPARE PARTS MAGNUM SPINNER RH <font color='red'>DOOR</font> HAND LE W SATIN CHROME LH <font color='red'>DOOR</font> <font color='red'>HANDLE</font> W SATIN CHR OME DLX",
+          "carrier_sasc_code": "GBOR",
+          "bill_of_lading": "GBORTSE2111024",
+          "shipper_address": " NO 19 LANE 38 ZONG I 1ST JEN TE DIST TAINAN CITY TW ",
+          "quantity_unit": "CTN",
+          "consignee_address": "1801 RUSSELLVILLE RD BOWLING GREEN KY42101 US ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "177.0",
+          "weight": "2239.0",
+          "vessel_name": "EVER LUNAR",
+          "voyage": "051E",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "2031 S CENTENNIAL AVENUE AIKEN SC29803 US",
+          "new_date": "2021-12-15",
+          "shipper_name": "LAI YUE INDUSTRIAL CO LTD",
+          "container_id": "EMCU5431380"
+        },
+        "highlight": {
+          "product_desc": [
+            "AUTO SPARE PARTS MAGNUM SPINNER RH <font color='red'>DOOR</font> HAND LE W SATIN CHROME LH <font color='red'>DOOR</font> <font color='red'>HANDLE</font> W SATIN CHR OME DLX",
+            " <font color='red'>DOOR</font> LIGHT BEZEL FENDER BEZELREMOT E MIRROR BASE STANDARD MIRROR HEAD STANDARD MIRROR HEAD SATIN"
+          ]
+        },
+        "sort": [
+          1639526400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Lmkyk4624_L7I2ox2",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+          "loading_port": "57073",
+          "country": "CN, CHINA",
+          "importer": "WAY INTERGLOBAL NETWORK LLC",
+          "notify_party_name": "WAY INTERGLOBAL NETWORK LLC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-30",
+          "hs_code": "851690",
+          "product_desc": ", BLACK GLASS <font color='red'>DOOR</font> WITH SILKPRINT LOGO, SS <font color='red'>HANDLE</font>. GAS RAN",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTZS21A06337",
+          "shipper_address": " UNIT 04 7 F BRIGHT WAY TOWER NO 33 MONG KOK RD KL HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "3505.0",
+          "weight": "69670.0",
+          "vessel_name": "REN JIAN 9",
+          "voyage": "2142E",
+          "measure_unit": "X",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "3002 COAST CT ELKHART IN 46514 USA ",
+          "new_date": "2021-12-15",
+          "shipper_name": "QINGFENG HARDWARE PRODUCTS HK CO LTD",
+          "container_id": "TRHU5566601,TGBU5878798,CULU6152516,XYLU8003511,TRHU7380215,CULU6117428,BEAU5129343,CULU6016572"
+        },
+        "highlight": {
+          "product_desc": [
+            ", BLACK GLASS <font color='red'>DOOR</font> WITH SILKPRINT LOGO, SS <font color='red'>HANDLE</font>. GAS RAN",
+            "CF-FS60,24 GAS RANGE, SS PANEL,SILVER KNOBS WITH SILVER RING, BLACK GLASS <font color='red'>DOOR</font> WITH SILKPRINT LOGO",
+            ", SS <font color='red'>HANDLE</font>. GAS RANGE SPARE PARTS<br/>CF-FS60,24 GAS RANGE, SS PANEL,SILVER KNOBS WITH SILVER RING"
+          ]
+        },
+        "sort": [
+          1639526400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmlTH4624_L7I2q-c",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*802",
+          "loading_port": "58023, PUSAN",
+          "country": "KR, REPUBLIC OF KOREA",
+          "importer": "KASON FOOD SERVICE",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-30",
+          "hs_code": "830241",
+          "product_desc": "HARDWARE FOR COMMERCIAL KITCHEN EQUIPMENT 104HANDLE KAS FOR 6 <font color='red'>DOOR</font> 14000005620054 ADAPTER HUB 1900000208C ARCHED <font color='red'>HANDLE</font> 1 . .<br/>",
+          "carrier_sasc_code": "OSCD, OCEAN STATE COURIER AND DELIVERY IN",
+          "bill_of_lading": "OSCDSHCC2104449",
+          "shipper_address": " N0 39 KAIXI ROAD JIAXING ",
+          "quantity_unit": "CTN",
+          "consignee_address": "31 AMLAJACK BLVD",
+          "marks_numbers": "81SC0600 ISR SS/GLOW 6 DOOR 10481A00600 ISR PO 20055454-1 VIA ATLANTA,GA.USA MADE IN CHINA -DO- PO 20055412-1 PO 20055421-1 PO 20055410-1 PO 20055437-1 PO 20055943-1 PO 20056967-1PO 20057071-1 PO 20055461-1 PO<br/>",
+          "quantity": "963.0",
+          "weight": "16857.0",
+          "vessel_name": "YM UPWARD",
+          "voyage": "074E",
+          "measure_unit": "---",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-15",
+          "shipper_name": "WINSUNIMPORTEXP GROUP CO LTD",
+          "container_id": "ZENU3048261"
+        },
+        "highlight": {
+          "product_desc": [
+            "HARDWARE FOR COMMERCIAL KITCHEN EQUIPMENT 104HANDLE KAS FOR 6 <font color='red'>DOOR</font> 14000005620054 ADAPTER HUB 1900000208C ARCHED <font color='red'>HANDLE</font> 1 . .<br/>"
+          ]
+        },
+        "sort": [
+          1639526400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmlEM4624_L7I2p0_",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57069, XIAMEN",
+          "country": "CN, CHINA",
+          "importer": "HONG KONG BESTIME GROUP",
+          "notify_party_name": "GOLDEN STATE FC LLC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-30",
+          "hs_code": "392410",
+          "product_desc": " POTS BUTTON PINS CAKE CARRIER WITH <font color='red'>HANDLE</font> <font color='red'>DOOR</font> MAT GOBLET TRESTLE GLASSWARE GROUND ANCHOR HSS",
+          "carrier_sasc_code": "AMZD",
+          "bill_of_lading": "AMZDCN213E2170E5",
+          "shipper_address": "COMPANY LIM ITED FLAT 03 15/F CARNIVAL COMM BLDG 18 JAVA RD NORTH POINT HK ",
+          "quantity_unit": "CTN",
+          "consignee_address": "COMPANY LIM ITED1568 NORTH LINDEN AVENUE ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "877.0",
+          "weight": "11666.0",
+          "vessel_name": "YM UNIFORMITY",
+          "voyage": "056E",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "LGB8 1568 NORTH LINDEN AVENUE ",
+          "new_date": "2021-12-15",
+          "shipper_name": "HONG KONG BESTIME GROUP",
+          "container_id": "TGHU9348946"
+        },
+        "highlight": {
+          "product_desc": [
+            " POTS BUTTON PINS CAKE CARRIER WITH <font color='red'>HANDLE</font> <font color='red'>DOOR</font> MAT GOBLET TRESTLE GLASSWARE GROUND ANCHOR HSS"
+          ]
+        },
+        "sort": [
+          1639526400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LnhQn4624_L7I6bOG",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-17",
+          "hs_code": "960990",
+          "product_desc": "CHALK MARKER REPAIR KIT COLLAR STAYS BULK SMALL LR <font color='red'>HANDLE</font> <font color='red'>DOOR</font> HANGER HOOK BLACK <font color='red'>DOOR</font> HANGER HOOK",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTSZ21A29784",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "CLEANER S SUPPLY MADE IN CHINA C NO. 1-UP<br/>",
+          "quantity": "1053.0",
+          "weight": "14046.0",
+          "vessel_name": "COSCO AFRICA",
+          "voyage": "069S",
+          "measure_unit": "X",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-15",
+          "shipper_name": "N/A",
+          "container_id": "TEMU6327589"
+        },
+        "highlight": {
+          "product_desc": [
+            "CHALK MARKER REPAIR KIT COLLAR STAYS BULK SMALL LR <font color='red'>HANDLE</font> <font color='red'>DOOR</font> HANGER HOOK BLACK <font color='red'>DOOR</font> HANGER HOOK"
+          ]
+        },
+        "sort": [
+          1639526400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LoaB_4624_L7I8hna",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800",
+          "loading_port": "58309, KAO HSIUNG",
+          "country": "TW, TAIWAN",
+          "importer": "AIRSCHOTT INC",
+          "notify_party_name": "AIRSCHOTT INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-30",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>HANDLE</font> <font color='red'>DOOR</font> PR<br/><font color='red'>HANDLE</font> <font color='red'>DOOR</font> PR<br/>",
+          "carrier_sasc_code": "ATEB",
+          "bill_of_lading": "ATEBTWEB2110731",
+          "shipper_address": "2F 8 ALY 3 LN 303 SEC 3 NANJING E RD SONGSHAN DISTRICT ",
+          "quantity_unit": "CTN",
+          "consignee_address": "510 PLAZA DRIVE SUITE 1880 COLLEGE PARK GA 30349 ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "374.0",
+          "weight": "4002.0",
+          "vessel_name": "EVER FAR",
+          "voyage": "0TSAH",
+          "measure_unit": "---",
+          "unloading_port": "1703, SAVANNAH, GA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "510 PLAZA DRIVE SUITE 1880 COLLEGE PARK GA 30349 ",
+          "new_date": "2021-12-15",
+          "shipper_name": "TRANSPOLO CO LTD",
+          "container_id": "CMAU4500170,BMOU4343340"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>HANDLE</font> <font color='red'>DOOR</font> PR<br/><font color='red'>HANDLE</font> <font color='red'>DOOR</font> PR<br/>"
+          ]
+        },
+        "sort": [
+          1639526400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmFD14624_L7I02eF",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*802",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-29",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> ROSETTE & PLATE <font color='red'>DOOR</font> BUMPER DOORL.<br/>",
+          "carrier_sasc_code": "SFOK",
+          "bill_of_lading": "SFOKNGB21102846",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "OCK PARTS INV21TN0246147 EMTEK LOS ANGELES NO.<br/>",
+          "quantity": "701.0",
+          "weight": "11212.0",
+          "vessel_name": "MAERSK ALFIRK",
+          "voyage": "2105E",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-14",
+          "shipper_name": "N/A",
+          "container_id": "CAIU6610363"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> ROSETTE & PLATE <font color='red'>DOOR</font> BUMPER DOORL.<br/>"
+          ]
+        },
+        "sort": [
+          1639440000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmEOS4624_L7I0ylW",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57020, NINGPO",
+          "country": "TH, THAILAND",
+          "importer": "HL A CO INC",
+          "notify_party_name": "HL A CO INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-29",
+          "hs_code": "731815",
+          "product_desc": "611 CARTONS 9 PALLETS (119,322 PCS) PARTS FOR <font color='red'>DOOR</font> MIRROR OUT <font color='red'>HANDLE</font> & SET WHEEL SENSOR DETAILS AS",
+          "carrier_sasc_code": "NISN, NISSIN INTERNATIONAL TRANSPORT USA",
+          "bill_of_lading": "NISNH2710902610",
+          "shipper_address": " 700/309 MOO6 DONHUAROH MUANG ",
+          "quantity_unit": "CTN",
+          "consignee_address": " 101 MURPHY INDUSTRIAL BLVD BREMEN ",
+          "marks_numbers": "HL-A CO.,INC. P/NO.001-009 DATE.2021/09/13 TIME.00 MADE IN THAILAND<br/>",
+          "quantity": "611.0",
+          "weight": "4882.0",
+          "vessel_name": "MAERSK ELBA",
+          "voyage": "141N",
+          "measure_unit": "CM",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": " 101 MURPHY INDUSTRIAL BLVD BREMEN ",
+          "new_date": "2021-12-14",
+          "shipper_name": "HONDA LOCK THAI CO LTD",
+          "container_id": "MRKU3011569"
+        },
+        "highlight": {
+          "product_desc": [
+            "611 CARTONS 9 PALLETS (119,322 PCS) PARTS FOR <font color='red'>DOOR</font> MIRROR OUT <font color='red'>HANDLE</font> & SET WHEEL SENSOR DETAILS AS"
+          ]
+        },
+        "sort": [
+          1639440000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmFD14624_L7I02eR",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*802",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-29",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> ROSETTE & PLATE <font color='red'>DOOR</font> BUMPER DOORL.<br/>",
+          "carrier_sasc_code": "SFOK",
+          "bill_of_lading": "SFOKNGB21102850",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "OCK PARTS INV21TN0243138 EMTEK LOS ANGELES NO.<br/>",
+          "quantity": "503.0",
+          "weight": "10143.0",
+          "vessel_name": "MAERSK ALFIRK",
+          "voyage": "2105E",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-14",
+          "shipper_name": "N/A",
+          "container_id": "FCIU4039504"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> <font color='red'>HANDLE</font> ROSETTE & PLATE <font color='red'>DOOR</font> BUMPER DOORL.<br/>"
+          ]
+        },
+        "sort": [
+          1639440000000
+        ]
+      }
+    ]
+  }
