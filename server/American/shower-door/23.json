@@ -1,0 +1,448 @@
+{
+    "total": 9666,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmSsk4624_L7I1yK4",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "FRAMELESS HARDWARE COMPANY LLC",
+          "notify_party_name": "SWIFT CARGO INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-29",
+          "hs_code": "830140",
+          "product_desc": "SLIDING <font color='red'>SHOWER</font> <font color='red'>DOOR</font> KIT,SLIDING <font color='red'>SHOWER</font> <font color='red'>DOOR</font> HARDWARE,SEAL<br/>",
+          "carrier_sasc_code": "TXSL",
+          "bill_of_lading": "TXSLDGAWS2111045",
+          "shipper_address": " NO 14 BAOYUAN ROAD HUICHENG XINH UI JIANGMEN GUANGDONG CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "4361 FIRESTONE BLVD SOUTH GATE CA9 0280 ",
+          "marks_numbers": "FHC PO-8208; PO-8540; PO-8541; PO-7527; PO-7972; PO-7973 PKG.NO.: MADE IN CHINA<br/>",
+          "quantity": "1405.0",
+          "weight": "12521.0",
+          "vessel_name": "COSCO SHIPPING ROSE",
+          "voyage": "022E",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "16700 VALLEY VIEW AVE SUITE 162 L A MIRADA CA 90638 USA ",
+          "new_date": "2021-12-03",
+          "shipper_name": "JIANGMEN DECORMATE HARDWARE CO LT",
+          "container_id": "OOCU7341083"
+        },
+        "highlight": {
+          "product_desc": [
+            "SLIDING <font color='red'>SHOWER</font> <font color='red'>DOOR</font> KIT,SLIDING <font color='red'>SHOWER</font> <font color='red'>DOOR</font> HARDWARE,SEAL<br/>"
+          ]
+        },
+        "sort": [
+          1638489600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmwAe4624_L7I3Snp",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "SMART SUPPLY CHAIN INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "830140",
+          "product_desc": "SIDING TRAY STORAGE ORGANIZER GARAGE HOOK <font color='red'>SHOWER</font> HEAD <font color='red'>DOOR</font> BARRICADE BRACKETS OIL FILTER DRAIN TOOL LED BULB WEIGHTED QUILT WEIGHTED LAP PAD<br/>",
+          "carrier_sasc_code": "KYSI",
+          "bill_of_lading": "KYSIFLSAM4Y10285",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "1300.0",
+          "weight": "13015.0",
+          "vessel_name": "YM TOTALITY",
+          "voyage": "007E",
+          "measure_unit": "CM",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "5680 HWY 6 STE 364 MISSOURI CITY ",
+          "new_date": "2021-12-03",
+          "shipper_name": "N/A",
+          "container_id": "HMMU9014880"
+        },
+        "highlight": {
+          "product_desc": [
+            "SIDING TRAY STORAGE ORGANIZER GARAGE HOOK <font color='red'>SHOWER</font> HEAD <font color='red'>DOOR</font> BARRICADE BRACKETS OIL FILTER DRAIN TOOL LED BULB WEIGHTED QUILT WEIGHTED LAP PAD<br/>"
+          ]
+        },
+        "sort": [
+          1638489600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmJLe4624_L7I1IpG",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*800*800",
+          "loading_port": "57018, SHEKOU",
+          "country": "CN, CHINA",
+          "importer": "SPA WORLD CORP",
+          "notify_party_name": "SPA WORLD CORP",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "392210",
+          "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+          "carrier_sasc_code": "GLVV",
+          "bill_of_lading": "GLVVGL2410020",
+          "shipper_address": " RM2005 BUILDINGG 7 TIAN AN CENTER NO 31 JIHUA ROAD NANHAI DISTRICT FOSHAN CITY GUANGDONG CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "5701 NW 35TH AVE MIAMI FL 33142 USA ",
+          "marks_numbers": "NM<br/>",
+          "quantity": "338.0",
+          "weight": "12340.0",
+          "vessel_name": "CMA CGM TAGE",
+          "voyage": "0PGAT",
+          "measure_unit": "CM",
+          "unloading_port": "5201, MIAMI, FL",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "5701 NW 35TH AVE MIAMI FL 33142 USA ",
+          "new_date": "2021-12-03",
+          "shipper_name": "FOSHAN SOURCEVER CO LTD",
+          "container_id": "CAIU7056718"
+        },
+        "highlight": {
+          "product_desc": [
+            "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+          ]
+        },
+        "sort": [
+          1638489600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmImi4624_L7I1GPi",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800",
+          "loading_port": "48452, PIRAIEUS",
+          "country": "GR, GREECE",
+          "importer": "MAAX US CORP",
+          "notify_party_name": "ACCELA WORLDWIDE SOLUTIONS INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>",
+          "carrier_sasc_code": "WWOL, WORLDWIDE OCEAN LINE",
+          "bill_of_lading": "WWOLSZN21080073",
+          "shipper_address": "8-3 NAJIN INDUSTRY PARK SANHE TOWN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "718 MID ATLANTIC PKWY ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "360.0",
+          "weight": "19389.0",
+          "vessel_name": "COSCO SHIPPING ALPS",
+          "voyage": "020S",
+          "measure_unit": "CM",
+          "unloading_port": "1001, NEW YORK, NY",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "16522 HUNTERS GREEN PKWY UNIT 250 ",
+          "new_date": "2021-12-03",
+          "shipper_name": "GUANGDONG ROSERY BATH SCIENCE AND T",
+          "container_id": "TEMU7769034,CSNU6862717"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>"
+          ]
+        },
+        "sort": [
+          1638489600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmL_n4624_L7I1Vfs",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "KES HILI INC",
+          "notify_party_name": "GOLDEN STATE FC LLC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "392210",
+          "product_desc": " HOLDER <font color='red'>SHOWER</font> HOLDER <font color='red'>DOOR</font> STOPPER KITCHEN FAUCET SPRAYER ",
+          "carrier_sasc_code": "AMZD",
+          "bill_of_lading": "AMZDCN21A0960A31",
+          "shipper_address": " NO 6 TAIHE ROAD DONGXI DEVELOPMEN T ZONE B ",
+          "quantity_unit": "CTN",
+          "consignee_address": "23555 GOLDEN SPRINGS DR ",
+          "marks_numbers": "LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9 LAX9<br/>",
+          "quantity": "1104.0",
+          "weight": "15820.0",
+          "vessel_name": "CMA CGM G.WASHINGTON",
+          "voyage": "0TXA1",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "11263 OLEANDER AVE ",
+          "new_date": "2021-12-03",
+          "shipper_name": "HESHAN KES SANITARY WARE LIMITED",
+          "container_id": "XINU8151787"
+        },
+        "highlight": {
+          "product_desc": [
+            " HOLDER <font color='red'>SHOWER</font> HOLDER <font color='red'>DOOR</font> STOPPER KITCHEN FAUCET SPRAYER ",
+            "<font color='red'>SHOWER</font> ARM SINK FAUCET BATHROOM BASKET <font color='red'>SHOWER</font> FAUCET DRAIN FREE STANDING PAPER HOLDER BATHROOM",
+            " SHELF TOWEL BAR ROBE HOOK PAPER HOLDER SHUT-OFF VALVE HAND <font color='red'>SHOWER</font> PAPER TOWEL HOLDER MARBLE BASE PAPER"
+          ]
+        },
+        "sort": [
+          1638489600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LoYSc4624_L7I8dG7",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57018, SHEKOU",
+          "country": "CN, CHINA",
+          "importer": "COMARVAL LLC",
+          "notify_party_name": "COMARVAL LLC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "391690",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> SEAL STRIP 4PLTS=140CTNS HS CODE:3916909000 THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIALS<br/>",
+          "carrier_sasc_code": "HNLT",
+          "bill_of_lading": "HNLTJTSZ2109294",
+          "shipper_address": " NO 1-1526 XIYUAN PLAZA PILOT FREE TRADE ZONE CENTRAL BUSINESS DIST TIANJIN CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "11401 NW 89TH STREET APT 111 DORAL FLORIDA 33178 USA ",
+          "marks_numbers": "PO#WORTAI02<br/>",
+          "quantity": "140.0",
+          "weight": "2300.0",
+          "vessel_name": "CMA CGM TAGE",
+          "voyage": "0PGAT",
+          "measure_unit": "X",
+          "unloading_port": "5201, MIAMI, FL",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "11401 NW 89TH STREET APT 111 DORAL FLORIDA 33178 USA ",
+          "new_date": "2021-12-03",
+          "shipper_name": "TIANJIN WORTAI INTERNATIONAL TRADE CO LTD",
+          "container_id": "CSNU6195825"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> SEAL STRIP 4PLTS=140CTNS HS CODE:3916909000 THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIALS<br/>"
+          ]
+        },
+        "sort": [
+          1638489600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmwNX4624_L7I3Tq5",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "CHICAGO TEMPERED GLASS INC",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-22",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>DOOR</font> HANDLE <font color='red'>SHOWER</font> HINGE <font color='red'>SHOWER</font> SLIDING ROLLE.<br/>",
+          "carrier_sasc_code": "CCFE, CARTER, CHARLIE F ENTERPRISES INC",
+          "bill_of_lading": "CCFESZLAX2100654",
+          "shipper_address": "L 2 FLOOR NO 28 CUIYUANYIJIE STREET JIANGHAI DISTRIC T JIANGMEN CITY GUANGDONG CHINA TE L +86-75038980 ",
+          "quantity_unit": "CTN",
+          "consignee_address": "2945 N MOZART ST CHICAGO IL 6061 8 USA CONTACT PERSON MR STEVEN YESINICK TEL +1 -773-671-4047 ",
+          "marks_numbers": "R KIT (769 CTNS=12 PALLETS) CTG<br/>",
+          "quantity": "769.0",
+          "weight": "9284.0",
+          "vessel_name": "COSCO SHIPPING AQUARIUS",
+          "voyage": "018E",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-03",
+          "shipper_name": "JIANGMEN JIANGHAI EON TRADE CO",
+          "container_id": "OOLU9028053"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> HANDLE <font color='red'>SHOWER</font> HINGE <font color='red'>SHOWER</font> SLIDING ROLLE.<br/>"
+          ]
+        },
+        "sort": [
+          1638489600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Lolp64624_L7I89hP",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "CV IT TECH LLC",
+          "notify_party_name": "CV IT TECH LLC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-24",
+          "hs_code": "761010",
+          "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> HS CODE:7610100000<br/>",
+          "carrier_sasc_code": "MGNG",
+          "bill_of_lading": "MGNGNYK21092868",
+          "shipper_address": " RM502 BLCOK B TIANHUI BUILDING LONGHUA DISTRICT SHENZHEN ",
+          "quantity_unit": "PKG",
+          "consignee_address": "NAME: MIKE TUNK62 CAMBRIDGE DR SHORT HILLS NJ 07078CONTACT NUMB ER: +19175610211TAX ID 47-3942674 ",
+          "marks_numbers": "ACE ARCHITECTURAL CO., LTD<br/>",
+          "quantity": "6.0",
+          "weight": "1879.0",
+          "vessel_name": "ZIM SAVANNAH",
+          "voyage": "7E",
+          "measure_unit": "---",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "NAME: MIKE TUNK62 CAMBRIDGE DR SHORT HILLS NJ 07078CONTACT NUMB ER: +19175610211TAX ID 47-3942674 ",
+          "new_date": "2021-12-03",
+          "shipper_name": "ACE ARCHITECTURAL PRODUCTS CO LTD",
+          "container_id": "TCNU8187700"
+        },
+        "highlight": {
+          "product_desc": [
+            "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> HS CODE:7610100000<br/>"
+          ]
+        },
+        "sort": [
+          1638489600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmJOw4624_L7I1I2k",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*806*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "FAB GLASS AND MIRROR LLC",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "392210",
+          "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+          "carrier_sasc_code": "GLLF",
+          "bill_of_lading": "GLLFBLS21100212",
+          "shipper_address": " P29 1ST FLOOR BLDG 9 NO 1 WEST LVJING RD CHANCHENG ",
+          "quantity_unit": "PKG",
+          "consignee_address": "499 DOUGLAS RD E ",
+          "marks_numbers": "NM<br/>",
+          "quantity": "475.0",
+          "weight": "21580.0",
+          "vessel_name": "CMA CGM TAGE",
+          "voyage": "0PGAT",
+          "measure_unit": "---",
+          "unloading_port": "5201, MIAMI, FL",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-12-03",
+          "shipper_name": "FOSHAN HAROLD SANITARY CO LTD",
+          "container_id": "FSCU8379522"
+        },
+        "highlight": {
+          "product_desc": [
+            "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+          ]
+        },
+        "sort": [
+          1638489600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Lmv-X4624_L7I3SXJ",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57018, SHEKOU",
+          "country": "CN, CHINA",
+          "importer": "ALL YOUR HARDWARE COM",
+          "notify_party_name": "ALL YOUR HARDWARE COM",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "830260",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> KIT PARTS 60C2 BYPASS DOUBLE SLIDING <font color='red'>DOOR</font><br/>",
+          "carrier_sasc_code": "AMIG, A MOVING SERVICE",
+          "bill_of_lading": "AMIGL210550485A",
+          "shipper_address": "ROOM 418 4TH FL NO 9 THIRD ST TIYU FOSHAN GUANGDONG CHINA ",
+          "quantity_unit": "PKG",
+          "consignee_address": "17843 LYNN STREET PANAMA CITY BEACH FL 32413",
+          "marks_numbers": "LMI(AYH1613)<br/>",
+          "quantity": "8.0",
+          "weight": "8696.0",
+          "vessel_name": "CAPE MAGNUS",
+          "voyage": "E008",
+          "measure_unit": "CM",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "17843 LYNN STREET PANAMA CITY BEACH FL 32413",
+          "new_date": "2021-12-03",
+          "shipper_name": "FOSHAN DONGTIANHONG IMPORT AND EXPO",
+          "container_id": "BSIU9904264"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> KIT PARTS 60C2 BYPASS DOUBLE SLIDING <font color='red'>DOOR</font><br/>"
+          ]
+        },
+        "sort": [
+          1638489600000
+        ]
+      }
+    ]
+  }

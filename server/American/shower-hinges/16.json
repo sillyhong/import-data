@@ -1,0 +1,446 @@
+{
+    "total": 234,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2106",
+        "_id": "AX-LfLsp4624_L7Ioweb",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "FRAMELESS HARDWARE COMPANY INC",
+          "notify_party_name": "SHENZHEN JIA KING IMPORT & EXPORT CO LTD",
+          "type": "us_2106",
+          "estimate_arrival_date": "2021-06-05",
+          "hs_code": "830250",
+          "product_desc": " CLAMP HS CODE 8302419045 BRASS <font color='red'>SHOWER</font> <font color='red'>HINGE</font> HS CODE 8302109030 SLIDING KIT HS CODE 8302419045",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV149101743547",
+          "shipper_address": " #1 8TH STREET CHANGLONG INDUSTRIAL ZONE SIJIU TOWN TAISHAN CTIY GUANGDONG CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": " ADD: 4361 FIRESTONE BLVD SOUTH GATE CA 90280 ATT: CHRIS HANSTAD TEL: 323 994 2165 ",
+          "marks_numbers": "FHC FHC C/NO THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME<br/>",
+          "quantity": "1515.0",
+          "weight": "24060.0",
+          "vessel_name": "EVER LIBRA",
+          "voyage": "1191E",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": " RM2707 BUILDING A LUSHAN HOTE L CHUNGFENG ROAD LUOHU DIST RICT SHENZHEN CHINA ",
+          "new_date": "2021-06-07",
+          "shipper_name": "LEADER HARDWARE MANUFACTURER LIMITED",
+          "container_id": "TCLU7842890"
+        },
+        "highlight": {
+          "product_desc": [
+            " CLAMP HS CODE 8302419045 BRASS <font color='red'>SHOWER</font> <font color='red'>HINGE</font> HS CODE 8302109030 SLIDING KIT HS CODE 8302419045"
+          ]
+        },
+        "sort": [
+          1623024000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2106",
+        "_id": "AX-LfSqN4624_L7Io4ir",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58201, HONG KONG",
+          "country": "HK, HONG KONG",
+          "importer": "FRAMELESS HARDWARE COMPANY INC",
+          "notify_party_name": "N/A",
+          "type": "us_2106",
+          "estimate_arrival_date": "2021-05-27",
+          "hs_code": "392210",
+          "product_desc": "BRASS <font color='red'>SHOWER</font> <font color='red'>HINGE</font><br/>",
+          "carrier_sasc_code": "CHKM, CHEROKEE MILLING COMPANY INC",
+          "bill_of_lading": "CHKMJMLAX2104627",
+          "shipper_address": "#1 8TH STREET CHANGLONG IND ZONE SIJIU TOWN TAISHAN CTIY GUANGDONG CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": " 4361 FIRESTONE BLVD SOUTH GATE CA 90280 USA ",
+          "marks_numbers": "FHC<br/>",
+          "quantity": "163.0",
+          "weight": "2584.0",
+          "vessel_name": "EVER LIBRA",
+          "voyage": "1191E",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-06-06",
+          "shipper_name": "LEADER HARDWARE MANUFACTURER LTD",
+          "container_id": "OOLU8616345"
+        },
+        "highlight": {
+          "product_desc": [
+            "BRASS <font color='red'>SHOWER</font> <font color='red'>HINGE</font><br/>"
+          ]
+        },
+        "sort": [
+          1622937600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2106",
+        "_id": "AX-LdXB74624_L7ImZUo",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58201, HONG KONG",
+          "country": "HK, HONG KONG",
+          "importer": "M D",
+          "notify_party_name": "N/A",
+          "type": "us_2106",
+          "estimate_arrival_date": "2021-05-27",
+          "hs_code": "392210",
+          "product_desc": "BRASS <font color='red'>SHOWER</font> <font color='red'>HINGE</font><br/>",
+          "carrier_sasc_code": "CHKM, CHEROKEE MILLING COMPANY INC",
+          "bill_of_lading": "CHKMJMSEA2102602",
+          "shipper_address": "#1 8TH ST CHANGLONG IND ZONE SIJIU TOWN TAISHAN CTIY GUANGDONG CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "25811 - 74TH AVENUE SOUTH KENT WA 98032 USA ",
+          "marks_numbers": "M.I<br/>",
+          "quantity": "286.0",
+          "weight": "4631.0",
+          "vessel_name": "ENSENADA",
+          "voyage": "0317E",
+          "measure_unit": "X",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-06-05",
+          "shipper_name": "LEADER HARDWARE MANUFACTURER LTD",
+          "container_id": "CCLU6997545"
+        },
+        "highlight": {
+          "product_desc": [
+            "BRASS <font color='red'>SHOWER</font> <font color='red'>HINGE</font><br/>"
+          ]
+        },
+        "sort": [
+          1622851200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2106",
+        "_id": "AX-LdUZa4624_L7ImWk6",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "58201, HONG KONG",
+          "country": "HK, HONG KONG",
+          "importer": "SOUTHEASTERN ALUMINUM PRODUCTS",
+          "notify_party_name": "SOUTHEASTERN ALUMINUM PRODUCTS",
+          "type": "us_2106",
+          "estimate_arrival_date": "2021-05-29",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font><br/>",
+          "carrier_sasc_code": "MGNG",
+          "bill_of_lading": "MGNGMIA21330006",
+          "shipper_address": " XINGYEBEI ROAD SHIBEI INDUSTRIAL ZONE SHISHAN NANHAI FOSHAN CITY GUANGDONG PROVINCE P R CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "4925 BULLS BAY HIGHWAY JACKSONVILLEFL 32219 USA ",
+          "marks_numbers": "SOUTHEASTERN ALUMINUMPRODUCTS.INC.JACKSONV ILLE,USAMADE IN CHINA<br/>",
+          "quantity": "240.0",
+          "weight": "3932.0",
+          "vessel_name": "CMA CGM ATTILA",
+          "voyage": "0PG9F",
+          "measure_unit": "---",
+          "unloading_port": "5201, MIAMI, FL",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "4925 BULLS BAY HIGHWAY JACKSONVILLEFL 32219 USA ",
+          "new_date": "2021-06-05",
+          "shipper_name": "MITHRAS GLASS HARDWARE FACTORY",
+          "container_id": "CBHU9030796"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font><br/>"
+          ]
+        },
+        "sort": [
+          1622851200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2107",
+        "_id": "AX-LfwwN4624_L7IpelW",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "58201, HONG KONG",
+          "country": "HK, HONG KONG",
+          "importer": "SOUTHEASTERN ALUMINUM PRODUCTS",
+          "notify_party_name": "SOUTHEASTERN ALUMINUM PRODUCTS",
+          "type": "us_2107",
+          "estimate_arrival_date": "2021-05-29",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font><br/>",
+          "carrier_sasc_code": "MGNG",
+          "bill_of_lading": "MGNGMIA21330006",
+          "shipper_address": " XINGYEBEI ROAD SHIBEI INDUSTRIAL ZONE SHISHAN NANHAI FOSHAN CITY GUANGDONG PROVINCE P R CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "4925 BULLS BAY HIGHWAY JACKSONVILLEFL 32219 USA ",
+          "marks_numbers": "SOUTHEASTERN ALUMINUMPRODUCTS.INC.JACKSONV ILLE,USAMADE IN CHINA<br/>",
+          "quantity": "240.0",
+          "weight": "3932.0",
+          "vessel_name": "CMA CGM ATTILA",
+          "voyage": "0PG9F",
+          "measure_unit": "---",
+          "unloading_port": "5201, MIAMI, FL",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "4925 BULLS BAY HIGHWAY JACKSONVILLEFL 32219 USA ",
+          "new_date": "2021-06-05",
+          "shipper_name": "MITHRAS GLASS HARDWARE FACTORY",
+          "container_id": "CBHU9030796"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font><br/>"
+          ]
+        },
+        "sort": [
+          1622851200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2106",
+        "_id": "AX-LgAeK4624_L7Ipxne",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "PORTALS HARDWARE LLC",
+          "notify_party_name": "N/A",
+          "type": "us_2106",
+          "estimate_arrival_date": "2021-05-22",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font>, GLASS CLAMP<br/>",
+          "carrier_sasc_code": "SIXL, SIMPLEX LEASING INC",
+          "bill_of_lading": "SIXLSZX10182523U",
+          "shipper_address": " XINGYEBEI ROAD SHIBEI INDUSTRIAL ZONE SHISHAN NANHAI FOSHAN CITY ",
+          "quantity_unit": "CTN",
+          "consignee_address": "925 LYDIA AVE ",
+          "marks_numbers": "SHOWER HINGE, GLASS CLAMP<br/>",
+          "quantity": "92.0",
+          "weight": "1054.0",
+          "vessel_name": "YM TRIUMPH",
+          "voyage": "005E",
+          "measure_unit": "CM",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-06-02",
+          "shipper_name": "MITHRAS GLASS HARDWARE FACTORY",
+          "container_id": "TCNU3079663"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font>, GLASS CLAMP<br/>"
+          ]
+        },
+        "sort": [
+          1622592000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2106",
+        "_id": "AX-LaQO44624_L7If-oy",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "MAAX BATH INC",
+          "notify_party_name": "N/A",
+          "type": "us_2106",
+          "estimate_arrival_date": "2021-05-30",
+          "hs_code": "830210",
+          "product_desc": "<font color='red'>SHOWER</font> ROLLER ZINC ALLOY ACCESSORIES(<font color='red'>HINGE</font>)<br/>",
+          "carrier_sasc_code": "DFDS, DIVERSIFIED DELIVERY SYSTEMS INC",
+          "bill_of_lading": "DFDSNGB7117158",
+          "shipper_address": "LUYI VILLAGE ZHANQI TOWN YINZHOU DIST ",
+          "quantity_unit": "PKG",
+          "consignee_address": "160 ST-JOSEPH BLVD ",
+          "marks_numbers": "MAAX MAAX<br/>",
+          "quantity": "2.0",
+          "weight": "945.0",
+          "vessel_name": "CMA CGM ESTELLE",
+          "voyage": "0TN41",
+          "measure_unit": "CM",
+          "unloading_port": "3001, SEATTLE, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-06-02",
+          "shipper_name": "NINGBO LEWAY MANUFACTURING LTD",
+          "container_id": "FFAU2696210"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> ROLLER ZINC ALLOY ACCESSORIES(<font color='red'>HINGE</font>)<br/>"
+          ]
+        },
+        "sort": [
+          1622592000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2106",
+        "_id": "AX-Ld7mP4624_L7InKM1",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800,2000*806*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "STONE HARBOR HARDWARE",
+          "notify_party_name": "N/A",
+          "type": "us_2106",
+          "estimate_arrival_date": "2021-05-31",
+          "hs_code": "841231",
+          "product_desc": "HANDLE <font color='red'>SHOWER</font> ROD CLOSET ROD <font color='red'>HINGE</font><br/>HANDLE <font color='red'>SHOWER</font> ROD CLOSET ROD <font color='red'>HINGE</font><br/>",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL356502142NGB",
+          "shipper_address": "NO 50 YONGDINGHE ROAD XIAPU 315000 NINGBO ",
+          "quantity_unit": "PKG",
+          "consignee_address": "1800 W CAPITOL DR ",
+          "marks_numbers": "STONE HARBOR<br/>STONE HARBOR<br/>",
+          "quantity": "1721.0",
+          "weight": "30125.0",
+          "vessel_name": "CMA CGM VIRGINIA",
+          "voyage": "0GV86",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-05-31",
+          "shipper_name": "NINGBO BAICHUAN WAREHOUSE",
+          "container_id": "TCKU2733420,TRLU8995830"
+        },
+        "highlight": {
+          "product_desc": [
+            "HANDLE <font color='red'>SHOWER</font> ROD CLOSET ROD <font color='red'>HINGE</font><br/>HANDLE <font color='red'>SHOWER</font> ROD CLOSET ROD <font color='red'>HINGE</font><br/>"
+          ]
+        },
+        "sort": [
+          1622419200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2106",
+        "_id": "AX-LfwVi4624_L7IpeC2",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*906*802",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "HMIGLASS",
+          "notify_party_name": "N/A",
+          "type": "us_2106",
+          "estimate_arrival_date": "2021-05-18",
+          "hs_code": "830241",
+          "product_desc": "<font color='red'>SHOWER</font> ROOM HARDWARE HS:8302419045 <font color='red'>SHOWER</font> ROOM BRACKET HS:8302419045 SHOWE ROOM <font color='red'>HINGE</font> HS:8302419045<br/>",
+          "carrier_sasc_code": "PEVH",
+          "bill_of_lading": "PEVHCSZ21050421",
+          "shipper_address": "ROOM2211NO1XINYUEBEI1STSTREETLANHETOWNNANSHADISTRI GUANGZHOU CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "4915HELLERSTREETA LOUISVILLE 40218 US ",
+          "marks_numbers": "HMI CARDINAL<br/>",
+          "quantity": "143.0",
+          "weight": "2994.0",
+          "vessel_name": "EVER FUTURE",
+          "voyage": "11900",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-05-31",
+          "shipper_name": "GUANGZHOUSINMIINDUSTRIALCO LTD",
+          "container_id": "TRHU7760426"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> ROOM HARDWARE HS:8302419045 <font color='red'>SHOWER</font> ROOM BRACKET HS:8302419045 SHOWE ROOM <font color='red'>HINGE</font> HS:8302419045<br/>"
+          ]
+        },
+        "sort": [
+          1622419200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2107",
+        "_id": "AX-LhdnQ4624_L7IrkQq",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800,2000*806*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "STONE HARBOR HARDWARE",
+          "notify_party_name": "N/A",
+          "type": "us_2107",
+          "estimate_arrival_date": "2021-05-31",
+          "hs_code": "841231",
+          "product_desc": "HANDLE <font color='red'>SHOWER</font> ROD CLOSET ROD <font color='red'>HINGE</font><br/>HANDLE <font color='red'>SHOWER</font> ROD CLOSET ROD <font color='red'>HINGE</font><br/>",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL356502142NGB",
+          "shipper_address": "NO 50 YONGDINGHE ROAD XIAPU 315000 NINGBO ",
+          "quantity_unit": "PKG",
+          "consignee_address": "1800 W CAPITOL DR ",
+          "marks_numbers": "STONE HARBOR<br/>STONE HARBOR<br/>",
+          "quantity": "1721.0",
+          "weight": "30125.0",
+          "vessel_name": "CMA CGM VIRGINIA",
+          "voyage": "0GV86",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-05-31",
+          "shipper_name": "NINGBO BAICHUAN WAREHOUSE",
+          "container_id": "TCKU2733420,TRLU8995830"
+        },
+        "highlight": {
+          "product_desc": [
+            "HANDLE <font color='red'>SHOWER</font> ROD CLOSET ROD <font color='red'>HINGE</font><br/>HANDLE <font color='red'>SHOWER</font> ROD CLOSET ROD <font color='red'>HINGE</font><br/>"
+          ]
+        },
+        "sort": [
+          1622419200000
+        ]
+      }
+    ]
+  }

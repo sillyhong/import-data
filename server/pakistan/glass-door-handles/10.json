@@ -1,0 +1,47 @@
+{
+    "total": 91,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_pk",
+        "_type": "pk_1701",
+        "_id": "AWNiu4W0UML1wIx9FyD4",
+        "_score": null,
+        "_source": {
+          "container": "---",
+          "importer": "DAWLANCE (PRIVATE) LIMITED",
+          "year": "2017",
+          "g_weight": "6.635",
+          "type": "pk_1701",
+          "product_desc": "265 PACKAGES STC: ALUMINIUM EXTRUSION FOR <font color='red'>DOOR</font> <font color='red'>HANDLE</font>, ENAMELLED <font color='red'>GLASS</font> <font color='red'>DOOR</font> PANELSAND PUS PROFILE",
+          "flight_no": "---",
+          "bol_date": "2017-01-20",
+          "unit_of_quantity": "units",
+          "bol_number": "GFSSEA16120024B",
+          "type_of_package": "PACKAGES",
+          "err_index": "---",
+          "consignee_address": "DAWLANCE CENTRE, 7/4 9 CIVIL LINE DR. ZIA-UD-DIN AHMED ROAD,KARACHI PAKISTAN",
+          "quantity": "265",
+          "airline_name": "---",
+          "packages": "265",
+          "vessel_name": "KMTC DUBAI",
+          "place_of_receipt": "SHEKOU",
+          "month": "01",
+          "igm_date": "2017-01-11",
+          "pk_port": "KAPE",
+          "igm_no": "12",
+          "index_no": "338",
+          "new_date": "2017-01-11",
+          "shipper_name": "HALTECH INDUSTRIAL COMPANY LTD , 1801 UNIT, BUILD"
+        },
+        "highlight": {
+          "product_desc": [
+            "265 PACKAGES STC: ALUMINIUM EXTRUSION FOR <font color='red'>DOOR</font> <font color='red'>HANDLE</font>, ENAMELLED <font color='red'>GLASS</font> <font color='red'>DOOR</font> PANELSAND PUS PROFILE"
+          ]
+        },
+        "sort": [
+          1484092800000
+        ]
+      }
+    ]
+  }

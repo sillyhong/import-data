@@ -1,0 +1,433 @@
+[
+    {
+      "_index": "imiker_ua",
+      "_type": "ua_2006",
+      "_id": "AXggOi37hLLCGnnlIWl5",
+      "_score": null,
+      "_source": {
+        "importer": "ТОВ \"МАКС ВЕНТО\"",
+        "price_of_currency": 25420,
+        "type": "ua_2006",
+        "declaration_number": "UA100020\\2020\\28892",
+        "hs_code": "8516608000",
+        "product_desc": " SHELF, LAMP, DKP <font color='red'>HANDLE</font>, WHITE PAINTED PANEL, WHITE <font color='red'>GLASS</font> <font color='red'>DOOR</font>, BARCODE NO. 2059765952084",
+        "bank_name": "---",
+        "customs_office_code": "UA100020",
+        "shipper_code": "---",
+        "shipper_address": "---",
+        "consignee_address": "04050 м.Київ,вул.Глибочицька,53 Україна",
+        "bank_code": "---",
+        "currency_name": "---",
+        "exchange_rate": 26.7303,
+        "bank_account_no": "---",
+        "consignee_code": "37996139",
+        "n_weight": 8848,
+        "guarantor_name": "ТОВ \"МАКС ВЕНТО\"",
+        "bank_branch_loc_code": "---",
+        "guarantor_code": "37996139",
+        "uah_price": 679484.226,
+        "new_date": "2020-06-15",
+        "shipper_name": "IMC CETINTAS DIS TICARET LTD. STI.",
+        "guarantor_address": "04050 м.Київ,вул.Глибочицька,53 Україна"
+      },
+      "highlight": {
+        "product_desc": [
+          " SHELF, LAMP, DKP <font color='red'>HANDLE</font>, WHITE PAINTED PANEL, WHITE <font color='red'>GLASS</font> <font color='red'>DOOR</font>, BARCODE NO. 2059765952084",
+          " TRAYS + 1 GRID, TOP CONTROL KNOBS, NORMAL SHELF, LAMP, TUNA TYPE <font color='red'>HANDLE</font>, FULL BLACK <font color='red'>GLASS</font> PANEL, FULL",
+          " BLACK <font color='red'>GLASS</font> <font color='red'>DOOR</font>, BARCODE NO. 2059765950851-64шт.CALGARY , 6+1 FUNCTION, LOWER+UPPER REZISTANCE, COOLI",
+          ", 1 TRAY + 1 GRID, TOP CONTROL KNOBS,  NORMAL SHELF,LAMP, DKP <font color='red'>HANDLE</font>, BLACK PAINTED PANEL, FULL",
+          " BLACK FORNT <font color='red'>DOOR</font>, BARCODE NO. 2059765951964-38шт.BLANCO , 6+1 FUNCTION, MECHANIC TIMER, THERMOSTAT"
+        ]
+      },
+      "sort": [
+        1592179200000
+      ]
+    },
+    {
+      "_index": "imiker_ua",
+      "_type": "ua_2005",
+      "_id": "AXgf6Ahp-KwQnO-Kpkhj",
+      "_score": null,
+      "_source": {
+        "importer": "ТОВ \"МАКС ВЕНТО\"",
+        "price_of_currency": 11850,
+        "type": "ua_2005",
+        "declaration_number": "UA100020\\2020\\24466",
+        "hs_code": "8516608000",
+        "product_desc": " SHELF, LAMP, DKP <font color='red'>HANDLE</font>, WHITE PAINTED PANEL, WHITE <font color='red'>GLASS</font> <font color='red'>DOOR</font>, BARCODE NO. 2059765952084-78шт.Країна",
+        "bank_name": "---",
+        "customs_office_code": "UA100020",
+        "shipper_code": "---",
+        "shipper_address": "---",
+        "consignee_address": "04050 м.Київ,вул.Глибочицька,53 Україна",
+        "bank_code": "---",
+        "currency_name": "USD",
+        "exchange_rate": 26.9592,
+        "bank_account_no": "---",
+        "consignee_code": "37996139",
+        "n_weight": 4424,
+        "guarantor_name": "ТОВ \"МАКС ВЕНТО\"",
+        "bank_branch_loc_code": "---",
+        "guarantor_code": "37996139",
+        "uah_price": 319466.52,
+        "new_date": "2020-05-04",
+        "shipper_name": "IMC CETINTAS DIS TICARET LTD. STI.",
+        "guarantor_address": "04050 м.Київ,вул.Глибочицька,53 Україна"
+      },
+      "highlight": {
+        "product_desc": [
+          " SHELF, LAMP, DKP <font color='red'>HANDLE</font>, WHITE PAINTED PANEL, WHITE <font color='red'>GLASS</font> <font color='red'>DOOR</font>, BARCODE NO. 2059765952084-78шт.Країна",
+          ", 1 TRAY + 1 GRID, TOP CONTROL KNOBS,  NORMAL SHELF,LAMP, DKP <font color='red'>HANDLE</font>, BLACK PAINTED PANEL, FULL",
+          " BLACK FORNT <font color='red'>DOOR</font>, BARCODE NO. 2059765951964-80шт.BLANCO , 6+1 FUNCTION, MECHANIC TIMER, THERMOSTAT"
+        ]
+      },
+      "sort": [
+        1588550400000
+      ]
+    },
+    {
+      "_index": "imiker_ua",
+      "_type": "ua_2004",
+      "_id": "AXgf1_XH-KwQnO-KoaXb",
+      "_score": null,
+      "_source": {
+        "importer": "ТОВ \"КП ЕМІР\"",
+        "price_of_currency": 6.6257,
+        "type": "ua_2004",
+        "declaration_number": "UA100060\\2020\\314216",
+        "hs_code": "8302490090",
+        "product_desc": " <font color='red'>GLASS</font> HOLDER -5шт;зовнішній тримач скла OUT <font color='red'>DOOR</font> HINGE -3шт;вершній тримач скла TOP <font color='red'>GLASS</font> SHEET METAL",
+        "bank_name": "---",
+        "customs_office_code": "UA100060",
+        "shipper_code": "---",
+        "shipper_address": "---",
+        "consignee_address": "03680, м.Київ, вул.Ямська, буд.72",
+        "bank_code": "---",
+        "currency_name": "USD",
+        "exchange_rate": 27.0404,
+        "bank_account_no": "---",
+        "consignee_code": "31202834",
+        "n_weight": 40.5,
+        "guarantor_name": "ТОВ \"ДІЛІЖАНС\"",
+        "bank_branch_loc_code": "---",
+        "guarantor_code": "32709798",
+        "uah_price": 179.16157828,
+        "new_date": "2020-04-14",
+        "shipper_name": "\"GIRGIN ANKASTRE SISTEMLERI SAN. DIS TIC. LTD. STI.\"",
+        "guarantor_address": "04071, м.Київ, вул.Набережно-Лугова, буд.5"
+      },
+      "highlight": {
+        "product_desc": [
+          " <font color='red'>GLASS</font> HOLDER -5шт;зовнішній тримач скла OUT <font color='red'>DOOR</font> HINGE -3шт;вершній тримач скла TOP <font color='red'>GLASS</font> SHEET METAL",
+          " ручка дверці <font color='red'>HANDLE</font> -3шт;тримач внутрішнього скла INSIDE <font color='red'>GLASS</font> HOLDER -5шт;тримач внутрішнього скла",
+          " -5шт;металева ручка дверці HOLDER -5шт;металева рейка для кріплення скла <font color='red'>GLASS</font> RAIL -5шт;металева",
+          " MIRROR INSIDE <font color='red'>GLASS</font> HOLDER -5шт;Торговельна марка: INTERLINE;Виробник: \"GIRGIN ANKASTRE SISTEMLERI SAN. DIS TIC. LTD. STI.\";Країна виробництва:  TR"
+        ]
+      },
+      "sort": [
+        1586822400000
+      ]
+    },
+    {
+      "_index": "imiker_ua",
+      "_type": "ua_2003",
+      "_id": "AXgflC1K-KwQnO-KnXly",
+      "_score": null,
+      "_source": {
+        "importer": "IНОЗЕМНЕ ПIДПРИЄМСТВО \"І-АР-СІ\"",
+        "price_of_currency": 1037.23,
+        "type": "ua_2003",
+        "declaration_number": "UA100080\\2020\\512850",
+        "hs_code": "8418999010",
+        "product_desc": " міститьрадіообладнання, призначений длясервісного обслуговування:Двері ХК <font color='red'>GLASS</font>-<font color='red'>DOOR</font>-PANEL-R-ASS'Y",
+        "bank_name": "---",
+        "customs_office_code": "UA100080",
+        "shipper_code": "---",
+        "shipper_address": "---",
+        "consignee_address": "УКРАЇНА, 04073, М.КИЇВ, ОБОЛОНСЬКИЙ Р-Н, ВУЛИЦЯ МАРКА ВОВЧКА, БУД. 18-А",
+        "bank_code": "---",
+        "currency_name": "USD",
+        "exchange_rate": 27.8025,
+        "bank_account_no": "---",
+        "consignee_code": "38204199",
+        "n_weight": 57.53,
+        "guarantor_name": "IНОЗЕМНЕ ПIДПРИЄМСТВО \"І-АР-СІ\"",
+        "bank_branch_loc_code": "---",
+        "guarantor_code": "38204199",
+        "uah_price": 28837.587075,
+        "new_date": "2020-03-20",
+        "shipper_name": "HITACHI CONSUMER PRODUCTS (THAILAND), LTD/",
+        "guarantor_address": "УКРАЇНА, 04073, М.КИЇВ, ОБОЛОНСЬКИЙ Р-Н, ВУЛИЦЯ МАРКА ВОВЧКА, БУД. 18-А"
+      },
+      "highlight": {
+        "product_desc": [
+          " міститьрадіообладнання, призначений длясервісного обслуговування:Двері ХК <font color='red'>GLASS</font>-<font color='red'>DOOR</font>-PANEL-R-ASS'Y",
+          " (GBK) арт.-PTR-VG660P3_001,-1шт. Двері МК <font color='red'>DOOR</font>-PANEL-FL-ASS'Y (GBK) арт.-PTR-WB800PN_036,-1шт. Нижняя",
+          " дверь  для холодильника <font color='red'>DOOR</font>-PANEL-F (GBK) <font color='red'>DOOR</font>-PANEL-F (GBK) арт.-PTR-BG410PR_023,-1шт. Поворотная",
+          " планка правой двери R-<font color='red'>DOOR</font>-SWING R-<font color='red'>DOOR</font>-SWING арт.-PTR-W800FPS_033,-5шт. Чилер CHILLER-CASE '07",
+          "-WB460PY_044,-2шт. Ручка дверцят морозильної камери <font color='red'>HANDLE</font>-RL-SV (XGR) <font color='red'>HANDLE</font>-RL-SV (XGR) арт.-PTR"
+        ]
+      },
+      "sort": [
+        1584662400000
+      ]
+    },
+    {
+      "_index": "imiker_ua",
+      "_type": "ua_2003",
+      "_id": "AXgfjM0b-KwQnO-KmnYS",
+      "_score": null,
+      "_source": {
+        "importer": "ТОВ \"МАКС ВЕНТО\"",
+        "price_of_currency": 27357,
+        "type": "ua_2003",
+        "declaration_number": "UA100020\\2020\\19434",
+        "hs_code": "8516608000",
+        "product_desc": " ENAMELLED SHELF, LAMP, DKP <font color='red'>HANDLE</font>, WHITE PAINTED PANEL, WHITE <font color='red'>GLASS</font> <font color='red'>DOOR</font>, BARCODE NO. 2059765952084",
+        "bank_name": "---",
+        "customs_office_code": "UA100020",
+        "shipper_code": "---",
+        "shipper_address": "---",
+        "consignee_address": "04050 м.Київ,вул.Глибочицька,53 Україна",
+        "bank_code": "---",
+        "currency_name": "USD",
+        "exchange_rate": 26.089,
+        "bank_account_no": "---",
+        "consignee_code": "37996139",
+        "n_weight": 8512,
+        "guarantor_name": "ТОВ \"МАКС ВЕНТО\"",
+        "bank_branch_loc_code": "---",
+        "guarantor_code": "37996139",
+        "uah_price": 713716.773,
+        "new_date": "2020-03-16",
+        "shipper_name": "IMC CETINTAS DIS TICARET LTD. STI.",
+        "guarantor_address": "04050 м.Київ,вул.Глибочицька,53 Україна"
+      },
+      "highlight": {
+        "product_desc": [
+          " ENAMELLED SHELF, LAMP, DKP <font color='red'>HANDLE</font>, WHITE PAINTED PANEL, WHITE <font color='red'>GLASS</font> <font color='red'>DOOR</font>, BARCODE NO. 2059765952084",
+          ", ENAMELLED SHELF, 1 TRAY + 1 GRID,  PUSH BUTON,  BLACK <font color='red'>GLASS</font> PANEL, BLACK DOUBLE <font color='red'>GLASS</font> <font color='red'>DOOR</font>, TUNA TYPE",
+          " <font color='red'>HANDLE</font> , BARCODE NO. 2059765949657 ( FULL  BLACK )-136шт.BLANCO , 6+1 FUNCTION, MECHANIC TIMER",
+          ", 1 TRAY + 1 GRID, TOP CONTROL KNOBS,  NORMAL SHELF,LAMP, DKP <font color='red'>HANDLE</font>, BLACK PAINTED PANEL, FULL",
+          " BLACK FORNT <font color='red'>DOOR</font>, BARCODE NO. 2059765951964-25шт.CALGARY , 6+1 FUNCTION, LOWER+UPPER REZISTANCE, COOLING "
+        ]
+      },
+      "sort": [
+        1584316800000
+      ]
+    },
+    {
+      "_index": "imiker_ua",
+      "_type": "ua_2003",
+      "_id": "AXgfjM_h-KwQnO-Kmnaq",
+      "_score": null,
+      "_source": {
+        "importer": "ТОВ \"МАКС ВЕНТО\"",
+        "price_of_currency": 26323,
+        "type": "ua_2003",
+        "declaration_number": "UA100020\\2020\\19433",
+        "hs_code": "8516608000",
+        "product_desc": " + 1 GRID,  TOP CONTROLKNOBS, INOX PANEL, <font color='red'>GLASS</font> <font color='red'>DOOR</font>, DKP  <font color='red'>HANDLE</font>, BARCODE NO.  2059765950875",
+        "bank_name": "---",
+        "customs_office_code": "UA100020",
+        "shipper_code": "---",
+        "shipper_address": "---",
+        "consignee_address": "04050 м.Київ,вул.Глибочицька,53 Україна",
+        "bank_code": "---",
+        "currency_name": "USD",
+        "exchange_rate": 26.089,
+        "bank_account_no": "---",
+        "consignee_code": "37996139",
+        "n_weight": 8484,
+        "guarantor_name": "ТОВ \"МАКС ВЕНТО\"",
+        "bank_branch_loc_code": "---",
+        "guarantor_code": "37996139",
+        "uah_price": 686740.747,
+        "new_date": "2020-03-16",
+        "shipper_name": "IMC CETINTAS DIS TICARET LTD. STI.",
+        "guarantor_address": "04050 м.Київ,вул.Глибочицька,53 Україна"
+      },
+      "highlight": {
+        "product_desc": [
+          " + 1 GRID,  TOP CONTROLKNOBS, INOX PANEL, <font color='red'>GLASS</font> <font color='red'>DOOR</font>, DKP  <font color='red'>HANDLE</font>, BARCODE NO.  2059765950875",
+          " COATING,<font color='red'>GLASS</font> CREAM PANEL RAL 1013 , TUNA TYPE <font color='red'>HANDLE</font>, BARCODE NO. 2059765952077-17шт.CALGARY , 6+1",
+          ", 1 TRAY + 1 GRID, TOP CONTROL KNOBS,  NORMAL SHELF,LAMP, DKP <font color='red'>HANDLE</font>, BLACK PAINTED PANEL, FULL",
+          " BLACK FORNT <font color='red'>DOOR</font>, BARCODE NO. 2059765951964-75шт.SEVILLA , 6+1 FUNCTION, LOWER+UPPER RESISTANCE, COOLING"
+        ]
+      },
+      "sort": [
+        1584316800000
+      ]
+    },
+    {
+      "_index": "imiker_ua",
+      "_type": "ua_2003",
+      "_id": "AXgfjyGd-KwQnO-Km3TG",
+      "_score": null,
+      "_source": {
+        "importer": "Приватне підприємство \"ТЕХПОБУТ\"",
+        "price_of_currency": 732.844397,
+        "type": "ua_2003",
+        "declaration_number": "UA209140\\2020\\23030",
+        "hs_code": "8450900000",
+        "product_desc": " пральної машини, TUB FRONT KIT - 1шт;-дверцята (люк) пральної машини, <font color='red'>DOOR</font> FRAME AND <font color='red'>GLASS</font> ASSY PW",
+        "bank_name": "---",
+        "customs_office_code": "UA209140",
+        "shipper_code": "---",
+        "shipper_address": "---",
+        "consignee_address": "79058, м.Львів, пр-т Чорновола В., буд. 67В, кв. 25",
+        "bank_code": "---",
+        "currency_name": "USD",
+        "exchange_rate": 25.858,
+        "bank_account_no": "---",
+        "consignee_code": "40143984",
+        "n_weight": 38.311,
+        "guarantor_name": "ПП \"ТЕХПОБУТ\"",
+        "bank_branch_loc_code": "---",
+        "guarantor_code": "40143984",
+        "uah_price": 18949.890417626,
+        "new_date": "2020-03-13",
+        "shipper_name": "Whirlpool EMEA S.p.A.",
+        "guarantor_address": "79058, м.Львів, пр-т Чорновола В., буд. 67В, кв. 25"
+      },
+      "highlight": {
+        "product_desc": [
+          " пральної машини, TUB FRONT KIT - 1шт;-дверцята (люк) пральної машини, <font color='red'>DOOR</font> FRAME AND <font color='red'>GLASS</font> ASSY PW",
+          ", <font color='red'>DOOR</font> FRAME AND <font color='red'>GLASS</font> ASSY PW EVOII ARIS. - 1шт;-модулі керування пральною машиною, DISPLAY LED PLUS",
+          " Whirlpool Corporation:-дверцята (люк) пральної машини, <font color='red'>DOOR</font> FRAME ASSY NEW AQM9D49U - 1шт;-кришка бака",
+          " EVOII IND - 1шт;-дверцята (люк) пральної машини, <font color='red'>DOOR</font> FRAME ASSY  - 1шт;-дверцята (люк) пральної машини",
+          " пристрій люка (дверцят) пральної машини, <font color='red'>DOOR</font> INTERLOCK BITRON PTC DL-LC2 + <font color='red'>door</font> - 4шт;-кришка"
+        ]
+      },
+      "sort": [
+        1584057600000
+      ]
+    },
+    {
+      "_index": "imiker_ua",
+      "_type": "ua_2003",
+      "_id": "AXgfjKVB-KwQnO-KmmTV",
+      "_score": null,
+      "_source": {
+        "importer": "IНОЗЕМНЕ ПIДПРИЄМСТВО \"ЛОГІН\"",
+        "price_of_currency": 335.4,
+        "type": "ua_2003",
+        "declaration_number": "UA100080\\2020\\512374",
+        "hs_code": "8516900000",
+        "product_desc": " мікрохвильової печі <font color='red'>handle</font> арт.-_handle,-2шт. Дверний гачок <font color='red'>door</font> hook  арт.-door_hook ,-5шт. Двері для мікрохви",
+        "bank_name": "---",
+        "customs_office_code": "UA100080",
+        "shipper_code": "---",
+        "shipper_address": "CONSUMER ELECTRONICS EQUIPMENT DISTRIBUTION LTD",
+        "consignee_address": "УКРАЇНА, 03113, М.КИЇВ, ШЕВЧЕНКІВСЬКИЙ Р-Н, ПР-Т ПЕРЕМОГИ, БУД. 62-Б",
+        "bank_code": "---",
+        "currency_name": "USD",
+        "exchange_rate": 25.624,
+        "bank_account_no": "---",
+        "consignee_code": "38204178",
+        "n_weight": 37.12,
+        "guarantor_name": "IНОЗЕМНЕ ПIДПРИЄМСТВО \"ЛОГІН\"",
+        "bank_branch_loc_code": "---",
+        "guarantor_code": "38204178",
+        "uah_price": 8594.2896,
+        "new_date": "2020-03-12",
+        "shipper_name": "GUANGDONG GALANZ MICROWAVE ELECTRICALAPPLIANCES MANUFACTURING CO. LTD.",
+        "guarantor_address": "УКРАЇНА, 03113, М.КИЇВ, ШЕВЧЕНКІВСЬКИЙ Р-Н, ПР-Т ПЕРЕМОГИ, БУД. 62-Б"
+      },
+      "highlight": {
+        "product_desc": [
+          " мікрохвильової печі <font color='red'>handle</font> арт.-_handle,-2шт. Дверний гачок <font color='red'>door</font> hook  арт.-door_hook ,-5шт. Двері для мікрохви",
+          " піднос <font color='red'>glass</font> tray арт.-glass_tray,-3шт. Поворотний двигун turntable motor арт.-turntable_motor,-10шт",
+          " ручки <font color='red'>handle</font> cover арт.-handle_cover,-3шт. Передня частина ручки дверей мікрохвильової печі <font color='red'>HANDLE</font>",
+          " мікрохвильової печі p.c. board арт.-p.c._board,-10шт. Вікно для дверей мікрохвильової печі <font color='red'>door</font> window арт"
+        ]
+      },
+      "sort": [
+        1583971200000
+      ]
+    },
+    {
+      "_index": "imiker_ua",
+      "_type": "ua_2003",
+      "_id": "AXgfiDYR-KwQnO-KmKBm",
+      "_score": null,
+      "_source": {
+        "importer": "ТОВ \"МАКС ВЕНТО\"",
+        "price_of_currency": 30264,
+        "type": "ua_2003",
+        "declaration_number": "UA100020\\2020\\17338",
+        "hs_code": "8516608000",
+        "product_desc": ", LAMP, DKP <font color='red'>HANDLE</font>, INOX PANEL, 2. TYPE INOX DECORATION, <font color='red'>GLASS</font> <font color='red'>DOOR</font>  BARCODE NO.  2059765949640",
+        "bank_name": "---",
+        "customs_office_code": "UA100020",
+        "shipper_code": "---",
+        "shipper_address": "---",
+        "consignee_address": "04050 м.Київ,вул.Глибочицька,53 Україна",
+        "bank_code": "---",
+        "currency_name": "USD",
+        "exchange_rate": 24.561,
+        "bank_account_no": "---",
+        "consignee_code": "37996139",
+        "n_weight": 9408,
+        "guarantor_name": "ТОВ \"МАКС ВЕНТО\"",
+        "bank_branch_loc_code": "---",
+        "guarantor_code": "37996139",
+        "uah_price": 743314.104,
+        "new_date": "2020-03-01",
+        "shipper_name": "IMC CETINTAS DIS TICARET LTD. STI.",
+        "guarantor_address": "04050 м.Київ,вул.Глибочицька,53 Україна"
+      },
+      "highlight": {
+        "product_desc": [
+          ", LAMP, DKP <font color='red'>HANDLE</font>, INOX PANEL, 2. TYPE INOX DECORATION, <font color='red'>GLASS</font> <font color='red'>DOOR</font>  BARCODE NO.  2059765949640",
+          ", ENAMELLED SHELF, 1 TRAY + 1 GRID,  PUSH BUTON,  BLACK <font color='red'>GLASS</font> PANEL, BLACK DOUBLE <font color='red'>GLASS</font> <font color='red'>DOOR</font>, TUNA TYPE <font color='red'>HANDLE</font>",
+          " FAN, 1 TRAY + 1 GRID, TOP CONTROL KNOBS,  NORMAL SHELF,LAMP, DKP <font color='red'>HANDLE</font>, BLACK PAINTED PANEL, FULL",
+          " BLACK FORNT <font color='red'>DOOR</font>, BARCODE NO. 2059765951964-16шт.BOSTON , 6+1 FUNCTION, LOWER+UPPER RESISTANCE"
+        ]
+      },
+      "sort": [
+        1583020800000
+      ]
+    },
+    {
+      "_index": "imiker_ua",
+      "_type": "ua_2002",
+      "_id": "AXgfd0Wj-KwQnO-KkkYi",
+      "_score": null,
+      "_source": {
+        "importer": "ТОВ \"МАКС ВЕНТО\"",
+        "price_of_currency": 21260.8631783,
+        "type": "ua_2002",
+        "declaration_number": "UA100020\\2020\\14896",
+        "hs_code": "8516608000",
+        "product_desc": ",  TOP CONTROLKNOBS, INOX PANEL, <font color='red'>GLASS</font> <font color='red'>DOOR</font>, DKP  <font color='red'>HANDLE</font>, BARCODE NO.  2059765950875-10шт.DUBLIN , 6",
+        "bank_name": "---",
+        "customs_office_code": "UA100020",
+        "shipper_code": "---",
+        "shipper_address": "---",
+        "consignee_address": "04050 м.Київ,вул.Глибочицька,53 Україна",
+        "bank_code": "---",
+        "currency_name": "USD",
+        "exchange_rate": 23.9677,
+        "bank_account_no": "---",
+        "consignee_code": "37996139",
+        "n_weight": 6960,
+        "guarantor_name": "ТОВ \"МАКС ВЕНТО\"",
+        "bank_branch_loc_code": "---",
+        "guarantor_code": "37996139",
+        "uah_price": 509573.99039854,
+        "new_date": "2020-02-15",
+        "shipper_name": "IMC CETINTAS DIS TICARET LTD. STI.",
+        "guarantor_address": "04050 м.Київ,вул.Глибочицька,53 Україна"
+      },
+      "highlight": {
+        "product_desc": [
+          ",  TOP CONTROLKNOBS, INOX PANEL, <font color='red'>GLASS</font> <font color='red'>DOOR</font>, DKP  <font color='red'>HANDLE</font>, BARCODE NO.  2059765950875-10шт.DUBLIN , 6",
+          " GRID, PUSH BUTON, NORMAL SHELF, LAMP, TUNA TYPE <font color='red'>HANDLE</font>, CREAM <font color='red'>GLASS</font> PANEL,  CREAM DOUBLE <font color='red'>GLASS</font> <font color='red'>DOOR</font>"
+        ]
+      },
+      "sort": [
+        1581724800000
+      ]
+    }
+  ]

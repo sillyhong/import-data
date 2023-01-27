@@ -1,0 +1,447 @@
+{
+    "total": 9666,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Lm6Gi4624_L7I34hM",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "24128, PORT BUSTAMANTE",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "MLB LOGISTICS LLC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-12-02",
+          "hs_code": "691090",
+          "product_desc": "PVC BATHROOM CABINET - FAUCET MASSAGE BATHTUBPVC BATHROOM CABINET <font color='red'>SHOWER</font> <font color='red'>DOOR</font> THIS SHIPME NT CONTAINS NO SOLID WOOD PACKING MATERIALS<br/>",
+          "carrier_sasc_code": "MEDU, BCSL US-MED LINE LTD.",
+          "bill_of_lading": "MEDUNL534751",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "SAME SAME<br/>",
+          "quantity": "378.0",
+          "weight": "11146.0",
+          "vessel_name": "ALLEGRO",
+          "voyage": "147A",
+          "measure_unit": "X",
+          "unloading_port": "4909, SAN JUAN, PUERTO RICO",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "URB LOS MONTES BELLOS 745 CALLE PETDORADO 00646 PUERTO RICO ",
+          "new_date": "2021-11-24",
+          "shipper_name": "N/A",
+          "container_id": "FFAU4028185"
+        },
+        "highlight": {
+          "product_desc": [
+            "PVC BATHROOM CABINET - FAUCET MASSAGE BATHTUBPVC BATHROOM CABINET <font color='red'>SHOWER</font> <font color='red'>DOOR</font> THIS SHIPME NT CONTAINS NO SOLID WOOD PACKING MATERIALS<br/>"
+          ]
+        },
+        "sort": [
+          1637712000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Lkuth4624_L7IwfvK",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "JERICH NORTH BRUNSWICK",
+          "notify_party_name": "JERICH NORTH BRUNSWICK",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-10",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font>(55CTNS 2970KGS 19.8CBM) <font color='red'>SHOWER</font> WALL(145 CTNS 2060KGS 40.95CBM) PO#510549<br/>",
+          "carrier_sasc_code": "SSCC, STATES STEAMSHIP COMPANY",
+          "bill_of_lading": "SSCCSTL21038232",
+          "shipper_address": " ZHUZILIN INDUSTRIAL ZONE NANLANG ZHONGSHAN CITY GUANGDONG CHINA ZHONGSHAN CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+          "marks_numbers": "OVE<br/>",
+          "quantity": "200.0",
+          "weight": "5030.0",
+          "vessel_name": "GSL ARCADIA",
+          "voyage": "139E",
+          "measure_unit": "X",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+          "new_date": "2021-11-24",
+          "shipper_name": "ZHONGSHAN AQUAEL SANITARY CO LTD",
+          "container_id": "TGBU6859391"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOOR</font>(55CTNS 2970KGS 19.8CBM) <font color='red'>SHOWER</font> WALL(145 CTNS 2060KGS 40.95CBM) PO#510549<br/>"
+          ]
+        },
+        "sort": [
+          1637712000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Lkut34624_L7Iwfyj",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "JERICH NORTH BRUNSWICK",
+          "notify_party_name": "JERICH NORTH BRUNSWICK",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-10",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> BASE <font color='red'>SHOWER</font> WALL PO#509877 <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+          "carrier_sasc_code": "SSCC, STATES STEAMSHIP COMPANY",
+          "bill_of_lading": "SSCCSTL21038227",
+          "shipper_address": " ZHUZILIN INDUSTRIAL ZONE NANLANG ZHONGSHAN CITY GUANGDONG CHINA ZHONGSHAN CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+          "marks_numbers": "OVE<br/>",
+          "quantity": "330.0",
+          "weight": "6930.0",
+          "vessel_name": "GSL ARCADIA",
+          "voyage": "139E",
+          "measure_unit": "X",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+          "new_date": "2021-11-24",
+          "shipper_name": "ZHONGSHAN AQUAEL SANITARY CO LTD",
+          "container_id": "MEDU8217124"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> BASE <font color='red'>SHOWER</font> WALL PO#509877 <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+          ]
+        },
+        "sort": [
+          1637712000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Lkw9Y4624_L7Iwok1",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58201, HONG KONG",
+          "country": "HK, HONG KONG",
+          "importer": "BRUSKIN INTERNATIONAL LLC",
+          "notify_party_name": "BRUSKIN INTERNATIONAL LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-20",
+          "hs_code": "392210",
+          "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIAL.<br/>",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV146102309625",
+          "shipper_address": " RM 207-209 BLDG5 TIAN AN CYBER PARKGUICHENG NANHAI FOSHAN GUANGDONG CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "DBA PROJECTSTONE 7658 HASKELL AVE VAN NUYS CA USA 91406 ",
+          "marks_numbers": "THE SAME THE SAME<br/>",
+          "quantity": "195.0",
+          "weight": "18850.0",
+          "vessel_name": "EVER FINE",
+          "voyage": "1216E",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "DBA PROJECTSTONE 7658 HASKELL AVE VAN NUYS CA USA 91406 ",
+          "new_date": "2021-11-24",
+          "shipper_name": "GUANGDONG NANHAI LIGHT INDUSTRIAL PRODUCTSIMPORT&EXPORTCO LTD",
+          "container_id": "EGHU9434799"
+        },
+        "highlight": {
+          "product_desc": [
+            "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIAL.<br/>"
+          ]
+        },
+        "sort": [
+          1637712000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Lkusa4624_L7Iwfol",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "JERICH NORTH BRUNSWICK",
+          "notify_party_name": "JERICH NORTH BRUNSWICK",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-10",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font>(180 CTNS 7400KGS 41.2CBM) <font color='red'>SHOWER</font> WALL(70CTNS 930KGS 20.3CBM) PO#508953<br/>",
+          "carrier_sasc_code": "SSCC, STATES STEAMSHIP COMPANY",
+          "bill_of_lading": "SSCCSTL21038225",
+          "shipper_address": " ZHUZILIN INDUSTRIAL ZONE NANLANG ZHONGSHAN CITY GUANGDONG CHINA ZHONGSHAN CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+          "marks_numbers": "OVE<br/>",
+          "quantity": "250.0",
+          "weight": "8330.0",
+          "vessel_name": "GSL ARCADIA",
+          "voyage": "139E",
+          "measure_unit": "X",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+          "new_date": "2021-11-24",
+          "shipper_name": "ZHONGSHAN AQUAEL SANITARY CO LTD",
+          "container_id": "MSMU8185340"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOOR</font>(180 CTNS 7400KGS 41.2CBM) <font color='red'>SHOWER</font> WALL(70CTNS 930KGS 20.3CBM) PO#508953<br/>"
+          ]
+        },
+        "sort": [
+          1637712000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Lkuth4624_L7Iwfuf",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "JERICH NORTH BRUNSWICK",
+          "notify_party_name": "JERICH NORTH BRUNSWICK",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-10",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font>(85 CTNS 3485KGS 17CBM) <font color='red'>SHOWER</font> BASE(260 CTNS 3365KGS 35.7CBM) <font color='red'>SHOWER</font> WALL(30CTNS 510KGS 8.7CBM) PO#510550<br/>",
+          "carrier_sasc_code": "SSCC, STATES STEAMSHIP COMPANY",
+          "bill_of_lading": "SSCCSTL21038229",
+          "shipper_address": " ZHUZILIN INDUSTRIAL ZONE NANLANG ZHONGSHAN CITY GUANGDONG CHINA ZHONGSHAN CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+          "marks_numbers": "OVE<br/>",
+          "quantity": "375.0",
+          "weight": "7360.0",
+          "vessel_name": "GSL ARCADIA",
+          "voyage": "139E",
+          "measure_unit": "X",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+          "new_date": "2021-11-24",
+          "shipper_name": "ZHONGSHAN AQUAEL SANITARY CO LTD",
+          "container_id": "MEDU8340165"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOOR</font>(85 CTNS 3485KGS 17CBM) <font color='red'>SHOWER</font> BASE(260 CTNS 3365KGS 35.7CBM) <font color='red'>SHOWER</font> WALL(30CTNS 510KGS 8.7CBM) PO#510550<br/>"
+          ]
+        },
+        "sort": [
+          1637712000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LkwHN4624_L7IwkDN",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57069, XIAMEN",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-20",
+          "hs_code": "392210",
+          "product_desc": "127 PACKAGES 10963.92LBS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PO#10863&PO#10862 . THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIALS<br/>",
+          "carrier_sasc_code": "ABFB",
+          "bill_of_lading": "ABFBSZX10827532",
+          "shipper_address": "N/A",
+          "quantity_unit": "PCS",
+          "consignee_address": "N/A",
+          "marks_numbers": "CONTINENTAL GROUP PO# MADE IN CHINA<br/>",
+          "quantity": "127.0",
+          "weight": "4984.0",
+          "vessel_name": "MSC VANDYA",
+          "voyage": "139N",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-24",
+          "shipper_name": "N/A",
+          "container_id": "TGHU6091031"
+        },
+        "highlight": {
+          "product_desc": [
+            "127 PACKAGES 10963.92LBS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PO#10863&PO#10862 . THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIALS<br/>"
+          ]
+        },
+        "sort": [
+          1637712000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LkvOJ4624_L7IwiUl",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*806*802,4000*806*802,4000*806*802",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "EXPEDITORS INTERNATIONAL SEA",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-25",
+          "hs_code": "392490",
+          "product_desc": "J22 <font color='red'>SHOWER</font> LINER HD P.O.# IN F235 J22 <font color='red'>SHOWER</font> LINER LIGHT P.O.# INF01T NO WPM HS C ODE:3924.90.1010",
+          "carrier_sasc_code": "MAEU, MAERSK LINES, INC.",
+          "bill_of_lading": "MAEU213849883",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "EI REF:51N0396293 SKU# DEPARTMENT P.O.# (IN DIA.) CASE PACK INNER PACK CARTON# GR.WT. CU.FT. DESC RIPTION<br/>EI REF:51N0396293 SKU# DEPARTMENT P.O.# (IN DIA.) CASE PACK INNER PACK CARTON# GR.WT. CU.FT. DESC RIPTION<br/>EI REF:51N0396293 SKU# DEPARTMENT P",
+          "quantity": "3852.0",
+          "weight": "125209.0",
+          "vessel_name": "MSC VANDYA",
+          "voyage": "139N",
+          "measure_unit": "CM",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "LB",
+          "notify_party_address": "19119 - 16TH AVE S SEATAC; WA 98188 U S A ATTN: SHAWN OUGHTON ",
+          "new_date": "2021-11-24",
+          "shipper_name": "N/A",
+          "container_id": "MSKU6920254,MRKU0150982,PONU1761099"
+        },
+        "highlight": {
+          "product_desc": [
+            "J22 <font color='red'>SHOWER</font> LINER HD P.O.# IN F235 J22 <font color='red'>SHOWER</font> LINER LIGHT P.O.# INF01T NO WPM HS C ODE:3924.90.1010",
+            " <font color='red'>DOOR</font> SERVIC E FINAL DESTINATION: CALIF ORNIA IMPORT CENTER FF=5 1N0396293 S/C#:298561543 F REIGHT"
+          ]
+        },
+        "sort": [
+          1637712000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LkvVk4624_L7Iwi4q",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57069, XIAMEN",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-20",
+          "hs_code": "392210",
+          "product_desc": "8 PACKAGES 1171.28LBS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PO#10906&PO#10902 . THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIALS<br/>",
+          "carrier_sasc_code": "ABFB",
+          "bill_of_lading": "ABFBSZX10927737",
+          "shipper_address": "N/A",
+          "quantity_unit": "PCS",
+          "consignee_address": "N/A",
+          "marks_numbers": "CONTINENTAL GROUP PO# MADE IN CHINA<br/>",
+          "quantity": "8.0",
+          "weight": "532.0",
+          "vessel_name": "MSC VANDYA",
+          "voyage": "139N",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-24",
+          "shipper_name": "N/A",
+          "container_id": "TCLU5868391"
+        },
+        "highlight": {
+          "product_desc": [
+            "8 PACKAGES 1171.28LBS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PO#10906&PO#10902 . THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIALS<br/>"
+          ]
+        },
+        "sort": [
+          1637712000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LkwHN4624_L7IwkDE",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57069, XIAMEN",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-20",
+          "hs_code": "392210",
+          "product_desc": "51 PACKAGES 9185.88LBS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PO#10894&PO#10895 . THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIALS<br/>",
+          "carrier_sasc_code": "ABFB",
+          "bill_of_lading": "ABFBSZX10927741",
+          "shipper_address": "N/A",
+          "quantity_unit": "PCS",
+          "consignee_address": "N/A",
+          "marks_numbers": "CONTINENTAL GROUP PO# MADE IN CHINA<br/>",
+          "quantity": "51.0",
+          "weight": "4175.0",
+          "vessel_name": "MSC VANDYA",
+          "voyage": "139N",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-24",
+          "shipper_name": "N/A",
+          "container_id": "BMOU5883790"
+        },
+        "highlight": {
+          "product_desc": [
+            "51 PACKAGES 9185.88LBS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PO#10894&PO#10895 . THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIALS<br/>"
+          ]
+        },
+        "sort": [
+          1637712000000
+        ]
+      }
+    ]
+  }

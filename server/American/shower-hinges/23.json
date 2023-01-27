@@ -1,0 +1,449 @@
+{
+    "total": 234,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2101",
+        "_id": "AX-GHb4gmjCv8oGcNPbH",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*906*802",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "CONTINENTSOLUTIONSYSTEMINC",
+          "notify_party_name": "N/A",
+          "type": "us_2101",
+          "estimate_arrival_date": "2021-01-12",
+          "hs_code": "830210",
+          "product_desc": "BRASS <font color='red'>SHOWER</font> <font color='red'>HINGE</font> STAINLESS STEEL HANDLE 100CTNS =3PALLETS<br/>",
+          "carrier_sasc_code": "PEVH",
+          "bill_of_lading": "PEVHSGLB20120011",
+          "shipper_address": "FLOOREASTGATERENFENGBLDGNO490TIANHEROADTIANHEDISTRICT GUANGZHOU CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "1550SGROVEAVE ONTARIO 91761 US ",
+          "marks_numbers": "IB-CAG PLT NO.: 1-3 SR#20-4926 MADE IN CHINA<br/>",
+          "quantity": "100.0",
+          "weight": "1358.0",
+          "vessel_name": "COSCO ENGLAND",
+          "voyage": "042E",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-01-07",
+          "shipper_name": "QINGDAOLONGTEMPINTERNATIONALLOGISTI",
+          "container_id": "CCLU7944196"
+        },
+        "highlight": {
+          "product_desc": [
+            "BRASS <font color='red'>SHOWER</font> <font color='red'>HINGE</font> STAINLESS STEEL HANDLE 100CTNS =3PALLETS<br/>"
+          ]
+        },
+        "sort": [
+          1609977600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2101",
+        "_id": "AX-GHgvbmjCv8oGcNScd",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*906*802",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "GUANGZHOU RUI KAI TRADE CO LTD",
+          "notify_party_name": "EDWARD TRANSIT BROKER INC",
+          "type": "us_2101",
+          "estimate_arrival_date": "2020-12-28",
+          "hs_code": "830140",
+          "product_desc": "VENTILATION GLASS VASE JUMP TRAINER <font color='red'>HINGE</font> DOOR LOCK DOOR HANDLE ELECTRONIC LOCKS DRAWER SLIDES",
+          "carrier_sasc_code": "SNTK",
+          "bill_of_lading": "SNTKSE20127474",
+          "shipper_address": " GOVERNMENT RESIDENT OF FUSHAN TOWNZHAOYUAN CITY YANTAI CITY SHANDONG YANTAI CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": " 1449 W INDUSTRIAL PARK ST COVINA CA91722 US ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "1088.0",
+          "weight": "12701.0",
+          "vessel_name": "EVER LOYAL",
+          "voyage": "0938E",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "11671 DAYTON DR RANCHO CUCAMONGA CAUS ",
+          "new_date": "2021-01-07",
+          "shipper_name": "GUANGZHOU RUI KAI TRADE CO LTD",
+          "container_id": "EITU1071980"
+        },
+        "highlight": {
+          "product_desc": [
+            "VENTILATION GLASS VASE JUMP TRAINER <font color='red'>HINGE</font> DOOR LOCK DOOR HANDLE ELECTRONIC LOCKS DRAWER SLIDES",
+            " HANDLE <font color='red'>SHOWER</font> CURTAINS COTTON BAG JUTE BAG DRAWSTRING BAG MATTRESS PROTECTOR<br/>"
+          ]
+        },
+        "sort": [
+          1609977600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2104",
+        "_id": "AX-LP_yg4624_L7IQsXE",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "BASCO SHOWER DOOR",
+          "notify_party_name": "N/A",
+          "type": "us_2104",
+          "estimate_arrival_date": "2020-12-28",
+          "hs_code": "830210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 8302.1000 GLASS CLAMP H.S.CODE 8302.4100 HANDLE H.S.CODE 8302.4200 DOOR KNOB H.S.CODE 8302.4100 8 PALLETS 443CARTONS<br/>",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL340846584CAN",
+          "shipper_address": " ROAD SHIBEI INDUSTRIAL ZONE SHISHAN NANHAI FOSHAN CITY ",
+          "quantity_unit": "PKG",
+          "consignee_address": "7201 SNIDER ROAD MASON OH 45040 USA",
+          "marks_numbers": "BASCO SHOWER DOOR USA MADE IN CHINA<br/>",
+          "quantity": "443.0",
+          "weight": "4179.0",
+          "vessel_name": "MSC ARIES",
+          "voyage": "050N",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-01-05",
+          "shipper_name": "MITHRAS GLASS HARDWARE FATORY XINGYEBEI",
+          "container_id": "INKU2577800"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 8302.1000 GLASS CLAMP H.S.CODE 8302.4100 HANDLE H.S.CODE 8302.4200 DOOR KNOB H.S.CODE 8302.4100 8 PALLETS 443CARTONS<br/>"
+          ]
+        },
+        "sort": [
+          1609804800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2101",
+        "_id": "AX-GBOTGmjCv8oGcJrIf",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "BASCO SHOWER DOOR",
+          "notify_party_name": "N/A",
+          "type": "us_2101",
+          "estimate_arrival_date": "2020-12-28",
+          "hs_code": "830210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 8302.1000 GLASS CLAMP H.S.CODE 8302.4100 HANDLE H.S.CODE 8302.4200 DOOR KNOB H.S.CODE 8302.4100 8 PALLETS 443CARTONS<br/>",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL340846584CAN",
+          "shipper_address": " ROAD SHIBEI INDUSTRIAL ZONE SHISHAN NANHAI FOSHAN CITY ",
+          "quantity_unit": "PKG",
+          "consignee_address": "7201 SNIDER ROAD MASON OH 45040 USA",
+          "marks_numbers": "BASCO SHOWER DOOR USA MADE IN CHINA<br/>",
+          "quantity": "443.0",
+          "weight": "4179.0",
+          "vessel_name": "MSC ARIES",
+          "voyage": "050N",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-01-05",
+          "shipper_name": "MITHRAS GLASS HARDWARE FATORY XINGYEBEI",
+          "container_id": "INKU2577800"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 8302.1000 GLASS CLAMP H.S.CODE 8302.4100 HANDLE H.S.CODE 8302.4200 DOOR KNOB H.S.CODE 8302.4100 8 PALLETS 443CARTONS<br/>"
+          ]
+        },
+        "sort": [
+          1609804800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2012",
+        "_id": "AXgWT561-KwQnO-Kwhj4",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "BASCO SHOWER DOOR",
+          "notify_party_name": "N/A",
+          "type": "us_2012",
+          "estimate_arrival_date": "2020-12-28",
+          "hs_code": "830210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 8302.1000 GLASS CLAMP H.S.CODE 8302.4100 HANDLE H.S.CODE 8302.4200 DOOR KNOB H.S.CODE 8302.4100 8 PALLETS 443CARTONS<br/>",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL340846584CAN",
+          "shipper_address": " ROAD SHIBEI INDUSTRIAL ZONE SHISHAN NANHAI FOSHAN CITY ",
+          "quantity_unit": "PKG",
+          "consignee_address": "7201 SNIDER ROAD MASON OH 45040 USA",
+          "marks_numbers": "BASCO SHOWER DOOR USA MADE IN CHINA<br/>",
+          "quantity": "443.0",
+          "weight": "4179.0",
+          "vessel_name": "MSC ARIES",
+          "voyage": "050N",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2020-12-28",
+          "shipper_name": "MITHRAS GLASS HARDWARE FATORY XINGYEBEI",
+          "container_id": "INKU2577800"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 8302.1000 GLASS CLAMP H.S.CODE 8302.4100 HANDLE H.S.CODE 8302.4200 DOOR KNOB H.S.CODE 8302.4100 8 PALLETS 443CARTONS<br/>"
+          ]
+        },
+        "sort": [
+          1609113600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2012",
+        "_id": "AXgWVFAb-KwQnO-KxU8N",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "ZOOMRAILINGS INC",
+          "notify_party_name": "ZOOMRAILINGS INC",
+          "type": "us_2012",
+          "estimate_arrival_date": "2020-12-26",
+          "hs_code": "392520",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> GLASS DOOR HANDLEGLASS DOOR PA TCH FITTINGHYDRAULIC PATCH FITTING<br/>",
+          "carrier_sasc_code": "MGNG",
+          "bill_of_lading": "MGNGTRT20B23293",
+          "shipper_address": "NO 11/SOUTH SQUARE ROAD JINLI TOWN ZHAOQING CITY GUANGDONG PROVINCE C HINA ",
+          "quantity_unit": "CAS",
+          "consignee_address": "397 HUMBERLINE DR UNIT10 ETOBICOKE M9W5T5 ONTARIO CANADA ",
+          "marks_numbers": "ZOOMRAILINGS<br/>",
+          "quantity": "141.0",
+          "weight": "2226.0",
+          "vessel_name": "OOCL NEW YORK",
+          "voyage": "074E",
+          "measure_unit": "---",
+          "unloading_port": "3001, SEATTLE, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "397 HUMBERLINE DR UNIT10 ETOBICOKE M9W5T5 ONTARIO CANADA ",
+          "new_date": "2020-12-26",
+          "shipper_name": "GUANGDONG ZHIJIA METAL PRODUCTS CO",
+          "container_id": "TGBU6529595"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> GLASS DOOR HANDLEGLASS DOOR PA TCH FITTINGHYDRAULIC PATCH FITTING<br/>"
+          ]
+        },
+        "sort": [
+          1608940800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2012",
+        "_id": "AXgWRMZ5-KwQnO-Kundi",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "OKURA HARDWARE AND LUMBER INC",
+          "notify_party_name": "OKURA HARDWARE AND LUMBER INC",
+          "type": "us_2012",
+          "estimate_arrival_date": "2020-12-02",
+          "hs_code": "611512",
+          "product_desc": " CLOSET BOLT TOWER BOLT HOSE CLAMP <font color='red'>HINGE</font> PADLOCK HAND SAW HOSE NOZZLE TILE TRIM WIRE BRUSH FAUCET WALL BRACKET PACKING TAPE BED <font color='red'>HINGES</font><br/>",
+          "carrier_sasc_code": "SHNL, SHANNON, LOUIS INC",
+          "bill_of_lading": "SHNLB20123156",
+          "shipper_address": " NO 88 CHUNCHAO ROAD YINZHOU CENTRAL ZONE ",
+          "quantity_unit": "PKG",
+          "consignee_address": "2245 N W 72TH AVENUE MIAMI ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "1424.0",
+          "weight": "1424.0",
+          "vessel_name": "CMA CGM TANCREDI",
+          "voyage": "0PGUE",
+          "measure_unit": "---",
+          "unloading_port": "5201, MIAMI, FL",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "2245 N W 72TH AVENUE MIAMI ",
+          "new_date": "2020-12-26",
+          "shipper_name": "JIARONG ENTERPRISES CO LTD",
+          "container_id": "CMAU5814025"
+        },
+        "highlight": {
+          "product_desc": [
+            " CLOSET BOLT TOWER BOLT HOSE CLAMP <font color='red'>HINGE</font> PADLOCK HAND SAW HOSE NOZZLE TILE TRIM WIRE BRUSH FAUCET WALL BRACKET PACKING TAPE BED <font color='red'>HINGES</font><br/>",
+            "AIR ACCESS KIT <font color='red'>SHOWER</font> SET METAL CUTTING DISC HOSE BRUSH SAW BLADE DRILL TRAFFIC CONE GARDEN TOOL"
+          ]
+        },
+        "sort": [
+          1608940800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2101",
+        "_id": "AX-GDntYmjCv8oGcK6Wa",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "OKURA HARDWARE AND LUMBER INC",
+          "notify_party_name": "OKURA HARDWARE AND LUMBER INC",
+          "type": "us_2101",
+          "estimate_arrival_date": "2020-12-02",
+          "hs_code": "611512",
+          "product_desc": " CLOSET BOLT TOWER BOLT HOSE CLAMP <font color='red'>HINGE</font> PADLOCK HAND SAW HOSE NOZZLE TILE TRIM WIRE BRUSH FAUCET WALL BRACKET PACKING TAPE BED <font color='red'>HINGES</font><br/>",
+          "carrier_sasc_code": "SHNL, SHANNON, LOUIS INC",
+          "bill_of_lading": "SHNLB20123156",
+          "shipper_address": " NO 88 CHUNCHAO ROAD YINZHOU CENTRAL ZONE ",
+          "quantity_unit": "PKG",
+          "consignee_address": "2245 N W 72TH AVENUE MIAMI ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "1424.0",
+          "weight": "1424.0",
+          "vessel_name": "CMA CGM TANCREDI",
+          "voyage": "0PGUE",
+          "measure_unit": "---",
+          "unloading_port": "5201, MIAMI, FL",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "2245 N W 72TH AVENUE MIAMI ",
+          "new_date": "2020-12-26",
+          "shipper_name": "JIARONG ENTERPRISES CO LTD",
+          "container_id": "CMAU5814025"
+        },
+        "highlight": {
+          "product_desc": [
+            " CLOSET BOLT TOWER BOLT HOSE CLAMP <font color='red'>HINGE</font> PADLOCK HAND SAW HOSE NOZZLE TILE TRIM WIRE BRUSH FAUCET WALL BRACKET PACKING TAPE BED <font color='red'>HINGES</font><br/>",
+            "AIR ACCESS KIT <font color='red'>SHOWER</font> SET METAL CUTTING DISC HOSE BRUSH SAW BLADE DRILL TRAFFIC CONE GARDEN TOOL"
+          ]
+        },
+        "sort": [
+          1608940800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2012",
+        "_id": "AXgWVkvw-KwQnO-Kxp1c",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "BRUCE E CUMMINGS",
+          "notify_party_name": "BRUCE E CUMMINGS",
+          "type": "us_2012",
+          "estimate_arrival_date": "2020-12-10",
+          "hs_code": "392210",
+          "product_desc": "HANDLE LOCK &DOOR HANDLE,<font color='red'>SHOWER</font> <font color='red'>HINGE</font> & ADAPTING PIECE<br/>",
+          "carrier_sasc_code": "CHQF, CHINA INTERNATIONAL FREIGHT CO LTD",
+          "bill_of_lading": "CHQFSZX001404682",
+          "shipper_address": " NO 49 LE AN RD XIAOLAN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "2855 SOUTH 1030 WEST ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "520.0",
+          "weight": "5693.0",
+          "vessel_name": "YM UBIQUITY",
+          "voyage": "049E",
+          "measure_unit": "CM",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "2855 SOUTH 1030 WEST ",
+          "new_date": "2020-12-21",
+          "shipper_name": "ZHONG SHAN GAOJIN ELECTRONICS & TEC",
+          "container_id": "CAIU3230591"
+        },
+        "highlight": {
+          "product_desc": [
+            "HANDLE LOCK &DOOR HANDLE,<font color='red'>SHOWER</font> <font color='red'>HINGE</font> & ADAPTING PIECE<br/>"
+          ]
+        },
+        "sort": [
+          1608508800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2012",
+        "_id": "AXgWSycx-KwQnO-KvwE3",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "PORTALS HARDWARE LLC",
+          "notify_party_name": "N/A",
+          "type": "us_2012",
+          "estimate_arrival_date": "2020-12-19",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font>, GLASS CLAMP, HANDLE<br/>",
+          "carrier_sasc_code": "SIXL, SIMPLEX LEASING INC",
+          "bill_of_lading": "SIXLSZX00139310C",
+          "shipper_address": " XINGYEBEI ROAD SHIBEI INDUSTRIAL ZONE SHISHAN NANHAI FOSHAN CITY ",
+          "quantity_unit": "CTN",
+          "consignee_address": "925 LYDIA AVE ",
+          "marks_numbers": "SHOWER HINGE, GLASS CLAMP, HANDLE<br/>",
+          "quantity": "332.0",
+          "weight": "4898.0",
+          "vessel_name": "SEASPAN AMAZON",
+          "voyage": "019E",
+          "measure_unit": "CM",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2020-12-21",
+          "shipper_name": "MITHRAS GLASS HARDWARE FACTORY",
+          "container_id": "SZLU9556210"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font>, GLASS CLAMP, HANDLE<br/>"
+          ]
+        },
+        "sort": [
+          1608508800000
+        ]
+      }
+    ]
+  }

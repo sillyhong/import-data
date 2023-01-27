@@ -1,0 +1,448 @@
+{
+    "total": 9666,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-Lm-O24624_L7I4IG0",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "CANAC MARQUIS GRENIER LTEE",
+          "notify_party_name": "CANAC MARQUIS GRENIER LTEE",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-07",
+          "hs_code": "830260",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font>/ACRYLIC BASE/<font color='red'>SHOWER</font> <font color='red'>DOOR</font> KIT<br/>",
+          "carrier_sasc_code": "DISO",
+          "bill_of_lading": "DISODMZ32106301",
+          "shipper_address": " ZHUZILIN INDUSTRIAL ZONE NANLANG ",
+          "quantity_unit": "CTN",
+          "consignee_address": "2825 RUE THERESE-CASGRAIN ",
+          "marks_numbers": "N/A<br/>",
+          "quantity": "643.0",
+          "weight": "1429.0",
+          "vessel_name": "MSC CAMILLE",
+          "voyage": "142A",
+          "measure_unit": "CM",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "2825 RUE THERESE-CASGRAIN ",
+          "new_date": "2021-11-22",
+          "shipper_name": "ZHONGSHAN AQUAEL SANITARY CO LTD",
+          "container_id": "FCIU9029725"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOOR</font>/ACRYLIC BASE/<font color='red'>SHOWER</font> <font color='red'>DOOR</font> KIT<br/>"
+          ]
+        },
+        "sort": [
+          1637539200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LksQ54624_L7IwTXH",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*806*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "DYNASTY SHIPPING LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-21",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>DOOR</font> STOP <font color='red'>SHOWER</font><br/>",
+          "carrier_sasc_code": "KYSI",
+          "bill_of_lading": "KYSILSAM1H210582",
+          "shipper_address": "N/A",
+          "quantity_unit": "PKG",
+          "consignee_address": "N/A",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "1424.0",
+          "weight": "19121.0",
+          "vessel_name": "KAIMANA HILA",
+          "voyage": "031E",
+          "measure_unit": "CM",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "12750 MOORE ST CERRITOS CA 90703 ",
+          "new_date": "2021-11-21",
+          "shipper_name": "N/A",
+          "container_id": "FCGU1985060"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> STOP <font color='red'>SHOWER</font><br/>"
+          ]
+        },
+        "sort": [
+          1637452800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmtsX4624_L7I3Il3",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*806*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "DYNASTY SHIPPING LLC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-21",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>DOOR</font> STOP <font color='red'>SHOWER</font><br/>",
+          "carrier_sasc_code": "KYSI",
+          "bill_of_lading": "KYSILSAM1H210582",
+          "shipper_address": "N/A",
+          "quantity_unit": "PKG",
+          "consignee_address": "N/A",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "1424.0",
+          "weight": "19121.0",
+          "vessel_name": "KAIMANA HILA",
+          "voyage": "031E",
+          "measure_unit": "CM",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "12750 MOORE ST CERRITOS CA 90703 ",
+          "new_date": "2021-11-21",
+          "shipper_name": "N/A",
+          "container_id": "FCGU1985060"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>DOOR</font> STOP <font color='red'>SHOWER</font><br/>"
+          ]
+        },
+        "sort": [
+          1637452800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlKp14624_L7IyW94",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "58023, PUSAN",
+          "country": "ID, INDONESIA",
+          "importer": "SINOBEC RESOURCES LLC",
+          "notify_party_name": "SINOBEC RESOURCES LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-06",
+          "hs_code": "871493",
+          "product_desc": "ALUMINIUM FRAMES FOR GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font>, ALUMINIUM EXTRUDED PROFILES, ALUMINIUM DRAWN TUBES<br/>",
+          "carrier_sasc_code": "AMAW",
+          "bill_of_lading": "AMAWA2109340223",
+          "shipper_address": " NO 9 DUSUN NGETREP DESA SEDATI KEC NGORO MOJOKERTO INDONESIA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "1901 GREEN ROAD BAY POMPANO BEACH FL UNITED STATES 33064 ",
+          "marks_numbers": "AS ADDRESSED<br/>",
+          "quantity": "31.0",
+          "weight": "17493.0",
+          "vessel_name": "SCHUBERT",
+          "voyage": "2108E",
+          "measure_unit": "CM",
+          "unloading_port": "3001, SEATTLE, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "1901 GREEN ROAD BAY POMPANO BEACH FL UNITED STATES 33064 ",
+          "new_date": "2021-11-21",
+          "shipper_name": "PT BERKAT MAKMUR SEJAHTERA ABADI JLN RAYA NGORO",
+          "container_id": "MEDU4374043"
+        },
+        "highlight": {
+          "product_desc": [
+            "ALUMINIUM FRAMES FOR GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font>, ALUMINIUM EXTRUDED PROFILES, ALUMINIUM DRAWN TUBES<br/>"
+          ]
+        },
+        "sort": [
+          1637452800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlBdX4624_L7Ixrg8",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "JERICH NORTH BRUNSWICK",
+          "notify_party_name": "JERICH NORTH BRUNSWICK",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-10-31",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> <font color='red'>SHOWER</font> BASE <font color='red'>SHOWER</font> WALL PO#509879<br/>",
+          "carrier_sasc_code": "SSCC, STATES STEAMSHIP COMPANY",
+          "bill_of_lading": "SSCCSTL21038307",
+          "shipper_address": " ZHUZILIN INDUSTRIAL ZONE NANLANG ZHONGSHAN CITY GUANGDONG CHINA ZHONGSHAN CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+          "marks_numbers": "OVE<br/>",
+          "quantity": "325.0",
+          "weight": "7240.0",
+          "vessel_name": "NORTHERN JAGUAR",
+          "voyage": "140W",
+          "measure_unit": "X",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+          "new_date": "2021-11-21",
+          "shipper_name": "ZHONGSHAN AQUAEL SANITARY CO LTD",
+          "container_id": "TCKU6507307"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> <font color='red'>SHOWER</font> BASE <font color='red'>SHOWER</font> WALL PO#509879<br/>"
+          ]
+        },
+        "sort": [
+          1637452800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LksKM4624_L7IwSzX",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "ARCHITECTURAL CONCEPTS",
+          "notify_party_name": "ARCHITECTURAL CONCEPTS",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-21",
+          "hs_code": "392210",
+          "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PART<br/>",
+          "carrier_sasc_code": "ECUW",
+          "bill_of_lading": "ECUWNGBLGB03865",
+          "shipper_address": " ROOMS 302 BLDG 1 NO 1276 DONGLIU ROAD ",
+          "quantity_unit": "PKG",
+          "consignee_address": "18499 LONGS WAY SUITE 102",
+          "marks_numbers": "PI:21MT090465-1 ITEM: PASADENA SHOWER (BRUSHED HARDWARE) QTY.:62SETS CARTON: 1/4 ORIGIN: MADE IN CHINA<br/>",
+          "quantity": "4.0",
+          "weight": "2098.0",
+          "vessel_name": "KAIMANA HILA",
+          "voyage": "031E",
+          "measure_unit": "CM",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "18499 LONGS WAY SUITE 102",
+          "new_date": "2021-11-21",
+          "shipper_name": "HANGZHOU METEK CO LTD",
+          "container_id": "TEMU6819491"
+        },
+        "highlight": {
+          "product_desc": [
+            "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PART<br/>"
+          ]
+        },
+        "sort": [
+          1637452800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlLVv4624_L7IyaYj",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "56053, SURABAYA",
+          "country": "ID, INDONESIA",
+          "importer": "SINOBEC RESOURCES LLC",
+          "notify_party_name": "SINOBEC RESOURCES LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-06",
+          "hs_code": "760429",
+          "product_desc": "48 CASES = 14,586 PCS OF COMMODITY:ALUMINUM FRAMES FOR GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND GLASS <font color='red'>DOOR</font> WEIGHT",
+          "carrier_sasc_code": "ENSG",
+          "bill_of_lading": "ENSGSUB210107",
+          "shipper_address": "JL KEMBANG JEPUN 38-40 SURABAYA 60162 INDONESIA SURABAYA 60162 ID ",
+          "quantity_unit": "CAS",
+          "consignee_address": "1901 GREEN ROAD BAY POMPANO BEACH FL 33064 UNITED STATES OF AMERICA POMPANO BEACH FL 33064 US ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "48.0",
+          "weight": "15.0",
+          "vessel_name": "ONE HONG KONG",
+          "voyage": "074E",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "1901 GREEN ROAD BAY POMPANO BEACH FL 33064 UNITED STATES OF AMERICA POMPANO BEACH FL 33064 US ",
+          "new_date": "2021-11-21",
+          "shipper_name": "PT INDAL ALUMINIUM INDUSTRIAL TBK",
+          "container_id": "CAIU7972109"
+        },
+        "highlight": {
+          "product_desc": [
+            "48 CASES = 14,586 PCS OF COMMODITY:ALUMINUM FRAMES FOR GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND GLASS <font color='red'>DOOR</font> WEIGHT"
+          ]
+        },
+        "sort": [
+          1637452800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlLjT4624_L7Iybco",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-05",
+          "hs_code": "392210",
+          "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+          "carrier_sasc_code": "SMMB, SUMMIT TRANSPORT INC (SUBSIDIARY OF",
+          "bill_of_lading": "SMMBSNGB5641672",
+          "shipper_address": "NO 6177 JIANGDONG ROAD JIANGDONG XIAOSHAN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "10.0",
+          "weight": "15000.0",
+          "vessel_name": "CMA CGM ARGENTINA",
+          "voyage": "0MB9V",
+          "measure_unit": "CM",
+          "unloading_port": "1703, SAVANNAH, GA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-20",
+          "shipper_name": "HANGZHOU BLUE SKY SAFETY GLASS CO",
+          "container_id": "OOLU1903359"
+        },
+        "highlight": {
+          "product_desc": [
+            "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+          ]
+        },
+        "sort": [
+          1637366400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlKjQ4624_L7IyWb7",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "MAAX US CORP",
+          "notify_party_name": "N/A",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-05",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> PO. NO.1280642-13<br/>",
+          "carrier_sasc_code": "TLKP, TLK TRANSPORT SYSTEMS INC",
+          "bill_of_lading": "TLKPSZXATL19031X",
+          "shipper_address": "8-3 NAJIN INDUSTRY PARK SANHE TOWN TAISHAN CITY JIANGMEN CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": "MARTINSBURG718 MID ATLANTIC PARKWAYMARTINSBURG WV 25404 US ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "196.0",
+          "weight": "10843.0",
+          "vessel_name": "COSCO SHIPPING PEONY",
+          "voyage": "016E",
+          "measure_unit": "---",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-20",
+          "shipper_name": "GUANGDONG ROSERY BATH SCIENCE AND T",
+          "container_id": "CBHU7002877"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> PO. NO.1280642-13<br/>"
+          ]
+        },
+        "sort": [
+          1637366400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LkLQ-4624_L7IubJE",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800,4000*900*800,4000*900*800,2000*806*800",
+          "loading_port": "47536, GIOIA TAURO",
+          "country": "EG, EGYPT",
+          "importer": "GLASSCORP LLC",
+          "notify_party_name": "GLASSCORP LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-19",
+          "hs_code": "292145",
+          "product_desc": " PFE + 4 H OLES 110 PCS OF CLEAR 1/4 T EMPERED <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PFE + 2 HOLES 103 PCS OF CLEAR 1/4 TEMPERED",
+          "carrier_sasc_code": "MEDU, BCSL US-MED LINE LTD.",
+          "bill_of_lading": "MEDUAF088184",
+          "shipper_address": "12005 NORTH EXTANTION AREA PIECES EL OBOUR DK EGYPT ",
+          "quantity_unit": "PKG",
+          "consignee_address": "16004 BELLA WOODS DR TAMPA FL 33647 UNITED STATES ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "4647.0",
+          "weight": "95865.0",
+          "vessel_name": "NAVIOS UNITE",
+          "voyage": "142A",
+          "measure_unit": "---",
+          "unloading_port": "1401, NORFOLK, VA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "16004 BELLA WOODS DR TAMPA FL 33647 UNITED STATES ",
+          "new_date": "2021-11-20",
+          "shipper_name": "DECORATIVE GLASS",
+          "container_id": "MSDU1008372,MSMU7720185,MSMU5345573,MEDU1275073"
+        },
+        "highlight": {
+          "product_desc": [
+            " PFE + 4 H OLES 110 PCS OF CLEAR 1/4 T EMPERED <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PFE + 2 HOLES 103 PCS OF CLEAR 1/4 TEMPERED",
+            " <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PFE + 2 HOLES 103 PCS OF CLEAR 1/4 TEMPERED ",
+            "GLASSWARE OF A KIND USED FOR TABLE, KITCHEN, TOILE - 103 PCS OF CLEAR 1/4 TEMP ERED SHOWE R <font color='red'>DOOR</font>"
+          ]
+        },
+        "sort": [
+          1637366400000
+        ]
+      }
+    ]
+  }

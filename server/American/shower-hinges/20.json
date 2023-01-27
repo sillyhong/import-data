@@ -1,0 +1,449 @@
+{
+    "total": 234,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2103",
+        "_id": "AX-GT9SJmjCv8oGcX7kn",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "55206, VUNG TAU",
+          "country": "NO, NORWAY",
+          "importer": "MARINE TOWN INC USA",
+          "notify_party_name": "MARINE TOWN INC",
+          "type": "us_2103",
+          "estimate_arrival_date": "2021-02-22",
+          "hs_code": "170490",
+          "product_desc": "95 <font color='red'>SHOWER</font> DECK DRAIN HEAVY DUTY FINGERGRIP HANDLE SCREW TYPE 141MM 9305326 90 SHORT THRU HULL 1-1/8",
+          "carrier_sasc_code": "ECUW",
+          "bill_of_lading": "ECUW169210107002",
+          "shipper_address": " AREA C LOT U 43-44 AND U 42B ROAD 19 TAN THUAN DONG WARD DISTRICT 7 ",
+          "quantity_unit": "PKG",
+          "consignee_address": "2061 NW US HIGHWAY 19 CRYSTAL RIVER ",
+          "marks_numbers": "MTUSA TAMPA PLT NO.V1-V5 C/NO. V1-V127 MADE IN VIETNAM<br/>",
+          "quantity": "5.0",
+          "weight": "1144.0",
+          "vessel_name": "MOL MAESTRO",
+          "voyage": "056E",
+          "measure_unit": "---",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "USA 2061 NW US HIGHWAY 19 CRYSTAL RIVER ",
+          "new_date": "2021-03-01",
+          "shipper_name": "RAY CHURN CASTING CO LTD",
+          "container_id": "NYKU4620884"
+        },
+        "highlight": {
+          "product_desc": [
+            "95 <font color='red'>SHOWER</font> DECK DRAIN HEAVY DUTY FINGERGRIP HANDLE SCREW TYPE 141MM 9305326 90 SHORT THRU HULL 1-1/8",
+            " 0307424 CATCH PLUNGER 8KG/17 LB 8631409 FLUSH <font color='red'>HINGE</font> 42 70.5M"
+          ]
+        },
+        "sort": [
+          1614556800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2102",
+        "_id": "AX-GOCukmjCv8oGcRmSs",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "ALDORA ALUMINUM AND GLASS",
+          "notify_party_name": "N/A",
+          "type": "us_2102",
+          "estimate_arrival_date": "2021-02-26",
+          "hs_code": "392210",
+          "product_desc": "BRASS <font color='red'>HINGE</font> <font color='red'>SHOWER</font> HANDLE<br/>",
+          "carrier_sasc_code": "UASI",
+          "bill_of_lading": "UASI7801812073",
+          "shipper_address": " ROOM 2211 NO 1 XINYUE BEI 1ST ",
+          "quantity_unit": "CTN",
+          "consignee_address": "4301 CHEFS WAY ",
+          "marks_numbers": "PO00021166<br/>",
+          "quantity": "83.0",
+          "weight": "987.0",
+          "vessel_name": "NAVIOS AMARILLO",
+          "voyage": "1E",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-02-26",
+          "shipper_name": "GUANGZHOU SINMI INDUSTRIAL CO LTD",
+          "container_id": "JXLU7431247"
+        },
+        "highlight": {
+          "product_desc": [
+            "BRASS <font color='red'>HINGE</font> <font color='red'>SHOWER</font> HANDLE<br/>"
+          ]
+        },
+        "sort": [
+          1614297600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2103",
+        "_id": "AX-GP1TamjCv8oGcT4ag",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "BASCO SHOWER DOOR",
+          "notify_party_name": "N/A",
+          "type": "us_2103",
+          "estimate_arrival_date": "2021-02-23",
+          "hs_code": "830210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 83021000.00 GLASS CLAMPH.S.CODE 83024100.00 <font color='red'>SHOWER</font> HANDLE H.S.CODE",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL344495321CAN",
+          "shipper_address": " XINGYEBEI ROAD SHIBEI INDUSTRIAL ZOSHISHAN NANHAI FOSHAN CITY ",
+          "quantity_unit": "PKG",
+          "consignee_address": "7201 SNIDER ROAD MASON OH 45040 USA",
+          "marks_numbers": "BASCO SHOWER DOOR USA MADE IN CHINA<br/>",
+          "quantity": "363.0",
+          "weight": "4986.0",
+          "vessel_name": "MSC FAITH",
+          "voyage": "104A",
+          "measure_unit": "---",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-02-25",
+          "shipper_name": "MITHRAS GLASS HARDWARE FACTORY",
+          "container_id": "MEDU4719802"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 83021000.00 GLASS CLAMPH.S.CODE 83024100.00 <font color='red'>SHOWER</font> HANDLE H.S.CODE"
+          ]
+        },
+        "sort": [
+          1614211200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2102",
+        "_id": "AX-GOg1ZmjCv8oGcSMxY",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "BASCO SHOWER DOOR",
+          "notify_party_name": "N/A",
+          "type": "us_2102",
+          "estimate_arrival_date": "2021-02-20",
+          "hs_code": "830210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 83021000.00 GLASS CLAMPH.S.CODE 83024100.00 <font color='red'>SHOWER</font> HANDLE H.S.CODE",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL344495321CAN",
+          "shipper_address": " XINGYEBEI ROAD SHIBEI INDUSTRIAL ZOSHISHAN NANHAI FOSHAN CITY ",
+          "quantity_unit": "PKG",
+          "consignee_address": "7201 SNIDER ROAD MASON OH 45040 USA",
+          "marks_numbers": "BASCO SHOWER DOOR USA MADE IN CHINA<br/>",
+          "quantity": "363.0",
+          "weight": "4986.0",
+          "vessel_name": "MSC FAITH",
+          "voyage": "104A",
+          "measure_unit": "---",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-02-25",
+          "shipper_name": "MITHRAS GLASS HARDWARE FACTORY",
+          "container_id": "MEDU4719802"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 83021000.00 GLASS CLAMPH.S.CODE 83024100.00 <font color='red'>SHOWER</font> HANDLE H.S.CODE"
+          ]
+        },
+        "sort": [
+          1614211200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2104",
+        "_id": "AX-LXJNh4624_L7IZpe9",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "BASCO SHOWER DOOR",
+          "notify_party_name": "N/A",
+          "type": "us_2104",
+          "estimate_arrival_date": "2021-02-23",
+          "hs_code": "830210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 83021000.00 GLASS CLAMPH.S.CODE 83024100.00 <font color='red'>SHOWER</font> HANDLE H.S.CODE",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL344495321CAN",
+          "shipper_address": " XINGYEBEI ROAD SHIBEI INDUSTRIAL ZOSHISHAN NANHAI FOSHAN CITY ",
+          "quantity_unit": "PKG",
+          "consignee_address": "7201 SNIDER ROAD MASON OH 45040 USA",
+          "marks_numbers": "BASCO SHOWER DOOR USA MADE IN CHINA<br/>",
+          "quantity": "363.0",
+          "weight": "4986.0",
+          "vessel_name": "MSC FAITH",
+          "voyage": "104A",
+          "measure_unit": "---",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-02-25",
+          "shipper_name": "MITHRAS GLASS HARDWARE FACTORY",
+          "container_id": "MEDU4719802"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 83021000.00 GLASS CLAMPH.S.CODE 83024100.00 <font color='red'>SHOWER</font> HANDLE H.S.CODE"
+          ]
+        },
+        "sort": [
+          1614211200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2102",
+        "_id": "AX-GOnG5mjCv8oGcSVTB",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "47094, VALENCIA",
+          "country": "ES, SPAIN",
+          "importer": "PORVEN LTD",
+          "notify_party_name": "C AIR CUSTOM HOUSE BROKER",
+          "type": "us_2102",
+          "estimate_arrival_date": "2021-02-19",
+          "hs_code": "940340",
+          "product_desc": "<font color='red'>HINGES</font> ANY OCCASSION P.A. 8302100090 FREG. WASHBASINS INOD. CER AMIC 1 PX (PALLET)P.A. 6910100000",
+          "carrier_sasc_code": "MEDU, BCSL US-MED LINE LTD.",
+          "bill_of_lading": "MEDUV2917064",
+          "shipper_address": "CTRA N-340 KM 56 5 VILA-REAL VC 12540 SPAIN ",
+          "quantity_unit": "PKG",
+          "consignee_address": "600 ROUTE 17 NORTH RAMSEY NJ 07446 UNITED STATES ",
+          "marks_numbers": "NOKEN DESIGN, S.A.U. INVOICE: 621200868 NOKEN DESIGN, S.A.U. INVOICE: 621200868 SAME NOKEN DESIGN, S.A.U. INVOICE: 621200868 SAME NOKEN DESIGN, S.A.U. INVOICE: 621200868 SAME NOKEN DESIGN, S.A.U. INVOICE: 621200868 SAME NOKEN DESIGN, S.A.U. INVOICE: 62120",
+          "quantity": "841.0",
+          "weight": "18870.0",
+          "vessel_name": "MSC TORONTO",
+          "voyage": "104W",
+          "measure_unit": "---",
+          "unloading_port": "5201, MIAMI, FL",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "181 S FRANKLIN AVENUE #502 VALLEY STREAM NY 11581 UNITED STATE",
+          "new_date": "2021-02-24",
+          "shipper_name": "VENIS",
+          "container_id": "CARU9784241"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>HINGES</font> ANY OCCASSION P.A. 8302100090 FREG. WASHBASINS INOD. CER AMIC 1 PX (PALLET)P.A. 6910100000",
+            " OTHER APPLIANCES ALUM TUBE S USED MAT FLUFFITTINGS OF BASE AL P.A. 9405409500 FURNITURE FITTINGS 2 BE (BUNDLE) 2 PX (PALLET) P.A. 8302420090 <font color='red'>SHOWER</font> BATH AND "
+          ]
+        },
+        "sort": [
+          1614124800000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2102",
+        "_id": "AX-GOKkcmjCv8oGcRww4",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "YOUR SOURCE PRODUCTS INC",
+          "notify_party_name": "YOUR SOURCE PRODUCTS INC",
+          "type": "us_2102",
+          "estimate_arrival_date": "2021-02-16",
+          "hs_code": "830241",
+          "product_desc": "<font color='red'>SHOWER</font> ROD, HARDWARE ACCESSORIES, DOOR STOP HANDLE,<font color='red'>HINGE</font> SWITCH RECEPTACLE ELECTRICAL PARTS(WALL",
+          "carrier_sasc_code": "STIW, STEINWAY VAN & STORAGE CORP",
+          "bill_of_lading": "STIWNBTP00415366",
+          "shipper_address": " NO 158 CHUANGYUAN ROAD 215125 SUZHOU -INDUSTRIAL ZONE CHINA ",
+          "quantity_unit": "PKG",
+          "consignee_address": "4907 JOANNE KEARNEY BLVD TAMPA FL ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "1511.0",
+          "weight": "13252.0",
+          "vessel_name": "COSCO GENOA",
+          "voyage": "052E",
+          "measure_unit": "X",
+          "unloading_port": "1801, TAMPA, FL",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "4907 JOANNE KEARNEY BLVD TAMPA FL ",
+          "new_date": "2021-02-23",
+          "shipper_name": "SUZHOU ELE MFG CO LTD",
+          "container_id": "FXLU1881346"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> ROD, HARDWARE ACCESSORIES, DOOR STOP HANDLE,<font color='red'>HINGE</font> SWITCH RECEPTACLE ELECTRICAL PARTS(WALL"
+          ]
+        },
+        "sort": [
+          1614038400000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2102",
+        "_id": "AX-GOu2BmjCv8oGcSfez",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2102",
+          "estimate_arrival_date": "2021-02-14",
+          "hs_code": "830241",
+          "product_desc": "LIGHTING FIXTURES,DOOR KNOCKER,DOOR HARDWARE,DOOR <font color='red'>HINGE</font>,DOOR LOCK,SPRING STOP,ELECTRICAL PLATES",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL344276815CAN",
+          "shipper_address": "N/A",
+          "quantity_unit": "PKG",
+          "consignee_address": "N/A",
+          "marks_numbers": "DOGWOOD BUILDING SUPPLY A2688-60 A2688-61 A2688-56 200630SS A2688-36 A2688-20 161020SS A2688-49 A2688-47 A2688-51<br/>",
+          "quantity": "1027.0",
+          "weight": "13754.0",
+          "vessel_name": "MAERSK SIRAC",
+          "voyage": "10E",
+          "measure_unit": "---",
+          "unloading_port": "1703, SAVANNAH, GA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-02-21",
+          "shipper_name": "N/A",
+          "container_id": "CAIU4415199"
+        },
+        "highlight": {
+          "product_desc": [
+            "LIGHTING FIXTURES,DOOR KNOCKER,DOOR HARDWARE,DOOR <font color='red'>HINGE</font>,DOOR LOCK,SPRING STOP,ELECTRICAL PLATES",
+            ",CABINET PULL,BATH HARDWARE,DOOR PULL,CURVED <font color='red'>SHOWER</font> ROD,BLINDS,24 X36 FRAMED MIRROR,36 X36 FRAMED MIRROR"
+          ]
+        },
+        "sort": [
+          1613865600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2102",
+        "_id": "AX-GO2HpmjCv8oGcSnq4",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "M D",
+          "notify_party_name": "N/A",
+          "type": "us_2102",
+          "estimate_arrival_date": "2021-02-11",
+          "hs_code": "741220",
+          "product_desc": "BRASS BRACKETS BRASS <font color='red'>SHOWER</font> <font color='red'>HINGE</font> BRASS GLASSE TO GLASS FIXED CONNECTOR STAINLESS STEEL TUBE<br/>",
+          "carrier_sasc_code": "CTYO, CITY TOURS INC",
+          "bill_of_lading": "CTYOGZSEAUA0425",
+          "shipper_address": " 1 8TH STREET CHANGLON G INDUSTRIAL ZONE SIJIU TOWN ",
+          "quantity_unit": "PKG",
+          "consignee_address": "25811 - 74TH AVENUE ",
+          "marks_numbers": "CLAMP STAINLESS STEEL HANDLE SLIDING KIT TUB MI C/NO .<br/>",
+          "quantity": "22.0",
+          "weight": "10417.0",
+          "vessel_name": "OOCL OAKLAND",
+          "voyage": "0TP81",
+          "measure_unit": "---",
+          "unloading_port": "3001, SEATTLE, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-02-20",
+          "shipper_name": "LEADER HARDWARE MANUFACTURER LIMITED",
+          "container_id": "CMAU7727676"
+        },
+        "highlight": {
+          "product_desc": [
+            "BRASS BRACKETS BRASS <font color='red'>SHOWER</font> <font color='red'>HINGE</font> BRASS GLASSE TO GLASS FIXED CONNECTOR STAINLESS STEEL TUBE<br/>"
+          ]
+        },
+        "sort": [
+          1613779200000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2102",
+        "_id": "AX-GQsFdmjCv8oGcU5r6",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "EASY MARKETING LLC",
+          "notify_party_name": "EASY MARKETING LLC",
+          "type": "us_2102",
+          "estimate_arrival_date": "2021-02-10",
+          "hs_code": "871500",
+          "product_desc": " MOUSETRAPHEAVY DUTY GATE <font color='red'>HINGE</font> PAIR - 7H EAVY DUTY GATE <font color='red'>HINGE</font> PAIR - 512 FILLABLE BOT TLES FOR BABY <font color='red'>SHOWER</font> WHITE12 FILLABLE BOTT LES FOR BABY <font color='red'>SHOWER</font> BLUE12 FILLAB",
+          "carrier_sasc_code": "BNXC",
+          "bill_of_lading": "BNXCNRNGB66171F",
+          "shipper_address": " ROOM 303 UNIT 2BLD 131 YONGSHENG AREA YIWU CITYZHEJIANG PROVINCE CHINAP C322000 ",
+          "quantity_unit": "CTN",
+          "consignee_address": "SUITE 315 1625 WESTON FL 33326 UN ITED STATES ",
+          "marks_numbers": "EMMADE IN CHINA<br/>",
+          "quantity": "322.0",
+          "weight": "4171.0",
+          "vessel_name": "EVER LINKING",
+          "voyage": "0943E",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "SUITE 315 1625 WESTON FL 33326 UN ITED STATES ",
+          "new_date": "2021-02-19",
+          "shipper_name": "YIWU SHIJIAN TRADE CO LTD",
+          "container_id": "FFAU1532910"
+        },
+        "highlight": {
+          "product_desc": [
+            " MOUSETRAPHEAVY DUTY GATE <font color='red'>HINGE</font> PAIR - 7H EAVY DUTY GATE <font color='red'>HINGE</font> PAIR - 512 FILLABLE BOT TLES FOR BABY <font color='red'>SHOWER</font> WHITE12 FILLABLE BOTT LES FOR BABY <font color='red'>SHOWER</font> BLUE12 FILLAB"
+          ]
+        },
+        "sort": [
+          1613692800000
+        ]
+      }
+    ]
+  }

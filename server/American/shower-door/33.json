@@ -1,0 +1,449 @@
+{
+  "total": 9666,
+  "max_score": null,
+  "hits": [
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lkusa4624_L7IwfpI",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "JERICH NORTH BRUNSWICK",
+        "notify_party_name": "JERICH NORTH BRUNSWICK",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-10",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> PO#509875(115CTNS 4715KGS 25.3CBM) <font color='red'>SHOWER</font> BASE PO#508955(22CTNS 330KGS 3.96CBM) <font color='red'>SHOWER</font> WALL PO#509875(105CTNS 1665KGS 28.35CBM)<br/>",
+        "carrier_sasc_code": "SSCC, STATES STEAMSHIP COMPANY",
+        "bill_of_lading": "SSCCSTL21038238",
+        "shipper_address": " ZHUZILIN INDUSTRIAL ZONE NANLANG ZHONGSHAN CITY GUANGDONG CHINA ZHONGSHAN CN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+        "marks_numbers": "OVE<br/>",
+        "quantity": "242.0",
+        "weight": "6710.0",
+        "vessel_name": "GSL ARCADIA",
+        "voyage": "139E",
+        "measure_unit": "X",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "2801 ROUTE 130 NORTH BRUNSWICK NJ 08902 NORTH BRUNSWICK NJ US ",
+        "new_date": "2021-11-24",
+        "shipper_name": "ZHONGSHAN AQUAEL SANITARY CO LTD",
+        "container_id": "MSMU8681566"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> PO#509875(115CTNS 4715KGS 25.3CBM) <font color='red'>SHOWER</font> BASE PO#508955(22CTNS 330KGS 3.96CBM) <font color='red'>SHOWER</font> WALL PO#509875(105CTNS 1665KGS 28.35CBM)<br/>"
+        ]
+      },
+      "sort": [
+        1637712000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LkmTr4624_L7Iv51P",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*906*802,4000*906*802",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-09",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "TOPO, TOR PETROLEUM CORP",
+        "bill_of_lading": "TOPOSZNSFOLB4281",
+        "shipper_address": "N/A",
+        "quantity_unit": "PKG",
+        "consignee_address": "N/A",
+        "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+        "quantity": "390.0",
+        "weight": "42000.0",
+        "vessel_name": "MSC ALTAIR",
+        "voyage": "141A",
+        "measure_unit": "---",
+        "unloading_port": "2811, OAKLAND, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-11-24",
+        "shipper_name": "N/A",
+        "container_id": "MEDU8784350,TGCU5026898"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1637712000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LkiF-4624_L7Ivmd5",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "55976, SINGAPORE",
+        "country": "ID, INDONESIA",
+        "importer": "SINOBEC RESOURCES LLC",
+        "notify_party_name": "SINOBEC RESOURCES LLC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "392520",
+        "product_desc": "9390 PCS ALUMINIUM FRAMES FOR GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND GLASS <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "WSLT",
+        "bill_of_lading": "WSLTSUBCHI106131",
+        "shipper_address": "JL KEMBANG JEPLIN 38-40 SURABAYA INDONESIA ",
+        "quantity_unit": "CAS",
+        "consignee_address": "1901 GREEN ROAD BAY POMPANO BEACH FL 33064 ",
+        "marks_numbers": "SINOBEC TRADING<br/>",
+        "quantity": "14.0",
+        "weight": "5936.0",
+        "vessel_name": "YM WELLNESS",
+        "voyage": "029E",
+        "measure_unit": "CM",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "10",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "1901 GREEN ROAD BAY POMPANO BEACH FL 33064 ",
+        "new_date": "2021-11-24",
+        "shipper_name": "PT INDAL ALUMINIUM INDUSTRIAL",
+        "container_id": "SEGU6069430"
+      },
+      "highlight": {
+        "product_desc": [
+          "9390 PCS ALUMINIUM FRAMES FOR GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND GLASS <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1637712000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-Lm6Gi4624_L7I34hL",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "24128, PORT BUSTAMANTE",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "MLB LOGISTICS LLC",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-12-02",
+        "hs_code": "691090",
+        "product_desc": "BATHROOM CABINET - BATHROOM CABINET FAUCET <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "MEDU, BCSL US-MED LINE LTD.",
+        "bill_of_lading": "MEDUNL534744",
+        "shipper_address": "N/A",
+        "quantity_unit": "PKG",
+        "consignee_address": "N/A",
+        "marks_numbers": "SAME<br/>",
+        "quantity": "317.0",
+        "weight": "20618.0",
+        "vessel_name": "ALLEGRO",
+        "voyage": "147A",
+        "measure_unit": "X",
+        "unloading_port": "4909, SAN JUAN, PUERTO RICO",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "URB LOS MONTES BELLOS 745 CALLE PETDORADO 00646 PUERTO RICO ",
+        "new_date": "2021-11-24",
+        "shipper_name": "N/A",
+        "container_id": "TGHU8941751"
+      },
+      "highlight": {
+        "product_desc": [
+          "BATHROOM CABINET - BATHROOM CABINET FAUCET <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1637712000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LmIQf4624_L7I1ElF",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BAIN DEPOT INC",
+        "notify_party_name": "N/A",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-11-08",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND ACCESSORIES411PKGS110PLTS1545CTNS301CTNSINVOICE NOBD21199PO",
+        "carrier_sasc_code": "FTNV",
+        "bill_of_lading": "FTNVSZS000172009",
+        "shipper_address": " DEVELO ROOM506/507 5F NO23 NANANROAD SHIQI DISTRICT ZHONGSHAN CN ",
+        "quantity_unit": "PKG",
+        "consignee_address": "1200 RUE MICHELE-BOHEC BLAINVILLE QC J7C5S4 CA ",
+        "marks_numbers": "NADOLI . . . . . . . . .<br/>NADOLI . . . . . . . . .<br/>NADOLI . . . . . . . . .<br/>NADOLI . . . . . . . . .<br/>NADOLI . . . . . . . . .<br/>",
+        "quantity": "411.0",
+        "weight": "70217.0",
+        "vessel_name": "MSC CAMILLE",
+        "voyage": "UK142",
+        "measure_unit": "X",
+        "unloading_port": "3002, TACOMA, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "N/A",
+        "new_date": "2021-11-23",
+        "shipper_name": "ZHONGSHAN NEWECAN ENTERPRISE",
+        "container_id": "MSMU8020205,MSMU7091631,DFSU6877705,TEMU8627796,MSMU5444093"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND ACCESSORIES411PKGS110PLTS1545CTNS301CTNSINVOICE NOBD21199PO"
+        ]
+      },
+      "sort": [
+        1637625600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LkyGu4624_L7Iwtah",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*800*800,4000*800*800,4000*800*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "TRANSMILE GROUP INC",
+        "notify_party_name": "TRANSMILE GROUP INC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-03",
+        "hs_code": "392520",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> BARN <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font> BARN <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font> BARN <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "SYLQ, SYLVIAS INCORPORATED",
+        "bill_of_lading": "SYLQYKNY21090073",
+        "shipper_address": "1 KEYUN SOUTH RD SHISHAN INDUSTRIAL FOSHAN GUANGDONG ",
+        "quantity_unit": "CTN",
+        "consignee_address": "5902 SOVEREIGN DR STE A14 HOUSTON TX 77036 ",
+        "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+        "quantity": "1944.0",
+        "weight": "49880.0",
+        "vessel_name": "EVER UTILE",
+        "voyage": "0035E",
+        "measure_unit": "CM",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": " 5902 SOVEREIGN DR STE A14 HOUSTON TX 77036 ",
+        "new_date": "2021-11-23",
+        "shipper_name": "SEA WIN SANITARY WARE CO LTD",
+        "container_id": "TXGU5859234,EITU1636578,TRHU7517400"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> BARN <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font> BARN <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font> BARN <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1637625600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LkIrI4624_L7IuRjM",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BAIN DEPOT INC",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-08",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND ACCESSORIES411PKGS110PLTS1545CTNS301CTNSINVOICE NOBD21199PO",
+        "carrier_sasc_code": "FTNV",
+        "bill_of_lading": "FTNVSZS000172009",
+        "shipper_address": " DEVELO ROOM506/507 5F NO23 NANANROAD SHIQI DISTRICT ZHONGSHAN CN ",
+        "quantity_unit": "PKG",
+        "consignee_address": "1200 RUE MICHELE-BOHEC BLAINVILLE QC J7C5S4 CA ",
+        "marks_numbers": "NADOLI . . . . . . . . .<br/>NADOLI . . . . . . . . .<br/>NADOLI . . . . . . . . .<br/>NADOLI . . . . . . . . .<br/>NADOLI . . . . . . . . .<br/>",
+        "quantity": "411.0",
+        "weight": "70217.0",
+        "vessel_name": "MSC CAMILLE",
+        "voyage": "UK142",
+        "measure_unit": "X",
+        "unloading_port": "3002, TACOMA, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "N/A",
+        "new_date": "2021-11-23",
+        "shipper_name": "ZHONGSHAN NEWECAN ENTERPRISE",
+        "container_id": "MSMU8020205,MSMU7091631,DFSU6877705,TEMU8627796,MSMU5444093"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND ACCESSORIES411PKGS110PLTS1545CTNS301CTNSINVOICE NOBD21199PO"
+        ]
+      },
+      "sort": [
+        1637625600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk0XU4624_L7Iw27T",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BATH AUTHORITY LLC",
+        "notify_party_name": "BATH AUTHORITY LLC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-08",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/>",
+        "carrier_sasc_code": "FSAA",
+        "bill_of_lading": "FSAAFSSA2110336",
+        "shipper_address": " L NO 25 EAST XINGPU ROAD HUANGPU T OWN ZHONGSHAN CITY GUANGDONG PROV INCE ",
+        "quantity_unit": "CTN",
+        "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 TEL:0012159571411 FAX:12062016139 EMAIL: JANICE SHURTLEFF@DREAMLINE COM ",
+        "marks_numbers": "DREAMLINE<br/>DREAMLINE<br/>",
+        "quantity": "877.0",
+        "weight": "21110.0",
+        "vessel_name": "CMA CGM G. WASHINGTON",
+        "voyage": "0TXA1",
+        "measure_unit": "---",
+        "unloading_port": "2704, LOS ANGELES, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "75 HAWK ROAD WARMINSTER PA 18974 TEL:0012159571411 FAX:12062016139 EMAIL: JANICE SHURTLEFF@DREAMLINE COM ",
+        "new_date": "2021-11-23",
+        "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER COMPANY",
+        "container_id": "CMAU5114000,GESU6125118"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/>"
+        ]
+      },
+      "sort": [
+        1637625600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lkw8_4624_L7Iwoj-",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57035, SHANGHAI",
+        "country": "CN, CHINA",
+        "importer": "CONTRACTORS WAREHOUSE LLC",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-05",
+        "hs_code": "050900",
+        "product_desc": "ALUMINIUM <font color='red'>SHOWER</font> <font color='red'>DOORS</font> CLEAN SPONGES<br/>",
+        "carrier_sasc_code": "SINO, SINO-AMERICAN CORP",
+        "bill_of_lading": "SINOSHE21103585",
+        "shipper_address": " #1308 THE FIRST BLOCK VANKE SQUARE #203 WANGJIANG WEST ROAD HEFEI CHINHEFEI CN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "1695 EUREKA RD ROSEVILLE CA 95661 ROSEVILLE CA 95661 US ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "357.0",
+        "weight": "14088.0",
+        "vessel_name": "MSC ELA",
+        "voyage": "142A",
+        "measure_unit": "---",
+        "unloading_port": "2704, LOS ANGELES, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "N/A",
+        "new_date": "2021-11-23",
+        "shipper_name": "ANHUI MAJOR SUPPLY CO LTD",
+        "container_id": "MEDU8960000"
+      },
+      "highlight": {
+        "product_desc": [
+          "ALUMINIUM <font color='red'>SHOWER</font> <font color='red'>DOORS</font> CLEAN SPONGES<br/>"
+        ]
+      },
+      "sort": [
+        1637625600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LkJRb4624_L7IuTpK",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "24128, PORT BUSTAMANTE",
+        "country": "CN, CHINA",
+        "importer": "FBC INTERNATIONAL CORP",
+        "notify_party_name": "CMC LOGISTICS CORP",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-20",
+        "hs_code": "700991",
+        "product_desc": "MIRROR HS CODE:7009910090 <font color='red'>SHOWER</font> <font color='red'>DOOR</font> HS CODE:7610900000 FAUCET HS CODE:8481809000 ROAD,FUTIAN",
+        "carrier_sasc_code": "CMDU, COMPAGNIE MARITIME DAFFRETEMEN",
+        "bill_of_lading": "CMDUCNBW941341",
+        "shipper_address": "CO LTD USCI:914403007703216528 RM2301 AOXINYA BUILDING ",
+        "quantity_unit": "PCS",
+        "consignee_address": " PO BOX 2400 PMB 240 TOA BAJA PR 00951-2400 PH:787-995-7184 ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "491.0",
+        "weight": "20354.0",
+        "vessel_name": "POLYNESIA",
+        "voyage": "0UAA8",
+        "measure_unit": "CM",
+        "unloading_port": "4909, SAN JUAN, PUERTO RICO",
+        "mode_of_transportation": "10",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "ZONA LIBRE DE COMERCIO 61 EDIF 2 PUERTA 1 2ND FLOOR ",
+        "new_date": "2021-11-23",
+        "shipper_name": "CNS INTERTRANS SHENZHEN",
+        "container_id": "SEGU4066601"
+      },
+      "highlight": {
+        "product_desc": [
+          "MIRROR HS CODE:7009910090 <font color='red'>SHOWER</font> <font color='red'>DOOR</font> HS CODE:7610900000 FAUCET HS CODE:8481809000 ROAD,FUTIAN"
+        ]
+      },
+      "sort": [
+        1637625600000
+      ]
+    }
+  ]
+
+
+
+}

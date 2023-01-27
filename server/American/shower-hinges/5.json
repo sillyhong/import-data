@@ -1,0 +1,446 @@
+[
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LpvIG4624_L7I-mro",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57069, XIAMEN",
+        "country": "CN, CHINA",
+        "importer": "EAST YAPHAN HOLDING LLC",
+        "notify_party_name": "EAST YAPHAN HOLDING LLC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-11",
+        "hs_code": "830210",
+        "product_desc": "IRON DOOR IRON RAILING ALUMINIUM ALLOY LINE WD LIGHIT BULB ALUMINUM WINDOW DISPLAY RACK <font color='red'>SHOWER</font> ROOM",
+        "carrier_sasc_code": "WSAM",
+        "bill_of_lading": "WSAMWSO2109008AA",
+        "shipper_address": " JINGTOU INTERSECTION MAXIANG TOWN XIANG AN DISTRICT XIAMEN ",
+        "quantity_unit": "PKG",
+        "consignee_address": "4727 195TH ST FLUSHING NY 11358 USA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "198.0",
+        "weight": "13317.0",
+        "vessel_name": "GRETE MAERSK",
+        "voyage": "134E",
+        "measure_unit": "CC",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "4727 195TH ST FLUSHING NY 11358 USA ",
+        "new_date": "2021-10-24",
+        "shipper_name": "XIAMEN OUYA INDUSTRIAL TRADE CO LTD",
+        "container_id": "TRLU7088916"
+      },
+      "highlight": {
+        "product_desc": [
+          "IRON DOOR IRON RAILING ALUMINIUM ALLOY LINE WD LIGHIT BULB ALUMINUM WINDOW DISPLAY RACK <font color='red'>SHOWER</font> ROOM",
+          " LASER TAPE MEASURE CLOSET <font color='red'>HINGE</font> GARBAGE CAN CABINET <font color='red'>HINGE</font> CARPET TABLE<br/>"
+        ]
+      },
+      "sort": [
+        1635033600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LlrqD4624_L7I0Fpb",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BASCO SHOWER DOOR",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-09",
+        "hs_code": "830210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 83021000.00 GLASS CLAMPH.S.CODE 83024100.00 TOWEL BAR H.S.CODE 83024200.00 4 PALLETS 126 CARTONS<br/>",
+        "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+        "bill_of_lading": "CHSL368469810CAN",
+        "shipper_address": " ROAD SHIBEI INDUSTRIAL ZONE SHISHAN NANHAI ",
+        "quantity_unit": "PKG",
+        "consignee_address": "7201 SNIDER ROAD MASON OH 45040 USA",
+        "marks_numbers": "BASCO SHOWER DOOR USA MADE IN CHINA<br/>",
+        "quantity": "126.0",
+        "weight": "2084.0",
+        "vessel_name": "COSCO SPAIN",
+        "voyage": "046E",
+        "measure_unit": "---",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-24",
+        "shipper_name": "MITHRAS GLASS HARDWARE FATORY XINGYEBEI",
+        "container_id": "OOLU8572627"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> H.S.CODE 83021000.00 GLASS CLAMPH.S.CODE 83024100.00 TOWEL BAR H.S.CODE 83024200.00 4 PALLETS 126 CARTONS<br/>"
+        ]
+      },
+      "sort": [
+        1635033600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Ls7qG4624_L7ICfAK",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "SOUTHEASTERN ALUMINUM PRODUCTS",
+        "notify_party_name": "SOUTHEASTERN ALUMINUM PRODUCTS",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> GLASS CLAMP<br/>",
+        "carrier_sasc_code": "IFSN",
+        "bill_of_lading": "IFSNMIA21805533S",
+        "shipper_address": " XINGYEBEI ROAD ",
+        "quantity_unit": "CTN",
+        "consignee_address": "3525 IMESON ROAD",
+        "marks_numbers": "SOUTHEASTERN ALUMINUM PRODUCTS.INC. JACKSONVILLE,USA MADE IN CHINA<br/>",
+        "quantity": "158.0",
+        "weight": "2556.0",
+        "vessel_name": "AXEL MAERSK",
+        "voyage": "13W",
+        "measure_unit": "CC",
+        "unloading_port": "5201, MIAMI, FL",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "3525 IMESON ROAD",
+        "new_date": "2021-10-21",
+        "shipper_name": "MITHRAS GLASS HARDWARE FACTORY",
+        "container_id": "ZCSU7946242"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>HINGE</font> GLASS CLAMP<br/>"
+        ]
+      },
+      "sort": [
+        1634774400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lmywa4624_L7I3eNE",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "47094, VALENCIA",
+        "country": "ES, SPAIN",
+        "importer": "PORVEN LTD",
+        "notify_party_name": "ATLANTIC CUSTOMS BROKERS INC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-18",
+        "hs_code": "690510",
+        "product_desc": "CERAMIC TILES CERAMIC TILES CERAMIC TILES CERAMIC TILES <font color='red'>SHOWER</font> BATH AND TOILET BATHROOM BATHROOM",
+        "carrier_sasc_code": "COSU, CHINA OCEAN STEAMSHIP LTD",
+        "bill_of_lading": "COSU6314701460",
+        "shipper_address": "CARRETERA NACIONAL 340 KM 56 2 VILA REAL COMUNIDAD VALENCIANA 1254SPAIN ",
+        "quantity_unit": "BOX",
+        "consignee_address": "600 ROUTE 17 NORTH RAMSEY NJ 07446 UNITED STATES ",
+        "marks_numbers": "PORCELANOSA, S.A.U. INVOICE: 221218435 PORCELANOSA, S.A.U. INVOICE: 221218435 PORCELANOSA, S.A.U. INVOICE: 221218435 PORCELANOSA, S.A.U. INVOICE: 221218435 NOKEN DESIGN, S.A.U. INVOICE: 621208586 NOKEN DESIGN, S.A.U. INVOICE: 621208586 NOKEN DESIGN, S.A.U",
+        "quantity": "955.0",
+        "weight": "20752.0",
+        "vessel_name": "CHICAGO EXPRESS",
+        "voyage": "099W",
+        "measure_unit": "---",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "154 STATE STREET NORTH HAVEN CT 06473 UNITED STATES ",
+        "new_date": "2021-10-20",
+        "shipper_name": "PORCELANOSA S A",
+        "container_id": "TGBU5337690"
+      },
+      "highlight": {
+        "product_desc": [
+          "CERAMIC TILES CERAMIC TILES CERAMIC TILES CERAMIC TILES <font color='red'>SHOWER</font> BATH AND TOILET BATHROOM BATHROOM",
+          " ACCESO HYGIEN BRASS TOILET <font color='red'>HINGES</font> ANY OCCASSION SPRAY EQUIPM"
+        ]
+      },
+      "sort": [
+        1634688000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LqoOT4624_L7I_p8j",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "YOUNG CORP",
+        "notify_party_name": "YOUNG CORP",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-08",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> GLASS 5PACKAGES 6835 39KGS G W <font color='red'>SHOWER</font> HARDWARE WALL MIRROR 245PACKAGES 6129 30KGS G W <font color='red'>HINGES</font> DRILLING MACHINE INDOOR WALL LIGHT<br/>",
+        "carrier_sasc_code": "DNCY",
+        "bill_of_lading": "DNCYSZFSAV219051",
+        "shipper_address": "5F NO 98 DACHONG INDUSTRIAL ZONE LISHUI TOWN NANHAI DISTRICT FOSHANCITY GUANGDONG",
+        "quantity_unit": "PKG",
+        "consignee_address": " OF AMERICA 10888 SAN SEVAINE WAY F JURUPA VALLEY CA 91752 ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "311.0",
+        "weight": "14706.0",
+        "vessel_name": "AXEL MAERSK",
+        "voyage": "134W",
+        "measure_unit": "X",
+        "unloading_port": "1703, SAVANNAH, GA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": " OF AMERICA 10888SAN SEVAINE WAY F JURUPA VALLEY CA 91752 ",
+        "new_date": "2021-10-17",
+        "shipper_name": "FOSHAN RUICHENG DECORATION MATERIAL",
+        "container_id": "CRLU1183416"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> GLASS 5PACKAGES 6835 39KGS G W <font color='red'>SHOWER</font> HARDWARE WALL MIRROR 245PACKAGES 6129 30KGS G W <font color='red'>HINGES</font> DRILLING MACHINE INDOOR WALL LIGHT<br/>"
+        ]
+      },
+      "sort": [
+        1634428800000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lm_9V4624_L7I4P9x",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800",
+        "loading_port": "47094, VALENCIA",
+        "country": "ES, SPAIN",
+        "importer": "PORVEN LTD",
+        "notify_party_name": "ATLANTIC CUSTOMS BROKERS INC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-11",
+        "hs_code": "690510",
+        "product_desc": "CERAMIC TILES CERAMIC TILES <font color='red'>SHOWER</font> BATH AND TOILET BAT HROOM HEALTH ACCESSORIES BATHROOM MIRRORS",
+        "carrier_sasc_code": "COSU, CHINA OCEAN STEAMSHIP LTD",
+        "bill_of_lading": "COSU6314040560",
+        "shipper_address": "CARRETERA NACIONAL 340 KM 56 2 VILA REAL COMUNIDAD VALENCIANA 1254SPAIN ",
+        "quantity_unit": "BOX",
+        "consignee_address": "600 ROUTE 17 NORTH RAMSEY NJ 07446 UNITED STATES ",
+        "marks_numbers": "PORCELANOSA, S.A.U. INVOICE: 221218238 PORCELANOSA, S.A.U. INVOICE: 221218238 NOKEN DESIGN, S.A.U. INVOICE: 621208506 NOKEN DESIGN, S.A.U. INVOICE: 621208506 NOKEN DESIGN, S.A.U. INVOICE: 621208506 NOKEN DESIGN, S.A.U. INVOICE: 621208506 NOKEN DESIGN, S.A",
+        "quantity": "1928.0",
+        "weight": "39076.0",
+        "vessel_name": "OOCL EUROPE",
+        "voyage": "180W",
+        "measure_unit": "---",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "154 STATE STREET NORTH HAVEN CT 06473 UNITED STATES ",
+        "new_date": "2021-10-15",
+        "shipper_name": "PORCELANOSA S A",
+        "container_id": "OOLU9847610,CCLU7734950"
+      },
+      "highlight": {
+        "product_desc": [
+          "CERAMIC TILES CERAMIC TILES <font color='red'>SHOWER</font> BATH AND TOILET BAT HROOM HEALTH ACCESSORIES BATHROOM MIRRORS",
+          " WITHOUT FRAMING, OTHERS ACCESO HYGIEN BRASS TOILET <font color='red'>HINGES</font> ANY OCCASSION FAUCETS TAPS AND ACCESSORIES"
+        ]
+      },
+      "sort": [
+        1634256000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lr6ub4624_L7IBRSO",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "AM AND PM GLASS",
+        "notify_party_name": "AM AND PM GLASS",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-02",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> SLIDING KIT <font color='red'>SHOWER</font> <font color='red'>HINGE</font> AND CLAMP DOOR HANDLE VINYL (71CTNS=1 PALLET)<br/>",
+        "carrier_sasc_code": "CHIA",
+        "bill_of_lading": "CHIASZEL21070332",
+        "shipper_address": "NO 2 JIAOTAO INDUSTRIAL ZONE JIANGHAI DISTRICT JIANGMEN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "890 BOADWAY WEST LONG BRANCH NJ 07764 USA ",
+        "marks_numbers": "AMPM<br/>",
+        "quantity": "71.0",
+        "weight": "810.0",
+        "vessel_name": "MEISHAN BRIDGE",
+        "voyage": "015E",
+        "measure_unit": "---",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "890 BOADWAY WEST LONG BRANCH NJ 07764 USA ",
+        "new_date": "2021-10-14",
+        "shipper_name": "SUNNY GLASS HARDWARE FACTORY CO LTD",
+        "container_id": "TGBU5305395"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> SLIDING KIT <font color='red'>SHOWER</font> <font color='red'>HINGE</font> AND CLAMP DOOR HANDLE VINYL (71CTNS=1 PALLET)<br/>"
+        ]
+      },
+      "sort": [
+        1634169600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Ls2DR4624_L7ICZHm",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "PORTALS HARDWARE LLC",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-09-30",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>HINGE</font>, GLASS CLAMP, HANDLE<br/>",
+        "carrier_sasc_code": "SIXL, SIMPLEX LEASING INC",
+        "bill_of_lading": "SIXLSZX102189837",
+        "shipper_address": " XINGYEBEI ROAD SHIBEI INDUSTRIAL ZONE SHISHAN NANHAI FOSHAN CITY ",
+        "quantity_unit": "CTN",
+        "consignee_address": "925 LYDIA AVE ",
+        "marks_numbers": "PORTALS<br/>",
+        "quantity": "172.0",
+        "weight": "2417.0",
+        "vessel_name": "CMA CGM PANAMA",
+        "voyage": "008E",
+        "measure_unit": "CM",
+        "unloading_port": "2704, LOS ANGELES, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-11",
+        "shipper_name": "MITHRAS GLASS HARDWARE FACTORY",
+        "container_id": "OOCU4758010"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>HINGE</font>, GLASS CLAMP, HANDLE<br/>"
+        ]
+      },
+      "sort": [
+        1633910400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LtUC84624_L7IC8ft",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800,4000*806*800",
+        "loading_port": "57069, XIAMEN",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-09-26",
+        "hs_code": "830210",
+        "product_desc": "<font color='red'>SHOWER</font> ENCLOSURE<br/><font color='red'>SHOWER</font> ENCLOSURE HARDWARE KIT <font color='red'>HINGE</font> ASSY HANDLE ASSY <font color='red'>HINGE</font> PINS AND CAPS<br/>",
+        "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+        "bill_of_lading": "CHSL367458374XMN",
+        "shipper_address": "N/A",
+        "quantity_unit": "PKG",
+        "consignee_address": "N/A",
+        "marks_numbers": "DELTA<br/>DELTA<br/>",
+        "quantity": "64.0",
+        "weight": "19800.0",
+        "vessel_name": "CMA CGM T. ROOSEVELT",
+        "voyage": "0TX9N",
+        "measure_unit": "---",
+        "unloading_port": "2704, LOS ANGELES, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-09",
+        "shipper_name": "N/A",
+        "container_id": "OOLU7847720,OOCU4901944"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> ENCLOSURE<br/><font color='red'>SHOWER</font> ENCLOSURE HARDWARE KIT <font color='red'>HINGE</font> ASSY HANDLE ASSY <font color='red'>HINGE</font> PINS AND CAPS<br/>"
+        ]
+      },
+      "sort": [
+        1633737600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LpEeH4624_L7I94FX",
+      "_score": null,
+      "_source": {
+        "container_size": "4500*906*800",
+        "loading_port": "57000, HULUTAO",
+        "country": "CN, CHINA",
+        "importer": "FRAMELESS HARDWARE COMPANY INC",
+        "notify_party_name": "SWIFT CARGO INC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-09-24",
+        "hs_code": "830250",
+        "product_desc": ", BRACKET HS CODE: 8302419080, <font color='red'>SHOWER</font> <font color='red'>HINGES</font> HS CODE: 8302109030, GLASS CLAMP HS CODE: 8302419045, THRU",
+        "carrier_sasc_code": "CHKM, CHEROKEE MILLING COMPANY INC",
+        "bill_of_lading": "CHKMJMLAX2108006",
+        "shipper_address": " #1 8TH STREET CHANGLONG INDUSTRIAL ZONE SIJIU TOWN TAISHAN CTIY GUANGDONG CHINA CN ",
+        "quantity_unit": "CTN",
+        "consignee_address": " 4361 FIRESTONE BLVD SOUTH GATE CA 90280 ",
+        "marks_numbers": "FHC<br/>",
+        "quantity": "256.0",
+        "weight": "2929.0",
+        "vessel_name": "ONE OWL",
+        "voyage": "0017E",
+        "measure_unit": "X",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "16700 VALLEY VIEW AVE SUITE 162 LA MIRADA CA 90638 US ",
+        "new_date": "2021-10-09",
+        "shipper_name": "LEADER HARDWARE MANUFACTURER LIMITED",
+        "container_id": "HMMU9021597"
+      },
+      "highlight": {
+        "product_desc": [
+          ", BRACKET HS CODE: 8302419080, <font color='red'>SHOWER</font> <font color='red'>HINGES</font> HS CODE: 8302109030, GLASS CLAMP HS CODE: 8302419045, THRU",
+          "256 CARTONS = 6 PALLETS HANDLE HS CODE: 8302500000, <font color='red'>SHOWER</font> DOOR SLIDER KIT HS CODE: 8302419045"
+        ]
+      },
+      "sort": [
+        1633737600000
+      ]
+    }
+  ]

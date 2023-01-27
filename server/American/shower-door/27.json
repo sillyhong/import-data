@@ -1,0 +1,447 @@
+{
+    "total": 9666,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmKCI4624_L7I1Mo1",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*806*800",
+          "loading_port": "57018, SHEKOU",
+          "country": "CN, CHINA",
+          "importer": "MINCEY MARBLE MFG INC",
+          "notify_party_name": "MINCEY MARBLE MFG INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-22",
+          "hs_code": "392210",
+          "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> 94069000 PO43246A AND DM-20210826 THIS SHIPMENT CONTAINS NO WOOD PACKAGING MATERIALS<br/>",
+          "carrier_sasc_code": "RSLC, ROSELLE CONSTRUCTION INC",
+          "bill_of_lading": "RSLCSNAF2110349A",
+          "shipper_address": " RM 207-209 BLDG5 TIAN AN CYBER PARK GUICHENG NANHAI FOSHAN GUANGDONG CHINA ",
+          "quantity_unit": "PCS",
+          "consignee_address": "1940 NEW HARVEST RD GAINESVILLE GA 30507 USA ",
+          "marks_numbers": "NM<br/>",
+          "quantity": "200.0",
+          "weight": "18870.0",
+          "vessel_name": "WAN HAI 515",
+          "voyage": "E075",
+          "measure_unit": "X",
+          "unloading_port": "1703, SAVANNAH, GA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "1940 NEW HARVEST RD GAINESVILLE GA 30507 USA ",
+          "new_date": "2021-11-29",
+          "shipper_name": "GUANGDONG NANHAI LIGHT INDUSTRIAL PRODUCTSIMPORTEXP CO LTD",
+          "container_id": "WHSU6558212"
+        },
+        "highlight": {
+          "product_desc": [
+            "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> 94069000 PO43246A AND DM-20210826 THIS SHIPMENT CONTAINS NO WOOD PACKAGING MATERIALS<br/>"
+          ]
+        },
+        "sort": [
+          1638144000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmFI34624_L7I02xq",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "C R LAURENCE",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-23",
+          "hs_code": "830241",
+          "product_desc": "<font color='red'>SHOWER</font> FITTINGS <font color='red'>DOOR</font> SPRING<br/>",
+          "carrier_sasc_code": "UASI",
+          "bill_of_lading": "UASI7803705448",
+          "shipper_address": " UNIT 1402A 14/F THE BELGIAN BANK BUILDING NOS 721-725 ",
+          "quantity_unit": "CTN",
+          "consignee_address": "2503 E VERNON AVE",
+          "marks_numbers": "PALLET<br/>",
+          "quantity": "747.0",
+          "weight": "16022.0",
+          "vessel_name": "CMA CGM TOPAZ",
+          "voyage": "0WF05",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-29",
+          "shipper_name": "HARDWARE SUPPLY CHAIN CHINA LIMITED",
+          "container_id": "TCLU3698892"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> FITTINGS <font color='red'>DOOR</font> SPRING<br/>"
+          ]
+        },
+        "sort": [
+          1638144000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LknCU4624_L7Iv9Nr",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "DELAMU HONG KONG LIMITED",
+          "notify_party_name": "GOLDEN STATE FC LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-14",
+          "hs_code": "392210",
+          "product_desc": "CLEAR MATS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> BOTTOM SEA<br/>",
+          "carrier_sasc_code": "AMZD",
+          "bill_of_lading": "AMZDCN210645AFFD",
+          "shipper_address": " FENGGANG TOWN TIANTANGWEI YASHANG TECHNOLOGY PARK CN ",
+          "quantity_unit": "CTN",
+          "consignee_address": " C/O GOLD EN STATE FC LLC5990 N CAJON BLVD ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "174.0",
+          "weight": "2789.0",
+          "vessel_name": "EVER FUTURE",
+          "voyage": "12170",
+          "measure_unit": "---",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "5990 N CAJON BLVD ",
+          "new_date": "2021-11-29",
+          "shipper_name": "SHENZHEN DELAMU E COMMERCE CO LT",
+          "container_id": "WBPU7052968"
+        },
+        "highlight": {
+          "product_desc": [
+            "CLEAR MATS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> BOTTOM SEA<br/>"
+          ]
+        },
+        "sort": [
+          1638144000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LkeD24624_L7IvX-A",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-13",
+          "hs_code": "560750",
+          "product_desc": "PVC HOSE S/S BRAIDED EPDM HOSE S/S BRAIDED HOMP 16 BRASS SAYCO <font color='red'>SHOWER</font> STEM C 3 A.B. SPR ING <font color='red'>DOOR</font> STOP<br/>",
+          "carrier_sasc_code": "SEMD, SEMRAU, RAYMOND",
+          "bill_of_lading": "SEMDCYNB2110036",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "SE BRASS CLOSET FLOOR FLANGE 300 S/S HOSE CLAEZ-FLO EASTMAN .<br/>",
+          "quantity": "2258.0",
+          "weight": "19478.0",
+          "vessel_name": "ONE APUS",
+          "voyage": "008E",
+          "measure_unit": "---",
+          "unloading_port": "1703, SAVANNAH, GA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-28",
+          "shipper_name": "N/A",
+          "container_id": "TGBU9954509"
+        },
+        "highlight": {
+          "product_desc": [
+            "PVC HOSE S/S BRAIDED EPDM HOSE S/S BRAIDED HOMP 16 BRASS SAYCO <font color='red'>SHOWER</font> STEM C 3 A.B. SPR ING <font color='red'>DOOR</font> STOP<br/>"
+          ]
+        },
+        "sort": [
+          1638057600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LklJv4624_L7Iv0pB",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "MSHOWER LLC",
+          "notify_party_name": "N/A",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-13",
+          "hs_code": "900620",
+          "product_desc": "<font color='red'>SHOWER</font> PANCAST POLYMERSHOWER PAN TRENCH DRAINCOVER METALSHOWER <font color='red'>DOOR</font> 2PKGS2PLYWOOD FRAMEINCLUDE",
+          "carrier_sasc_code": "FTNV",
+          "bill_of_lading": "FTNVSZS000172835",
+          "shipper_address": " ROOM628 NO 3 ZUOYILANE NANAN 1STSTREET XIAOSHINEWTOWN QINGYUAN CN ",
+          "quantity_unit": "PKG",
+          "consignee_address": "203 N LEWIS STREET LAGRANGE GA 30240 US ",
+          "marks_numbers": "MSHOWER . . . . . . .<br/>",
+          "quantity": "5.0",
+          "weight": "4083.0",
+          "vessel_name": "ONE CRANE",
+          "voyage": "020E",
+          "measure_unit": "X",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-28",
+          "shipper_name": "SUNSHINEMGSTRADECO LTD",
+          "container_id": "YMMU6306649"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> PANCAST POLYMERSHOWER PAN TRENCH DRAINCOVER METALSHOWER <font color='red'>DOOR</font> 2PKGS2PLYWOOD FRAMEINCLUDE"
+          ]
+        },
+        "sort": [
+          1638057600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Lj7BL4624_L7ItlHp",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800,2000*806*800",
+          "loading_port": "24128, PORT BUSTAMANTE",
+          "country": "CN, CHINA",
+          "importer": "MUNNINGS LIQUOR",
+          "notify_party_name": "SAME AS CONSIGNEE",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-28",
+          "hs_code": "760200",
+          "product_desc": " GATE WOOD <font color='red'>DOOR</font> GLASS <font color='red'>SHOWER</font> TEL: 075521075424/075521075604 EMAIL: MUNNINGSJAMAL GMAIL.COM SHIPPERS OWNED CONTAINER FREIGHT PREPAID<br/>",
+          "carrier_sasc_code": "CMDU, COMPAGNIE MARITIME DAFFRETEMEN",
+          "bill_of_lading": "CMDUSHZ4205775B",
+          "shipper_address": " 13TH FLOOR JIA ANDA BUILDING NO 110 HUAFAN ROAD LONGHUA DISTRICT SHENZHEN CITY GUANGDONG ",
+          "quantity_unit": "PKG",
+          "consignee_address": "ADD:NORTH MASTIC POINT ANDROS BAHAMAS MORGAN S BLUFF ANDROS JAMAL OR BOND MUNNINGS ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "6893.0",
+          "weight": "7984.0",
+          "vessel_name": "JANINA",
+          "voyage": "0CA73",
+          "measure_unit": "CM",
+          "unloading_port": "1703, SAVANNAH, GA",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "X X ",
+          "new_date": "2021-11-28",
+          "shipper_name": "SHENZHEN PRIMA INDUSTRIAL CO LTD",
+          "container_id": "DFCU1607048,DFCU1607032"
+        },
+        "highlight": {
+          "product_desc": [
+            " GATE WOOD <font color='red'>DOOR</font> GLASS <font color='red'>SHOWER</font> TEL: 075521075424/075521075604 EMAIL: MUNNINGSJAMAL GMAIL.COM SHIPPERS OWNED CONTAINER FREIGHT PREPAID<br/>"
+          ]
+        },
+        "sort": [
+          1638057600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmA5v4624_L7I0jA5",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "BRUSKIN INTERNATIONAL LLC",
+          "notify_party_name": "SKYLINE SOURCING LLC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-02",
+          "hs_code": "392210",
+          "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+          "carrier_sasc_code": "NCZL",
+          "bill_of_lading": "NCZLSZ21100242",
+          "shipper_address": " RM 207-209BLDG5 TIAN AN CYBER PARK GUICHENG ",
+          "quantity_unit": "CTN",
+          "consignee_address": "7658 HASKELL AVE ",
+          "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "400.0",
+          "weight": "38140.0",
+          "vessel_name": "MSC ANS",
+          "voyage": "142A",
+          "measure_unit": "CM",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "10235 GLEN MANOR AVE ",
+          "new_date": "2021-11-28",
+          "shipper_name": "GUANGDONG NANHAI LIGHT INDUSTRIAL PRODOCTS IMPORT & EXPORT CO LTD",
+          "container_id": "MSMU6470348,MSMU6474087"
+        },
+        "highlight": {
+          "product_desc": [
+            "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+          ]
+        },
+        "sort": [
+          1638057600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LnGg94624_L7I4tD-",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*906*802",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-13",
+          "hs_code": "481810",
+          "product_desc": "TOILET PAPER HOLDER/<font color='red'>SHOWER</font> CADDY/OVER-THE-<font color='red'>DOOR</font> BAMBOO BASKET&5 HOOK RACK<br/>",
+          "carrier_sasc_code": "AMAW",
+          "bill_of_lading": "AMAWA2110281352",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "AS ADDRESSED<br/>",
+          "quantity": "910.0",
+          "weight": "9822.0",
+          "vessel_name": "MAERSK ELBA",
+          "voyage": "141N",
+          "measure_unit": "CM",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-28",
+          "shipper_name": "N/A",
+          "container_id": "MRSU5552210"
+        },
+        "highlight": {
+          "product_desc": [
+            "TOILET PAPER HOLDER/<font color='red'>SHOWER</font> CADDY/OVER-THE-<font color='red'>DOOR</font> BAMBOO BASKET&5 HOOK RACK<br/>"
+          ]
+        },
+        "sort": [
+          1638057600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmBtT4624_L7I0mir",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57018, SHEKOU",
+          "country": "CN, CHINA",
+          "importer": "FRAMELESS HARDWARE COMPANY LLC",
+          "notify_party_name": "SWIFT CARGO INC",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-04",
+          "hs_code": "830140",
+          "product_desc": "SLIDING <font color='red'>SHOWER</font> <font color='red'>DOOR</font> KIT SLIDING <font color='red'>SHOWER</font> <font color='red'>DOOR</font> HAINS NO SOLID WOOD PACKING MATERIALS .<br/>",
+          "carrier_sasc_code": "WWLL",
+          "bill_of_lading": "WWLLWLC11010989",
+          "shipper_address": " NO 14 BAOYUAN RD HUICHENG XINHUI JIANGMEN GUANGDONG CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "4361 FIRESTONE BLVD SOUTH GATE CA 90280 ",
+          "marks_numbers": "ARDWARE 312 PKGS=1,232 CTNS THE SHIPMENT CONTFHC PO-8208; PO-8028; PO-7972; PO-7973; PKG NO. MADE IN CHINA<br/>",
+          "quantity": "1232.0",
+          "weight": "12757.0",
+          "vessel_name": "MSC ANS",
+          "voyage": "U142A",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "16700 VALLEY VIEW AVE SUITE 162 LA MIRADA CA 90638 USA ",
+          "new_date": "2021-11-28",
+          "shipper_name": "JIANGMEN DECORMATE HARDWARE CO LT",
+          "container_id": "MSCU5183533"
+        },
+        "highlight": {
+          "product_desc": [
+            "SLIDING <font color='red'>SHOWER</font> <font color='red'>DOOR</font> KIT SLIDING <font color='red'>SHOWER</font> <font color='red'>DOOR</font> HAINS NO SOLID WOOD PACKING MATERIALS .<br/>"
+          ]
+        },
+        "sort": [
+          1638057600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LkYrj4624_L7IvEqJ",
+        "_score": null,
+        "_source": {
+          "container_size": "2000*806*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "WALGREEN CO",
+          "notify_party_name": "EXPEDITORS INTERNATIONAL",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-23",
+          "hs_code": "392210",
+          "product_desc": " LAUNDRY BAG W/STRAPS OVER <font color='red'>DOOR</font> HOOK DRYER BALLS 2PK HANGING CLOSET ORNIZER 6SHEL RUG GRIPPER TAPE",
+          "carrier_sasc_code": "YMLU, YANG MING MARINE TRANSPORT CORP",
+          "bill_of_lading": "YMLUW232444333",
+          "shipper_address": " 1ST FLOOR NO 12 BUILDING NO 1 YUNHUAN ROAD XIAOLUXIA SIMEN TOWN YUYAO ZHEJIANG CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "304 WILMOT ROAD DEERFIELD IL 60015 TEL8479148341 FAX8479148324 ",
+          "marks_numbers": "// //<br/>",
+          "quantity": "610.0",
+          "weight": "3072.0",
+          "vessel_name": "YM TOPMOST",
+          "voyage": "001E",
+          "measure_unit": "CM",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "10",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "849 THOMAS DRIVE BENSENVILLE IL 60106 UNITED STATES CONTACTSAL GIGLIO 630-787-5630",
+          "new_date": "2021-11-28",
+          "shipper_name": "NINGBO EXCEED ELECTRICAL CO LTD",
+          "container_id": "BEAU2574216"
+        },
+        "highlight": {
+          "product_desc": [
+            " LAUNDRY BAG W/STRAPS OVER <font color='red'>DOOR</font> HOOK DRYER BALLS 2PK HANGING CLOSET ORNIZER 6SHEL RUG GRIPPER TAPE",
+            " ROLL PRECISION KNIFE <font color='red'>SHOWER</font> ORGANIZER PLASTIC <font color='red'>SHOWER</font> TOTE L"
+          ]
+        },
+        "sort": [
+          1638057600000
+        ]
+      }
+    ]
+  }
