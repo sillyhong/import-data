@@ -27,6 +27,7 @@ function App() {
       const prefix = isLocalhost ? '' : '/api'
       // const res = await fetch(`/${currentCountryValue}/${currentProductType}/${pageIndex}.json`)
       const res = await fetch(`${prefix}/${currentCountryValue}/${currentProductType}/${pageIndex}.json`)
+      console.log('\x1b[36m%s', `${prefix}/${currentCountryValue}/${currentProductType}/${pageIndex}.json`);
       const data = await res.json()
       if (data) {
         setData(data)
@@ -52,13 +53,16 @@ function App() {
   }, [])
 
   const handleCountryValueChange = useCallback((value) => {
+    setIndex(0)
     setCountryValue(value)
     fetchData(1, value, productType)
   }, [fetchData, productType]);
 
   const handleProductTypeChange = useCallback((value) => {
+    setIndex(0)
     setProductType(value)
     fetchData(1, countryValue, value)
+    console.log('\x1b[36m%s', 'index', index);
   }, [fetchData, countryValue]);
 
 
@@ -214,7 +218,7 @@ function App() {
               setIndex(val - 1);
             },
             current: index + 1,
-            pageSize: 10
+            pageSize: 10,
           }
         } />
       }
