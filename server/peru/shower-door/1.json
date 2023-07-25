@@ -1,0 +1,129 @@
+{
+    "total": 2,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_pe",
+        "_type": "pe_1904",
+        "_id": "AXDN9OIIwGH32VrxG0vr",
+        "_score": null,
+        "_source": {
+          "importer_fax": "---",
+          "insurance": 0.098,
+          "importer": "RUST-OLEUM PERU S.A.C.",
+          "cif": 8.297,
+          "commercial_quantity": 0.16,
+          "year": "2019",
+          "freight": 0.369,
+          "trans_corp": "TRAMARSA - TRABAJOS MARITIMOS S.A.",
+          "importer_id": "20557981412",
+          "g_weight": 2.25,
+          "type": "pe_1904",
+          "importer_district": "---",
+          "hs_code": "3209900000",
+          "product_desc": "IMPREGNANTE, MIRACLE SEALANTS COMPANY, 511 GLASS TILE & <font color='red'>SHOWER</font> <font color='red'>DOOR</font> S",
+          "bank": "002",
+          "customs_agent": "ADUAMERICA S.A.",
+          "unit_of_quantity": "KG",
+          "customs": "MARITIMA DEL CALLAO",
+          "type_of_package": "PALETAS",
+          "hs_code_desc": "Demas Pinturas Y Barnices A Base De Polimeros Sinteticos O Naturales Modificados, Dispersos O Disueltos En Un Medio Acuoso.",
+          "merchandise_state": "NUEVO",
+          "day": "24",
+          "importer_tel": "---",
+          "trans_type": "MARITIMO",
+          "cif_unit": 3.6875555555556,
+          "origin_port": "NEW YORK",
+          "quantity": 2.25,
+          "sales_country": "UNITED STATES",
+          "importer_address": "---",
+          "importer_city": "---",
+          "n_weight": 2.25,
+          "unit_of_commercial_quantity": "CENTENA DE UNIDADES",
+          "packages": "---",
+          "origin_country": "UNITED STATES",
+          "desc1": "MS IMPREGNANTE PARA CERAMICOS -AZULEJOS",
+          "desc2": "USO: IMPREGNANTE",
+          "desc3": "CODIGO: GTSS4OZ16 // MS 511 GLASS TILE & SHOWER SEALER 4OZ 16",
+          "desc4": "CAJA X 4 // MODELO: 511 GLASS TILE & SHOWER DOOR SEALER",
+          "month": "04",
+          "incoterm": "EXW",
+          "fob": 7.83,
+          "local_tax": 1.33,
+          "importer_state": "---",
+          "shipper_name": "Rust-Oleum Corporation",
+          "new_date": "2019-04-24"
+        },
+        "highlight": {
+          "product_desc": [
+            "IMPREGNANTE, MIRACLE SEALANTS COMPANY, 511 GLASS TILE & <font color='red'>SHOWER</font> <font color='red'>DOOR</font> S"
+          ]
+        },
+        "sort": [
+          1556064000000
+        ]
+      },
+      {
+        "_index": "imiker_pe",
+        "_type": "pe_1902",
+        "_id": "AXDN2GpfwGH32VrxB98b",
+        "_score": null,
+        "_source": {
+          "importer_fax": "-",
+          "insurance": 2.213,
+          "importer": "PRODUCTOS DE FIBRA DE VIDRIO J.A   S.A.C",
+          "cif": 624.948,
+          "commercial_quantity": 50,
+          "year": "2019",
+          "freight": 22.735,
+          "trans_corp": "UNIMAR S.A.",
+          "importer_id": "20521755009",
+          "g_weight": 149.454,
+          "type": "pe_1902",
+          "importer_district": "PUENTE PIEDRA",
+          "hs_code": "7006000000",
+          "product_desc": "VIDRIO TEMPLADO, PINGHU CITY AOKELIYASANI, L-3099-ZT <font color='red'>SHOWER</font> <font color='red'>DOORS</font>",
+          "bank": "BANCO DE CREDITO DEL PERU",
+          "customs_agent": "R Y R AGENCIA DE ADUANAS S.A.C.",
+          "unit_of_quantity": "KG",
+          "customs": "MARITIMA DEL CALLAO",
+          "type_of_package": "BULTOS",
+          "hs_code_desc": "Vidrio De Las Partidas 70.03, 70.04 O 70.05, Curvado, Biselado, Grabado, Taladrado, Esmaltado O Trabajado De Otro Modo, Pero Sin Enmarcar Ni Combinar Con Otras Materias",
+          "merchandise_state": "NUEVO",
+          "day": "28",
+          "importer_tel": "-",
+          "trans_type": "MARITIMO",
+          "cif_unit": 4.5450763636364,
+          "origin_port": "SHANGHAI",
+          "quantity": 137.5,
+          "sales_country": "CHINA",
+          "importer_address": "CAL. CIPRESES MZA. I LOTE. 36 PARC. SEM. RUSTICA (PASANDO LA ENTRADA DE SAN DIEGO)",
+          "importer_city": "LIMA",
+          "n_weight": 137.5,
+          "unit_of_commercial_quantity": "UNIDAD",
+          "packages": "---",
+          "origin_country": "CHINA",
+          "desc1": "ESTADO: NUEVO",
+          "desc2": "USO:VIDRIO TEMPLADO TRANSPARENTE PARA TINA DE CABINA DE DUCHA  L-3099-ZT.",
+          "desc3": "VIDRIO TEMPLADO PARA TINADE CABINA DE DUCHA DE BANO (L-3099-ZT SHOWER DOORS)",
+          "desc4": "MARCA: PINGHU CITY AOKELIYASANITARY WARE COMPANY LIMITED",
+          "month": "02",
+          "incoterm": "FOB",
+          "fob": 600,
+          "local_tax": 99.99,
+          "importer_state": "LIMA",
+          "shipper_name": "PINGHU CITY AOKELIYA SANITARY WARE CO.LTD",
+          "new_date": "2019-02-28"
+        },
+        "highlight": {
+          "product_desc": [
+            "VIDRIO TEMPLADO, PINGHU CITY AOKELIYASANI, L-3099-ZT <font color='red'>SHOWER</font> <font color='red'>DOORS</font>"
+          ]
+        },
+        "sort": [
+          1551312000000
+        ]
+      }
+    ],
+    "url": "countrys=imiker_pe&from_time=2018-01-01&to_time=2023-01-31&product_desc=shower+door&hs_code=&hs_code_desc=&importer=&shipper_name=&origin_country="
+  }

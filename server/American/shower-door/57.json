@@ -1,0 +1,446 @@
+{
+  "total": 9666,
+  "max_score": null,
+  "hits": [
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LqqHs4624_L7I_shm",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "ELVIN M MARTINA",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-22",
+        "hs_code": "392210",
+        "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "ECUW",
+        "bill_of_lading": "ECUWCANORJ00060",
+        "shipper_address": "B AREA SHISHAN INDUSTRIAL PARK NANHAI FOSHAN GUANGDONG ",
+        "quantity_unit": "PKG",
+        "consignee_address": "NUNE # 50 ORANJESTAD ARUBA ",
+        "marks_numbers": "ELVIN<br/>",
+        "quantity": "1.0",
+        "weight": "229.0",
+        "vessel_name": "MAERSK SYDNEY",
+        "voyage": "13W",
+        "measure_unit": "CM",
+        "unloading_port": "5201, MIAMI, FL",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-26",
+        "shipper_name": "FOSHAN NANHAI KANGIJAN SANITARY WAR",
+        "container_id": "ZCSU7171535"
+      },
+      "highlight": {
+        "product_desc": [
+          "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635206400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LlI354624_L7IyODL",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "TRANSMILE GROUP INC",
+        "notify_party_name": "WAL LOGISTICS",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "CHQF, CHINA INTERNATIONAL FREIGHT CO LTD",
+        "bill_of_lading": "CHQFSZX102256546",
+        "shipper_address": "1 KE YUN SOUTH ROAD NANHAI DISTRICT ",
+        "quantity_unit": "CTN",
+        "consignee_address": "5902 SOVEREIGN DR ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "442.0",
+        "weight": "20300.0",
+        "vessel_name": "COSCO ISTANBUL",
+        "voyage": "051E",
+        "measure_unit": "CM",
+        "unloading_port": "1801, TAMPA, FL",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "916 SILVER SPUR ROAD SUITE # 304",
+        "new_date": "2021-10-26",
+        "shipper_name": "SEA WIN SANITARY WARE CO LTD",
+        "container_id": "TCNU2590853"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635206400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LqqBG4624_L7I_sU4",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "SPA WORLD CORP",
+        "notify_party_name": "SPA WORLD CORP",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-19",
+        "hs_code": "392210",
+        "product_desc": "STEAM THERAPY GENERATOR,GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "HNLT",
+        "bill_of_lading": "HNLTZS21A05248",
+        "shipper_address": " RM2005 BUILDING 7 TIAN AN CENTER NO 31 JIHUA ROAD NANHAI DISTRICT FOSHAN CITY GUANGDONG CHINA ",
+        "quantity_unit": "CTN",
+        "consignee_address": "5701 NW 35TH AVE MIAMI FL 33142 USA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "281.0",
+        "weight": "17440.0",
+        "vessel_name": "MAERSK SYDNEY",
+        "voyage": "13W",
+        "measure_unit": "X",
+        "unloading_port": "5201, MIAMI, FL",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "5701 NW 35TH AVE MIAMI FL 33142 USA ",
+        "new_date": "2021-10-26",
+        "shipper_name": "FOSHAN SOURCEVER CO LTD",
+        "container_id": "CAIU4304024"
+      },
+      "highlight": {
+        "product_desc": [
+          "STEAM THERAPY GENERATOR,GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635206400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LlIky4624_L7IyMbH",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "SPA WORLD CORP",
+        "notify_party_name": "SPA WORLD CORP",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-19",
+        "hs_code": "392210",
+        "product_desc": "STEAM THERAPY GENERATOR,GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "HNLT",
+        "bill_of_lading": "HNLTZS21A05248",
+        "shipper_address": " RM2005 BUILDING 7 TIAN AN CENTER NO 31 JIHUA ROAD NANHAI DISTRICT FOSHAN CITY GUANGDONG CHINA ",
+        "quantity_unit": "CTN",
+        "consignee_address": "5701 NW 35TH AVE MIAMI FL 33142 USA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "281.0",
+        "weight": "17440.0",
+        "vessel_name": "MAERSK SYDNEY",
+        "voyage": "13W",
+        "measure_unit": "X",
+        "unloading_port": "5201, MIAMI, FL",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "5701 NW 35TH AVE MIAMI FL 33142 USA ",
+        "new_date": "2021-10-26",
+        "shipper_name": "FOSHAN SOURCEVER CO LTD",
+        "container_id": "CAIU4304024"
+      },
+      "highlight": {
+        "product_desc": [
+          "STEAM THERAPY GENERATOR,GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635206400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lqnw84624_L7I_pWn",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BATH AUTHORITY LLC",
+        "notify_party_name": "BATH AUTHORITY LLC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-07",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL THIS SHIPMENT CONTAINS NO WOOD PACKING MATERIALS SECOND",
+        "carrier_sasc_code": "FTST",
+        "bill_of_lading": "FTSTS202109011",
+        "shipper_address": " NO 25 EAST XINGPU ROAD HUANGPU TOWN ZHONGSHAN CITY GUANGDONG PROVINCE ",
+        "quantity_unit": "CTN",
+        "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 ",
+        "marks_numbers": "DREAMLINE<br/>",
+        "quantity": "806.0",
+        "weight": "14550.0",
+        "vessel_name": "MONACO BRIDGE",
+        "voyage": "0016E",
+        "measure_unit": "---",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "75 HAWK ROAD WARMINSTER PA 18974 ",
+        "new_date": "2021-10-26",
+        "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER CO LTD",
+        "container_id": "KOCU4014800"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL THIS SHIPMENT CONTAINS NO WOOD PACKING MATERIALS SECOND"
+        ]
+      },
+      "sort": [
+        1635206400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LkLK54624_L7Iua1Q",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BEN S",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-07",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> ROOM BATHTUB <font color='red'>DOOR</font> LOCK<br/>",
+        "carrier_sasc_code": "PPIL",
+        "bill_of_lading": "PPILSZX95337",
+        "shipper_address": " BUILDING 1&2 NO 2 PHOENIX ROAD TORCH DEVELOPMENT ZONE ZHONGSHAN GUANGDONG CHINA ZHONGSHAN CN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "170 FERRIE STREET MARKHAM ON L3R 2Z5 CANADA MARKHAM ONL3R 2Z5 CA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "1094.0",
+        "weight": "16580.0",
+        "vessel_name": "OOCL NEW YORK",
+        "voyage": "0TP9Z",
+        "measure_unit": "X",
+        "unloading_port": "3001, SEATTLE, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-26",
+        "shipper_name": "TLS INDUSTRIESCO LTD",
+        "container_id": "DFSU6697468"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> ROOM BATHTUB <font color='red'>DOOR</font> LOCK<br/>"
+        ]
+      },
+      "sort": [
+        1635206400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Llxh84624_L7I0NO2",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "24128, PORT BUSTAMANTE",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "MLB LOGISTICS LLC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-26",
+        "hs_code": "691090",
+        "product_desc": "BATHROOM CABINET - BATHROOM CABINET <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "MEDU, BCSL US-MED LINE LTD.",
+        "bill_of_lading": "MEDUNJ834377",
+        "shipper_address": "N/A",
+        "quantity_unit": "CTN",
+        "consignee_address": "N/A",
+        "marks_numbers": "OMT SAME<br/>",
+        "quantity": "222.0",
+        "weight": "14336.0",
+        "vessel_name": "CONTSHIP ICE",
+        "voyage": "040",
+        "measure_unit": "X",
+        "unloading_port": "4909, SAN JUAN, PUERTO RICO",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "URB LOS MONTES BELLOS 745 CALLE PETDORADO 00646 PUERTO RICO ",
+        "new_date": "2021-10-26",
+        "shipper_name": "N/A",
+        "container_id": "TCLU5279046"
+      },
+      "highlight": {
+        "product_desc": [
+          "BATHROOM CABINET - BATHROOM CABINET <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635206400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LqslF4624_L7I_vuI",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "TRANSMILE GROUP INC",
+        "notify_party_name": "WAL LOGISTICS",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "CHQF, CHINA INTERNATIONAL FREIGHT CO LTD",
+        "bill_of_lading": "CHQFSZX102256546",
+        "shipper_address": "1 KE YUN SOUTH ROAD NANHAI DISTRICT ",
+        "quantity_unit": "CTN",
+        "consignee_address": "5902 SOVEREIGN DR ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "442.0",
+        "weight": "20300.0",
+        "vessel_name": "COSCO ISTANBUL",
+        "voyage": "051E",
+        "measure_unit": "CM",
+        "unloading_port": "1801, TAMPA, FL",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "916 SILVER SPUR ROAD SUITE # 304",
+        "new_date": "2021-10-26",
+        "shipper_name": "SEA WIN SANITARY WARE CO LTD",
+        "container_id": "TCNU2590853"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635206400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lql3u4624_L7I_mte",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800,2000*806*800,2000*806*800,2000*806*800,2000*806*800",
+        "loading_port": "57073",
+        "country": "CN, CHINA",
+        "importer": "MAAX US CORP",
+        "notify_party_name": "ACCELA WORLDWIDE SOLUTIONS INC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>",
+        "carrier_sasc_code": "JHJT",
+        "bill_of_lading": "JHJTSZXHCZ212050",
+        "shipper_address": " NAJIN INDUSTRY PARK SANHE TOWN TAISHAN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "1010 WEST DEWEY STREET BREMEN IN 46506 ",
+        "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+        "quantity": "1044.0",
+        "weight": "61442.0",
+        "vessel_name": "MAERSK TUKANG",
+        "voyage": "131W",
+        "measure_unit": "---",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "UNIT250 16522 HUNTERS GREEN PKWY HAGERSTOWN MD 21740 ",
+        "new_date": "2021-10-26",
+        "shipper_name": "GUANGDONG ROSERY BATH SCIENCE AND TECHNOLOGY CO LTD",
+        "container_id": "MEDU4162189,TRLU6562698,MEDU4066550,MSCU5950337,TRLU6505173"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>"
+        ]
+      },
+      "sort": [
+        1635206400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LrD3Z4624_L7IANgF",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BEN S",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-11-07",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> ROOM BATHTUB <font color='red'>DOOR</font> LOCK<br/>",
+        "carrier_sasc_code": "PPIL",
+        "bill_of_lading": "PPILSZX95337",
+        "shipper_address": " BUILDING 1&2 NO 2 PHOENIX ROAD TORCH DEVELOPMENT ZONE ZHONGSHAN GUANGDONG CHINA ZHONGSHAN CN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "170 FERRIE STREET MARKHAM ON L3R 2Z5 CANADA MARKHAM ONL3R 2Z5 CA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "1094.0",
+        "weight": "16580.0",
+        "vessel_name": "OOCL NEW YORK",
+        "voyage": "0TP9Z",
+        "measure_unit": "X",
+        "unloading_port": "3001, SEATTLE, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-26",
+        "shipper_name": "TLS INDUSTRIESCO LTD",
+        "container_id": "DFSU6697468"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> ROOM BATHTUB <font color='red'>DOOR</font> LOCK<br/>"
+        ]
+      },
+      "sort": [
+        1635206400000
+      ]
+    }
+  ]
+}

@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Tradesns from './Tradesns';
 import Detail from './Detail';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
@@ -11,6 +12,7 @@ root.render(
     <Router>
       <Routes>
       <Route exact path="/app" element={<App/>}></Route>
+      <Route  path="/app/tradesns" element={<Tradesns/>}></Route>
       <Route  path="/app/detail" element={<Detail/>}></Route>
       </Routes>
       

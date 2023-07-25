@@ -1,0 +1,324 @@
+{
+    "total": 76,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_ec",
+        "_type": "ec_1803",
+        "_id": "AWn_pCUnrxOJX89cCRqf",
+        "_score": null,
+        "_source": {
+          "container": "---",
+          "insurance": 14,
+          "importer": "BUSTOS VICUNA BERTHA LORENA",
+          "cif": 3942,
+          "freight": 37,
+          "trans_corp": "AGENCIA DEL PACIFICO DELPAC S.A.",
+          "item_number": "2",
+          "importer_id": "0301275517001",
+          "type": "ec_1803",
+          "declaration_number": "410",
+          "hs_code": "8302410000",
+          "product_desc": "KIT FOR <font color='red'>DOOR</font> OF HE/SHE TAKES A <font color='red'>SHOWER</font>",
+          "customs_agent": "GONZALEZ CABRERA NARDO DOSITEO",
+          "unit_of_quantity": "UN",
+          "customs": "GQUIL - MARITIMO",
+          "hs_code_desc": "FOR BUILDINGS",
+          "arrival_date": "2018-03-11",
+          "brand": "---",
+          "ship_name": "KOTA LAYANG",
+          "type_of_import": "IMPORT FOR CONSUMPTION",
+          "trans_type": "MARITIME",
+          "quantity": 110,
+          "bl_number": "CEC2018PCIU0003",
+          "sales_country": "---",
+          "ref_no": "028-2018-10-00181682",
+          "packages": 248,
+          "origin_country": "CHINA",
+          "condition": "NEW",
+          "port": "---",
+          "fob": 3891,
+          "deposit": "INARPI S.A.",
+          "ad_valorem": 591,
+          "trans_agent": "AGENCIA DEL PACIFICO DELPAC S.A.",
+          "emb": "WT18011160",
+          "new_date": "2018-03-15",
+          "shipper_name": "GUANGZHOU SEA LINK INDUSTRIAL CORP. LTD.",
+          "shipping_country": "---"
+        },
+        "highlight": {
+          "product_desc": [
+            "KIT FOR <font color='red'>DOOR</font> OF HE/SHE TAKES A <font color='red'>SHOWER</font>"
+          ]
+        },
+        "sort": [
+          1521072000000
+        ]
+      },
+      {
+        "_index": "imiker_ec",
+        "_type": "ec_1803",
+        "_id": "AWn_pCUnrxOJX89cCRqg",
+        "_score": null,
+        "_source": {
+          "container": "---",
+          "insurance": 2,
+          "importer": "BUSTOS VICUNA BERTHA LORENA",
+          "cif": 426,
+          "freight": 4,
+          "trans_corp": "AGENCIA DEL PACIFICO DELPAC S.A.",
+          "item_number": "3",
+          "importer_id": "0301275517001",
+          "type": "ec_1803",
+          "declaration_number": "410",
+          "hs_code": "8302410000",
+          "product_desc": "KIT FOR <font color='red'>DOOR</font> OF HE/SHE TAKES A <font color='red'>SHOWER</font>",
+          "customs_agent": "GONZALEZ CABRERA NARDO DOSITEO",
+          "unit_of_quantity": "UN",
+          "customs": "GQUIL - MARITIMO",
+          "hs_code_desc": "FOR BUILDINGS",
+          "arrival_date": "2018-03-11",
+          "brand": "---",
+          "ship_name": "KOTA LAYANG",
+          "type_of_import": "IMPORT FOR CONSUMPTION",
+          "trans_type": "MARITIME",
+          "quantity": 10,
+          "bl_number": "CEC2018PCIU0003",
+          "sales_country": "---",
+          "ref_no": "028-2018-10-00181682",
+          "packages": 248,
+          "origin_country": "CHINA",
+          "condition": "NEW",
+          "port": "---",
+          "fob": 420,
+          "deposit": "INARPI S.A.",
+          "ad_valorem": 64,
+          "trans_agent": "AGENCIA DEL PACIFICO DELPAC S.A.",
+          "emb": "WT18011160",
+          "new_date": "2018-03-15",
+          "shipper_name": "GUANGZHOU SEA LINK INDUSTRIAL CORP. LTD.",
+          "shipping_country": "---"
+        },
+        "highlight": {
+          "product_desc": [
+            "KIT FOR <font color='red'>DOOR</font> OF HE/SHE TAKES A <font color='red'>SHOWER</font>"
+          ]
+        },
+        "sort": [
+          1521072000000
+        ]
+      },
+      {
+        "_index": "imiker_ec",
+        "_type": "ec_1803",
+        "_id": "AWn_tNrerxOJX89cHsgJ",
+        "_score": null,
+        "_source": {
+          "container": "1",
+          "insurance": 17,
+          "importer": "SOLUCIONES INDUSTRIALES METALMACHINE S.C.C.",
+          "cif": 1695,
+          "freight": 111,
+          "trans_corp": "AGENCIA MARITIMA GLOBAL MARGLOBAL SA",
+          "item_number": "12",
+          "importer_id": "1792432391001",
+          "type": "ec_1803",
+          "declaration_number": "278",
+          "hs_code": "8302490000",
+          "product_desc": "HINGES FOR CURTAINS OF TEMPERATE GLASS <font color='red'>SHOWER</font> SLIDING <font color='red'>DOOR</font> TRACK ,2 TO PUT RAIL, ONE PIECES IN ONE KIT",
+          "customs_agent": "MACIAS MERO ROCIO ANNABEL",
+          "unit_of_quantity": "UN",
+          "customs": "GQUIL - MARITIMO",
+          "hs_code_desc": "THE OTHER ONES",
+          "arrival_date": "2018-03-11",
+          "brand": "JIANGMEN JIANGYI INDUSTRIAL CO LTD",
+          "ship_name": "KOTA LAYANG",
+          "type_of_import": "IMPORT FOR CONSUMPTION",
+          "trans_type": "MARITIME",
+          "quantity": 150,
+          "bl_number": "CEC2018PCIU0003",
+          "sales_country": "---",
+          "ref_no": "028-2018-10-00176108",
+          "packages": 16,
+          "origin_country": "CHINA",
+          "condition": "NEW",
+          "port": "---",
+          "fob": 1568,
+          "deposit": "INARPI S.A.",
+          "ad_valorem": 339,
+          "trans_agent": "AGENCIA MARITIMA GLOBAL MARGLOBAL SA",
+          "emb": "JMGYQ1801005420",
+          "new_date": "2018-03-13",
+          "shipper_name": "JIANGMEN JIANGYI INDUSTRIAL CO.,LTD",
+          "shipping_country": "---"
+        },
+        "highlight": {
+          "product_desc": [
+            "HINGES FOR CURTAINS OF TEMPERATE GLASS <font color='red'>SHOWER</font> SLIDING <font color='red'>DOOR</font> TRACK ,2 TO PUT RAIL, ONE PIECES IN ONE KIT"
+          ]
+        },
+        "sort": [
+          1520899200000
+        ]
+      },
+      {
+        "_index": "imiker_ec",
+        "_type": "ec_1801",
+        "_id": "AWNji2i7UML1wIx9uVC5",
+        "_score": null,
+        "_source": {
+          "container": "---",
+          "insurance": 11,
+          "importer": "BUSTOS VICUNA BERTHA LORENA",
+          "cif": 2931,
+          "freight": 31,
+          "trans_corp": "AGENCIA DEL PACIFICO DELPAC S.A.",
+          "item_number": "3",
+          "importer_id": "0301275517001",
+          "type": "ec_1801",
+          "declaration_number": "66",
+          "hs_code": "8302410000",
+          "product_desc": "KIT FOR <font color='red'>DOOR</font> OF HE/SHE TAKES A <font color='red'>SHOWER</font>",
+          "customs_agent": "GONZALEZ CABRERA NARDO DOSITEO",
+          "unit_of_quantity": "UN",
+          "customs": "GQUIL - MARITIMO",
+          "hs_code_desc": "FOR BUILDINGS",
+          "arrival_date": "2018-01-06",
+          "brand": "---",
+          "ship_name": "HAMBURG",
+          "type_of_import": "IMPORT FOR CONSUMPTION",
+          "trans_type": "MARITIME",
+          "quantity": 50,
+          "bl_number": "CEC2017WHLU5288",
+          "sales_country": "---",
+          "ref_no": "028-2018-10-00022443",
+          "packages": 140,
+          "origin_country": "CHINA",
+          "condition": "NEW",
+          "port": "---",
+          "fob": 2888,
+          "deposit": "INARPI S.A.",
+          "ad_valorem": 440,
+          "trans_agent": "AGENCIA DEL PACIFICO DELPAC S.A.",
+          "emb": "WT17111167",
+          "new_date": "2018-01-10",
+          "shipper_name": "GUANGZHOU SEA LINK INDUSTRIAL CORP LTD",
+          "shipping_country": "---"
+        },
+        "highlight": {
+          "product_desc": [
+            "KIT FOR <font color='red'>DOOR</font> OF HE/SHE TAKES A <font color='red'>SHOWER</font>"
+          ]
+        },
+        "sort": [
+          1515542400000
+        ]
+      },
+      {
+        "_index": "imiker_ec",
+        "_type": "ec_1801",
+        "_id": "AWNji2i7UML1wIx9uVCi",
+        "_score": null,
+        "_source": {
+          "container": "---",
+          "insurance": 11,
+          "importer": "BUSTOS VICUNA BERTHA LORENA",
+          "cif": 2841,
+          "freight": 30,
+          "trans_corp": "AGENCIA DEL PACIFICO DELPAC S.A.",
+          "item_number": "1",
+          "importer_id": "0301275517001",
+          "type": "ec_1801",
+          "declaration_number": "66",
+          "hs_code": "8302410000",
+          "product_desc": "KIT FOR <font color='red'>DOOR</font> OF HE/SHE TAKES A <font color='red'>SHOWER</font>",
+          "customs_agent": "GONZALEZ CABRERA NARDO DOSITEO",
+          "unit_of_quantity": "UN",
+          "customs": "GQUIL - MARITIMO",
+          "hs_code_desc": "FOR BUILDINGS",
+          "arrival_date": "2018-01-06",
+          "brand": "---",
+          "ship_name": "HAMBURG",
+          "type_of_import": "IMPORT FOR CONSUMPTION",
+          "trans_type": "MARITIME",
+          "quantity": 70,
+          "bl_number": "CEC2017WHLU5288",
+          "sales_country": "---",
+          "ref_no": "028-2018-10-00022443",
+          "packages": 140,
+          "origin_country": "CHINA",
+          "condition": "NEW",
+          "port": "---",
+          "fob": 2800,
+          "deposit": "INARPI S.A.",
+          "ad_valorem": 426,
+          "trans_agent": "AGENCIA DEL PACIFICO DELPAC S.A.",
+          "emb": "WT17111167",
+          "new_date": "2018-01-10",
+          "shipper_name": "GUANGZHOU SEA LINK INDUSTRIAL CORP LTD",
+          "shipping_country": "---"
+        },
+        "highlight": {
+          "product_desc": [
+            "KIT FOR <font color='red'>DOOR</font> OF HE/SHE TAKES A <font color='red'>SHOWER</font>"
+          ]
+        },
+        "sort": [
+          1515542400000
+        ]
+      },
+      {
+        "_index": "imiker_ec",
+        "_type": "ec_1801",
+        "_id": "AWNji2i7UML1wIx9uVC4",
+        "_score": null,
+        "_source": {
+          "container": "---",
+          "insurance": 7,
+          "importer": "BUSTOS VICUNA BERTHA LORENA",
+          "cif": 1795,
+          "freight": 19,
+          "trans_corp": "AGENCIA DEL PACIFICO DELPAC S.A.",
+          "item_number": "2",
+          "importer_id": "0301275517001",
+          "type": "ec_1801",
+          "declaration_number": "66",
+          "hs_code": "8302410000",
+          "product_desc": "KIT FOR <font color='red'>DOOR</font> OF HE/SHE TAKES A <font color='red'>SHOWER</font>",
+          "customs_agent": "GONZALEZ CABRERA NARDO DOSITEO",
+          "unit_of_quantity": "UN",
+          "customs": "GQUIL - MARITIMO",
+          "hs_code_desc": "FOR BUILDINGS",
+          "arrival_date": "2018-01-06",
+          "brand": "---",
+          "ship_name": "HAMBURG",
+          "type_of_import": "IMPORT FOR CONSUMPTION",
+          "trans_type": "MARITIME",
+          "quantity": 50,
+          "bl_number": "CEC2017WHLU5288",
+          "sales_country": "---",
+          "ref_no": "028-2018-10-00022443",
+          "packages": 140,
+          "origin_country": "CHINA",
+          "condition": "NEW",
+          "port": "---",
+          "fob": 1768,
+          "deposit": "INARPI S.A.",
+          "ad_valorem": 269,
+          "trans_agent": "AGENCIA DEL PACIFICO DELPAC S.A.",
+          "emb": "WT17111167",
+          "new_date": "2018-01-10",
+          "shipper_name": "GUANGZHOU SEA LINK INDUSTRIAL CORP LTD",
+          "shipping_country": "---"
+        },
+        "highlight": {
+          "product_desc": [
+            "KIT FOR <font color='red'>DOOR</font> OF HE/SHE TAKES A <font color='red'>SHOWER</font>"
+          ]
+        },
+        "sort": [
+          1515542400000
+        ]
+      }
+    ]
+  }

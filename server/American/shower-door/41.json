@@ -1,0 +1,446 @@
+{
+  "total": 9666,
+  "max_score": null,
+  "hits": [
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LkBvt4624_L7IuBd5",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+        "loading_port": "58201, HONG KONG",
+        "country": "CN, CHINA",
+        "importer": "BATH AUTHORITY LLC",
+        "notify_party_name": "JOHN A STEER CO",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-12",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY<br/>",
+        "carrier_sasc_code": "COSU, CHINA OCEAN STEAMSHIP LTD",
+        "bill_of_lading": "COSU6316130020",
+        "shipper_address": " L MAXIN INDUSTRIAL ZONE HUANGPU TOWN ZHONGSHAN GD 528400 CHINA ",
+        "quantity_unit": "CTN",
+        "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 UNITED STATES ",
+        "marks_numbers": "DREAMLINE<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+        "quantity": "2224.0",
+        "weight": "76660.0",
+        "vessel_name": "COSCO ITALY",
+        "voyage": "049E",
+        "measure_unit": "CM",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "1227 NORTH 4TH STREET PHILADELPHIA PA 19122 UNITED STATES ",
+        "new_date": "2021-11-15",
+        "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER COMPANY",
+        "container_id": "CSNU6574602,TEMU6385374,CSLU6311379,CBHU9450206,BMOU4611592"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY<br/>"
+        ]
+      },
+      "sort": [
+        1636934400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LmBA74624_L7I0joD",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "POLYCRYL MANUFACTURING 1998 INC",
+        "notify_party_name": "POLYCRYL MANUFACTURING 1998 INC",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-10-31",
+        "hs_code": "830260",
+        "product_desc": "ACRYLIC BASE <font color='red'>SHOWER</font> <font color='red'>DOOR</font> KIT PO NO 6928-6939 .<br/>",
+        "carrier_sasc_code": "TLKP, TLK TRANSPORT SYSTEMS INC",
+        "bill_of_lading": "TLKPSZXVCR1A014X",
+        "shipper_address": "804 JOY CITY OFFICE BUILDING NO 32 FUHUA ROAD WESTERN ZONE",
+        "quantity_unit": "CTN",
+        "consignee_address": "27049 GLOUCESTER WAY ",
+        "marks_numbers": "-6971-AQ210926 ACRITEC<br/>",
+        "quantity": "364.0",
+        "weight": "8140.0",
+        "vessel_name": "ONE ARCADIA",
+        "voyage": "058E",
+        "measure_unit": "---",
+        "unloading_port": "3002, TACOMA, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "27049 GLOUCESTER WAY ",
+        "new_date": "2021-11-15",
+        "shipper_name": "ZHONGSHAN AQUATIC PRODUCTSIMPORTAND",
+        "container_id": "CAIU8549508"
+      },
+      "highlight": {
+        "product_desc": [
+          "ACRYLIC BASE <font color='red'>SHOWER</font> <font color='red'>DOOR</font> KIT PO NO 6928-6939 .<br/>"
+        ]
+      },
+      "sort": [
+        1636934400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LotkU4624_L7I9QSu",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "ASTON GLOBAL INC",
+        "notify_party_name": "ASTON GLOBAL INC",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-11-08",
+        "hs_code": "830241",
+        "product_desc": "ACRYLIC <font color='red'>SHOWER</font> BASE UNASSEMBLED TEMPERED GLASS FOR <font color='red'>SHOWER</font> <font color='red'>DOOR</font> STAINLESS STEEL ALUMINUM HARDWARE FITTINGS<br/>",
+        "carrier_sasc_code": "COHE, COHO TRANSPORT",
+        "bill_of_lading": "COHECGZ21002501",
+        "shipper_address": " FLOOR 3 BUILDING 1 NO 22 LU JING SAN ROAD CHANCHENG DISTRICT ",
+        "quantity_unit": "CTN",
+        "consignee_address": "902 NICHOLSON RD SUITE 100 ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "960.0",
+        "weight": "19988.0",
+        "vessel_name": "COSCO ITALY",
+        "voyage": "049E",
+        "measure_unit": "CM",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "902 NICHOLSON RD SUITE 100 ",
+        "new_date": "2021-11-15",
+        "shipper_name": "FOSHAN WELLSTON CO LTD",
+        "container_id": "CCLU4849889"
+      },
+      "highlight": {
+        "product_desc": [
+          "ACRYLIC <font color='red'>SHOWER</font> BASE UNASSEMBLED TEMPERED GLASS FOR <font color='red'>SHOWER</font> <font color='red'>DOOR</font> STAINLESS STEEL ALUMINUM HARDWARE FITTINGS<br/>"
+        ]
+      },
+      "sort": [
+        1636934400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-LoYQD4624_L7I8dBT",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800,4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BATH AUTHORITY LLC",
+        "notify_party_name": "N/A",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-10-26",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/>",
+        "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+        "bill_of_lading": "CHSL370453423ZHN",
+        "shipper_address": " L NO 25 EAST XINGPU ROAD HUANGPU T GUANGDONG PROVINCE ",
+        "quantity_unit": "PKG",
+        "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 ",
+        "marks_numbers": "DREAMLINE<br/>DREAMLINE<br/>DREAMLINE<br/>",
+        "quantity": "1067.0",
+        "weight": "42833.0",
+        "vessel_name": "EDISON",
+        "voyage": "0TUKX",
+        "measure_unit": "---",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-11-15",
+        "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER COMPANY",
+        "container_id": "BMOU4356326,TCNU5667687,CMAU6870506"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/>"
+        ]
+      },
+      "sort": [
+        1636934400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-Lmr114624_L7I3Amv",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "58309, KAO HSIUNG",
+        "country": "TW, TAIWAN",
+        "importer": "ORGILL INC",
+        "notify_party_name": "ASCENT GLOBAL LOGISTICS",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-11-10",
+        "hs_code": "830210",
+        "product_desc": "BUILDER HARDWARE, HAND TOOLS, <font color='red'>SHOWER</font> HEAD ANDPARTS, <font color='red'>DOOR</font> CLOSER, PLUNGER, NYLON CABLE TIE,PLUMBING",
+        "carrier_sasc_code": "OERT",
+        "bill_of_lading": "OERT101715K01160",
+        "shipper_address": "5 LANE 345 YANGGUANG ST NEIHU DISTRICT TAIPEI 114 TAIWAN R O C",
+        "quantity_unit": "CTN",
+        "consignee_address": "4100 S HOUSTON LEVEE RD COLLIERVILLE TN 38017 U S A ",
+        "marks_numbers": "O.I. SIKESTON, MO P.O. NO. 72934505 72937890 72936486 72906350 72918802 72926440 C/NO. MADE IN TAIWAN R.O.C.<br/>",
+        "quantity": "1583.0",
+        "weight": "17470.0",
+        "vessel_name": "COSCO ITALY",
+        "voyage": "049E",
+        "measure_unit": "CM",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "10",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "9020 N MAY AVE SUITE 190 OKLAHOMA CITY OK 73120 U S A ",
+        "new_date": "2021-11-15",
+        "shipper_name": "SOUNDBEST INTERNATIONAL SOURCING IN 9FL NO",
+        "container_id": "OOLU9794228"
+      },
+      "highlight": {
+        "product_desc": [
+          "BUILDER HARDWARE, HAND TOOLS, <font color='red'>SHOWER</font> HEAD ANDPARTS, <font color='red'>DOOR</font> CLOSER, PLUNGER, NYLON CABLE TIE,PLUMBING"
+        ]
+      },
+      "sort": [
+        1636934400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lkqcf4624_L7IwKrT",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "ASTON GLOBAL INC",
+        "notify_party_name": "ASTON GLOBAL INC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-08",
+        "hs_code": "830241",
+        "product_desc": "ACRYLIC <font color='red'>SHOWER</font> BASE UNASSEMBLED TEMPERED GLASS FOR <font color='red'>SHOWER</font> <font color='red'>DOOR</font> STAINLESS STEEL ALUMINUM HARDWARE FITTINGS<br/>",
+        "carrier_sasc_code": "COHE, COHO TRANSPORT",
+        "bill_of_lading": "COHECGZ21002501",
+        "shipper_address": " FLOOR 3 BUILDING 1 NO 22 LU JING SAN ROAD CHANCHENG DISTRICT ",
+        "quantity_unit": "CTN",
+        "consignee_address": "902 NICHOLSON RD SUITE 100 ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "960.0",
+        "weight": "19988.0",
+        "vessel_name": "COSCO ITALY",
+        "voyage": "049E",
+        "measure_unit": "CM",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "902 NICHOLSON RD SUITE 100 ",
+        "new_date": "2021-11-15",
+        "shipper_name": "FOSHAN WELLSTON CO LTD",
+        "container_id": "CCLU4849889"
+      },
+      "highlight": {
+        "product_desc": [
+          "ACRYLIC <font color='red'>SHOWER</font> BASE UNASSEMBLED TEMPERED GLASS FOR <font color='red'>SHOWER</font> <font color='red'>DOOR</font> STAINLESS STEEL ALUMINUM HARDWARE FITTINGS<br/>"
+        ]
+      },
+      "sort": [
+        1636934400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LlRtJ4624_L7Iy17T",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BATH AUTHORITY LLC",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-30",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/>",
+        "carrier_sasc_code": "FEVM",
+        "bill_of_lading": "FEVMSZXF21100433",
+        "shipper_address": " L NO 25 EAST XINGPU ROAD HUANGPU T OWN ZHONGSHAN CN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 US ",
+        "marks_numbers": "DREAMLINE<br/>DREAMLINE<br/>",
+        "quantity": "1291.0",
+        "weight": "31794.0",
+        "vessel_name": "EDISON",
+        "voyage": "0TUKX",
+        "measure_unit": "---",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-11-15",
+        "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER COMPANY",
+        "container_id": "SEGU4411502,CMAU7794355"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/>"
+        ]
+      },
+      "sort": [
+        1636934400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lkjgs4624_L7IvtCQ",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57018, SHEKOU",
+        "country": "CN, CHINA",
+        "importer": "HIGHER STANDARDS HOSPITALITY LTD",
+        "notify_party_name": "HIGHER STANDARDS HOSPITALITY LTD",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-30",
+        "hs_code": "392210",
+        "product_desc": "LIGHTING FIXTURES AND <font color='red'>SHOWER</font> <font color='red'>DOORS</font> .<br/>",
+        "carrier_sasc_code": "MIGC",
+        "bill_of_lading": "MIGCSZ21100295",
+        "shipper_address": " NO 16 1ST FUQING ROAD YONGXING INDUSTRIAL ZONE HENGLAN TOWN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "14865 35A AVE SURREY B C V37 0Y7 CANADA ",
+        "marks_numbers": "HIGHER STANDERDS HOSPITALITY LTD PROJECT ROO M ITEM NAME<br/>",
+        "quantity": "483.0",
+        "weight": "9650.0",
+        "vessel_name": "MSC OLIVER",
+        "voyage": "138E",
+        "measure_unit": "---",
+        "unloading_port": "3001, SEATTLE, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "14865 35A AVE SURREY B C V37 0Y7 CANADA ",
+        "new_date": "2021-11-14",
+        "shipper_name": "ZHONGSHAN ROAN LIGHTING CO LTD",
+        "container_id": "MEDU4929413"
+      },
+      "highlight": {
+        "product_desc": [
+          "LIGHTING FIXTURES AND <font color='red'>SHOWER</font> <font color='red'>DOORS</font> .<br/>"
+        ]
+      },
+      "sort": [
+        1636848000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk1Xe4624_L7Iw7v7",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800,2000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "MAAX US CORP",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-07",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>",
+        "carrier_sasc_code": "JHJT",
+        "bill_of_lading": "JHJTSZXHCZ212441",
+        "shipper_address": " NAJIN INDUSTRY PARK SANHE TOWN TAISHAN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "MARTINSBURG 718 MID ATLANTIC PARKWAY MARTINSBURG WV 25404 ",
+        "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+        "quantity": "412.0",
+        "weight": "25958.0",
+        "vessel_name": "GUNVOR MAERSK",
+        "voyage": "138E",
+        "measure_unit": "---",
+        "unloading_port": "1401, NORFOLK, VA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "N/A",
+        "new_date": "2021-11-14",
+        "shipper_name": "GUANGDONG ROSERY BATH SCIENCE AND TECHNOLOGY CO LTD",
+        "container_id": "MEDU4449203,CAIU9881224"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>"
+        ]
+      },
+      "sort": [
+        1636848000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LkOHh4624_L7IujVC",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "ARCHITECTURAL CONCEPTS",
+        "notify_party_name": "ARCHITECTURAL CONCEPTS",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-14",
+        "hs_code": "392210",
+        "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PART<br/>",
+        "carrier_sasc_code": "ECUW",
+        "bill_of_lading": "ECUWNGBLGB03773",
+        "shipper_address": " ROOMS 302 BLDG 1 NO 1276 DONGLIU ROAD ",
+        "quantity_unit": "PKG",
+        "consignee_address": "18499 LONGS WAY SUITE 102",
+        "marks_numbers": "PI ITEM: PASADENA SHOWER (POLISHED HARDWARE) QTY.: CARTON: ORIGIN: MADE IN CHINA<br/>",
+        "quantity": "4.0",
+        "weight": "4120.0",
+        "vessel_name": "MANULANI",
+        "voyage": "175E",
+        "measure_unit": "CM",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "18499 LONGS WAY SUITE 102",
+        "new_date": "2021-11-14",
+        "shipper_name": "HANGZHOU METEK CO LTD",
+        "container_id": "MATU2747393"
+      },
+      "highlight": {
+        "product_desc": [
+          "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PART<br/>"
+        ]
+      },
+      "sort": [
+        1636848000000
+      ]
+    }
+  ]
+}

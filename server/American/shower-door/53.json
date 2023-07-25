@@ -1,0 +1,447 @@
+{
+  "total": 9666,
+  "max_score": null,
+  "hits": [
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lo8UT4624_L7I9tvX",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "58304, TAIPEI",
+        "country": "TW, TAIWAN",
+        "importer": "HMI GLASS",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-16",
+        "hs_code": "720241",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> GASKET 165 PKGS = 4 PLTS [149C TNS + 4 PKGS (16TUBES)]<br/>",
+        "carrier_sasc_code": "CGLT, CHICAGOLAND TRANSPORT INC",
+        "bill_of_lading": "CGLTCTP21090004",
+        "shipper_address": "30 LANE 60 SHUANG-CHENG RD XINDIAN CITY NEW TAIPEI CITY TAIWAN",
+        "quantity_unit": "PKG",
+        "consignee_address": "4795 SHEPHERDSVILLE ROAD LOUISVILLEKY 40218 U S A TEL: +1-502-969- 4059 EXT: 1223 ",
+        "marks_numbers": "HMI USA C/NO. 1-153 MADE IN TAIWAN<br/>",
+        "quantity": "165.0",
+        "weight": "3181.0",
+        "vessel_name": "EVER STEADY",
+        "voyage": "0074",
+        "measure_unit": "---",
+        "unloading_port": "2704, LOS ANGELES, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-29",
+        "shipper_name": "MAXEST INDUSTRIAL INCORP NO",
+        "container_id": "HMCU9180367"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> GASKET 165 PKGS = 4 PLTS [149C TNS + 4 PKGS (16TUBES)]<br/>"
+        ]
+      },
+      "sort": [
+        1635465600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LoyrR4624_L7I9dbO",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*906*802,4000*906*802",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "UPS SUPPLY CHAIN SOLUTIONS",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-27",
+        "hs_code": "293299",
+        "product_desc": " WALL PLATE HINGS BATHROOM ACCES SORIES SELF-CLOSING <font color='red'>DOOR</font> HIN GES PVC <font color='red'>SHOWER</font> CURTAIN SHE LF BRACKETS",
+        "carrier_sasc_code": "MAEU, MAERSK LINES, INC.",
+        "bill_of_lading": "MAEU267917196",
+        "shipper_address": "N/A",
+        "quantity_unit": "CTN",
+        "consignee_address": "N/A",
+        "marks_numbers": "MARKS&NOS.:. G.W.: LBS KGS N.W.: L BS KGS MEASURE: CM(L)X CM(W)X CM(H) CBF CBM PBGO REF#: ASIN: QTY: PC/CTN<br/>MARKS&NOS.:. G.W.: LBS KGS N.W.: L BS KGS MEASURE: CM(L)X CM(W)X CM(H) CBF CBM PBGO REF#: ASIN: QTY: PC/CTN<br/>",
+        "quantity": "3265.0",
+        "weight": "59770.0",
+        "vessel_name": "MAERSK EDINBURGH",
+        "voyage": "135E",
+        "measure_unit": "CM",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "10",
+        "measure": "0.0",
+        "weight_unit": "LB",
+        "notify_party_address": "19701 HAMILTON AVENUE SUITE 250 TORRANCE CA 90502 ATTN: AMAZON US DOCS",
+        "new_date": "2021-10-29",
+        "shipper_name": "N/A",
+        "container_id": "MSKU8248600,MSKU0532251"
+      },
+      "highlight": {
+        "product_desc": [
+          " WALL PLATE HINGS BATHROOM ACCES SORIES SELF-CLOSING <font color='red'>DOOR</font> HIN GES PVC <font color='red'>SHOWER</font> CURTAIN SHE LF BRACKETS"
+        ]
+      },
+      "sort": [
+        1635465600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lq9C74624_L7IAEik",
+      "_score": null,
+      "_source": {
+        "container_size": "4500*906*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "DOLLARAMA L P",
+        "notify_party_name": "DOLLARAMA L P",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-28",
+        "hs_code": "830250",
+        "product_desc": "CADDY WITH 4 SUCTION CUPS 7 HOOK WALL MOUNTED WIRE RACK CHROME PLATED 5 HOOK OVER THE <font color='red'>DOOR</font> HANGER",
+        "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+        "bill_of_lading": "EGLV143162077688",
+        "shipper_address": "69 GUANG YUAN ROAD JIANGBEI DISTRICT NINGBO CHINA ",
+        "quantity_unit": "CTN",
+        "consignee_address": "5805 AVENUE ROYALMOUNT MONT-ROYAL QUEBEC H4P 0A1 CANADA 1-514-737 1006 1-514-731-7755",
+        "marks_numbers": "THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME<br/>",
+        "quantity": "3110.0",
+        "weight": "17013.0",
+        "vessel_name": "EVER SMART",
+        "voyage": "0338E",
+        "measure_unit": "X",
+        "unloading_port": "3002, TACOMA, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "5805 AVENUE ROYALMOUNT MONT-ROYAL QUEBEC H4P 0A1 CANADA 1-514-737 1006 1-514-731-7755",
+        "new_date": "2021-10-29",
+        "shipper_name": "NINGBO HOME DOLLARIMPORT&EXPORTCORP",
+        "container_id": "EGHU8007088"
+      },
+      "highlight": {
+        "product_desc": [
+          "CADDY WITH 4 SUCTION CUPS 7 HOOK WALL MOUNTED WIRE RACK CHROME PLATED 5 HOOK OVER THE <font color='red'>DOOR</font> HANGER",
+          " CHROME FAUCET STYLE CORNER <font color='red'>SHOWER</font> CADDY WITH 4 SUCTION CUPS (HS 830250 ) @@@E-MAIL CPL_DOLLARAMA@CPR.CA<br/>"
+        ]
+      },
+      "sort": [
+        1635465600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lq8KZ4624_L7IADUE",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-16",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> ACCESSORIES<br/>",
+        "carrier_sasc_code": "EXDO, EXPEDITORS INTERNATIONAL",
+        "bill_of_lading": "EXDO62R0391954",
+        "shipper_address": "N/A",
+        "quantity_unit": "CTN",
+        "consignee_address": "N/A",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "15.0",
+        "weight": "302.0",
+        "vessel_name": "GOOD PROSPECT",
+        "voyage": "212E",
+        "measure_unit": "CM",
+        "unloading_port": "3002, TACOMA, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-29",
+        "shipper_name": "N/A",
+        "container_id": "TEMU7019364"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> ACCESSORIES<br/>"
+        ]
+      },
+      "sort": [
+        1635465600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk-v-4624_L7IxhgD",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "392210",
+        "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "KYSI",
+        "bill_of_lading": "KYSINYKY2101701",
+        "shipper_address": "N/A",
+        "quantity_unit": "PKG",
+        "consignee_address": "N/A",
+        "marks_numbers": "PI NO ORDER NO CNO OF PALLET MADE IN<br/>",
+        "quantity": "4.0",
+        "weight": "2312.0",
+        "vessel_name": "COSCO SHIPPING ALPS",
+        "voyage": "020S",
+        "measure_unit": "CM",
+        "unloading_port": "1001, NEW YORK, NY",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-29",
+        "shipper_name": "N/A",
+        "container_id": "GLDU9824141"
+      },
+      "highlight": {
+        "product_desc": [
+          "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635465600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LotF_4624_L7I9PIm",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57018, SHEKOU",
+        "country": "CN, CHINA",
+        "importer": "SPA WORLD CORP",
+        "notify_party_name": "SPA WORLD CORP",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "700719",
+        "product_desc": "TEMPERED GLASS SINK,GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font>,CHAIR<br/>",
+        "carrier_sasc_code": "HNLT",
+        "bill_of_lading": "HNLTZS21A05173",
+        "shipper_address": " RM2005 BUILDING 7 TIAN AN CENTER N O 31 JIHUA ROAD NANHAI DISTRICT FO SHAN GUANGDONG CHINA FOSHAN CN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "5701 NW 35TH AVE MIAMI FL 33142 US A MIAMI FL 33142 US ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "639.0",
+        "weight": "16060.0",
+        "vessel_name": "APL DANUBE",
+        "voyage": "0PGAJ",
+        "measure_unit": "X",
+        "unloading_port": "5201, MIAMI, FL",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "5701 NW 35TH AVE MIAMI FL 33142 US A MIAMI FL 33142 US ",
+        "new_date": "2021-10-29",
+        "shipper_name": "FOSHAN SOURCEVER CO LTD",
+        "container_id": "APHU6422376"
+      },
+      "highlight": {
+        "product_desc": [
+          "TEMPERED GLASS SINK,GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font>,CHAIR<br/>"
+        ]
+      },
+      "sort": [
+        1635465600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LoqNx4624_L7I9How",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "392210",
+        "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "KYSI",
+        "bill_of_lading": "KYSINYKY2101701",
+        "shipper_address": "N/A",
+        "quantity_unit": "PKG",
+        "consignee_address": "N/A",
+        "marks_numbers": "PI NO ORDER NO CNO OF PALLET MADE IN<br/>",
+        "quantity": "4.0",
+        "weight": "2312.0",
+        "vessel_name": "COSCO SHIPPING ALPS",
+        "voyage": "020S",
+        "measure_unit": "CM",
+        "unloading_port": "1001, NEW YORK, NY",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-29",
+        "shipper_name": "N/A",
+        "container_id": "GLDU9824141"
+      },
+      "highlight": {
+        "product_desc": [
+          "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635465600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk1xa4624_L7Iw9yU",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-16",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> ACCESSORIES<br/>",
+        "carrier_sasc_code": "EXDO, EXPEDITORS INTERNATIONAL",
+        "bill_of_lading": "EXDO62R0391954",
+        "shipper_address": "N/A",
+        "quantity_unit": "CTN",
+        "consignee_address": "N/A",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "15.0",
+        "weight": "302.0",
+        "vessel_name": "GOOD PROSPECT",
+        "voyage": "212E",
+        "measure_unit": "CM",
+        "unloading_port": "3002, TACOMA, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-29",
+        "shipper_name": "N/A",
+        "container_id": "TEMU7019364"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> ACCESSORIES<br/>"
+        ]
+      },
+      "sort": [
+        1635465600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LlZyW4624_L7IzZf8",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "AMAZOM COM",
+        "notify_party_name": "DYNASTY SHIPPING LLC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "392210",
+        "product_desc": "PLASTIC BAG FURNITURE HARDWARE PARTS WALL SHELF BLANKET <font color='red'>DOOR</font> SCREEN PATH LIGHTS WHEEL SPACERS PILLOW HANDLE <font color='red'>SHOWER</font> CURTAIN<br/>",
+        "carrier_sasc_code": "KYSI",
+        "bill_of_lading": "KYSIFLSAM1Y10302",
+        "shipper_address": " 6-1 -8 BUILDING 055 NO 1 BAILONG ",
+        "quantity_unit": "CTN",
+        "consignee_address": "555 E ORANGE SHOW RD",
+        "marks_numbers": "NM<br/>",
+        "quantity": "1382.0",
+        "weight": "19335.0",
+        "vessel_name": "WAN HAI 516",
+        "voyage": "E064",
+        "measure_unit": "CM",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "12750 MOORE ST CERRITOS ",
+        "new_date": "2021-10-29",
+        "shipper_name": "NINGBO RELIANCER IMPORT & EXPORT CO LTD",
+        "container_id": "WHSU5580572"
+      },
+      "highlight": {
+        "product_desc": [
+          "PLASTIC BAG FURNITURE HARDWARE PARTS WALL SHELF BLANKET <font color='red'>DOOR</font> SCREEN PATH LIGHTS WHEEL SPACERS PILLOW HANDLE <font color='red'>SHOWER</font> CURTAIN<br/>"
+        ]
+      },
+      "sort": [
+        1635465600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-Lnuni4624_L7I65rF",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "AMAZOM COM",
+        "notify_party_name": "DYNASTY SHIPPING LLC",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "392210",
+        "product_desc": "PLASTIC BAG FURNITURE HARDWARE PARTS WALL SHELF BLANKET <font color='red'>DOOR</font> SCREEN PATH LIGHTS WHEEL SPACERS PILLOW HANDLE <font color='red'>SHOWER</font> CURTAIN<br/>",
+        "carrier_sasc_code": "KYSI",
+        "bill_of_lading": "KYSIFLSAM1Y10302",
+        "shipper_address": " 6-1 -8 BUILDING 055 NO 1 BAILONG ",
+        "quantity_unit": "CTN",
+        "consignee_address": "555 E ORANGE SHOW RD",
+        "marks_numbers": "NM<br/>",
+        "quantity": "1382.0",
+        "weight": "19335.0",
+        "vessel_name": "WAN HAI 516",
+        "voyage": "E064",
+        "measure_unit": "CM",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "12750 MOORE ST CERRITOS ",
+        "new_date": "2021-10-29",
+        "shipper_name": "NINGBO RELIANCER IMPORT & EXPORT CO LTD",
+        "container_id": "WHSU5580572"
+      },
+      "highlight": {
+        "product_desc": [
+          "PLASTIC BAG FURNITURE HARDWARE PARTS WALL SHELF BLANKET <font color='red'>DOOR</font> SCREEN PATH LIGHTS WHEEL SPACERS PILLOW HANDLE <font color='red'>SHOWER</font> CURTAIN<br/>"
+        ]
+      },
+      "sort": [
+        1635465600000
+      ]
+    }
+  ]
+}

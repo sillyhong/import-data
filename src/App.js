@@ -1,53 +1,65 @@
-import './App.css';
+
 import React, { useEffect, useState, useMemo, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { Space, Table, Select } from 'antd';
 import { message } from 'antd';
+import 'antd/dist/antd.min.css'
+import './App.css';
 
 
 
 function App() {
+  const hostname = location.hostname
   const [data, setData] = useState(null)
   const [dataSource, setDataSource] = useState(null)
   const [index, setIndex] = useState(0)
   const [countryValue, setCountryValue] = useState('american')
+  const [isLocalhost, setIsLocalhost] = useState(hostname == 'localhost')
   const [productType, setProductType] = useState('glass-door-handles')
+
+  const [messageApi, contextHolder] = message.useMessage();
 
 
   const fetchData = useCallback(async (pageIndex, curCountryValue, curProductType) => {
     try {
       const currentCountryValue = curCountryValue || countryValue
       const currentProductType = curProductType || productType
-      const res = await fetch(`/${currentCountryValue}/${currentProductType}/${pageIndex}.json`)
-      // const res = await fetch(`/api/${currentCountryValue}/${currentProductType}/${pageIndex}.json`)
+      const prefix = isLocalhost ? '' : '/api'
+      // const res = await fetch(`/${currentCountryValue}/${currentProductType}/${pageIndex}.json`)
+      const res = await fetch(`${prefix}/${currentCountryValue}/${currentProductType}/${pageIndex}.json`)
       const data = await res.json()
       if (data) {
         setData(data)
-        const soureData = data.hits.map(item => {
+        let soureData
+
+        soureData = data.hits.map(item => {
           return item._source
         })
+
         setDataSource(soureData)
       }
     } catch (error) {
       console.log('error123', error);
-      message.error(error)
+      messageApi.open({
+        type: 'error',
+        content: '请求失败, 请修改参数',
+      });
     }
-  }, [countryValue, productType])
+  }, [countryValue, productType, isLocalhost])
 
   useEffect(() => {
-    console.log('process', process.env &&  process.env.NODE_ENV);
     fetchData(1)
   }, [])
 
   const handleCountryValueChange = useCallback((value) => {
     setCountryValue(value)
-      fetchData(1, value, productType)
+    fetchData(1, value, productType)
   }, [fetchData, productType]);
 
   const handleProductTypeChange = useCallback((value) => {
     setProductType(value)
-      fetchData(1, countryValue, value)
-  }, [fetchData,countryValue]);
+    fetchData(1, countryValue, value)
+  }, [fetchData, countryValue]);
 
 
   const renderSelect = useMemo(() => {
@@ -55,14 +67,13 @@ function App() {
       <Space wrap>
         <Select
           defaultValue={countryValue}
-          style={{ width: 120 }}
+          style={{ width: 120, marginTop: 12, marginLeft: 12 }}
           onChange={handleCountryValueChange}
           options={[
             { value: 'american', label: '美国' },
             { value: 'pakistan', label: '巴基斯坦' },
             { value: 'ecuador', label: '厄瓜多尔' },
             { value: 'india', label: '印度' },
-            { value: 'ukraine', label: '乌克兰' },
           ]}
         />
       </Space>
@@ -71,10 +82,10 @@ function App() {
 
   const renderProductType = useMemo(() => {
     return (
-      <Space wrap>
+      <Space wrap >
         <Select
           defaultValue={productType}
-          style={{ width: 120 }}
+          style={{ width: 'auto', marginTop: 12, marginLeft: 12 }}
           onChange={handleProductTypeChange}
           options={[
             { value: 'glass-door-handles', label: 'glass-door-handles' },
@@ -85,8 +96,6 @@ function App() {
       </Space>
     )
   }, [handleProductTypeChange, productType])
-
-
 
 
 
@@ -156,6 +165,19 @@ function App() {
     },
     {
       title: '详情',
+      key: 'website',
+      dataIndex: 'website',
+      responsive: ['md', 'sm'],
+      render: (_, record) => {
+        return (
+          <Space size="middle">
+            <Link to='detail' state={record}>Detail</Link>
+          </Space>
+        )
+      },
+    },
+    {
+      title: '详情',
       key: 'action',
       dataIndex: 'action',
       responsive: ['md', 'sm'],
@@ -173,16 +195,19 @@ function App() {
 
   return (
     <div className="App">
-      {/* <Table columns={columns} dataSource={dataSource} pagination={{ position: ['topLeft', 'bottomRight'] }}/> */}
+      {contextHolder}
+      <div style={{ display: 'flex', flexDirection: 'column' }}>
+        {
+          renderSelect
+        }
+        {
+          renderProductType
+        }
+      </div>
       {
-        renderSelect
-      }
-      {
-        renderProductType
-      }
-      {
-        data && <Table columns={columns} rowkey='new_date' dataSource={dataSource} pagination={
+        data && <Table style={{ marginTop: 12 }} columns={columns} rowkey='new_date' dataSource={dataSource} pagination={
           {
+            showQuickJumper: true,
             total: data.total,
             onChange: (val) => {
               fetchData(val)

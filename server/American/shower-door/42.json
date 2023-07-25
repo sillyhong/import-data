@@ -1,0 +1,446 @@
+{
+  "total": 9666,
+  "max_score": null,
+  "hits": [
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk1Xe4624_L7Iw7v9",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800,2000*806*800,2000*806*800,2000*806*800,2000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "MAAX US CORP",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-07",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>",
+        "carrier_sasc_code": "JHJT",
+        "bill_of_lading": "JHJTSZXHCZ212442",
+        "shipper_address": " NAJIN INDUSTRY PARK SANHE TOWN TAISHAN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "MARTINSBURG 718 MID ATLANTIC PARKWAY MARTINSBURG WV 25404 ",
+        "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+        "quantity": "1040.0",
+        "weight": "60257.0",
+        "vessel_name": "GUNVOR MAERSK",
+        "voyage": "138E",
+        "measure_unit": "---",
+        "unloading_port": "1401, NORFOLK, VA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "N/A",
+        "new_date": "2021-11-14",
+        "shipper_name": "GUANGDONG ROSERY BATH SCIENCE AND TECHNOLOGY CO LTD",
+        "container_id": "MSDU4023180,TRLU6485631,MSCU5611307,MSDU4037841,TTNU4289395"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>"
+        ]
+      },
+      "sort": [
+        1636848000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk1g64624_L7Iw8cS",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "55750, TANJUNG PELEPAS",
+        "country": "ID, INDONESIA",
+        "importer": "SINOBEC RESOURCES INC",
+        "notify_party_name": "SINOBEC RESOURCES INC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-30",
+        "hs_code": "392520",
+        "product_desc": "15722 PIECES OF ALUMINUM FRAMES FOR GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND GLASS <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "PRFT, PRAY FOR TRANSPORTATION INC",
+        "bill_of_lading": "PRFTSI00039803",
+        "shipper_address": "JL KEMBANG JEPUN 38 40 SURABAYA ID ",
+        "quantity_unit": "CAS",
+        "consignee_address": "1901 GREEN ROAD BAY POMPANO BEACH FL 33064 US ",
+        "marks_numbers": "AND NUMBERS<br/>",
+        "quantity": "52.0",
+        "weight": "18397.0",
+        "vessel_name": "MSC ANZU",
+        "voyage": "139A",
+        "measure_unit": "CM",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "1901 GREEN ROAD BAY POMPANO BEACH FL 33064 US ",
+        "new_date": "2021-11-14",
+        "shipper_name": "PT INDAL ALUMINIUM INDUSTRIAL TBK",
+        "container_id": "CAIU4955983"
+      },
+      "highlight": {
+        "product_desc": [
+          "15722 PIECES OF ALUMINUM FRAMES FOR GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND GLASS <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1636848000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LlRlP4624_L7Iy1Rm",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57000, HULUTAO",
+        "country": "PT, PORTUGAL",
+        "importer": "BATH AUTHORITY LLC",
+        "notify_party_name": "BATH AUTHORITY LLC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-11",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font>/<font color='red'>SHOWER</font> TRAY/<font color='red'>SHOWER</font> BACKWALL<br/>",
+        "carrier_sasc_code": "EIHK",
+        "bill_of_lading": "EIHKGSZS21091096",
+        "shipper_address": " L NO 25 EAST XINGPU ROAD HUANGPU T OWN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "75 HAWK RD ",
+        "marks_numbers": "DREAMLINE<br/>",
+        "quantity": "363.0",
+        "weight": "13832.0",
+        "vessel_name": "WAN HAI 529",
+        "voyage": "E005",
+        "measure_unit": "CM",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "75 HAWK RD ",
+        "new_date": "2021-11-14",
+        "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER COMPANY",
+        "container_id": "WHSU6379120"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font>/<font color='red'>SHOWER</font> TRAY/<font color='red'>SHOWER</font> BACKWALL<br/>"
+        ]
+      },
+      "sort": [
+        1636848000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk2uq4624_L7IxCiK",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "SIDCO GLOBAL TRADE INC",
+        "notify_party_name": "SIDCO GLOBAL TRADE INC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-30",
+        "hs_code": "848180",
+        "product_desc": "FAUCETS(HS CODE 8481809000) <font color='red'>SHOWER</font> <font color='red'>DOOR</font>(HS CO324900000)<br/>",
+        "carrier_sasc_code": "GLLF",
+        "bill_of_lading": "GLLFBLS21100389",
+        "shipper_address": " YEXING 3RD ROAD XINHUI DISTRICT JIANGMEN ",
+        "quantity_unit": "PKG",
+        "consignee_address": "8005 DIXIE ROAD ",
+        "marks_numbers": "DE 9406900090) BATHROOM ACCESSORIES(HS CODE 7NM<br/>",
+        "quantity": "718.0",
+        "weight": "17070.0",
+        "vessel_name": "ONE ARCADIA",
+        "voyage": "058E",
+        "measure_unit": "---",
+        "unloading_port": "3002, TACOMA, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "8005 DIXIE ROAD ",
+        "new_date": "2021-11-14",
+        "shipper_name": "JIANGMEN SEU TECHNOLOGY CO LTD",
+        "container_id": "BMOU4927370"
+      },
+      "highlight": {
+        "product_desc": [
+          "FAUCETS(HS CODE 8481809000) <font color='red'>SHOWER</font> <font color='red'>DOOR</font>(HS CO324900000)<br/>"
+        ]
+      },
+      "sort": [
+        1636848000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LlRWR4624_L7Iy0M9",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800,2000*806*800",
+        "loading_port": "57018, SHEKOU",
+        "country": "CN, CHINA",
+        "importer": "BATH AUTHORITY LLC",
+        "notify_party_name": "BATH AUTHORITY LLC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-08",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>",
+        "carrier_sasc_code": "GJGD",
+        "bill_of_lading": "GJGDJYL21090107",
+        "shipper_address": " NO 25 EAST XINGPU ROAD HUANGPU TOWN ZHONGSHAN CITY ",
+        "quantity_unit": "CTN",
+        "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 ",
+        "marks_numbers": "DREAMLINE<br/>DREAMLINE<br/>",
+        "quantity": "993.0",
+        "weight": "31106.0",
+        "vessel_name": "WAN HAI 529",
+        "voyage": "E005",
+        "measure_unit": "---",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "75 HAWK ROAD WARMINSTER PA 18974 ",
+        "new_date": "2021-11-14",
+        "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER CO LTD",
+        "container_id": "WHSU6275589,WHSU6416100"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>"
+        ]
+      },
+      "sort": [
+        1636848000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-Ln9sW4624_L7I7dsp",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57018, SHEKOU",
+        "country": "CN, CHINA",
+        "importer": "HIGHER STANDARDS HOSPITALITY LTD",
+        "notify_party_name": "HIGHER STANDARDS HOSPITALITY LTD",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-10-30",
+        "hs_code": "392210",
+        "product_desc": "LIGHTING FIXTURES AND <font color='red'>SHOWER</font> <font color='red'>DOORS</font> .<br/>",
+        "carrier_sasc_code": "MIGC",
+        "bill_of_lading": "MIGCSZ21100295",
+        "shipper_address": " NO 16 1ST FUQING ROAD YONGXING INDUSTRIAL ZONE HENGLAN TOWN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "14865 35A AVE SURREY B C V37 0Y7 CANADA ",
+        "marks_numbers": "HIGHER STANDERDS HOSPITALITY LTD PROJECT ROO M ITEM NAME<br/>",
+        "quantity": "483.0",
+        "weight": "9650.0",
+        "vessel_name": "MSC OLIVER",
+        "voyage": "138E",
+        "measure_unit": "---",
+        "unloading_port": "3001, SEATTLE, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "14865 35A AVE SURREY B C V37 0Y7 CANADA ",
+        "new_date": "2021-11-14",
+        "shipper_name": "ZHONGSHAN ROAN LIGHTING CO LTD",
+        "container_id": "MEDU4929413"
+      },
+      "highlight": {
+        "product_desc": [
+          "LIGHTING FIXTURES AND <font color='red'>SHOWER</font> <font color='red'>DOORS</font> .<br/>"
+        ]
+      },
+      "sort": [
+        1636848000000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk2OH4624_L7Iw_xo",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "MAAX US CORP",
+        "notify_party_name": "MAAX US CORP",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-29",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> &<font color='red'>SHOWER</font> BASE<br/>",
+        "carrier_sasc_code": "JHJT",
+        "bill_of_lading": "JHJTSZXHCZ212545",
+        "shipper_address": " NAJIN INDUSTRY PARK SANHE TOWN TAISHAN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "USINE PLANT-PLYMOUTH 100 NORTH OAK DRIVE PLYMOUTH IN 46563 USA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "319.0",
+        "weight": "18945.0",
+        "vessel_name": "ONE MANHATTAN",
+        "voyage": "028E",
+        "measure_unit": "---",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "1010 WEST DEWEY STREET BREMEN IN 46506 ",
+        "new_date": "2021-11-13",
+        "shipper_name": "GUANGDONG ROSERY BATH SCIENCE AND TECHNOLOGY CO LTD",
+        "container_id": "TCNU3650319"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> &<font color='red'>SHOWER</font> BASE<br/>"
+        ]
+      },
+      "sort": [
+        1636761600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2112",
+      "_id": "AX-Loe2x4624_L7I8tcQ",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "MAAX US CORP",
+        "notify_party_name": "MAAX US CORP",
+        "type": "us_2112",
+        "estimate_arrival_date": "2021-10-29",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> &<font color='red'>SHOWER</font> BASE<br/>",
+        "carrier_sasc_code": "JHJT",
+        "bill_of_lading": "JHJTSZXHCZ212545",
+        "shipper_address": " NAJIN INDUSTRY PARK SANHE TOWN TAISHAN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "USINE PLANT-PLYMOUTH 100 NORTH OAK DRIVE PLYMOUTH IN 46563 USA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "319.0",
+        "weight": "18945.0",
+        "vessel_name": "ONE MANHATTAN",
+        "voyage": "028E",
+        "measure_unit": "---",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "1010 WEST DEWEY STREET BREMEN IN 46506 ",
+        "new_date": "2021-11-13",
+        "shipper_name": "GUANGDONG ROSERY BATH SCIENCE AND TECHNOLOGY CO LTD",
+        "container_id": "TCNU3650319"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> &<font color='red'>SHOWER</font> BASE<br/>"
+        ]
+      },
+      "sort": [
+        1636761600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk1GQ4624_L7Iw6dS",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "MAAX US CORP",
+        "notify_party_name": "ACCELA WORLDWIDE SOLUTIONS INC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-02",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>",
+        "carrier_sasc_code": "JHJT",
+        "bill_of_lading": "JHJTSZXHCZ212375",
+        "shipper_address": " NAJIN INDUSTRY PARK SANHE TOWN TAISHAN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "MARTINSBURG 718 MID ATLANTIC PARKWAY MARTINSBURG WV 25404 ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "220.0",
+        "weight": "12761.0",
+        "vessel_name": "GERDA MAERSK",
+        "voyage": "136E",
+        "measure_unit": "---",
+        "unloading_port": "1401, NORFOLK, VA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "UNIT250 16522 HUNTERS GREEN PKWY HAGERSTOWN MD 21740 ",
+        "new_date": "2021-11-13",
+        "shipper_name": "GUANGDONG ROSERY BATH SCIENCE AND TECHNOLOGY CO LTD",
+        "container_id": "MSDU4253291"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>"
+        ]
+      },
+      "sort": [
+        1636761600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk1Rv4624_L7Iw7XT",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*802,2000*806*802",
+        "loading_port": "57037",
+        "country": "CN, CHINA",
+        "importer": "KP DIRECT LLC",
+        "notify_party_name": "KP DIRECT LLC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-11-13",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>",
+        "carrier_sasc_code": "MAEU, MAERSK LINES, INC.",
+        "bill_of_lading": "MAEU1KT270031",
+        "shipper_address": "TECHNOLOGY SANITARY WARE CENTER DAQ ",
+        "quantity_unit": "CTN",
+        "consignee_address": "830 NW 25TH AVE OCALA FL 34475 AND ",
+        "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+        "quantity": "400.0",
+        "weight": "58202.0",
+        "vessel_name": "MAERSK SIRAC",
+        "voyage": "138E",
+        "measure_unit": "CM",
+        "unloading_port": "1703, SAVANNAH, GA",
+        "mode_of_transportation": "10",
+        "measure": "0.0",
+        "weight_unit": "LB",
+        "notify_party_address": "830 NW 25TH AVE OCALA FL 34475 AND ANDREW@KPDIRECT US +1 877 9777962 OEMAIL: ANDREW@KPDIRECT US ",
+        "new_date": "2021-11-13",
+        "shipper_name": "JIAXING AOKELIYA SANITARY WARE TECH",
+        "container_id": "MSKU5540408,MSKU3141190"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>"
+        ]
+      },
+      "sort": [
+        1636761600000
+      ]
+    }
+  ]
+}

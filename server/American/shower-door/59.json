@@ -1,0 +1,448 @@
+{
+  "total": 9666,
+  "max_score": null,
+  "hits": [
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk6AG4624_L7IxMDH",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "DELTA FAUCET COMPANY",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-12",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> DOORSHOWER <font color='red'>DOOR</font> ACCESSORIES<br/>",
+        "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+        "bill_of_lading": "CHSL364637772NGB",
+        "shipper_address": " ROAD NORTH DISTRICT ",
+        "quantity_unit": "PKG",
+        "consignee_address": " 1425 WEST MAIN ST ",
+        "marks_numbers": "DELTA FAUCETCOMPANY 1425 W MAIN STREETGREENSBURG,IN 47240-9730,USAPO LOT NUMBER MADE IN CHINA<br/>",
+        "quantity": "241.0",
+        "weight": "10319.0",
+        "vessel_name": "OOCL TOKYO",
+        "voyage": "114E",
+        "measure_unit": "---",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-24",
+        "shipper_name": "NINGBO RUNNER INDUSTRIAL LINGANG IND XIZHOU XIANGSHAN CHONGDE",
+        "container_id": "OOCU5027495"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> DOORSHOWER <font color='red'>DOOR</font> ACCESSORIES<br/>"
+        ]
+      },
+      "sort": [
+        1635033600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LpvIG4624_L7I-mro",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57069, XIAMEN",
+        "country": "CN, CHINA",
+        "importer": "EAST YAPHAN HOLDING LLC",
+        "notify_party_name": "EAST YAPHAN HOLDING LLC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-11",
+        "hs_code": "830210",
+        "product_desc": "IRON <font color='red'>DOOR</font> IRON RAILING ALUMINIUM ALLOY LINE WD LIGHIT BULB ALUMINUM WINDOW DISPLAY RACK <font color='red'>SHOWER</font> ROOM",
+        "carrier_sasc_code": "WSAM",
+        "bill_of_lading": "WSAMWSO2109008AA",
+        "shipper_address": " JINGTOU INTERSECTION MAXIANG TOWN XIANG AN DISTRICT XIAMEN ",
+        "quantity_unit": "PKG",
+        "consignee_address": "4727 195TH ST FLUSHING NY 11358 USA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "198.0",
+        "weight": "13317.0",
+        "vessel_name": "GRETE MAERSK",
+        "voyage": "134E",
+        "measure_unit": "CC",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "4727 195TH ST FLUSHING NY 11358 USA ",
+        "new_date": "2021-10-24",
+        "shipper_name": "XIAMEN OUYA INDUSTRIAL TRADE CO LTD",
+        "container_id": "TRLU7088916"
+      },
+      "highlight": {
+        "product_desc": [
+          "IRON <font color='red'>DOOR</font> IRON RAILING ALUMINIUM ALLOY LINE WD LIGHIT BULB ALUMINUM WINDOW DISPLAY RACK <font color='red'>SHOWER</font> ROOM"
+        ]
+      },
+      "sort": [
+        1635033600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-Lk6AG4624_L7IxMDE",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800,4000*806*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "DELTA FAUCET COMPANY",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-12",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+        "bill_of_lading": "CHSL365996300NGB",
+        "shipper_address": " ROAD NORTH DISTRICT ",
+        "quantity_unit": "PKG",
+        "consignee_address": " 1425 W MAIN ST ",
+        "marks_numbers": "DELTA FAUCETCOMPANY 1425 W MAIN STREETGREENSBURG,IN 47240-9730,USAPO LOT NUMBER MADE IN CHINA<br/>DELTA FAUCETCOMPANY 1425 W MAIN STREETGREENSBURG,IN 47240-9730,USAPO LOT NUMBER MADE IN CHINA<br/>",
+        "quantity": "492.0",
+        "weight": "22736.0",
+        "vessel_name": "OOCL TOKYO",
+        "voyage": "114E",
+        "measure_unit": "---",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-24",
+        "shipper_name": "NINGBO RUNNER INDUSTRIAL LINGANG IND XIZHOU XIANGSHAN CHONGDE",
+        "container_id": "OOLU7823461,OOCU4814182"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635033600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lpiv_4624_L7I-Y70",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "58201, HONG KONG",
+        "country": "CN, CHINA",
+        "importer": "CKB SHOWER DOORS LLC",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-16",
+        "hs_code": "970200",
+        "product_desc": "FRAMED <font color='red'>DOOR</font> <font color='red'>SHOWER</font> DOORSHOWER ACCESSORIES<br/>",
+        "carrier_sasc_code": "GBOR",
+        "bill_of_lading": "GBORASZHN2109043",
+        "shipper_address": " BUILDING 1 2 NO 2 PHOENIX ROAD TORCH DEVELOPMENT ZONE ZHONGSHANCN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "1018 CUMBERLANDAVE SAN LEANDRO CA94579 US ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "726.0",
+        "weight": "20870.0",
+        "vessel_name": "EVER FIT",
+        "voyage": "004E",
+        "measure_unit": "X",
+        "unloading_port": "2811, OAKLAND, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-24",
+        "shipper_name": "TLS INDUSTRIES CO LTD",
+        "container_id": "EGHU9818460"
+      },
+      "highlight": {
+        "product_desc": [
+          "FRAMED <font color='red'>DOOR</font> <font color='red'>SHOWER</font> DOORSHOWER ACCESSORIES<br/>"
+        ]
+      },
+      "sort": [
+        1635033600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LlrXW4624_L7I0FSo",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800,4000*806*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-12",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+        "bill_of_lading": "CHSL365996300NGB",
+        "shipper_address": "N/A",
+        "quantity_unit": "PKG",
+        "consignee_address": "N/A",
+        "marks_numbers": "DELTA FAUCETCOMPANY 1425 W MAIN STREETGREENSBURG,IN 47240-9730,USAPO LOT NUMBER MADE IN CHINA<br/>DELTA FAUCETCOMPANY 1425 W MAIN STREETGREENSBURG,IN 47240-9730,USAPO LOT NUMBER MADE IN CHINA<br/>",
+        "quantity": "492.0",
+        "weight": "22736.0",
+        "vessel_name": "OOCL TOKYO",
+        "voyage": "114E",
+        "measure_unit": "---",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-24",
+        "shipper_name": "N/A",
+        "container_id": "OOLU7823461,OOCU4814182"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635033600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lpqsq4624_L7I-ioq",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BRUSKIN INTERNATIONAL LLC",
+        "notify_party_name": "BRUSKIN INTERNATIONAL LLC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-18",
+        "hs_code": "392210",
+        "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIAL.<br/>",
+        "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+        "bill_of_lading": "EGLV146101749753",
+        "shipper_address": " RM 207-209 BLDG5 TIAN AN CYBER PARKGUICHENG NANHAI FOSHAN GUANGDONG CHINA ",
+        "quantity_unit": "CTN",
+        "consignee_address": "DBA PROJECTSTONE 7658 HASKELL AVE VAN NUYS CA USA 91406 ",
+        "marks_numbers": "THE SAME THE SAME<br/>",
+        "quantity": "285.0",
+        "weight": "13970.0",
+        "vessel_name": "OOCL BRUSSELS",
+        "voyage": "045E",
+        "measure_unit": "X",
+        "unloading_port": "1703, SAVANNAH, GA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "DBA PROJECTSTONE 7658 HASKELL AVE VAN NUYS CA USA 91406 ",
+        "new_date": "2021-10-24",
+        "shipper_name": "GUANGDONG NANHAI LIGHT INDUSTRIAL PRODUCTSIMPORT&EXPORTCO LTD",
+        "container_id": "OCGU8069242"
+      },
+      "highlight": {
+        "product_desc": [
+          "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIAL.<br/>"
+        ]
+      },
+      "sort": [
+        1635033600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lo2kY4624_L7I9l48",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800,4000*806*800,4000*806*800",
+        "loading_port": "57020, NINGPO",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-09",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+        "bill_of_lading": "CHSL364338849NGB",
+        "shipper_address": "N/A",
+        "quantity_unit": "PKG",
+        "consignee_address": "N/A",
+        "marks_numbers": "SAME AS INVOICE<br/>SAME AS INVOICE<br/>SAME AS INVOICE<br/>",
+        "quantity": "773.0",
+        "weight": "55518.0",
+        "vessel_name": "ARISTOMENIS",
+        "voyage": "013E",
+        "measure_unit": "---",
+        "unloading_port": "2704, LOS ANGELES, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-24",
+        "shipper_name": "N/A",
+        "container_id": "DRYU4249057,SEGU5967749,NYKU8484765"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/><font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1635033600000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lpg6q4624_L7I-Wgl",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+        "loading_port": "58201, HONG KONG",
+        "country": "CN, CHINA",
+        "importer": "BATH AUTHORITY LLC",
+        "notify_party_name": "JOHN A STEER CO",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-14",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font>",
+        "carrier_sasc_code": "COSU, CHINA OCEAN STEAMSHIP LTD",
+        "bill_of_lading": "COSU6310655321",
+        "shipper_address": " L MAXIN INDUSTRIAL ZONE HUANGPU TOWN ZHONGSHAN GD 528400 CHINA ",
+        "quantity_unit": "CTN",
+        "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 UNITED STATES ",
+        "marks_numbers": "NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>DREAMLINE<br/>NO MARKS<br/>NO MARKS<br/>",
+        "quantity": "4023.0",
+        "weight": "125145.0",
+        "vessel_name": "OOCL SINGAPORE",
+        "voyage": "043E",
+        "measure_unit": "CM",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "1227 NORTH 4TH STREET PHILADELPHIA PA 19122 UNITED STATES ",
+        "new_date": "2021-10-23",
+        "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER COMPANY",
+        "container_id": "FCIU9668958,TGBU8608923,RFCU5057869,TGBU7902635,OOCU7129412,CSNU7784100,FCIU7086881,MAGU5176804"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font>",
+          " <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font>",
+          " TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY SHOWE"
+        ]
+      },
+      "sort": [
+        1634947200000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lp3w04624_L7I-vE2",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "ELLAS BUBBLES LLC",
+        "notify_party_name": "ELLAS BUBBLES LLC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-11",
+        "hs_code": "392210",
+        "product_desc": "MASSAGE BATHTUB <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "SWOE",
+        "bill_of_lading": "SWOESZ2S01880733",
+        "shipper_address": " BUILDING1&2 NO 2PHOENIXROAD TORCHDEVELOPMENTZONE ",
+        "quantity_unit": "CTN",
+        "consignee_address": "2101 S CARPENTER STREET CHICAGO IL 60608 USA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "138.0",
+        "weight": "7080.0",
+        "vessel_name": "YM TRIUMPH",
+        "voyage": "007E",
+        "measure_unit": "---",
+        "unloading_port": "3002, TACOMA, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "2101 S CARPENTER STREET CHICAGO IL 60608 USA ",
+        "new_date": "2021-10-23",
+        "shipper_name": "TLS INDUSTRIES CO LTD",
+        "container_id": "TCLU9289130"
+      },
+      "highlight": {
+        "product_desc": [
+          "MASSAGE BATHTUB <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1634947200000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LqyuH4624_L7I_3rj",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "HARTUNG GLASS INDUSTRIES",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-10",
+        "hs_code": "761090",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> HARDWARE 3PLTS PACKED INTO 57CTNS HS CODE:761090<br/>",
+        "carrier_sasc_code": "NAQA, NACA",
+        "bill_of_lading": "NAQAZSEA1916709V",
+        "shipper_address": " BUILDING 1 AND 2 NO 2 PHOENIX ROAD TORCH DEVELOPMENT ZONE ",
+        "quantity_unit": "CTN",
+        "consignee_address": "3351 EAST VALLEY ROAD",
+        "marks_numbers": "CKB<br/>",
+        "quantity": "57.0",
+        "weight": "1936.0",
+        "vessel_name": "YM TRIUMPH",
+        "voyage": "007E",
+        "measure_unit": "---",
+        "unloading_port": "3002, TACOMA, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-23",
+        "shipper_name": "TLS INDUSTRIES CO LTD",
+        "container_id": "TGBU5469491"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> HARDWARE 3PLTS PACKED INTO 57CTNS HS CODE:761090<br/>"
+        ]
+      },
+      "sort": [
+        1634947200000
+      ]
+    }
+  ]
+}

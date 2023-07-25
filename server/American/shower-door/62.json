@@ -1,0 +1,449 @@
+{
+  "total": 9666,
+  "max_score": null,
+  "hits": [
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LlIOs4624_L7IyKt-",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800",
+        "loading_port": "58023, PUSAN",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "N/A",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-12",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "EXDO, EXPEDITORS INTERNATIONAL",
+        "bill_of_lading": "EXDO62R0388330",
+        "shipper_address": "N/A",
+        "quantity_unit": "CTN",
+        "consignee_address": "N/A",
+        "marks_numbers": "SAME AS INVOICE<br/>",
+        "quantity": "242.0",
+        "weight": "19510.0",
+        "vessel_name": "MADRID EXPRESS",
+        "voyage": "008E",
+        "measure_unit": "CM",
+        "unloading_port": "1601, CHARLESTON, SC",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-22",
+        "shipper_name": "N/A",
+        "container_id": "FCLU9419055"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1634860800000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LpTIT4624_L7I-Fhk",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BEST PLUMBING AND HEATING SHOWE",
+        "notify_party_name": "BEST PLUMBING AND HEATING SHOWE",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-07",
+        "hs_code": "392210",
+        "product_desc": "BATHTUB <font color='red'>SHOWER</font> BASE<br/>FRAMED <font color='red'>SHOWER</font> <font color='red'>DOOR</font> FRAMELESS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> <font color='red'>SHOWER</font> BASE BATHTUB <font color='red'>SHOWER</font> WALL<br/>",
+        "carrier_sasc_code": "MLCW, MILLER, C W CO",
+        "bill_of_lading": "MLCWHKGH10037552",
+        "shipper_address": " BUILDING 1&2NO 2 PHOENIX ROAD TORCH DEVELOPMENT ZONE ",
+        "quantity_unit": "CTN",
+        "consignee_address": "ROOM 17111 118 AVE NW EDMONTON AB T5S 2 ",
+        "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+        "quantity": "408.0",
+        "weight": "13410.0",
+        "vessel_name": "YM TRIUMPH",
+        "voyage": "007E",
+        "measure_unit": "CM",
+        "unloading_port": "3002, TACOMA, WA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "ROOM 17111 118 AVE NW EDMONTON AB T5S 2 ",
+        "new_date": "2021-10-22",
+        "shipper_name": "TLS INDUSTRIES CO LTD",
+        "container_id": "CAIU7867021,TLLU5384374"
+      },
+      "highlight": {
+        "product_desc": [
+          "BATHTUB <font color='red'>SHOWER</font> BASE<br/>FRAMED <font color='red'>SHOWER</font> <font color='red'>DOOR</font> FRAMELESS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> <font color='red'>SHOWER</font> BASE BATHTUB <font color='red'>SHOWER</font> WALL<br/>"
+        ]
+      },
+      "sort": [
+        1634860800000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LsDQd4624_L7IBcy0",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*907*802",
+        "loading_port": "57035, SHANGHAI",
+        "country": "CN, CHINA",
+        "importer": "WINMAX INTERNATIONAL GROUP INC",
+        "notify_party_name": "QUARTZ LOGISTICS INC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-20",
+        "hs_code": "392210",
+        "product_desc": "FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> SYSTEMS COMPLE<br/>",
+        "carrier_sasc_code": "SMLM",
+        "bill_of_lading": "SMLMSHLF1B600500",
+        "shipper_address": " LAOGANG INDUSTRIAL PARK TONGFA RD 123 LANE BLDG 10 NANHUI ",
+        "quantity_unit": "CTN",
+        "consignee_address": " 10916 ST LOUIS DR UNIT 4A EL MONTE CA91731 USA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "617.0",
+        "weight": "16591.0",
+        "vessel_name": "SM MUMBAI",
+        "voyage": "2107E",
+        "measure_unit": "---",
+        "unloading_port": "2904, PORTLAND, OR",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "780 S NOGALES STREET SUITE D CITY OF INDUSTRY CA 91748 UNITED STATES ",
+        "new_date": "2021-10-22",
+        "shipper_name": "DURA SHOWER ENCLOSURES CO LTD",
+        "container_id": "CAIU9925873"
+      },
+      "highlight": {
+        "product_desc": [
+          "FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> SYSTEMS COMPLE<br/>"
+        ]
+      },
+      "sort": [
+        1634860800000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2111",
+      "_id": "AX-LlXho4624_L7IzN-M",
+      "_score": null,
+      "_source": {
+        "container_size": "2000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "VIVA LA TRADE LLC",
+        "notify_party_name": "VIVA LA TRADE LLC",
+        "type": "us_2111",
+        "estimate_arrival_date": "2021-10-07",
+        "hs_code": "850790",
+        "product_desc": "UNDER SINK ORGANIZER <font color='red'>SHOWER</font> DRAIN BATTERY TESTERS PUZZLE HOME DECORATIONS STICKER TOY HARNESS BAG",
+        "carrier_sasc_code": "AMZD",
+        "bill_of_lading": "AMZDCN21A907C56A",
+        "shipper_address": "L TD ROOM 2105 BUILDING E XINGHE WORLD NO 1 YABAO ROAD BANTIAN STREET LO ",
+        "quantity_unit": "CTN",
+        "consignee_address": "2525 16TH ST UNIT 208 DENVER CO 80 211 ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "688.0",
+        "weight": "10790.0",
+        "vessel_name": "ONE IBIS",
+        "voyage": "023E",
+        "measure_unit": "---",
+        "unloading_port": "2709, LONG BEACH, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "2525 16TH ST UNIT 208 DENVER CO 80 211 ",
+        "new_date": "2021-10-22",
+        "shipper_name": "RUISHUO TECHNOLOGY SHENZHEN CO",
+        "container_id": "YMLU8686544"
+      },
+      "highlight": {
+        "product_desc": [
+          "UNDER SINK ORGANIZER <font color='red'>SHOWER</font> DRAIN BATTERY TESTERS PUZZLE HOME DECORATIONS STICKER TOY HARNESS BAG",
+          " AOJIA SLIM STORAGE CART CAT <font color='red'>DOOR</font> BED PAN MAT MOUNT CEILING LIGHT KITCHEN RUG SET ARTIFICIAL FLOWER<br/>"
+        ]
+      },
+      "sort": [
+        1634860800000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LquRn4624_L7I_x--",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "WATERFALL GROUP LLC",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-07",
+        "hs_code": "830241",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> HARDWARE 31PALLETS+20PACKAGES=12 99CTNS<br/>",
+        "carrier_sasc_code": "PPIL",
+        "bill_of_lading": "PPILSZX95027",
+        "shipper_address": " NO 33 LOUGANGDEVELOPMENT AREA KAIPING CITY SHUIKUO TOWN GD CN ",
+        "quantity_unit": "CTN",
+        "consignee_address": " 1312 W CROSBY RD CARROLLTON TX 75006 USA ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "1299.0",
+        "weight": "15620.0",
+        "vessel_name": "CMA CGM JULES VERNE",
+        "voyage": "0TUJB",
+        "measure_unit": "X",
+        "unloading_port": "2704, LOS ANGELES, CA",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-22",
+        "shipper_name": "HANYI SANITARY METALS THE FIST INDUSTRAL PARK",
+        "container_id": "CPWU4033997"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font> HARDWARE 31PALLETS+20PACKAGES=12 99CTNS<br/>"
+        ]
+      },
+      "sort": [
+        1634860800000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LpBK54624_L7I9zw2",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*806*800",
+        "loading_port": "58023, PUSAN",
+        "country": "CN, CHINA",
+        "importer": "N/A",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-12",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+        "carrier_sasc_code": "EXDO, EXPEDITORS INTERNATIONAL",
+        "bill_of_lading": "EXDO62R0388330",
+        "shipper_address": "N/A",
+        "quantity_unit": "CTN",
+        "consignee_address": "N/A",
+        "marks_numbers": "SAME AS INVOICE<br/>",
+        "quantity": "242.0",
+        "weight": "19510.0",
+        "vessel_name": "MADRID EXPRESS",
+        "voyage": "008E",
+        "measure_unit": "CM",
+        "unloading_port": "1601, CHARLESTON, SC",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-22",
+        "shipper_name": "N/A",
+        "container_id": "FCLU9419055"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+        ]
+      },
+      "sort": [
+        1634860800000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Ls94h4624_L7IChwf",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800",
+        "loading_port": "57069, XIAMEN",
+        "country": "CN, CHINA",
+        "importer": "BATH AUTHORITY LLC",
+        "notify_party_name": "JOHN A STEER COMPANY",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-20",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font>,<font color='red'>SHOWER</font> TRAY<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font>,<font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIALS<br/>",
+        "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+        "bill_of_lading": "EGLV156100531972",
+        "shipper_address": " NO 25 EAST XINGPU ROAD HUANGPU TOWN ZHONGSHAN CITY GUANGDONG PROVINCE ",
+        "quantity_unit": "CTN",
+        "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 TEL:0012159571411 FAX:12062016139 ",
+        "marks_numbers": "DREAMLINE<br/>DREAMLINE DREAMLINE THE SAME THE SAME THE SAME THE SAME<br/>",
+        "quantity": "950.0",
+        "weight": "27270.0",
+        "vessel_name": "COSCO HOPE",
+        "voyage": "046E",
+        "measure_unit": "X",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": " 1227 N 4TH STREET PHILADELPHIA PA 19122 PHONE: 215-922-6610 EMAIL: G CHEUNG@STEER US COM ",
+        "new_date": "2021-10-21",
+        "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER CO LTD",
+        "container_id": "TXGU6132492,TXGU6132506"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font>,<font color='red'>SHOWER</font> TRAY<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font>,<font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIALS<br/>"
+        ]
+      },
+      "sort": [
+        1634774400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Ls-ky4624_L7ICiiq",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*906*802",
+        "loading_port": "57078, YANTIAN",
+        "country": "CN, CHINA",
+        "importer": "BATH AUTHORITY LLC",
+        "notify_party_name": "N/A",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-20",
+        "hs_code": "392210",
+        "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/>",
+        "carrier_sasc_code": "SXCO, SAX, J & COMPANY INC",
+        "bill_of_lading": "SXCOSZOE21090723",
+        "shipper_address": " L NO 25 EAST XINGPU ROAD HUANGPU T OWN ZHONGSHAN CITY GUANGDONG PROVI NCE ZHONGSHAN CN ",
+        "quantity_unit": "CTN",
+        "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 PAUS ",
+        "marks_numbers": "DREAMLINE<br/>",
+        "quantity": "404.0",
+        "weight": "16257.0",
+        "vessel_name": "MONACO BRIDGE",
+        "voyage": "016E",
+        "measure_unit": "---",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "N/A",
+        "new_date": "2021-10-21",
+        "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER COMPANY",
+        "container_id": "CAIU9177196"
+      },
+      "highlight": {
+        "product_desc": [
+          "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/>"
+        ]
+      },
+      "sort": [
+        1634774400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-LtA1-4624_L7IClJ2",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800",
+        "loading_port": "57069, XIAMEN",
+        "country": "CN, CHINA",
+        "importer": "HONG KONG BESTIME GROUP",
+        "notify_party_name": "GOLDEN STATE FC LLC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-01",
+        "hs_code": "851621",
+        "product_desc": "STORAGE BOX <font color='red'>DOOR</font> HANDLE <font color='red'>SHOWER</font> CADDY BASKET GLASS CANISTERS WATERING BULBS WALL CLOCK SUCCULENT POT",
+        "carrier_sasc_code": "AMZD",
+        "bill_of_lading": "AMZDCN2127CA7BAA",
+        "shipper_address": "COMPANY LIM ITED FLAT 03 15/F CARNIVAL COMM BLDG 18 JAVA RD NORTH POINT HK ",
+        "quantity_unit": "CTN",
+        "consignee_address": "COMPANY LIM ITED11263 OLEANDER AVE ",
+        "marks_numbers": "NO MARKS<br/>",
+        "quantity": "664.0",
+        "weight": "5684.0",
+        "vessel_name": "COSCO HOPE",
+        "voyage": "046E",
+        "measure_unit": "---",
+        "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "KG",
+        "notify_party_address": "LAX9 11263 OLEANDER AVE ",
+        "new_date": "2021-10-21",
+        "shipper_name": "HONG KONG BESTIME GROUP",
+        "container_id": "CMAU7443900"
+      },
+      "highlight": {
+        "product_desc": [
+          "STORAGE BOX <font color='red'>DOOR</font> HANDLE <font color='red'>SHOWER</font> CADDY BASKET GLASS CANISTERS WATERING BULBS WALL CLOCK SUCCULENT POT"
+        ]
+      },
+      "sort": [
+        1634774400000
+      ]
+    },
+    {
+      "_index": "imiker_us",
+      "_type": "us_2110",
+      "_id": "AX-Lr9QG4624_L7IBUsL",
+      "_score": null,
+      "_source": {
+        "container_size": "4000*900*800,4000*900*800",
+        "loading_port": "20193, TAMPICO",
+        "country": "EG, EGYPT",
+        "importer": "GLASSCORP LLC",
+        "notify_party_name": "GLASSCORP LLC",
+        "type": "us_2110",
+        "estimate_arrival_date": "2021-10-20",
+        "hs_code": "292145",
+        "product_desc": "87 PCS OF CLEAR 1/4 TEMPE RED <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PF E + 4 HO LES 105 PCS OF CLEAR 1/4 TEMPERED S HOWER",
+        "carrier_sasc_code": "MEDU, BCSL US-MED LINE LTD.",
+        "bill_of_lading": "MEDUAF024650",
+        "shipper_address": "12005 NORTH EXTANTION AREA PIECES EL OBOUR DK EGYPT ",
+        "quantity_unit": "PKG",
+        "consignee_address": "16004 BELLA WOODS DR TAMPA FL 33647 UNITED STATES ",
+        "marks_numbers": "NO MARKS<br/>NO MARKS<br/>",
+        "quantity": "2194.0",
+        "weight": "54173.0",
+        "vessel_name": "PORTO CHELI",
+        "voyage": "138W",
+        "measure_unit": "---",
+        "unloading_port": "1901, MOBILE, AL",
+        "mode_of_transportation": "11",
+        "measure": "0.0",
+        "weight_unit": "K",
+        "notify_party_address": "16004 BELLA WOODS DR TAMPA FL 33647 UNITED STATES ",
+        "new_date": "2021-10-21",
+        "shipper_name": "DECORATIVE GLASS",
+        "container_id": "MSDU7058447,MSMU7406960"
+      },
+      "highlight": {
+        "product_desc": [
+          "87 PCS OF CLEAR 1/4 TEMPE RED <font color='red'>SHOWER</font> <font color='red'>DOOR</font> PF E + 4 HO LES 105 PCS OF CLEAR 1/4 TEMPERED S HOWER",
+          " <font color='red'>DOOR</font> PFE + 4 HOLES 90 PCS OF CLEAR 1 /4 TEMPERED <font color='red'>SHOWER</font> <font color='red'>DOOR</font> P FE + 4 HOLES 85 PCS OF CLE AR 1/4",
+          " TEMPERED <font color='red'>SHOWER</font> DO OR PFE + 4 HOLES 85 PCS OF CLEAR 1/4 TEMPER"
+        ]
+      },
+      "sort": [
+        1634774400000
+      ]
+    }
+  ]
+}

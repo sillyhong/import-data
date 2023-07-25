@@ -1,0 +1,450 @@
+{
+    "total": 9666,
+    "max_score": null,
+    "hits": [
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LmZ7f4624_L7I2Oll",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "TRUMBULL INDUSTRIES INC",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-28",
+          "hs_code": "901380",
+          "product_desc": "UTILITY SINK AND CABINET INCLUDING HANDMADE SINK AND FAUCET AND ACCESSORIES <font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND GLASS PANEL<br/>",
+          "carrier_sasc_code": "ILCD",
+          "bill_of_lading": "ILCDHWS221100294",
+          "shipper_address": " NO 5 BUILDING 88 YUE JING ROAD PINGSHA TOWN ZHUHAI GUANGDONG CHINA CN ",
+          "quantity_unit": "PKG",
+          "consignee_address": "400 DIETZ ROAD NE PO BOX 30 WARREN OH 44482-0030 WARRENOH44482 US ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "175.0",
+          "weight": "12850.0",
+          "vessel_name": "SEASPAN ZAMBEZI",
+          "voyage": "025E",
+          "measure_unit": "X",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-19",
+          "shipper_name": "ZHUHAI DALI KITCHEN BATH",
+          "container_id": "UACU5350267"
+        },
+        "highlight": {
+          "product_desc": [
+            "UTILITY SINK AND CABINET INCLUDING HANDMADE SINK AND FAUCET AND ACCESSORIES <font color='red'>SHOWER</font> <font color='red'>DOOR</font> AND GLASS PANEL<br/>"
+          ]
+        },
+        "sort": [
+          1637280000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2112",
+        "_id": "AX-LnDo54624_L7I4ej0",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "DELTA FAUCET COMPANY",
+          "notify_party_name": "N/A",
+          "type": "us_2112",
+          "estimate_arrival_date": "2021-11-04",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>",
+          "carrier_sasc_code": "CHSL, CHISLEY MOTOR COACHES",
+          "bill_of_lading": "CHSL374209661NGB",
+          "shipper_address": "LINGANG INDUSTRIAL PARK XIZHOU TOWN ",
+          "quantity_unit": "PKG",
+          "consignee_address": " 1425 WEST MAIN ST ",
+          "marks_numbers": "DELTA FAUCETCOMPANY 1425 W MAIN STREETGREENSBURG,IN 47240-9730,USAPO LOT NUMBER MADE IN CHINAPO 4100099275AMS TERM AMS PERPAIDFINAL DESTINATION GREENSBURG, IN<br/>",
+          "quantity": "240.0",
+          "weight": "10312.0",
+          "vessel_name": "SC MARA",
+          "voyage": "E011",
+          "measure_unit": "---",
+          "unloading_port": "2709, LONG BEACH, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-19",
+          "shipper_name": "NINGBO RUNNER INDUSTRIAL CORPORATIO",
+          "container_id": "CAAU5162620"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>"
+          ]
+        },
+        "sort": [
+          1637280000000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlDlj4624_L7Ix2jc",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+          "loading_port": "58201, HONG KONG",
+          "country": "CN, CHINA",
+          "importer": "BATH AUTHORITY LLC",
+          "notify_party_name": "JOHN A STEER CO",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-05",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font>",
+          "carrier_sasc_code": "COSU, CHINA OCEAN STEAMSHIP LTD",
+          "bill_of_lading": "COSU6311984600",
+          "shipper_address": " L MAXIN INDUSTRIAL ZONE HUANGPU TOWN ZHONGSHAN GD 528400 CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 UNITED STATES ",
+          "marks_numbers": "NO MARKS<br/>DREAMLINE<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>NO MARKS<br/>",
+          "quantity": "3880.0",
+          "weight": "141606.0",
+          "vessel_name": "OOCL BERLIN",
+          "voyage": "038E",
+          "measure_unit": "CM",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "1227 NORTH 4TH STREET PHILADELPHIA PA 19122 UNITED STATES ",
+          "new_date": "2021-11-18",
+          "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER COMPANY",
+          "container_id": "CBHU8857244,BEAU5678277,MAGU5200710,GLDU9823905,TGBU7691194,TGHU9443769,TRHU6567583,CSLU6071581,TGBU4873019,DFSU7452794"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font>",
+            " <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font>",
+            " TRAY <font color='red'>SHOWER</font> BACKWALL<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> TRAY SHOWE"
+          ]
+        },
+        "sort": [
+          1637193600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Ljzce4624_L7ItDTj",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "MARY KASTNER PMK INTERNATIONAL LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "761010",
+          "product_desc": "FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED GLASS",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV142103837835",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "PO#40725 PO#40725 THE SAME THE SAME THE SAME THE SAME THE SAME<br/>",
+          "quantity": "610.0",
+          "weight": "16327.0",
+          "vessel_name": "EVER LIBERAL",
+          "voyage": "0983E",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "1107 SW GRADY WAY BLDG B STE 120 RENTON WA 98057 PH#206-439-1863 FX#206-241-9989 ",
+          "new_date": "2021-11-18",
+          "shipper_name": "N/A",
+          "container_id": "BEAU4373062"
+        },
+        "highlight": {
+          "product_desc": [
+            "FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED GLASS"
+          ]
+        },
+        "sort": [
+          1637193600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Ljzce4624_L7ItDTi",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "MARY KASTNER PMK INTERNATIONAL LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "761010",
+          "product_desc": "GLASS PANELS FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED GLASS PANELS HS",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV142103837789",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "PO#40723 PO#40723 THE SAME THE SAME THE SAME THE SAME THE SAME<br/>",
+          "quantity": "617.0",
+          "weight": "16588.0",
+          "vessel_name": "EVER LIBERAL",
+          "voyage": "0983E",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "1107 SW GRADY WAY BLDG B STE 120 RENTON WA 98057 PH#206-439-1863 FX#206-241-9989 ",
+          "new_date": "2021-11-18",
+          "shipper_name": "N/A",
+          "container_id": "EISU9230004"
+        },
+        "highlight": {
+          "product_desc": [
+            "GLASS PANELS FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED GLASS PANELS HS"
+          ]
+        },
+        "sort": [
+          1637193600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LjzgL4624_L7ItDoH",
+        "_score": null,
+        "_source": {
+          "container_size": "4500*906*800",
+          "loading_port": "57020, NINGPO",
+          "country": "CN, CHINA",
+          "importer": "DOLLARAMA L P",
+          "notify_party_name": "DOLLARAMA L P",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "481940",
+          "product_desc": " ENVELOPES CHROME PLATED 5 HOOK OVER THE <font color='red'>DOOR</font> HANGER CHROME FAUCET STYLE CORNER <font color='red'>SHOWER</font> CADDY WITH 4 SUCTION CUPS (HS 481940 ) @@@E-MAIL CPL_DOLLARAMA@CPR.CA",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV143162080891",
+          "shipper_address": "69 GUANG YUAN ROAD JIANGBEI DISTRICT NINGBO CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "5805 AVENUE ROYALMOUNT MONT-ROYAL QUEBEC H4P 0A1 CANADA 1-514-737 1006 1-514-731-7755",
+          "marks_numbers": "THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME<br/>",
+          "quantity": "2945.0",
+          "weight": "13491.0",
+          "vessel_name": "EVER ENVOY",
+          "voyage": "0341E",
+          "measure_unit": "X",
+          "unloading_port": "3002, TACOMA, WA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "5805 AVENUE ROYALMOUNT MONT-ROYAL QUEBEC H4P 0A1 CANADA 1-514-737 1006 1-514-731-7755",
+          "new_date": "2021-11-18",
+          "shipper_name": "NINGBO HOME DOLLARIMPORT&EXPORTCORP",
+          "container_id": "EISU8034882"
+        },
+        "highlight": {
+          "product_desc": [
+            " ENVELOPES CHROME PLATED 5 HOOK OVER THE <font color='red'>DOOR</font> HANGER CHROME FAUCET STYLE CORNER <font color='red'>SHOWER</font> CADDY WITH 4 SUCTION CUPS (HS 481940 ) @@@E-MAIL CPL_DOLLARAMA@CPR.CA"
+          ]
+        },
+        "sort": [
+          1637193600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlDQa4624_L7Ix07r",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800,4000*900*800,4000*900*800,4000*900*800",
+          "loading_port": "58201, HONG KONG",
+          "country": "CN, CHINA",
+          "importer": "BATH AUTHORITY LLC",
+          "notify_party_name": "JOHN A STEER COMPANY",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-16",
+          "hs_code": "392210",
+          "product_desc": "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> <font color='red'>DOORS</font> 76109000.00 <font color='red'>SHOWER</font>",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV156100646061",
+          "shipper_address": " NO 25 EAST XINGPU ROAD HUANGPU TOWN ZHONGSHAN CITY GUANGDONG PROVINCE ",
+          "quantity_unit": "CTN",
+          "consignee_address": "75 HAWK ROAD WARMINSTER PA 18974 TEL:0012159571411 FAX:12062016139 ",
+          "marks_numbers": "DREAMLINE<br/>DREAMLINE<br/>DREAMLINE<br/>DREAMLINE DREAMLINE THE SAME THE SAME THE SAME THE SAME THE SAME<br/>DREAMLINE<br/>",
+          "quantity": "2472.0",
+          "weight": "77890.0",
+          "vessel_name": "OOCL BERLIN",
+          "voyage": "038E",
+          "measure_unit": "X",
+          "unloading_port": "4601, NEW YORK/NEWARK AREA, NEWARK, NJ",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": " 1227 N 4TH STREET PHILADELPHIA PA 19122 PHONE: 215-922-6610 EMAIL: G CHEUNG@STEER US COM ",
+          "new_date": "2021-11-18",
+          "shipper_name": "ZHONGSHAN DOMUSTAR SHOWER CO LTD",
+          "container_id": "EITU1637300,EITU1968762,EGHU9663310,TEMU8675602,EITU1141331"
+        },
+        "highlight": {
+          "product_desc": [
+            "<font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font> <font color='red'>SHOWER</font> <font color='red'>DOORS</font> 76109000.00 <font color='red'>SHOWER</font>",
+            " TRAY 39221000.00 <font color='red'>SHOWER</font> BACKWALL 39269090.00 THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIALS @FAX 0760-23761739<br/><font color='red'>SHOWER</font> <font color='red'>DOORS</font><br/>"
+          ]
+        },
+        "sort": [
+          1637193600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Ljyoj4624_L7Is_nk",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57069, XIAMEN",
+          "country": "CN, CHINA",
+          "importer": "JMHS SUPPLIES INC",
+          "notify_party_name": "N/A",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-15",
+          "hs_code": "392210",
+          "product_desc": "PANEL,SHELF,<font color='red'>SHOWER</font> <font color='red'>DOORS</font>,<font color='red'>SHOWER</font> SURROUNDS<br/>",
+          "carrier_sasc_code": "TOPO, TOR PETROLEUM CORP",
+          "bill_of_lading": "TOPOXMNNYCLA4237",
+          "shipper_address": " 25B INTERNATIONAL TRADE BUILDINGNO 388 HUBIN SOUTH ROAD XIAMEN CN ",
+          "quantity_unit": "PKG",
+          "consignee_address": "5920 S MIAMI BLVD STE 202 MORRIS VILLE 27560 US ",
+          "marks_numbers": "NO MARKS<br/>",
+          "quantity": "133.0",
+          "weight": "14910.0",
+          "vessel_name": "ZIM ALABAMA",
+          "voyage": "18E",
+          "measure_unit": "---",
+          "unloading_port": "5301, HOUSTON, TX",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "KG",
+          "notify_party_address": "N/A",
+          "new_date": "2021-11-18",
+          "shipper_name": "HONGLEI XIAMEN STONE CO LTD",
+          "container_id": "GAOU6077438"
+        },
+        "highlight": {
+          "product_desc": [
+            "PANEL,SHELF,<font color='red'>SHOWER</font> <font color='red'>DOORS</font>,<font color='red'>SHOWER</font> SURROUNDS<br/>"
+          ]
+        },
+        "sort": [
+          1637193600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-LlBnD4624_L7IxsTa",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800,4000*900*800",
+          "loading_port": "57078, YANTIAN",
+          "country": "CN, CHINA",
+          "importer": "BRUSKIN INTERNATIONAL LLC",
+          "notify_party_name": "BRUSKIN INTERNATIONAL LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-17",
+          "hs_code": "392210",
+          "product_desc": "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIAL.<br/>",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV146102019392",
+          "shipper_address": " RM 207-209 BLDG5 TIAN AN CYBER PARKGUICHENG NANHAI FOSHAN GUANGDONG CHINA ",
+          "quantity_unit": "CTN",
+          "consignee_address": "DBA PROJECTSTONE 7658 HASKELL AVE VAN NUYS CA USA 91406 ",
+          "marks_numbers": "NO MARKS<br/>THE SAME THE SAME<br/>",
+          "quantity": "470.0",
+          "weight": "32780.0",
+          "vessel_name": "APL RAFFLES",
+          "voyage": "0TX9X",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "DBA PROJECTSTONE 7658 HASKELL AVE VAN NUYS CA USA 91406 ",
+          "new_date": "2021-11-18",
+          "shipper_name": "GUANGDONG NANHAI LIGHT INDUSTRIAL PRODUCTSIMPORT&EXPORTCO LTD",
+          "container_id": "DRYU9426936,EGHU8332180"
+        },
+        "highlight": {
+          "product_desc": [
+            "GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font><br/>GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> GLASS <font color='red'>SHOWER</font> <font color='red'>DOOR</font> THIS SHIPMENT CONTAINS NO SOLID WOODEN PACKING MATERIAL.<br/>"
+          ]
+        },
+        "sort": [
+          1637193600000
+        ]
+      },
+      {
+        "_index": "imiker_us",
+        "_type": "us_2111",
+        "_id": "AX-Ljzce4624_L7ItDTg",
+        "_score": null,
+        "_source": {
+          "container_size": "4000*900*800",
+          "loading_port": "57035, SHANGHAI",
+          "country": "CN, CHINA",
+          "importer": "N/A",
+          "notify_party_name": "MARY KASTNER PMK INTERNATIONAL LLC",
+          "type": "us_2111",
+          "estimate_arrival_date": "2021-11-18",
+          "hs_code": "392490",
+          "product_desc": "FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED GLASS",
+          "carrier_sasc_code": "EGLV, EAGLE VAN LINES INC",
+          "bill_of_lading": "EGLV142103837797",
+          "shipper_address": "N/A",
+          "quantity_unit": "CTN",
+          "consignee_address": "N/A",
+          "marks_numbers": "PO#40719 PO#40719 THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME THE SAME<br/>",
+          "quantity": "1186.0",
+          "weight": "14637.0",
+          "vessel_name": "EVER LIBERAL",
+          "voyage": "0983E",
+          "measure_unit": "X",
+          "unloading_port": "2704, LOS ANGELES, CA",
+          "mode_of_transportation": "11",
+          "measure": "0.0",
+          "weight_unit": "K",
+          "notify_party_address": "1107 SW GRADY WAY BLDG B STE 120 RENTON WA 98057 PH#206-439-1863 FX#206-241-9989 ",
+          "new_date": "2021-11-18",
+          "shipper_name": "N/A",
+          "container_id": "TGBU4440826"
+        },
+        "highlight": {
+          "product_desc": [
+            "FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> FULLY ASSEMBLED RV <font color='red'>SHOWER</font> <font color='red'>DOOR</font> SYSTEMS COMPLE ALUMINUM FRAMED GLASS",
+            " PANELS HS 7610100030 <font color='red'>SHOWER</font> SYSTEM CONSISTING OF EXTRUDED PVC COMPONENTS;VARIOUS PLASTIC INJECTED"
+          ]
+        },
+        "sort": [
+          1637193600000
+        ]
+      }
+    ]
+  }

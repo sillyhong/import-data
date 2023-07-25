@@ -1,4 +1,7 @@
-[
+{
+  "total": 234,
+  "max_score": null,
+  "hits": [
     {
       "_index": "imiker_us",
       "_type": "us_2112",
@@ -440,4 +443,6 @@
         1636848000000
       ]
     }
-  ]
+  ],
+  "url": "countrys=imiker_us&from_time=2020-12-01&to_time=2023-01-31&product_desc=shower+hinge&importer=&shipper_name=&country="
+}
