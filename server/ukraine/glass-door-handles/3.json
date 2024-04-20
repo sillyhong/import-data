@@ -1,4 +1,7 @@
-[
+{
+  "total": 161,
+  "max_score": null,
+  "hits": [
     {
       "_index": "imiker_ua",
       "_type": "ua_2010",
@@ -428,3 +431,7 @@
       ]
     }
   ]
+
+,
+  "url": "countrys=imiker_ua&from_time=2017-01-01&to_time=2022-01-01&product_desc=glass+door+handles&hs_code=&importer=&shipper_name="
+}
