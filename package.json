@@ -19,7 +19,7 @@
   "scripts": {
     "fetchImport": "node importgenius/fetchImporter.js",
     "fetchShipments": "node importgenius/fetchShipments.js",
-    "start": "react-scripts start",
+    "start": "cross-env PORT=8080 react-scripts start",
     "start2": "cross-env PORT=8080 react-scripts start & npm run server",
     "build": "react-scripts build",
     "server": "nodemon server/index",
