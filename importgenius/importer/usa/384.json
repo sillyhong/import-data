@@ -1,0 +1,5552 @@
+[
+  {
+    "shippers": {
+      "items": [
+        {
+          "overAllShipmentCount": 47,
+          "country": "brazil",
+          "lastAddress": {
+            "shortAddress": "Brazil",
+            "fullAddress": "AV. DR. JOAO B. DE SOUZA SOARES, 40 SAO JOSE DOS CAMPOS SP 12236-660 BR"
+          },
+          "iso": "br",
+          "name": "SONACA BRASIL LTDA",
+          "mostRecentDate": 1713312000,
+          "grossWeightInLbs": 1491,
+          "containersCount": 3,
+          "landingPageUrl": "suppliers/sonaca-brasil-ltda",
+          "grossWeightInKgs": 678,
+          "shipmentCount": 3
+        }
+      ],
+      "totalShipments": 3
+    },
+    "totalShipments": 3,
+    "contactInfo": "SAINT CHARLES, MISSOURI 63301-4352 MISSOURI CITY MO 64072 US",
+    "company": "LMI AEROSPACE CORPORATE",
+    "mostRecentDate": 1710115200,
+    "url": "importers/lmi-aerospace-corporate",
+    "shipments": [
+      {
+        "Shipper": {
+          "link": "suppliers/sonaca-brasil-ltda",
+          "name": "SONACA BRASIL LTDA"
+        },
+        "GrossWeightLbs": 642,
+        "ProductDescription": [
+          "07 WOODEN BOX CONTAINING AILERON SUB ASSY, ASSY WING TIP LIGHT, FLAP ASSEMBL Y LH, INVOICE: BR01-0280-24, BR01-0281-24, BR01-0282-24,, BR01-0283-24, BR01-0284-24, BR01-0285-24, BR01-0286-24 NCM: 8807.30.0030 DUE: 24BR000386108-0 RUC: 4BR04059223200 000000000000000249304 CHAVE DE ACESSO: 24RFF115324493WOODEN PACKAGE: TREATED / CERTIFIED"
+        ],
+        "ArrivalDate": 1713312000,
+        "CountryOfOrigin": "Brazil",
+        "QuantityUnit": "BOX",
+        "BillOfLading": "PUSJSSZCHSO00163",
+        "Quantity": 7,
+        "Consignee": {
+          "name": "LMI AEROSPACE CORPORATE"
+        },
+        "GrossWeightKgs": 292,
+        "EntryId": 263900736
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/sonaca-brasil-ltda",
+          "name": "SONACA BRASIL LTDA"
+        },
+        "GrossWeightLbs": 81,
+        "ProductDescription": [
+          "03 WOODEN BOX CONTAINING AILERON SUB ASSY, ASSY, WING TIP LIGHT, INVOICE: BR01-0243-24, BR01-0244-24,, BR01-0245-24 NCM: 8807.30.0030 DUE: 24BR000340100-4 RUC: 4BR04059223200 000000000000000218892 CHAVE DE ACESSO: 24RHA114864419 WOODEN PACKAGE:TREATED / CERTIFIED"
+        ],
+        "ArrivalDate": 1712534400,
+        "CountryOfOrigin": "Brazil",
+        "QuantityUnit": "BOX",
+        "BillOfLading": "PUSJSSZCHSO00151",
+        "Quantity": 3,
+        "Consignee": {
+          "name": "LMI AEROSPACE CORPORATE"
+        },
+        "GrossWeightKgs": 37,
+        "EntryId": 263393617
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/sonaca-brasil-ltda",
+          "name": "SONACA BRASIL LTDA"
+        },
+        "GrossWeightLbs": 768,
+        "ProductDescription": [
+          "08 WOODEN BOX CONTAINING FLAP ASSEMBLY LH, FLAP ASSEMBLY RH, AILERON SUB ASSY, ASSY, WING TIP LIGHT, PYLON ASSEMBLY LH,, INVOICE: BR01-0092-24, BR01-0093, BR01-0094-24, BR01-0095-24, BR01-0096-24, BR01-0097-24, BR01-0098-24, 24 E BR01-0099-24. NCM: 8807.30.0030 DUE: 24BR000184363-8 RUC: 4BR04059223200000000000000000118984 CHAVE DE ACESSO: 24RQF113307044 WOODEN PACKAGE: TREATED / CERTIFIED"
+        ],
+        "ArrivalDate": 1710115200,
+        "CountryOfOrigin": "Brazil",
+        "QuantityUnit": "BOX",
+        "BillOfLading": "PUSJSSZCHSO00075",
+        "Quantity": 8,
+        "Consignee": {
+          "name": "LMI AEROSPACE CORPORATE"
+        },
+        "GrossWeightKgs": 349,
+        "EntryId": 261941796
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "265 NW 24TH STREET FL 33127 MIAMI MIAMI, FL 33127 US",
+    "shippers": {
+      "items": [
+        {
+          "mostRecentDate": 1710115200,
+          "name": "INFRICO S.L.",
+          "lastAddress": {
+            "shortAddress": "Spain",
+            "fullAddress": "CTRA. DE AGUILAR A A-318 POR MORILE 14900 LUCENA CORDOBA CORDOBA ES"
+          },
+          "shipmentCount": 1,
+          "grossWeightInLbs": 1430,
+          "containersCount": 1,
+          "overAllShipmentCount": 306,
+          "iso": "es",
+          "country": "spain",
+          "landingPageUrl": "suppliers/infrico-s-l",
+          "grossWeightInKgs": 650
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "UDON WYNWOD",
+    "mostRecentDate": 1710115200,
+    "url": "importers/udon-wynwod",
+    "shipments": [
+      {
+        "Quantity": 3,
+        "ProductDescription": [
+          "FREEZERS HS CODE 841850"
+        ],
+        "EntryId": 261944442,
+        "Shipper": {
+          "name": "INFRICO S.L.",
+          "link": "suppliers/infrico-s-l"
+        },
+        "GrossWeightKgs": 650,
+        "Consignee": {
+          "name": "UDON WYNWOD"
+        },
+        "CountryOfOrigin": "Spain",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SHPT012024013135",
+        "ArrivalDate": 1710115200,
+        "GrossWeightLbs": 1430
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "4254 FABER PLACE DR., SUITE 102 N. CHARLESTON, SC 29405 (USA) FDA N: 17729500772 18432763201",
+    "shippers": {
+      "items": [
+        {
+          "mostRecentDate": 1710115200,
+          "name": "GESTIONES Y TRAMITACIONES CUMOE, S.",
+          "lastAddress": {
+            "shortAddress": "Spain",
+            "fullAddress": "C/ ISAAC PERAL N 19 - 13.610 CAMPO C.I.F.:B-86341708 / C.A.E.:ES00013V 08C / FOOD FACILITY REG (IN FDA):11 34926589147"
+          },
+          "shipmentCount": 1,
+          "grossWeightInLbs": 19071,
+          "containersCount": 1,
+          "overAllShipmentCount": 1,
+          "iso": "es",
+          "country": "spain",
+          "landingPageUrl": "suppliers/gestiones-y-tramitaciones-cumoe-s",
+          "grossWeightInKgs": 8669
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "LOCAL CHOICE, INC.",
+    "mostRecentDate": 1710115200,
+    "url": "importers/local-choice-inc",
+    "shipments": [
+      {
+        "Quantity": 947,
+        "ProductDescription": [
+          "RED WINE BOTTLES 'BRHAM BRAND' 2019 - VINO DE LA TIERRA DE C ASTILLA (750 ML.- BATCH N:82 - 14 %VOL. ALC)- 7,88 PALLETS (120CASES/6BOTTLESXPALLET)"
+        ],
+        "EntryId": 261944681,
+        "Shipper": {
+          "name": "GESTIONES Y TRAMITACIONES CUMOE, S.",
+          "link": "suppliers/gestiones-y-tramitaciones-cumoe-s"
+        },
+        "GrossWeightKgs": 8669,
+        "Consignee": {
+          "name": "LOCAL CHOICE, INC."
+        },
+        "CountryOfOrigin": "Spain",
+        "QuantityUnit": "CAS",
+        "BillOfLading": "MAEU235984739",
+        "ArrivalDate": 1710115200,
+        "GrossWeightLbs": 19071
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "20492 CRESCENT BAY DR SUITE 106LAKE FOREST CA 92630 USA",
+    "shippers": {
+      "items": [
+        {
+          "mostRecentDate": 1710115200,
+          "name": "DAEHAN MEDICAL SYSTEMS CO., LTD",
+          "lastAddress": {
+            "shortAddress": "South Korea",
+            "fullAddress": "250 OKGUCHEONDONG ROSIHEUNG SI GYEO NGGI DOKOREA"
+          },
+          "shipmentCount": 1,
+          "grossWeightInLbs": 2341,
+          "containersCount": 1,
+          "overAllShipmentCount": 1588,
+          "iso": "kr",
+          "country": "south korea",
+          "landingPageUrl": "suppliers/daehan-medical-systems-co-ltd",
+          "grossWeightInKgs": 1064
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "R ABD D MEDICAL PRODUCT INC",
+    "mostRecentDate": 1710115200,
+    "url": "importers/r-abd-d-medical-product-inc",
+    "shipments": [
+      {
+        "Quantity": 2,
+        "ProductDescription": [
+          "CABLE 8544.42"
+        ],
+        "EntryId": 261946997,
+        "Shipper": {
+          "name": "DAEHAN MEDICAL SYSTEMS CO., LTD",
+          "link": "suppliers/daehan-medical-systems-co-ltd"
+        },
+        "GrossWeightKgs": 1064,
+        "Consignee": {
+          "name": "R ABD D MEDICAL PRODUCT INC"
+        },
+        "CountryOfOrigin": "South Korea",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "FAACFBLGB240304",
+        "ArrivalDate": 1710115200,
+        "GrossWeightLbs": 2341
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "6950 BEACH BLVD E206 BUENA PARK CA 90621 USA",
+    "shippers": {
+      "items": [
+        {
+          "mostRecentDate": 1710115200,
+          "name": "PARK DONG JIN OCT 20TH 1964",
+          "lastAddress": {
+            "shortAddress": "South Korea",
+            "fullAddress": "2023HO 102DONG ONEUILOTTECASTLE 70 BANGSONG-GIL CHUNCHEON-SI GAN GWON-DO KOREA"
+          },
+          "shipmentCount": 1,
+          "grossWeightInLbs": 1456,
+          "containersCount": 1,
+          "overAllShipmentCount": 1,
+          "iso": "kr",
+          "country": "south korea",
+          "landingPageUrl": "suppliers/park-dong-jin-oct-20th-1964",
+          "grossWeightInKgs": 662
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "KARTUS INC.",
+    "mostRecentDate": 1710115200,
+    "url": "importers/kartus-inc",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "ProductDescription": [
+          "PAINTINGS"
+        ],
+        "EntryId": 261947911,
+        "Shipper": {
+          "name": "PARK DONG JIN OCT 20TH 1964",
+          "link": "suppliers/park-dong-jin-oct-20th-1964"
+        },
+        "GrossWeightKgs": 662,
+        "Consignee": {
+          "name": "KARTUS INC."
+        },
+        "CountryOfOrigin": "South Korea",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "KLUSMOAXLAX39719",
+        "ArrivalDate": 1710115200,
+        "GrossWeightLbs": 1456
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "5699 TX-121 THE COLONY TX 75056 US A",
+    "shippers": {
+      "items": [
+        {
+          "mostRecentDate": 1710115200,
+          "name": "C AND WALL",
+          "lastAddress": {
+            "shortAddress": "South Korea",
+            "fullAddress": "282 GEOMSAN-RO PAJU-SI GYEONGGI- DO REPUBLIC OF KOREA"
+          },
+          "shipmentCount": 1,
+          "grossWeightInLbs": 2508,
+          "containersCount": 1,
+          "overAllShipmentCount": 1,
+          "iso": "kr",
+          "country": "south korea",
+          "landingPageUrl": "suppliers/c-and-wall",
+          "grossWeightInKgs": 1140
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "JDX BLINDS",
+    "mostRecentDate": 1710115200,
+    "url": "importers/jdx-blinds",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "ProductDescription": [
+          "PLASTIC MONOFILAMENT"
+        ],
+        "EntryId": 261950111,
+        "Shipper": {
+          "name": "C AND WALL",
+          "link": "suppliers/c-and-wall"
+        },
+        "GrossWeightKgs": 1140,
+        "Consignee": {
+          "name": "JDX BLINDS"
+        },
+        "CountryOfOrigin": "South Korea",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "GWLYULAX2402069",
+        "ArrivalDate": 1710115200,
+        "GrossWeightLbs": 2508
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "LFT1 3550 NE EVANGELINE TRWY 70520 5976 CARENCRO LA UNITED STATES",
+    "shippers": {
+      "items": [
+        {
+          "mostRecentDate": 1710115200,
+          "name": "THE NANUM AMAZON",
+          "lastAddress": {
+            "shortAddress": "South Korea",
+            "fullAddress": "6 ORI RO 651BEON GIL GWANGMYEONG SI GYEONGGI DO KOREA 14303"
+          },
+          "shipmentCount": 1,
+          "grossWeightInLbs": 1742,
+          "containersCount": 1,
+          "overAllShipmentCount": 1,
+          "iso": "kr",
+          "country": "south korea",
+          "landingPageUrl": "suppliers/the-nanum-amazon",
+          "grossWeightInKgs": 792
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "THE NANUM AMAZON",
+    "mostRecentDate": 1710115200,
+    "url": "importers/the-nanum-amazon",
+    "shipments": [
+      {
+        "Quantity": 44,
+        "ProductDescription": [
+          "BADMINTON RACKETS"
+        ],
+        "EntryId": 261952918,
+        "Shipper": {
+          "name": "THE NANUM AMAZON",
+          "link": "suppliers/the-nanum-amazon"
+        },
+        "GrossWeightKgs": 792,
+        "Consignee": {
+          "name": "THE NANUM AMAZON"
+        },
+        "CountryOfOrigin": "South Korea",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "GGBOSSLA3955",
+        "ArrivalDate": 1710115200,
+        "GrossWeightLbs": 1742
+      }
+    ]
+  },
+  {
+    "totalShipments": 2,
+    "contactInfo": "ULTIUM CELLS LLC 10242 ROUTE 43, STREETSBORO OH 44241 US",
+    "shippers": {
+      "items": [
+        {
+          "mostRecentDate": 1710115200,
+          "name": "HOIMYUNG CORP.",
+          "lastAddress": {
+            "shortAddress": "South Korea",
+            "fullAddress": ". 37, 7RO, BAEKSEOKGONGDAN SEOBOOK-GU CHEONAN 02331 KR"
+          },
+          "shipmentCount": 2,
+          "grossWeightInLbs": 84268,
+          "containersCount": 2,
+          "overAllShipmentCount": 95,
+          "iso": "kr",
+          "country": "south korea",
+          "landingPageUrl": "suppliers/hoimyung-corp",
+          "grossWeightInKgs": 38304
+        }
+      ],
+      "totalShipments": 2
+    },
+    "company": "GENERAL MOTORS LLC BEHALF OF",
+    "mostRecentDate": 1710115200,
+    "url": "importers/general-motors-llc-behalf-of",
+    "shipments": [
+      {
+        "Quantity": 18,
+        "ProductDescription": [
+          "BINDER NBR(SOLUTION) HPD-01 CIPL# HM24021403"
+        ],
+        "EntryId": 261957820,
+        "Shipper": {
+          "name": "HOIMYUNG CORP.",
+          "link": "suppliers/hoimyung-corp"
+        },
+        "GrossWeightKgs": 19152,
+        "Consignee": {
+          "name": "GENERAL MOTORS LLC BEHALF OF"
+        },
+        "CountryOfOrigin": "South Korea",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "ONEYSELE26421A01",
+        "ArrivalDate": 1710115200,
+        "GrossWeightLbs": 42134
+      },
+      {
+        "Quantity": 18,
+        "ProductDescription": [
+          "BINDER NBR(SOLUTION) HPD-01 CIPL# HM24021404"
+        ],
+        "EntryId": 261957819,
+        "Shipper": {
+          "name": "HOIMYUNG CORP.",
+          "link": "suppliers/hoimyung-corp"
+        },
+        "GrossWeightKgs": 19152,
+        "Consignee": {
+          "name": "GENERAL MOTORS LLC BEHALF OF"
+        },
+        "CountryOfOrigin": "South Korea",
+        "QuantityUnit": "CTN",
+        "BillOfLading": "ONEYSELE26421A02",
+        "ArrivalDate": 1710115200,
+        "GrossWeightLbs": 42134
+      }
+    ]
+  },
+  {
+    "totalShipments": 7,
+    "contactInfo": ". 1000 CHESTERBROOK BLVD. SUITE 300 B ERWYN PA 19312 US",
+    "company": "TRINSEO LLC C/O TRINSEO LLC",
+    "shippers": {
+      "totalShipments": 7,
+      "items": [
+        {
+          "country": "germany",
+          "mostRecentDate": 1713139200,
+          "iso": "de",
+          "grossWeightInLbs": 540025,
+          "landingPageUrl": "suppliers/trinseo-europe-gmbh",
+          "shipmentCount": 6,
+          "containersCount": 13,
+          "overAllShipmentCount": 2218,
+          "grossWeightInKgs": 245466,
+          "name": "TRINSEO EUROPE GMBH",
+          "lastAddress": {
+            "shortAddress": "Germany",
+            "fullAddress": "TRINSEO DEUTSCHLAND ANLAGEN GWATTSTRASSE 15 PFAFFIKON 8808 CH"
+          }
+        },
+        {
+          "country": "germany",
+          "mostRecentDate": 1710115200,
+          "iso": "de",
+          "grossWeightInLbs": 83081,
+          "landingPageUrl": "suppliers/trinseo-europe-gmbh-c-o-trinseo",
+          "shipmentCount": 1,
+          "containersCount": 2,
+          "overAllShipmentCount": 12,
+          "grossWeightInKgs": 37764,
+          "name": "TRINSEO EUROPE GMBH, C/O TRINSEO",
+          "lastAddress": {
+            "shortAddress": "Germany",
+            "fullAddress": "DEUTSCHLAND ANLAGEN GWATTSTRASSE 15 PFAEFFIKON 8808 CH"
+          }
+        }
+      ]
+    },
+    "mostRecentDate": 1710115200,
+    "url": "importers/trinseo-llc-c-o-trinseo-llc",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "TRINSEO LLC C/O TRINSEO LLC"
+        },
+        "BillOfLading": "ONEYRTME09534400",
+        "CountryOfOrigin": "Germany",
+        "GrossWeightLbs": 83081,
+        "EntryId": 263774005,
+        "Quantity": 36,
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 37764,
+        "Shipper": {
+          "link": "suppliers/trinseo-europe-gmbh",
+          "name": "TRINSEO EUROPE GMBH"
+        },
+        "ProductDescription": [
+          "LOADED INTO 1 40' CONTAINER(S) F 200-14 NATU",
+          "LOADED INTO 1 40' CONTAINER(S) F 200-14 NATU"
+        ],
+        "QuantityUnit": "BAG"
+      },
+      {
+        "Consignee": {
+          "name": "TRINSEO LLC C/O TRINSEO LLC"
+        },
+        "BillOfLading": "ONEYRTME05730500",
+        "CountryOfOrigin": "Germany",
+        "GrossWeightLbs": 124621,
+        "EntryId": 263774001,
+        "Quantity": 54,
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 56646,
+        "Shipper": {
+          "link": "suppliers/trinseo-europe-gmbh",
+          "name": "TRINSEO EUROPE GMBH"
+        },
+        "ProductDescription": [
+          "LOADED INTO 1 40' CONTAINER(S) F 200-14 NATU",
+          "LOADED INTO 1 40' CONTAINER(S) F 200-14 NATU",
+          "LOADED INTO 1 40' CONTAINER(S) F 200-14 NATU"
+        ],
+        "QuantityUnit": "BAG"
+      },
+      {
+        "Consignee": {
+          "name": "TRINSEO LLC C/O TRINSEO LLC"
+        },
+        "BillOfLading": "ONEYRTME10138300",
+        "CountryOfOrigin": "Germany",
+        "GrossWeightLbs": 83081,
+        "EntryId": 263774000,
+        "Quantity": 36,
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 37764,
+        "Shipper": {
+          "link": "suppliers/trinseo-europe-gmbh",
+          "name": "TRINSEO EUROPE GMBH"
+        },
+        "ProductDescription": [
+          "LOADED INTO 1 40' CONTAINER(S) F 200-03 NATUR",
+          "LOADED INTO 1 40' CONTAINER(S) F 200-03 NATUR"
+        ],
+        "QuantityUnit": "BAG"
+      },
+      {
+        "Consignee": {
+          "name": "TRINSEO LLC C/O TRINSEO LLC"
+        },
+        "BillOfLading": "ONEYRTME07900600",
+        "CountryOfOrigin": "Germany",
+        "GrossWeightLbs": 41540,
+        "EntryId": 263482622,
+        "Quantity": 18,
+        "ArrivalDate": 1712620800,
+        "GrossWeightKgs": 18882,
+        "Shipper": {
+          "link": "suppliers/trinseo-europe-gmbh",
+          "name": "TRINSEO EUROPE GMBH"
+        },
+        "ProductDescription": [
+          "LOADED INTO 1 40' CONTAINER(S) F 200-03 NATUR"
+        ],
+        "QuantityUnit": "BAG"
+      },
+      {
+        "Consignee": {
+          "name": "TRINSEO LLC C/O TRINSEO LLC"
+        },
+        "BillOfLading": "ONEYRTME06536300",
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightLbs": 41540,
+        "EntryId": 263477797,
+        "Quantity": 18,
+        "ArrivalDate": 1712620800,
+        "GrossWeightKgs": 18882,
+        "Shipper": {
+          "link": "suppliers/trinseo-europe-gmbh",
+          "name": "TRINSEO EUROPE GMBH"
+        },
+        "ProductDescription": [
+          "LOADED INTO 1 40' CONTAINER(S) SAN 110 NATURA"
+        ],
+        "QuantityUnit": "BAG"
+      },
+      {
+        "Consignee": {
+          "name": "TRINSEO LLC C/O TRINSEO LLC"
+        },
+        "BillOfLading": "ONEYRTME04619300",
+        "CountryOfOrigin": "Germany",
+        "GrossWeightLbs": 166162,
+        "EntryId": 262713727,
+        "Quantity": 72,
+        "ArrivalDate": 1711411200,
+        "GrossWeightKgs": 75528,
+        "Shipper": {
+          "link": "suppliers/trinseo-europe-gmbh",
+          "name": "TRINSEO EUROPE GMBH"
+        },
+        "ProductDescription": [
+          "LOADED INTO 1 40' CONTAINER(S) F 200-14 NATU",
+          "LOADED INTO 1 40' CONTAINER(S) F 200-14 NATU",
+          "LOADED INTO 1 40' CONTAINER(S) F 200-14 NATU",
+          "LOADED INTO 1 40' CONTAINER(S) F 200-14 NATU"
+        ],
+        "QuantityUnit": "BAG"
+      },
+      {
+        "Consignee": {
+          "name": "TRINSEO LLC C/O TRINSEO LLC"
+        },
+        "BillOfLading": "ONEYRTME04032600",
+        "CountryOfOrigin": "Germany",
+        "GrossWeightLbs": 83081,
+        "EntryId": 261959048,
+        "Quantity": 36,
+        "ArrivalDate": 1710115200,
+        "GrossWeightKgs": 37764,
+        "Shipper": {
+          "link": "suppliers/trinseo-europe-gmbh-c-o-trinseo",
+          "name": "TRINSEO EUROPE GMBH, C/O TRINSEO"
+        },
+        "ProductDescription": [
+          "LOADED INTO 1 40' CONTAINER(S) F 200-03 NATU",
+          "LOADED INTO 1 40' CONTAINER(S) F 200-03 NATU"
+        ],
+        "QuantityUnit": "BAG"
+      }
+    ]
+  },
+  {
+    "company": "TSEA USA LLC",
+    "shippers": {
+      "items": [
+        {
+          "lastAddress": {
+            "shortAddress": "Brazil",
+            "fullAddress": "DE ENERGIA DAS AMERICAS S.A RODOVIA BR-381 NO.3045 BAIRRO AMOZONAS CEP 32240-090 TE /"
+          },
+          "overAllShipmentCount": 3,
+          "landingPageUrl": "suppliers/transformadores-e-servicos",
+          "mostRecentDate": 1710806400,
+          "shipmentCount": 2,
+          "grossWeightInLbs": 137306,
+          "containersCount": 4,
+          "country": "brazil",
+          "grossWeightInKgs": 62412,
+          "iso": "br",
+          "name": "TRANSFORMADORES E SERVICOS"
+        }
+      ],
+      "totalShipments": 2
+    },
+    "totalShipments": 2,
+    "contactInfo": "2700 POST OAK BLVD SUITE 2500 HOUSTON, TX 77056",
+    "mostRecentDate": 1710115200,
+    "url": "importers/tsea-usa-llc",
+    "shipments": [
+      {
+        "ArrivalDate": 1710806400,
+        "Consignee": {
+          "name": "TSEA USA LLC"
+        },
+        "GrossWeightLbs": 68653,
+        "BillOfLading": "LUFR806200",
+        "Shipper": {
+          "link": "suppliers/transformadores-e-servicos",
+          "name": "TRANSFORMADORES E SERVICOS"
+        },
+        "GrossWeightKgs": 31206,
+        "QuantityUnit": "BOX",
+        "CountryOfOrigin": "Brazil",
+        "EntryId": 262367184,
+        "ProductDescription": [
+          "MACHINERY, VOLTAGE REGULATOR",
+          "MACHINERY, VOLTAGE REGULATOR"
+        ],
+        "Quantity": 14
+      },
+      {
+        "ArrivalDate": 1710115200,
+        "Consignee": {
+          "name": "TSEA USA LLC"
+        },
+        "GrossWeightLbs": 68653,
+        "BillOfLading": "LUFR802170",
+        "Shipper": {
+          "link": "suppliers/transformadores-e-servicos",
+          "name": "TRANSFORMADORES E SERVICOS"
+        },
+        "GrossWeightKgs": 31206,
+        "QuantityUnit": "BOX",
+        "CountryOfOrigin": "Brazil",
+        "EntryId": 261959437,
+        "ProductDescription": [
+          "MACHINERY, VOLTAGE REGULATOR",
+          "MACHINERY, VOLTAGE REGULATOR"
+        ],
+        "Quantity": 14
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "de",
+          "name": "JOSEPH DRESSELHAUS",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "SPITALWALDSTR 19 SCHWABACH 91126 DE",
+            "shortAddress": "Germany"
+          },
+          "landingPageUrl": "suppliers/joseph-dresselhaus",
+          "grossWeightInLbs": 1199,
+          "overAllShipmentCount": 7,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 545,
+          "country": "germany"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "52 MALONE PARK CV JACKSON, TN 38305 US",
+    "company": "WUERTHINDUSTRIAL US INC JACKSON",
+    "mostRecentDate": 1710115200,
+    "url": "importers/wuerthindustrial-us-inc-jackson",
+    "shipments": [
+      {
+        "QuantityUnit": "PKG",
+        "EntryId": 261973951,
+        "Consignee": {
+          "name": "WUERTHINDUSTRIAL US INC JACKSON"
+        },
+        "GrossWeightKgs": 545,
+        "GrossWeightLbs": 1199,
+        "CountryOfOrigin": "Germany",
+        "ProductDescription": [
+          "SLAC ON 2 PALLETS CYLINDER HEAD SCREW, JD BLIND RIVET STEEL STANDARD HS CODE 830820 HS CODE 731815 SCAC CODE SSLL AMS REF CHS241532"
+        ],
+        "Shipper": {
+          "link": "suppliers/joseph-dresselhaus",
+          "name": "JOSEPH DRESSELHAUS"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 2,
+        "BillOfLading": "SSLLCHS241532"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 7,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 3,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "8 WARREN DR CHALFONT PA 18914 3413",
+    "company": "PRIYANKA SHIVTHARE",
+    "mostRecentDate": 1710115200,
+    "url": "importers/priyanka-shivthare",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978621,
+        "Consignee": {
+          "name": "PRIYANKA SHIVTHARE"
+        },
+        "GrossWeightKgs": 3,
+        "GrossWeightLbs": 7,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990807194"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 9,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 4,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "14 HORATIO ST NEW YORK NY 10014",
+    "company": "FAIZ VAHIDY",
+    "mostRecentDate": 1710115200,
+    "url": "importers/faiz-vahidy",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978630,
+        "Consignee": {
+          "name": "FAIZ VAHIDY"
+        },
+        "GrossWeightKgs": 4,
+        "GrossWeightLbs": 9,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990807225"
+      }
+    ]
+  },
+  {
+    "contactInfo": "10433 MAYFIELD AVE OAK LAWN IL 60453 US",
+    "totalShipments": 2,
+    "shippers": {
+      "items": [
+        {
+          "shipmentCount": 1,
+          "containersCount": 1,
+          "mostRecentDate": 1713657600,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "country": "china",
+          "grossWeightInLbs": 22,
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "grossWeightInKgs": 10,
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "overAllShipmentCount": 222344
+        },
+        {
+          "shipmentCount": 1,
+          "containersCount": 1,
+          "mostRecentDate": 1710115200,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "country": "china",
+          "grossWeightInLbs": 20,
+          "iso": "cn",
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInKgs": 9,
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "overAllShipmentCount": 94
+        }
+      ],
+      "totalShipments": 2
+    },
+    "company": "WALAA KHRAIS",
+    "mostRecentDate": 1710115200,
+    "url": "importers/walaa-khrais",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "WALAA KHRAIS"
+        },
+        "GrossWeightKgs": 10,
+        "Quantity": 1,
+        "CountryOfOrigin": "China",
+        "BillOfLading": "TZWH62403536175",
+        "ProductDescription": [
+          "HANDCART"
+        ],
+        "ArrivalDate": 1713744000,
+        "EntryId": 264207843,
+        "Shipper": {
+          "link": "suppliers/hainan-golden-shell-co-ltd",
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        "GrossWeightLbs": 22
+      },
+      {
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "WALAA KHRAIS"
+        },
+        "GrossWeightKgs": 10,
+        "Quantity": 1,
+        "CountryOfOrigin": "China",
+        "BillOfLading": "TZWH62403516708",
+        "ProductDescription": [
+          "CARRIAGES CART"
+        ],
+        "ArrivalDate": 1713657600,
+        "EntryId": 264126988,
+        "Shipper": {
+          "link": "suppliers/hainan-golden-shell-co-ltd",
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        "GrossWeightLbs": 22
+      },
+      {
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "WALAA KHRAIS"
+        },
+        "GrossWeightKgs": 9,
+        "Quantity": 1,
+        "CountryOfOrigin": "China",
+        "BillOfLading": "IBCV990807234",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "ArrivalDate": 1710115200,
+        "EntryId": 261978633,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "GrossWeightLbs": 20
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 44,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 20,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "23 COURTNEY CIRCLE BRYN MAWR PA 19010",
+    "company": "FRIEDERIKE HERBST",
+    "mostRecentDate": 1710115200,
+    "url": "importers/friederike-herbst",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978638,
+        "Consignee": {
+          "name": "FRIEDERIKE HERBST"
+        },
+        "GrossWeightKgs": 20,
+        "GrossWeightLbs": 44,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "OFFICE DESK"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990807470"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 4,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 2,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "3255 ALLEN WALKER RD GROVE HILL AL 36451 7255",
+    "company": "GABBY KEARLEY",
+    "mostRecentDate": 1710115200,
+    "url": "importers/gabby-kearley",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978679,
+        "Consignee": {
+          "name": "GABBY KEARLEY"
+        },
+        "GrossWeightKgs": 2,
+        "GrossWeightLbs": 4,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE LAMPS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990807674"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 4,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 2,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "1856 S BROADWAY AVE SPRINGFIELD MO 65807 2472",
+    "company": "SAVANNAH GAUNT",
+    "mostRecentDate": 1710115200,
+    "url": "importers/savannah-gaunt",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978680,
+        "Consignee": {
+          "name": "SAVANNAH GAUNT"
+        },
+        "GrossWeightKgs": 2,
+        "GrossWeightLbs": 4,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE LAMPS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990807676"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 46,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 21,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "501 SURF AVENUE APT 14F BROOKLYN NY 11224",
+    "company": "SVYATOSLAV TEMER",
+    "mostRecentDate": 1710115200,
+    "url": "importers/svyatoslav-temer",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978728,
+        "Consignee": {
+          "name": "SVYATOSLAV TEMER"
+        },
+        "GrossWeightKgs": 21,
+        "GrossWeightLbs": 46,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808056"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 35,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 16,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "101 BEDFORD AVE BROOKLYN NY 11211",
+    "company": "MICHAEL TYNAN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/michael-tynan",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978729,
+        "Consignee": {
+          "name": "MICHAEL TYNAN"
+        },
+        "GrossWeightKgs": 16,
+        "GrossWeightLbs": 35,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808057"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 26,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 12,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "7725 GATEWAY UNIT 1437 IRVINE CA 92618",
+    "company": "RAMY HASHW",
+    "mostRecentDate": 1710115200,
+    "url": "importers/ramy-hashw",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978743,
+        "Consignee": {
+          "name": "RAMY HASHW"
+        },
+        "GrossWeightKgs": 12,
+        "GrossWeightLbs": 26,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808127"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 42,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 19,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "897 EMPIRE BLVD BROOKLYN NY 11213",
+    "company": "JILMA SADDLER",
+    "mostRecentDate": 1710115200,
+    "url": "importers/jilma-saddler",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978753,
+        "Consignee": {
+          "name": "JILMA SADDLER"
+        },
+        "GrossWeightKgs": 19,
+        "GrossWeightLbs": 42,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808180"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 15,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 7,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "4109 LEES CORNER RD CHANTILLY VA 20151",
+    "company": "RUBENREY LAYONES",
+    "mostRecentDate": 1710115200,
+    "url": "importers/rubenrey-layones",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978767,
+        "Consignee": {
+          "name": "RUBENREY LAYONES"
+        },
+        "GrossWeightKgs": 7,
+        "GrossWeightLbs": 15,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "SINKS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808199"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 13,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 6,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "3200 PASEO VILLAGE WAY SAN DIEGO CA 92130",
+    "company": "VIJAYA RAMACHANDRAN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/vijaya-ramachandran",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978773,
+        "Consignee": {
+          "name": "VIJAYA RAMACHANDRAN"
+        },
+        "GrossWeightKgs": 6,
+        "GrossWeightLbs": 13,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808233"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 15,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 7,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "367 W 18TH STREET DEER PARK NY 11729",
+    "company": "DILZA DUARTE",
+    "mostRecentDate": 1710115200,
+    "url": "importers/dilza-duarte",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978778,
+        "Consignee": {
+          "name": "DILZA DUARTE"
+        },
+        "GrossWeightKgs": 7,
+        "GrossWeightLbs": 15,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808242"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 11,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 5,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "37800 CAMDEN ST FREMONT CA 94536 5149",
+    "company": "SHAISTAH AKHTER",
+    "mostRecentDate": 1710115200,
+    "url": "importers/shaistah-akhter",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978790,
+        "Consignee": {
+          "name": "SHAISTAH AKHTER"
+        },
+        "GrossWeightKgs": 5,
+        "GrossWeightLbs": 11,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808303"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 22,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 10,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "1 APPLE LANE OYSTER BAY NY 11771",
+    "company": "SUNIL YADAV",
+    "mostRecentDate": 1710115200,
+    "url": "importers/sunil-yadav",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978792,
+        "Consignee": {
+          "name": "SUNIL YADAV"
+        },
+        "GrossWeightKgs": 10,
+        "GrossWeightLbs": 22,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "SINKS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808306"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 66,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 30,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "23407 ABBEY GLEN PLACE VALENCIA CA 91354",
+    "company": "SUNN WEE",
+    "mostRecentDate": 1710115200,
+    "url": "importers/sunn-wee",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978814,
+        "Consignee": {
+          "name": "SUNN WEE"
+        },
+        "GrossWeightKgs": 30,
+        "GrossWeightLbs": 66,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "BED"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808413"
+      }
+    ]
+  },
+  {
+    "totalShipments": 2,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 57,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 26,
+          "country": "china"
+        },
+        {
+          "iso": "in",
+          "name": "N/A",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "502,DHAIRYANVEERBLDG, 41 PRESIDENC \nSOC 8 JVPD, VILE PARLE (W)         \nMUMBAI 400049 IN                   \n                                   ",
+            "shortAddress": "India"
+          },
+          "grossWeightInLbs": 15400,
+          "mostRecentDate": 1301702400,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 7000,
+          "country": "india"
+        }
+      ],
+      "totalShipments": 2
+    },
+    "contactInfo": "7419 KINGSGATE WAY WEST CHESTER OH 45069",
+    "company": "SWATI PARIKH",
+    "mostRecentDate": 1710115200,
+    "url": "importers/swati-parikh",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978837,
+        "Consignee": {
+          "name": "SWATI PARIKH"
+        },
+        "GrossWeightKgs": 26,
+        "GrossWeightLbs": 57,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808503"
+      },
+      {
+        "QuantityUnit": "BOX  ",
+        "EntryId": 55013095,
+        "Consignee": {
+          "name": "SWATI PARIKH"
+        },
+        "GrossWeightKgs": 7000,
+        "GrossWeightLbs": 15400,
+        "CountryOfOrigin": "India",
+        "ProductDescription": [
+          "OTHER BENT-WOOD FURNITUREFURNITURE, SOFT FURNISHING AND DECORATIVE"
+        ],
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ArrivalDate": 1301702400,
+        "Quantity": 15,
+        "BillOfLading": "BJCHNSVNEW11079 "
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 46,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 21,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "435 W 116TH ST NEW YORK NY 10027",
+    "company": "SUPPLIES ACQ DEPT LIBRARY",
+    "mostRecentDate": 1710115200,
+    "url": "importers/supplies-acq-dept-library",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978838,
+        "Consignee": {
+          "name": "SUPPLIES ACQ DEPT LIBRARY"
+        },
+        "GrossWeightKgs": 21,
+        "GrossWeightLbs": 46,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808506"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 13,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 6,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "805 EDDYSTONE AVE EDDYSTONE PA 19022",
+    "company": "KALLI HASTINGS",
+    "mostRecentDate": 1710115200,
+    "url": "importers/kalli-hastings",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978856,
+        "Consignee": {
+          "name": "KALLI HASTINGS"
+        },
+        "GrossWeightKgs": 6,
+        "GrossWeightLbs": 13,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "OFFICE DESK"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808563"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 22,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 10,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "5411 12TH AVENUE BROOKLYN NY 11219",
+    "company": "GITTY GOLDSTEIN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/gitty-goldstein",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978866,
+        "Consignee": {
+          "name": "GITTY GOLDSTEIN"
+        },
+        "GrossWeightKgs": 10,
+        "GrossWeightLbs": 22,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808589"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 35,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 16,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "8 PONTIAC RD WABAN MA 02468",
+    "company": "ANATOLY RASIN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/anatoly-rasin",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978876,
+        "Consignee": {
+          "name": "ANATOLY RASIN"
+        },
+        "GrossWeightKgs": 16,
+        "GrossWeightLbs": 35,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "OFFICE DESK"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808635"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 51,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 23,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "1604 S OCEAN SHORE BLVD FLAGLER BEACH FL 32136",
+    "company": "MEGGYNNE BURGER",
+    "mostRecentDate": 1710115200,
+    "url": "importers/meggynne-burger",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978900,
+        "Consignee": {
+          "name": "MEGGYNNE BURGER"
+        },
+        "GrossWeightKgs": 23,
+        "GrossWeightLbs": 51,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "WASH BASIN"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808734"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 31,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 14,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "101 WASHINGTON BLVD UNIT 608 STAMFORD CT 06902 6851",
+    "company": "ALEKSANDRA FIRSTENKO",
+    "mostRecentDate": 1710115200,
+    "url": "importers/aleksandra-firstenko",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978914,
+        "Consignee": {
+          "name": "ALEKSANDRA FIRSTENKO"
+        },
+        "GrossWeightKgs": 14,
+        "GrossWeightLbs": 31,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808773"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 22,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 10,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "3775 NW 77TH ST PMB MIAMI FL 33147 4434",
+    "company": "FARAAZ ALLY MUNSHI PMB 01 1282",
+    "mostRecentDate": 1710115200,
+    "url": "importers/faraaz-ally-munshi-pmb-01-1282",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978922,
+        "Consignee": {
+          "name": "FARAAZ ALLY MUNSHI PMB 01 1282"
+        },
+        "GrossWeightKgs": 10,
+        "GrossWeightLbs": 22,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 2,
+        "BillOfLading": "IBCV990808799"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 13,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 6,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "24425 SKYVIEW RIDGE DR APT P205 MURRIETA CA 92562 3935",
+    "company": "JOURDAN DE LA CUADRA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/jourdan-de-la-cuadra",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978949,
+        "Consignee": {
+          "name": "JOURDAN DE LA CUADRA"
+        },
+        "GrossWeightKgs": 6,
+        "GrossWeightLbs": 13,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808900"
+      }
+    ]
+  },
+  {
+    "totalShipments": 2,
+    "shippers": {
+      "items": [
+        {
+          "mostRecentDate": 1711324800,
+          "iso": "cn",
+          "grossWeightInKgs": 15,
+          "country": "china",
+          "overAllShipmentCount": 94,
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 33,
+          "containersCount": 2,
+          "shipmentCount": 2,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          }
+        }
+      ],
+      "totalShipments": 2
+    },
+    "contactInfo": "22 DOGWOOD LAKE FOREST CA 92630",
+    "company": "ZIMING CHENG",
+    "mostRecentDate": 1710115200,
+    "url": "importers/ziming-cheng",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "ZIMING CHENG"
+        },
+        "ArrivalDate": 1711324800,
+        "GrossWeightKgs": 6,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "China",
+        "BillOfLading": "IBCV990828283",
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        },
+        "GrossWeightLbs": 13,
+        "EntryId": 262646746,
+        "Quantity": 1,
+        "ProductDescription": [
+          "RUGS"
+        ]
+      },
+      {
+        "Consignee": {
+          "name": "ZIMING CHENG"
+        },
+        "ArrivalDate": 1710115200,
+        "GrossWeightKgs": 9,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "China",
+        "BillOfLading": "IBCV990808944",
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        },
+        "GrossWeightLbs": 20,
+        "EntryId": 261978964,
+        "Quantity": 2,
+        "ProductDescription": [
+          "SOLAR LIGHTS"
+        ]
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 18,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 8,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "2849 N SACRAMENTO AVE CHICAGO IL 60618 7706",
+    "company": "KRIZTELLE HALILI",
+    "mostRecentDate": 1710115200,
+    "url": "importers/kriztelle-halili",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978977,
+        "Consignee": {
+          "name": "KRIZTELLE HALILI"
+        },
+        "GrossWeightKgs": 8,
+        "GrossWeightLbs": 18,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 2,
+        "BillOfLading": "IBCV990809051"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "items": [
+        {
+          "overAllShipmentCount": 94,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "mostRecentDate": 1710633600,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "iso": "cn",
+          "grossWeightInKgs": 65,
+          "containersCount": 2,
+          "grossWeightInLbs": 143,
+          "shipmentCount": 2,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 2
+    },
+    "contactInfo": "527 PARK PL VADNAIS HEIGHTS MN 55127 7208",
+    "company": "SAMER ALZOUBI",
+    "totalShipments": 2,
+    "mostRecentDate": 1710115200,
+    "url": "importers/samer-alzoubi",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "SAMER ALZOUBI"
+        },
+        "GrossWeightKgs": 42,
+        "EntryId": 262312334,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "BillOfLading": "IBCV990815736",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "GrossWeightLbs": 92,
+        "CountryOfOrigin": "China",
+        "Quantity": 11,
+        "ArrivalDate": 1710633600
+      },
+      {
+        "Consignee": {
+          "name": "SAMER ALZOUBI"
+        },
+        "GrossWeightKgs": 23,
+        "EntryId": 261978981,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "BillOfLading": "IBCV990809072",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "GrossWeightLbs": 51,
+        "CountryOfOrigin": "China",
+        "Quantity": 12,
+        "ArrivalDate": 1710115200
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 9,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 4,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "3881 TUSCARORA RD ERIEVILLE NY 13061",
+    "company": "MERALEE DECLERCQ",
+    "mostRecentDate": 1710115200,
+    "url": "importers/meralee-declercq",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978988,
+        "Consignee": {
+          "name": "MERALEE DECLERCQ"
+        },
+        "GrossWeightKgs": 4,
+        "GrossWeightLbs": 9,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809114"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 44,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 20,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "14 LEMAN LANE HOPKINTON MA 01748",
+    "company": "KUMAR KUDUVA MOHAN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/kumar-kuduva-mohan",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261978992,
+        "Consignee": {
+          "name": "KUMAR KUDUVA MOHAN"
+        },
+        "GrossWeightKgs": 20,
+        "GrossWeightLbs": 44,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809127"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 101,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 46,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "2938 SAINT LOUIS AVENUE FORT WAYNE IN 46809",
+    "company": "SABRYNA SPARKS",
+    "mostRecentDate": 1710115200,
+    "url": "importers/sabryna-sparks",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979046,
+        "Consignee": {
+          "name": "SABRYNA SPARKS"
+        },
+        "GrossWeightKgs": 46,
+        "GrossWeightLbs": 101,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809291"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 7,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 3,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "824 MIDPRIDE ST LAS VEGAS NV 89144",
+    "company": "MIRTA PRIVITERA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/mirta-privitera",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979056,
+        "Consignee": {
+          "name": "MIRTA PRIVITERA"
+        },
+        "GrossWeightKgs": 3,
+        "GrossWeightLbs": 7,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809324"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 51,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 23,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "4305 SAVOIE CT MODESTO CA 95356",
+    "company": "SOE THIHA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/soe-thiha",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979061,
+        "Consignee": {
+          "name": "SOE THIHA"
+        },
+        "GrossWeightKgs": 23,
+        "GrossWeightLbs": 51,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809375"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 88,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 40,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "10000 SANTA MONICA BLVD LOS ANGELES CA 90067",
+    "company": "FARZAD MAZLOOMI",
+    "mostRecentDate": 1710115200,
+    "url": "importers/farzad-mazloomi",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979067,
+        "Consignee": {
+          "name": "FARZAD MAZLOOMI"
+        },
+        "GrossWeightKgs": 40,
+        "GrossWeightLbs": 88,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "OFFICE DESK"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809394"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 42,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 19,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "155 BEAR GULCH DRIVE PORTOLA VALLEY CA 94028",
+    "company": "BRIAN CAYNE BD INTERIORS",
+    "mostRecentDate": 1710115200,
+    "url": "importers/brian-cayne-bd-interiors",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979068,
+        "Consignee": {
+          "name": "BRIAN CAYNE BD INTERIORS"
+        },
+        "GrossWeightKgs": 19,
+        "GrossWeightLbs": 42,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 2,
+        "BillOfLading": "IBCV990809398"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "items": [
+        {
+          "overAllShipmentCount": 94,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "mostRecentDate": 1710720000,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "iso": "cn",
+          "grossWeightInKgs": 3,
+          "containersCount": 2,
+          "grossWeightInLbs": 6,
+          "shipmentCount": 2,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 2
+    },
+    "contactInfo": "5909 WEST A STREET WEST LINN OR 97068",
+    "company": "CHARLOTTE EDGEL",
+    "totalShipments": 2,
+    "mostRecentDate": 1710115200,
+    "url": "importers/charlotte-edgel",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "CHARLOTTE EDGEL"
+        },
+        "GrossWeightKgs": 1,
+        "EntryId": 262313211,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "BillOfLading": "IBCV990822494",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "GrossWeightLbs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "ArrivalDate": 1710720000
+      },
+      {
+        "Consignee": {
+          "name": "CHARLOTTE EDGEL"
+        },
+        "GrossWeightKgs": 2,
+        "EntryId": 261979071,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "BillOfLading": "IBCV990809431",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "GrossWeightLbs": 4,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "ArrivalDate": 1710115200
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 13,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 6,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "710 NORTHWEST 2ND ST CAPE CORAL FL 33993",
+    "company": "MICHAEL DIMORE",
+    "mostRecentDate": 1710115200,
+    "url": "importers/michael-dimore",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979084,
+        "Consignee": {
+          "name": "MICHAEL DIMORE"
+        },
+        "GrossWeightKgs": 6,
+        "GrossWeightLbs": 13,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CLIMBING TOY"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809518"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 73,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 33,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "7526 AVENUE T BROOKLYN NY 11234 6277",
+    "company": "ZALMAN GOLDSTOCK",
+    "mostRecentDate": 1710115200,
+    "url": "importers/zalman-goldstock",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979094,
+        "Consignee": {
+          "name": "ZALMAN GOLDSTOCK"
+        },
+        "GrossWeightKgs": 33,
+        "GrossWeightLbs": 73,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 2,
+        "BillOfLading": "IBCV990809576"
+      }
+    ]
+  },
+  {
+    "totalShipments": 3,
+    "contactInfo": "172 SWAN LN POUGHKEEPSIE NY 12603 3542",
+    "company": "MARY ELLEN SNYDER",
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "country": "china",
+          "mostRecentDate": 1713139200,
+          "iso": "cn",
+          "grossWeightInLbs": 13,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "shipmentCount": 3,
+          "containersCount": 3,
+          "overAllShipmentCount": 94,
+          "grossWeightInKgs": 6,
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          }
+        }
+      ]
+    },
+    "mostRecentDate": 1710115200,
+    "url": "importers/mary-ellen-snyder",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "MARY ELLEN SNYDER"
+        },
+        "BillOfLading": "IBCV990863728",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 4,
+        "EntryId": 263779565,
+        "Quantity": 1,
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 2,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "QuantityUnit": "PCS"
+      },
+      {
+        "Consignee": {
+          "name": "MARY ELLEN SNYDER"
+        },
+        "BillOfLading": "IBCV990821116",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 2,
+        "EntryId": 262312990,
+        "Quantity": 1,
+        "ArrivalDate": 1710720000,
+        "GrossWeightKgs": 1,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "QuantityUnit": "PCS"
+      },
+      {
+        "Consignee": {
+          "name": "MARY ELLEN SNYDER"
+        },
+        "BillOfLading": "IBCV990809577",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 7,
+        "EntryId": 261979095,
+        "Quantity": 2,
+        "ArrivalDate": 1710115200,
+        "GrossWeightKgs": 3,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "QuantityUnit": "PCS"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 46,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 21,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "305 WINDMERE DR COLONIAL HEIGHTS VA 23834",
+    "company": "MUSHIN KNOTT",
+    "mostRecentDate": 1710115200,
+    "url": "importers/mushin-knott",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979100,
+        "Consignee": {
+          "name": "MUSHIN KNOTT"
+        },
+        "GrossWeightKgs": 21,
+        "GrossWeightLbs": 46,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809613"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 22,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 10,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "12232 134TH ST S OZONE PARK NY 11420 3015",
+    "company": "SHIVNANAND SAMAROO",
+    "mostRecentDate": 1710115200,
+    "url": "importers/shivnanand-samaroo",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979112,
+        "Consignee": {
+          "name": "SHIVNANAND SAMAROO"
+        },
+        "GrossWeightKgs": 10,
+        "GrossWeightLbs": 22,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809662"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 26,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 12,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "139 RYAN ROAD MARLBORO NJ 07746",
+    "company": "MICHAEL MESHOYRER",
+    "mostRecentDate": 1710115200,
+    "url": "importers/michael-meshoyrer",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979127,
+        "Consignee": {
+          "name": "MICHAEL MESHOYRER"
+        },
+        "GrossWeightKgs": 12,
+        "GrossWeightLbs": 26,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809737"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 7,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 3,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "2155 BROWN STREET BROOKLYN NY 11229",
+    "company": "MILENA BORTENEVA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/milena-borteneva",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979135,
+        "Consignee": {
+          "name": "MILENA BORTENEVA"
+        },
+        "GrossWeightKgs": 3,
+        "GrossWeightLbs": 7,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE LAMPS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809786"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 7,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 3,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "27528 PAMPLONA LANE NOVI MI 48374",
+    "company": "VIRGIL WASHINGTON",
+    "mostRecentDate": 1710115200,
+    "url": "importers/virgil-washington",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979137,
+        "Consignee": {
+          "name": "VIRGIL WASHINGTON"
+        },
+        "GrossWeightKgs": 3,
+        "GrossWeightLbs": 7,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809798"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 11,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 5,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "4306 SPRINGFIELD DRIVE PEACHTREE CORNERS GE 30092 1635",
+    "company": "ALICJA SILLS",
+    "mostRecentDate": 1710115200,
+    "url": "importers/alicja-sills",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979144,
+        "Consignee": {
+          "name": "ALICJA SILLS"
+        },
+        "GrossWeightKgs": 5,
+        "GrossWeightLbs": 11,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE LAMPS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809861"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 13,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 6,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "3016 DALE AVE GRANITE CITY IL 62040",
+    "company": "LYNN SCHAEFER",
+    "mostRecentDate": 1710115200,
+    "url": "importers/lynn-schaefer",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979145,
+        "Consignee": {
+          "name": "LYNN SCHAEFER"
+        },
+        "GrossWeightKgs": 6,
+        "GrossWeightLbs": 13,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE LAMPS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809867"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 70,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 32,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "2101 TUDOR ROSE DR SANFORD FL 32773",
+    "company": "DEBJYOTI SAHA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/debjyoti-saha",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979168,
+        "Consignee": {
+          "name": "DEBJYOTI SAHA"
+        },
+        "GrossWeightKgs": 32,
+        "GrossWeightLbs": 70,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "BED"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808075"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 73,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 33,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "6775 GOLDEN GATE DRIVE DUBLIN CA 94568",
+    "company": "RAJAN CHAUHAN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/rajan-chauhan",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979176,
+        "Consignee": {
+          "name": "RAJAN CHAUHAN"
+        },
+        "GrossWeightKgs": 33,
+        "GrossWeightLbs": 73,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990808701"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 40,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 18,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "1522 E 1000 N ROANOKE IN 46783",
+    "company": "CHRISTOPHER SCHERER",
+    "mostRecentDate": 1710115200,
+    "url": "importers/christopher-scherer",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979214,
+        "Consignee": {
+          "name": "CHRISTOPHER SCHERER"
+        },
+        "GrossWeightKgs": 18,
+        "GrossWeightLbs": 40,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "OFFICE DESK"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809579"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 9,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 4,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "2286 W ANACASA WAY ANAHEIM CA 92804",
+    "company": "SIHYUN KO",
+    "mostRecentDate": 1710115200,
+    "url": "importers/sihyun-ko",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979219,
+        "Consignee": {
+          "name": "SIHYUN KO"
+        },
+        "GrossWeightKgs": 4,
+        "GrossWeightLbs": 9,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990809621"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 33,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 15,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "2820 HIGHLAND AVE SANTA MONICA CA 90405",
+    "company": "ALESSIA COSTANTINI",
+    "mostRecentDate": 1710115200,
+    "url": "importers/alessia-costantini",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979220,
+        "Consignee": {
+          "name": "ALESSIA COSTANTINI"
+        },
+        "GrossWeightKgs": 15,
+        "GrossWeightLbs": 33,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 2,
+        "BillOfLading": "IBCV990809649"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 158,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 72,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "5681 WINTER WAY SOMERSET CA 95684",
+    "company": "MICHAEL A VOSSEN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/michael-a-vossen",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979239,
+        "Consignee": {
+          "name": "MICHAEL A VOSSEN"
+        },
+        "GrossWeightKgs": 72,
+        "GrossWeightLbs": 158,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TOILET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 2,
+        "BillOfLading": "IBCV990809898"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 147,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 67,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "5239 OCEAN BLVD SARASOTA FL 34242",
+    "company": "FLAVIO CRISTOFOLI",
+    "mostRecentDate": 1710115200,
+    "url": "importers/flavio-cristofoli",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979285,
+        "Consignee": {
+          "name": "FLAVIO CRISTOFOLI"
+        },
+        "GrossWeightKgs": 67,
+        "GrossWeightLbs": 147,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 16,
+        "BillOfLading": "IBCV990810152"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 128,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 58,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "6256 OAKDALE AVE WOODLAND HILLS CA 91367",
+    "company": "LINOR STEIN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/linor-stein",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979300,
+        "Consignee": {
+          "name": "LINOR STEIN"
+        },
+        "GrossWeightKgs": 58,
+        "GrossWeightLbs": 128,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "WASH BASIN"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 2,
+        "BillOfLading": "IBCV990810183"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 37,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 17,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "503 RIVERHILL BLVD NISKAYUNA NY 12309",
+    "company": "XINLE JIANG",
+    "mostRecentDate": 1710115200,
+    "url": "importers/xinle-jiang",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979317,
+        "Consignee": {
+          "name": "XINLE JIANG"
+        },
+        "GrossWeightKgs": 17,
+        "GrossWeightLbs": 37,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990810236"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712620800,
+          "grossWeightInKgs": 33,
+          "grossWeightInLbs": 73,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "1658 BENEDICT CANYON DR BEVERLY HILLS CA 90210 2003",
+    "totalShipments": 2,
+    "company": "NICHOLAS AXELROD",
+    "mostRecentDate": 1710115200,
+    "url": "importers/nicholas-axelrod",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 3,
+        "GrossWeightLbs": 7,
+        "ArrivalDate": 1712620800,
+        "BillOfLading": "IBCV990855881",
+        "EntryId": 263550928,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "NICHOLAS AXELROD"
+        }
+      },
+      {
+        "Quantity": 3,
+        "GrossWeightKgs": 30,
+        "GrossWeightLbs": 66,
+        "ArrivalDate": 1710115200,
+        "BillOfLading": "IBCV990810255",
+        "EntryId": 261979319,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "NICHOLAS AXELROD"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 73,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 33,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "20 SPRINGHURST PARK DOBBS FERRY NY 10522 3100",
+    "company": "YASAMIN RAHMANI",
+    "mostRecentDate": 1710115200,
+    "url": "importers/yasamin-rahmani",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 264287917,
+        "BillOfLading": "IBCV990869978",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "ArrivalDate": 1713744000,
+        "Quantity": 1,
+        "ProductDescription": [
+          "TABLE LAMPS"
+        ],
+        "GrossWeightLbs": 4,
+        "Consignee": {
+          "name": "YASAMIN RAHMANI"
+        },
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        }
+      },
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979323,
+        "BillOfLading": "IBCV990810277",
+        "GrossWeightKgs": 33,
+        "CountryOfOrigin": "China",
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "GrossWeightLbs": 73,
+        "Consignee": {
+          "name": "YASAMIN RAHMANI"
+        },
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 70,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 32,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "2440 AMSTERDAM AVE NEW YORK NY 10033",
+    "company": "ADRIANO ESPINAL",
+    "mostRecentDate": 1710115200,
+    "url": "importers/adriano-espinal",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979330,
+        "Consignee": {
+          "name": "ADRIANO ESPINAL"
+        },
+        "GrossWeightKgs": 32,
+        "GrossWeightLbs": 70,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TOILET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990810294"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 13,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 6,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "2203 E UNION ST 307 SEATTLE WA 98122",
+    "company": "E HOUSTON LEBRUN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/e-houston-lebrun",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979347,
+        "Consignee": {
+          "name": "E HOUSTON LEBRUN"
+        },
+        "GrossWeightKgs": 6,
+        "GrossWeightLbs": 13,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CONVERSION RAILS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990810362"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 15,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 7,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "410 PONY EXPRESS RD SAN DIMAS CA 91773",
+    "company": "MICHAEL KUNYSZ",
+    "mostRecentDate": 1710115200,
+    "url": "importers/michael-kunysz",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979372,
+        "Consignee": {
+          "name": "MICHAEL KUNYSZ"
+        },
+        "GrossWeightKgs": 7,
+        "GrossWeightLbs": 15,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990810446"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 9,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 4,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "11 CHAPEL ST NORWOOD MA 02062",
+    "company": "CARMELINA BARLETTA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/carmelina-barletta",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979405,
+        "Consignee": {
+          "name": "CARMELINA BARLETTA"
+        },
+        "GrossWeightKgs": 4,
+        "GrossWeightLbs": 9,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "WALL PANEL"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990810568"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 26,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 12,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "486 MASON DR RINGGOLD GA 30736 5402",
+    "company": "KASSY BOREN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/kassy-boren",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979412,
+        "Consignee": {
+          "name": "KASSY BOREN"
+        },
+        "GrossWeightKgs": 12,
+        "GrossWeightLbs": 26,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE LAMPS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990810594"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 70,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 32,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "22374 ESCALANTE RUN SAN ANTONIO TX 78261",
+    "company": "KIDANE AKLIL",
+    "mostRecentDate": 1710115200,
+    "url": "importers/kidane-aklil",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979421,
+        "Consignee": {
+          "name": "KIDANE AKLIL"
+        },
+        "GrossWeightKgs": 32,
+        "GrossWeightLbs": 70,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 4,
+        "BillOfLading": "IBCV990810654"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 86,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 39,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "5040 PINE LAKE CT STOCKTON CA 95219 2030",
+    "company": "RAHULJIT BAJWA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/rahuljit-bajwa",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979436,
+        "Consignee": {
+          "name": "RAHULJIT BAJWA"
+        },
+        "GrossWeightKgs": 39,
+        "GrossWeightLbs": 86,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "OFFICE DESK"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 2,
+        "BillOfLading": "IBCV990810722"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 11,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 5,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "510 COALFIELD RD MIDLOTHIAN VA 23114 4405",
+    "company": "ANNE S LIU C O SYCAMORE PRESBYTERIA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/anne-s-liu-c-o-sycamore-presbyteria",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979466,
+        "Consignee": {
+          "name": "ANNE S LIU C O SYCAMORE PRESBYTERIA"
+        },
+        "GrossWeightKgs": 5,
+        "GrossWeightLbs": 11,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 3,
+        "BillOfLading": "IBCV990810851"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 139,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 63,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "1293 E 5TH STR BROOKLYN NY 11230",
+    "company": "TETIANA YASENOVA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/tetiana-yasenova",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979506,
+        "Consignee": {
+          "name": "TETIANA YASENOVA"
+        },
+        "GrossWeightKgs": 63,
+        "GrossWeightLbs": 139,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990810977"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 64,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 29,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "500 W LAKE LANSING RD APT D36 EAST LANSING MI 48823",
+    "company": "ABDULLA ALHOWSHABI",
+    "mostRecentDate": 1710115200,
+    "url": "importers/abdulla-alhowshabi",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979518,
+        "Consignee": {
+          "name": "ABDULLA ALHOWSHABI"
+        },
+        "GrossWeightKgs": 29,
+        "GrossWeightLbs": 64,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "OFFICE DESK"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811030"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 42,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 19,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "4423 ROSSER SQ DALLAS TX 75244 6649",
+    "company": "M ANGLES",
+    "mostRecentDate": 1710115200,
+    "url": "importers/m-angles",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979558,
+        "Consignee": {
+          "name": "M ANGLES"
+        },
+        "GrossWeightKgs": 19,
+        "GrossWeightLbs": 42,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811184"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 145,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 66,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "23638 ACACIA CT AUBURN CA 95602",
+    "company": "ALEKSANDR ROSINZONSKY",
+    "mostRecentDate": 1710115200,
+    "url": "importers/aleksandr-rosinzonsky",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979572,
+        "Consignee": {
+          "name": "ALEKSANDR ROSINZONSKY"
+        },
+        "GrossWeightKgs": 66,
+        "GrossWeightLbs": 145,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TOILET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811233"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 66,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 30,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "107 POSEY ST GREENWOOD SC 29646",
+    "company": "WILLIAM HIGGINS SR",
+    "mostRecentDate": 1710115200,
+    "url": "importers/william-higgins-sr",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979578,
+        "Consignee": {
+          "name": "WILLIAM HIGGINS SR"
+        },
+        "GrossWeightKgs": 30,
+        "GrossWeightLbs": 66,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TOILET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811265"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 11,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 5,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "82 EAGLE DR NEWINGTON CT 06111",
+    "company": "NARIN TUN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/narin-tun",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979583,
+        "Consignee": {
+          "name": "NARIN TUN"
+        },
+        "GrossWeightKgs": 5,
+        "GrossWeightLbs": 11,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE LAMPS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811281"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 95,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 43,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "1687 PEBBLE BEACH WAY VERNON HILLS IL 60061",
+    "company": "ANUP CHAUDHRY",
+    "mostRecentDate": 1710115200,
+    "url": "importers/anup-chaudhry",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979651,
+        "Consignee": {
+          "name": "ANUP CHAUDHRY"
+        },
+        "GrossWeightKgs": 43,
+        "GrossWeightLbs": 95,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811523"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 31,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 14,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "5215 WINCROFT CT HOUSTON TX 77069",
+    "company": "DEIVIDAS ZEMGULIS",
+    "mostRecentDate": 1710115200,
+    "url": "importers/deividas-zemgulis",
+    "shipments": null
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 29,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 13,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "6145 CALIFORNIA STREET SAN FRANCISCO CA 94121",
+    "company": "YI FENG DU",
+    "mostRecentDate": 1710115200,
+    "url": "importers/yi-feng-du",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979679,
+        "Consignee": {
+          "name": "YI FENG DU"
+        },
+        "GrossWeightKgs": 13,
+        "GrossWeightLbs": 29,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811617"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 134,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 61,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "3449 ANGELUS AVE GLENDALE CA 91208",
+    "company": "AREG HARTENIAN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/areg-hartenian",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979687,
+        "Consignee": {
+          "name": "AREG HARTENIAN"
+        },
+        "GrossWeightKgs": 61,
+        "GrossWeightLbs": 134,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "BATHROOM ACCESSEORIES"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811647"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 7,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 3,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "13505 PAUL CIR OMAHA NE 68154 5144",
+    "company": "UGO EKEH",
+    "mostRecentDate": 1710115200,
+    "url": "importers/ugo-ekeh",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979702,
+        "Consignee": {
+          "name": "UGO EKEH"
+        },
+        "GrossWeightKgs": 3,
+        "GrossWeightLbs": 7,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811722"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 22,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 10,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "3798 NAVARRO WAY FRISCO TX 75034 8445",
+    "company": "TALINE AZADIAN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/taline-azadian",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 264287936,
+        "BillOfLading": "IBCV990871193",
+        "GrossWeightKgs": 4,
+        "CountryOfOrigin": "China",
+        "ArrivalDate": 1713744000,
+        "Quantity": 4,
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "GrossWeightLbs": 9,
+        "Consignee": {
+          "name": "TALINE AZADIAN"
+        },
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        }
+      },
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979718,
+        "BillOfLading": "IBCV990811785",
+        "GrossWeightKgs": 10,
+        "CountryOfOrigin": "China",
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "GrossWeightLbs": 22,
+        "Consignee": {
+          "name": "TALINE AZADIAN"
+        },
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 7,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 3,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "1298 NW 79TH ST APT 304 MIAMI FL 33147 8252",
+    "company": "YMALAY DE AZA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/ymalay-de-aza",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979721,
+        "Consignee": {
+          "name": "YMALAY DE AZA"
+        },
+        "GrossWeightKgs": 3,
+        "GrossWeightLbs": 7,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811792"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 37,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 17,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "42 FOREST ST DANVERS MA 01923",
+    "company": "DANAH HASHEM",
+    "mostRecentDate": 1710115200,
+    "url": "importers/danah-hashem",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979747,
+        "Consignee": {
+          "name": "DANAH HASHEM"
+        },
+        "GrossWeightKgs": 17,
+        "GrossWeightLbs": 37,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990811987"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 77,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 35,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "1636 VALLEY VIEW ROAD GLENDALE CA 91202",
+    "company": "VIRGINIA MOMJIAN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/virginia-momjian",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979753,
+        "Consignee": {
+          "name": "VIRGINIA MOMJIAN"
+        },
+        "GrossWeightKgs": 35,
+        "GrossWeightLbs": 77,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990812040"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 2,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 1,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "16 CR 814 GREEN FOREST AR 72638",
+    "company": "LORISSA NANCE",
+    "mostRecentDate": 1710115200,
+    "url": "importers/lorissa-nance",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979769,
+        "Consignee": {
+          "name": "LORISSA NANCE"
+        },
+        "GrossWeightKgs": 1,
+        "GrossWeightLbs": 2,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "KITCHEN FAUCETS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990812126"
+      }
+    ]
+  },
+  {
+    "contactInfo": "5149 ELMWOOD AVE NEWARK CA 94560 US",
+    "totalShipments": 3,
+    "company": "RICK TERRY",
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 60,
+          "shipmentCount": 2,
+          "mostRecentDate": 1710633600,
+          "grossWeightInKgs": 27,
+          "overAllShipmentCount": 94,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "containersCount": 2,
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 5,
+          "overAllShipmentCount": 206910,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "containersCount": 1,
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        }
+      ]
+    },
+    "mostRecentDate": 1710115200,
+    "url": "importers/rick-terry",
+    "shipments": [
+      {
+        "GrossWeightKgs": 5,
+        "BillOfLading": "TZWH62403785503",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263812795,
+        "Consignee": {
+          "name": "RICK TERRY"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 11,
+        "ProductDescription": [
+          "ELECTRIC FRYING PAN"
+        ]
+      },
+      {
+        "GrossWeightKgs": 8,
+        "BillOfLading": "IBCV990814401",
+        "Quantity": 6,
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1710633600,
+        "EntryId": 262312226,
+        "Consignee": {
+          "name": "RICK TERRY"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 18,
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ]
+      },
+      {
+        "GrossWeightKgs": 19,
+        "BillOfLading": "IBCV990812195",
+        "Quantity": 3,
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1710115200,
+        "EntryId": 261979794,
+        "Consignee": {
+          "name": "RICK TERRY"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 42,
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ]
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 2,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 1,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "4 CROWN CT GAITHERSBURG MD 20878 1816",
+    "company": "STEVEN LETT C O ISABELLE DAHAN",
+    "mostRecentDate": 1710115200,
+    "url": "importers/steven-lett-c-o-isabelle-dahan",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979817,
+        "Consignee": {
+          "name": "STEVEN LETT C O ISABELLE DAHAN"
+        },
+        "GrossWeightKgs": 1,
+        "GrossWeightLbs": 2,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990812332"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "items": [
+        {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "country": "china",
+          "mostRecentDate": 1711324800,
+          "grossWeightInKgs": 8,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 3,
+          "grossWeightInLbs": 18,
+          "shipmentCount": 3,
+          "iso": "cn",
+          "overAllShipmentCount": 94
+        }
+      ],
+      "totalShipments": 3
+    },
+    "company": "SCOTT HERBERTSON",
+    "totalShipments": 3,
+    "contactInfo": "410 NORTH FLORENCE STREET BURBANK CA 91505",
+    "mostRecentDate": 1710115200,
+    "url": "importers/scott-herbertson",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "SCOTT HERBERTSON"
+        },
+        "BillOfLading": "IBCV990831326",
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "GrossWeightLbs": 2,
+        "Quantity": 1,
+        "GrossWeightKgs": 1,
+        "ArrivalDate": 1711324800,
+        "QuantityUnit": "PCS",
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        },
+        "EntryId": 262719727
+      },
+      {
+        "Consignee": {
+          "name": "SCOTT HERBERTSON"
+        },
+        "BillOfLading": "IBCV990829051",
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "GrossWeightLbs": 9,
+        "Quantity": 1,
+        "GrossWeightKgs": 4,
+        "ArrivalDate": 1711324800,
+        "QuantityUnit": "PCS",
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        },
+        "EntryId": 262646830
+      },
+      {
+        "Consignee": {
+          "name": "SCOTT HERBERTSON"
+        },
+        "BillOfLading": "IBCV990812355",
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "GrossWeightLbs": 7,
+        "Quantity": 1,
+        "GrossWeightKgs": 3,
+        "ArrivalDate": 1710115200,
+        "QuantityUnit": "PCS",
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        },
+        "EntryId": 261979822
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 42,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 19,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "19201 S SUSANA RD COMPTON CA 90221",
+    "company": "LANIKAI HOMES",
+    "mostRecentDate": 1710115200,
+    "url": "importers/lanikai-homes",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979827,
+        "Consignee": {
+          "name": "LANIKAI HOMES"
+        },
+        "GrossWeightKgs": 19,
+        "GrossWeightLbs": 42,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 10,
+        "BillOfLading": "IBCV990812395"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 15,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 7,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "15100 6TH AVE SW BURIEN WA 98166",
+    "company": "LEANORE WEBER",
+    "mostRecentDate": 1710115200,
+    "url": "importers/leanore-weber",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979834,
+        "Consignee": {
+          "name": "LEANORE WEBER"
+        },
+        "GrossWeightKgs": 7,
+        "GrossWeightLbs": 15,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990812443"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 24,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 11,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "40 SAN SIMEON LAGUNA NIGUEL CA 92677",
+    "company": "MICHAEL RADOJEVIC",
+    "mostRecentDate": 1710115200,
+    "url": "importers/michael-radojevic",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979838,
+        "Consignee": {
+          "name": "MICHAEL RADOJEVIC"
+        },
+        "GrossWeightKgs": 11,
+        "GrossWeightLbs": 24,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990812455"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 62,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 28,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "19599 E GREENWOOD PL AURORA CO 80013",
+    "company": "DMITRIY ESAYEV",
+    "mostRecentDate": 1710115200,
+    "url": "importers/dmitriy-esayev",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979844,
+        "Consignee": {
+          "name": "DMITRIY ESAYEV"
+        },
+        "GrossWeightKgs": 28,
+        "GrossWeightLbs": 62,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990812508"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "containersCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK",
+            "shortAddress": "China"
+          },
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "grossWeightInLbs": 44,
+          "overAllShipmentCount": 93,
+          "mostRecentDate": 1710115200,
+          "shipmentCount": 1,
+          "grossWeightInKgs": 20,
+          "country": "china"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "1500 NORTH SCOTTSDALE ROAD SCOTTSDALE AZ 85257",
+    "company": "ROSALY LEDESMA",
+    "mostRecentDate": 1710115200,
+    "url": "importers/rosaly-ledesma",
+    "shipments": [
+      {
+        "QuantityUnit": "PCS",
+        "EntryId": 261979866,
+        "Consignee": {
+          "name": "ROSALY LEDESMA"
+        },
+        "GrossWeightKgs": 20,
+        "GrossWeightLbs": 44,
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ArrivalDate": 1710115200,
+        "Quantity": 1,
+        "BillOfLading": "IBCV990812671"
+      }
+    ]
+  }
+]

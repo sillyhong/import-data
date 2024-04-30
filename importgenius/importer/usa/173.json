@@ -1,0 +1,1788 @@
+[
+  {
+    "totalShipments": 4,
+    "company": "LINDA HELFRICK",
+    "contactInfo": "6734 CORTEZ PL NW BREMERTON WA 98311-899 US",
+    "shippers": {
+      "items": [
+        {
+          "containersCount": 2,
+          "iso": "cn",
+          "mostRecentDate": 1713139200,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "grossWeightInLbs": 19,
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "overAllShipmentCount": 213636,
+          "grossWeightInKgs": 9,
+          "country": "china",
+          "shipmentCount": 2,
+          "lastAddress": {
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN",
+            "shortAddress": "China"
+          }
+        },
+        {
+          "containersCount": 2,
+          "iso": "cn",
+          "mostRecentDate": 1713139200,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "grossWeightInLbs": 28,
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "overAllShipmentCount": 114,
+          "grossWeightInKgs": 13,
+          "country": "china",
+          "shipmentCount": 2,
+          "lastAddress": {
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP",
+            "shortAddress": "China"
+          }
+        }
+      ],
+      "totalShipments": 4
+    },
+    "mostRecentDate": 1711929600,
+    "url": "importers/linda-helfrick",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "LINDA HELFRICK"
+        },
+        "BillOfLading": "DWCH24HWS0473081",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 13,
+        "EntryId": 263828230,
+        "Quantity": 1,
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 6,
+        "Shipper": {
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        },
+        "ProductDescription": [
+          "STORAGE RACK"
+        ],
+        "QuantityUnit": "PCS"
+      },
+      {
+        "Consignee": {
+          "name": "LINDA HELFRICK"
+        },
+        "BillOfLading": "TZWH62403856621",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 4,
+        "EntryId": 263812648,
+        "Quantity": 1,
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 2,
+        "Shipper": {
+          "link": "suppliers/hainan-golden-shell-co-ltd",
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        "ProductDescription": [
+          "COAT RACK"
+        ],
+        "QuantityUnit": "PCS"
+      },
+      {
+        "Consignee": {
+          "name": "LINDA HELFRICK"
+        },
+        "BillOfLading": "TZWH62403125812",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 15,
+        "EntryId": 263259061,
+        "Quantity": 1,
+        "ArrivalDate": 1712275200,
+        "GrossWeightKgs": 7,
+        "Shipper": {
+          "link": "suppliers/hainan-golden-shell-co-ltd",
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        "ProductDescription": [
+          "TENT"
+        ],
+        "QuantityUnit": "CTN"
+      },
+      {
+        "Consignee": {
+          "name": "LINDA HELFRICK"
+        },
+        "BillOfLading": "DWCH24HWS0457669",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 15,
+        "EntryId": 263057181,
+        "Quantity": 1,
+        "ArrivalDate": 1711929600,
+        "GrossWeightKgs": 7,
+        "Shipper": {
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        },
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "QuantityUnit": "PCS"
+      }
+    ]
+  },
+  {
+    "totalShipments": 2,
+    "company": "RITACARRADA",
+    "contactInfo": "3009 NE 59TH ST VANCOUVER WA 98663 US",
+    "shippers": {
+      "items": [
+        {
+          "containersCount": 1,
+          "iso": "cn",
+          "mostRecentDate": 1712275200,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "grossWeightInLbs": 20,
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "overAllShipmentCount": 213636,
+          "grossWeightInKgs": 9,
+          "country": "china",
+          "shipmentCount": 1,
+          "lastAddress": {
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN",
+            "shortAddress": "China"
+          }
+        },
+        {
+          "containersCount": 1,
+          "iso": "cn",
+          "mostRecentDate": 1711929600,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "grossWeightInLbs": 9,
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "overAllShipmentCount": 114,
+          "grossWeightInKgs": 4,
+          "country": "china",
+          "shipmentCount": 1,
+          "lastAddress": {
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP",
+            "shortAddress": "China"
+          }
+        }
+      ],
+      "totalShipments": 2
+    },
+    "mostRecentDate": 1711929600,
+    "url": "importers/ritacarrada",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "RITACARRADA"
+        },
+        "EntryId": 263277823,
+        "BillOfLading": "TZWH62403405631",
+        "ArrivalDate": 1712275200,
+        "GrossWeightLbs": 20,
+        "Quantity": 1,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "GrossWeightKgs": 9,
+        "ProductDescription": [
+          "STORAGE BOX"
+        ]
+      },
+      {
+        "Consignee": {
+          "name": "RITACARRADA"
+        },
+        "EntryId": 263057887,
+        "BillOfLading": "DWCH24HWS0458375",
+        "ArrivalDate": 1711929600,
+        "GrossWeightLbs": 9,
+        "Quantity": 1,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightKgs": 4,
+        "ProductDescription": [
+          "BED"
+        ]
+      }
+    ]
+  },
+  {
+    "totalShipments": 2,
+    "company": "CHERYLYN SELLERS",
+    "contactInfo": "3161 SUNRIDGE HEIGHTS PKWY HENDERSON NV 89052 US",
+    "shippers": {
+      "items": [
+        {
+          "containersCount": 2,
+          "iso": "cn",
+          "mostRecentDate": 1712275200,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "grossWeightInLbs": 11,
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "overAllShipmentCount": 213636,
+          "grossWeightInKgs": 5,
+          "country": "china",
+          "shipmentCount": 2,
+          "lastAddress": {
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN",
+            "shortAddress": "China"
+          }
+        }
+      ],
+      "totalShipments": 2
+    },
+    "mostRecentDate": 1711929600,
+    "url": "importers/cherylyn-sellers",
+    "shipments": [
+      {
+        "ProductDescription": [
+          "FLOOR MATS"
+        ],
+        "BillOfLading": "TZWH62403407044",
+        "QuantityUnit": "CTN",
+        "ArrivalDate": 1712275200,
+        "GrossWeightLbs": 7,
+        "Consignee": {
+          "name": "CHERYLYN SELLERS"
+        },
+        "CountryOfOrigin": "China",
+        "EntryId": 263278635,
+        "GrossWeightKgs": 3,
+        "Quantity": 1,
+        "Shipper": {
+          "link": "suppliers/hainan-golden-shell-co-ltd",
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        }
+      },
+      {
+        "ProductDescription": [
+          "FLOOR MATS"
+        ],
+        "BillOfLading": "TZWH62403375445",
+        "QuantityUnit": "CTN",
+        "ArrivalDate": 1711929600,
+        "GrossWeightLbs": 4,
+        "Consignee": {
+          "name": "CHERYLYN SELLERS"
+        },
+        "CountryOfOrigin": "China",
+        "EntryId": 263055917,
+        "GrossWeightKgs": 2,
+        "Quantity": 1,
+        "Shipper": {
+          "link": "suppliers/hainan-golden-shell-co-ltd",
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "2003 S 244TH PL DES MOINES WA 98198 US",
+    "company": "ZHUOMIN",
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "mostRecentDate": 1712534400,
+          "country": "china",
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "grossWeightInKgs": 1,
+          "overAllShipmentCount": 167854,
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "grossWeightInLbs": 2,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        {
+          "iso": "cn",
+          "mostRecentDate": 1711929600,
+          "country": "china",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "grossWeightInKgs": 7,
+          "overAllShipmentCount": 114,
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "grossWeightInLbs": 15,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        }
+      ],
+      "totalShipments": 2
+    },
+    "totalShipments": 2,
+    "mostRecentDate": 1711929600,
+    "url": "importers/zhuomin",
+    "shipments": [
+      {
+        "EntryId": 263405772,
+        "ProductDescription": [
+          "SLEEPING BAG"
+        ],
+        "ArrivalDate": 1712534400,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "GrossWeightLbs": 2,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "ZHUOMIN"
+        },
+        "BillOfLading": "TZWH62403436249",
+        "GrossWeightKgs": 1
+      },
+      {
+        "EntryId": 263059451,
+        "ProductDescription": [
+          "GRILL"
+        ],
+        "ArrivalDate": 1711929600,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 15,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "ZHUOMIN"
+        },
+        "BillOfLading": "DWCH24HWS0459184",
+        "GrossWeightKgs": 7
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "overAllShipmentCount": 195305,
+          "country": "china",
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "mostRecentDate": 1712534400,
+          "grossWeightInKgs": 9,
+          "grossWeightInLbs": 20,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "containersCount": 2
+        },
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "overAllShipmentCount": 114,
+          "country": "china",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "mostRecentDate": 1711929600,
+          "grossWeightInKgs": 7,
+          "grossWeightInLbs": 15,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "194 THRIFT ST SAN FRANCISCO CA 94112 US",
+    "totalShipments": 3,
+    "company": "MARCELO ALEJANDRO VILLAGARCIA",
+    "mostRecentDate": 1711929600,
+    "url": "importers/marcelo-alejandro-villagarcia",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 4,
+        "GrossWeightLbs": 9,
+        "ArrivalDate": 1712534400,
+        "BillOfLading": "TZWH62403414415",
+        "EntryId": 263408147,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/hainan-golden-shell-co-ltd",
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        "ProductDescription": [
+          "MOTORCYCLE TRUNK"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "MARCELO ALEJANDRO VILLAGARCIA"
+        }
+      },
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 7,
+        "GrossWeightLbs": 15,
+        "ArrivalDate": 1711929600,
+        "BillOfLading": "DWCH24HWS0457652",
+        "EntryId": 263057164,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        },
+        "ProductDescription": [
+          "MOTORCYCLE BRACKET"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "MARCELO ALEJANDRO VILLAGARCIA"
+        }
+      },
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 5,
+        "GrossWeightLbs": 11,
+        "ArrivalDate": 1711584000,
+        "BillOfLading": "TZWH62403226657",
+        "EntryId": 263511814,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/hainan-golden-shell-co-ltd",
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        "ProductDescription": [
+          "INCUBATOR"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "MARCELO ALEJANDRO VILLAGARCIA"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "1127 11TH ST SANTA MONICA CA 90403 US",
+    "company": "ANDREA LUDOVINA",
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "mostRecentDate": 1711929600,
+          "country": "china",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "grossWeightInKgs": 12,
+          "overAllShipmentCount": 114,
+          "containersCount": 2,
+          "shipmentCount": 2,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "grossWeightInLbs": 26,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        {
+          "iso": "cn",
+          "mostRecentDate": 1712534400,
+          "country": "china",
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "grossWeightInKgs": 4,
+          "overAllShipmentCount": 167854,
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "grossWeightInLbs": 9,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd"
+        }
+      ],
+      "totalShipments": 3
+    },
+    "totalShipments": 3,
+    "mostRecentDate": 1711929600,
+    "url": "importers/andrea-ludovina",
+    "shipments": [
+      {
+        "EntryId": 263414292,
+        "ProductDescription": [
+          "MURAL"
+        ],
+        "ArrivalDate": 1712534400,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "GrossWeightLbs": 9,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "ANDREA LUDOVINA"
+        },
+        "BillOfLading": "TZWH62403499672",
+        "GrossWeightKgs": 4
+      },
+      {
+        "EntryId": 263059732,
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "ArrivalDate": 1711929600,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 13,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "ANDREA LUDOVINA"
+        },
+        "BillOfLading": "DWCH24HWS0459465",
+        "GrossWeightKgs": 6
+      },
+      {
+        "EntryId": 263057461,
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "ArrivalDate": 1711929600,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 13,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "ANDREA LUDOVINA"
+        },
+        "BillOfLading": "DWCH24HWS0457949",
+        "GrossWeightKgs": 6
+      }
+    ]
+  },
+  {
+    "contactInfo": "464 N 12TH ST SAINT HELENS OR 97051 US",
+    "company": "RYAN VAN BLOKLAND",
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "mostRecentDate": 1712448000,
+          "country": "china",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "grossWeightInKgs": 23,
+          "overAllShipmentCount": 114,
+          "containersCount": 5,
+          "shipmentCount": 5,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "grossWeightInLbs": 51,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        {
+          "iso": "cn",
+          "mostRecentDate": 1712534400,
+          "country": "china",
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "grossWeightInKgs": 9,
+          "overAllShipmentCount": 167854,
+          "containersCount": 2,
+          "shipmentCount": 2,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "grossWeightInLbs": 20,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd"
+        }
+      ],
+      "totalShipments": 7
+    },
+    "totalShipments": 7,
+    "mostRecentDate": 1711929600,
+    "url": "importers/ryan-van-blokland",
+    "shipments": [
+      {
+        "EntryId": 263407501,
+        "ProductDescription": [
+          "BALANCE CAR"
+        ],
+        "ArrivalDate": 1712534400,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "GrossWeightLbs": 11,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "RYAN VAN BLOKLAND"
+        },
+        "BillOfLading": "TZWH62403431731",
+        "GrossWeightKgs": 5
+      },
+      {
+        "EntryId": 263407500,
+        "ProductDescription": [
+          "BALANCE CAR"
+        ],
+        "ArrivalDate": 1712534400,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "GrossWeightLbs": 9,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "RYAN VAN BLOKLAND"
+        },
+        "BillOfLading": "TZWH62403431686",
+        "GrossWeightKgs": 4
+      },
+      {
+        "EntryId": 263429960,
+        "ProductDescription": [
+          "WHEELED TOYS"
+        ],
+        "ArrivalDate": 1712448000,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 11,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "RYAN VAN BLOKLAND"
+        },
+        "BillOfLading": "DWCH24HWS0462701",
+        "GrossWeightKgs": 5
+      },
+      {
+        "EntryId": 263059961,
+        "ProductDescription": [
+          "WHEELED TOYS"
+        ],
+        "ArrivalDate": 1711929600,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 11,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "RYAN VAN BLOKLAND"
+        },
+        "BillOfLading": "DWCH24HWS0459688",
+        "GrossWeightKgs": 5
+      },
+      {
+        "EntryId": 263059927,
+        "ProductDescription": [
+          "WHEELED TOYS"
+        ],
+        "ArrivalDate": 1711929600,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 11,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "RYAN VAN BLOKLAND"
+        },
+        "BillOfLading": "DWCH24HWS0459660",
+        "GrossWeightKgs": 5
+      },
+      {
+        "EntryId": 263057886,
+        "ProductDescription": [
+          "WHEELED TOYS"
+        ],
+        "ArrivalDate": 1711929600,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 9,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "RYAN VAN BLOKLAND"
+        },
+        "BillOfLading": "DWCH24HWS0458374",
+        "GrossWeightKgs": 4
+      },
+      {
+        "EntryId": 263057868,
+        "ProductDescription": [
+          "WHEELED TOYS"
+        ],
+        "ArrivalDate": 1711929600,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 9,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "RYAN VAN BLOKLAND"
+        },
+        "BillOfLading": "DWCH24HWS0458356",
+        "GrossWeightKgs": 4
+      }
+    ]
+  },
+  {
+    "contactInfo": "2648 SYCAMORE AVE MONTROSE CA 91020 US",
+    "company": "MARY COLLINGS",
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "mostRecentDate": 1712448000,
+          "country": "china",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "grossWeightInKgs": 20,
+          "overAllShipmentCount": 114,
+          "containersCount": 2,
+          "shipmentCount": 2,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "grossWeightInLbs": 44,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        {
+          "iso": "cn",
+          "mostRecentDate": 1712534400,
+          "country": "china",
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "grossWeightInKgs": 3,
+          "overAllShipmentCount": 167854,
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "grossWeightInLbs": 7,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd"
+        }
+      ],
+      "totalShipments": 3
+    },
+    "totalShipments": 3,
+    "mostRecentDate": 1711929600,
+    "url": "importers/mary-collings",
+    "shipments": [
+      {
+        "EntryId": 263431897,
+        "ProductDescription": [
+          "DESK LAMP"
+        ],
+        "ArrivalDate": 1712534400,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "GrossWeightLbs": 7,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "MARY COLLINGS"
+        },
+        "BillOfLading": "TZWH62403496864",
+        "GrossWeightKgs": 3
+      },
+      {
+        "EntryId": 263429741,
+        "ProductDescription": [
+          "FLOOR LAMP"
+        ],
+        "ArrivalDate": 1712448000,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 13,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "MARY COLLINGS"
+        },
+        "BillOfLading": "DWCH24HWS0462482",
+        "GrossWeightKgs": 6
+      },
+      {
+        "EntryId": 263059121,
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "ArrivalDate": 1711929600,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 31,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "MARY COLLINGS"
+        },
+        "BillOfLading": "DWCH24HWS0458854",
+        "GrossWeightKgs": 14
+      }
+    ]
+  },
+  {
+    "contactInfo": "42690 W SMITH PEAK VIEW RD AGUILA AZ 85320 US",
+    "company": "LACIE DEMERS",
+    "shippers": {
+      "items": [
+        {
+          "iso": "cn",
+          "mostRecentDate": 1711929600,
+          "country": "china",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "grossWeightInKgs": 15,
+          "overAllShipmentCount": 114,
+          "containersCount": 2,
+          "shipmentCount": 2,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "grossWeightInLbs": 33,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        {
+          "iso": "cn",
+          "mostRecentDate": 1712534400,
+          "country": "china",
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "grossWeightInKgs": 5,
+          "overAllShipmentCount": 167854,
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "grossWeightInLbs": 11,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd"
+        }
+      ],
+      "totalShipments": 3
+    },
+    "totalShipments": 3,
+    "mostRecentDate": 1711929600,
+    "url": "importers/lacie-demers",
+    "shipments": [
+      {
+        "EntryId": 263433151,
+        "ProductDescription": [
+          "BEACH BALL"
+        ],
+        "ArrivalDate": 1712534400,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "GrossWeightLbs": 11,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "LACIE DEMERS"
+        },
+        "BillOfLading": "TZWH62403556687",
+        "GrossWeightKgs": 5
+      },
+      {
+        "EntryId": 263057098,
+        "ProductDescription": [
+          "CARPET"
+        ],
+        "ArrivalDate": 1711929600,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 15,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "LACIE DEMERS"
+        },
+        "BillOfLading": "DWCH24HWS0457586",
+        "GrossWeightKgs": 7
+      },
+      {
+        "EntryId": 263057028,
+        "ProductDescription": [
+          "CARPET"
+        ],
+        "ArrivalDate": 1711929600,
+        "CountryOfOrigin": "China",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 18,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "LACIE DEMERS"
+        },
+        "BillOfLading": "DWCH24HWS0457516",
+        "GrossWeightKgs": 8
+      }
+    ]
+  },
+  {
+    "contactInfo": "19117 205TH ST E ORTING WA 98360-935 US",
+    "totalShipments": 5,
+    "company": "MARK LWAGNER",
+    "shippers": {
+      "totalShipments": 5,
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 44,
+          "shipmentCount": 3,
+          "mostRecentDate": 1713052800,
+          "grossWeightInKgs": 20,
+          "overAllShipmentCount": 114,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "containersCount": 3,
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        },
+        {
+          "country": "china",
+          "grossWeightInLbs": 18,
+          "shipmentCount": 1,
+          "mostRecentDate": 1712534400,
+          "grossWeightInKgs": 8,
+          "overAllShipmentCount": 3712,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM1613 TIANAN CYBER PARKJIANPI FOSHAN CN"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/dlx-international-logistics-coltd",
+          "containersCount": 1,
+          "name": "DLX INTERNATIONAL LOGISTICS COLTD"
+        },
+        {
+          "country": "china",
+          "grossWeightInLbs": 29,
+          "shipmentCount": 1,
+          "mostRecentDate": 1712534400,
+          "grossWeightInKgs": 13,
+          "overAllShipmentCount": 206911,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "containersCount": 1,
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        }
+      ]
+    },
+    "mostRecentDate": 1711929600,
+    "url": "importers/mark-lwagner",
+    "shipments": [
+      {
+        "GrossWeightKgs": 4,
+        "BillOfLading": "DWCH24HWS0468030",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1713052800,
+        "EntryId": 263816923,
+        "Consignee": {
+          "name": "MARK LWAGNER"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 9,
+        "ProductDescription": [
+          "SHOPPING CART"
+        ]
+      },
+      {
+        "GrossWeightKgs": 8,
+        "BillOfLading": "FSUDDLX000001187",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "DLX INTERNATIONAL LOGISTICS COLTD",
+          "link": "suppliers/dlx-international-logistics-coltd"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1712534400,
+        "EntryId": 263442144,
+        "Consignee": {
+          "name": "MARK LWAGNER"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 18,
+        "ProductDescription": [
+          "HOUSEHOLD STORAGE BOX"
+        ]
+      },
+      {
+        "GrossWeightKgs": 13,
+        "BillOfLading": "TZWH62403434197",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "QuantityUnit": "CTN",
+        "ArrivalDate": 1712534400,
+        "EntryId": 263405898,
+        "Consignee": {
+          "name": "MARK LWAGNER"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 29,
+        "ProductDescription": [
+          "STORAGE BOX"
+        ]
+      },
+      {
+        "GrossWeightKgs": 4,
+        "BillOfLading": "DWCH24HWS0459833",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1711929600,
+        "EntryId": 263060108,
+        "Consignee": {
+          "name": "MARK LWAGNER"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 9,
+        "ProductDescription": [
+          "SHOPPING CART"
+        ]
+      },
+      {
+        "GrossWeightKgs": 12,
+        "BillOfLading": "DWCH24HWS0458882",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1711929600,
+        "EntryId": 263059149,
+        "Consignee": {
+          "name": "MARK LWAGNER"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 26,
+        "ProductDescription": [
+          "STORAGE BOX"
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "overAllShipmentCount": 195305,
+          "country": "china",
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "mostRecentDate": 1711929600,
+          "grossWeightInKgs": 7,
+          "grossWeightInLbs": 16,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "4182 OGDEN AVE BEAUMONT TX 77705 US",
+    "totalShipments": 2,
+    "company": "ONEITA STEELE",
+    "mostRecentDate": 1711929600,
+    "url": "importers/oneita-steele",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 3,
+        "GrossWeightLbs": 7,
+        "ArrivalDate": 1711929600,
+        "BillOfLading": "TZWH62403373834",
+        "EntryId": 263055909,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/hainan-golden-shell-co-ltd",
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        "ProductDescription": [
+          "FLOOR MATS"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "ONEITA STEELE"
+        }
+      },
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 4,
+        "GrossWeightLbs": 9,
+        "ArrivalDate": 1711584000,
+        "BillOfLading": "TZWH62403198523",
+        "EntryId": 263519499,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/hainan-golden-shell-co-ltd",
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        "ProductDescription": [
+          "TREADMILLS"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "ONEITA STEELE"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "401 S SPEARS ST ALVARADO TX 76009 US",
+    "totalShipments": 5,
+    "company": "TAMMYE SMITH",
+    "shippers": {
+      "totalShipments": 5,
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 52,
+          "shipmentCount": 2,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 24,
+          "overAllShipmentCount": 206911,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "containersCount": 2,
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        {
+          "country": "china",
+          "grossWeightInLbs": 36,
+          "shipmentCount": 2,
+          "mostRecentDate": 1712620800,
+          "grossWeightInKgs": 16,
+          "overAllShipmentCount": 114,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "containersCount": 2,
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        },
+        {
+          "country": "china",
+          "grossWeightInLbs": 53,
+          "shipmentCount": 1,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 24,
+          "overAllShipmentCount": 3712,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM1613 TIANAN CYBER PARKJIANPI FOSHAN CN"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/dlx-international-logistics-coltd",
+          "containersCount": 1,
+          "name": "DLX INTERNATIONAL LOGISTICS COLTD"
+        }
+      ]
+    },
+    "mostRecentDate": 1711929600,
+    "url": "importers/tammye-smith",
+    "shipments": [
+      {
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "PET CAGE"
+        ],
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "ArrivalDate": 1713657600,
+        "GrossWeightKgs": 18,
+        "BillOfLading": "TZWH62403731872",
+        "GrossWeightLbs": 40,
+        "Consignee": {
+          "name": "TAMMYE SMITH"
+        },
+        "EntryId": 264123913,
+        "Quantity": 1
+      },
+      {
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "TRAINERS"
+        ],
+        "Shipper": {
+          "name": "DLX INTERNATIONAL LOGISTICS COLTD",
+          "link": "suppliers/dlx-international-logistics-coltd"
+        },
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 24,
+        "BillOfLading": "FSUDDLX000003115",
+        "GrossWeightLbs": 53,
+        "Consignee": {
+          "name": "TAMMYE SMITH"
+        },
+        "EntryId": 263822756,
+        "Quantity": 1
+      },
+      {
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "PET CAGE"
+        ],
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 12,
+        "BillOfLading": "TZWH62403597250",
+        "GrossWeightLbs": 26,
+        "Consignee": {
+          "name": "TAMMYE SMITH"
+        },
+        "EntryId": 263794598,
+        "Quantity": 1
+      },
+      {
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "PET CAGE"
+        ],
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 12,
+        "BillOfLading": "TZWH62403609076",
+        "GrossWeightLbs": 26,
+        "Consignee": {
+          "name": "TAMMYE SMITH"
+        },
+        "EntryId": 263793227,
+        "Quantity": 1
+      },
+      {
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "PET TOY"
+        ],
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "ArrivalDate": 1712620800,
+        "GrossWeightKgs": 8,
+        "BillOfLading": "DWCH24HWS0465195",
+        "GrossWeightLbs": 18,
+        "Consignee": {
+          "name": "TAMMYE SMITH"
+        },
+        "EntryId": 263549264,
+        "Quantity": 1
+      },
+      {
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "DOG BED"
+        ],
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "ArrivalDate": 1711929600,
+        "GrossWeightKgs": 8,
+        "BillOfLading": "DWCH24HWS0457488",
+        "GrossWeightLbs": 18,
+        "Consignee": {
+          "name": "TAMMYE SMITH"
+        },
+        "EntryId": 263057000,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "contactInfo": "25800 EAGLE CREEK EAGLE CREEK OR 97022 US",
+    "totalShipments": 5,
+    "company": "CINDRA BOYLES",
+    "shippers": {
+      "totalShipments": 5,
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 75,
+          "shipmentCount": 3,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 34,
+          "overAllShipmentCount": 206911,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "containersCount": 3,
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        {
+          "country": "china",
+          "grossWeightInLbs": 26,
+          "shipmentCount": 2,
+          "mostRecentDate": 1713052800,
+          "grossWeightInKgs": 12,
+          "overAllShipmentCount": 114,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "containersCount": 2,
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        }
+      ]
+    },
+    "mostRecentDate": 1711929600,
+    "url": "importers/cindra-boyles",
+    "shipments": [
+      {
+        "GrossWeightKgs": 12,
+        "BillOfLading": "TZWH62403605260",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263793144,
+        "Consignee": {
+          "name": "CINDRA BOYLES"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 26,
+        "ProductDescription": [
+          "HAMMOCK"
+        ]
+      },
+      {
+        "GrossWeightKgs": 8,
+        "BillOfLading": "TZWH62403607438",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263792799,
+        "Consignee": {
+          "name": "CINDRA BOYLES"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 18,
+        "ProductDescription": [
+          "CAT CLIMBING FRAME"
+        ]
+      },
+      {
+        "GrossWeightKgs": 5,
+        "BillOfLading": "DWCH24HWS0468692",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1713052800,
+        "EntryId": 263817591,
+        "Consignee": {
+          "name": "CINDRA BOYLES"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 11,
+        "ProductDescription": [
+          "PET TOY"
+        ]
+      },
+      {
+        "GrossWeightKgs": 7,
+        "BillOfLading": "DWCH24HWS0457561",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1711929600,
+        "EntryId": 263057073,
+        "Consignee": {
+          "name": "CINDRA BOYLES"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 15,
+        "ProductDescription": [
+          "CAT CLIMBING FRAME"
+        ]
+      },
+      {
+        "GrossWeightKgs": 14,
+        "BillOfLading": "TZWH62403394255",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "QuantityUnit": "CTN",
+        "ArrivalDate": 1711929600,
+        "EntryId": 263055987,
+        "Consignee": {
+          "name": "CINDRA BOYLES"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 31,
+        "ProductDescription": [
+          "CAT CLIMBING FRAME"
+        ]
+      }
+    ]
+  },
+  {
+    "contactInfo": "1045 S 1200 W OGDEN UT 84404 US",
+    "totalShipments": 3,
+    "company": "VALERIE MCCALLUM",
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 29,
+          "shipmentCount": 1,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 13,
+          "overAllShipmentCount": 3712,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM1613 TIANAN CYBER PARKJIANPI FOSHAN CN"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/dlx-international-logistics-coltd",
+          "containersCount": 1,
+          "name": "DLX INTERNATIONAL LOGISTICS COLTD"
+        },
+        {
+          "country": "china",
+          "grossWeightInLbs": 22,
+          "shipmentCount": 1,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 10,
+          "overAllShipmentCount": 206911,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "containersCount": 1,
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        },
+        {
+          "country": "china",
+          "grossWeightInLbs": 18,
+          "shipmentCount": 1,
+          "mostRecentDate": 1711929600,
+          "grossWeightInKgs": 8,
+          "overAllShipmentCount": 114,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "containersCount": 1,
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        }
+      ]
+    },
+    "mostRecentDate": 1711929600,
+    "url": "importers/valerie-mccallum",
+    "shipments": [
+      {
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "CAT CLIMBING FRAME"
+        ],
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "ArrivalDate": 1713657600,
+        "GrossWeightKgs": 7,
+        "BillOfLading": "DWCH24HWS0467255",
+        "GrossWeightLbs": 15,
+        "Consignee": {
+          "name": "VALERIE MCCALLUM"
+        },
+        "EntryId": 264099912,
+        "Quantity": 1
+      },
+      {
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "BACKREST CHAIRS"
+        ],
+        "Shipper": {
+          "name": "DLX INTERNATIONAL LOGISTICS COLTD",
+          "link": "suppliers/dlx-international-logistics-coltd"
+        },
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 13,
+        "BillOfLading": "FSUDDLX000003590",
+        "GrossWeightLbs": 29,
+        "Consignee": {
+          "name": "VALERIE MCCALLUM"
+        },
+        "EntryId": 263823531,
+        "Quantity": 1
+      },
+      {
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "CAT CLIMBING FRAME"
+        ],
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 10,
+        "BillOfLading": "TZWH62403619300",
+        "GrossWeightLbs": 22,
+        "Consignee": {
+          "name": "VALERIE MCCALLUM"
+        },
+        "EntryId": 263792774,
+        "Quantity": 1
+      },
+      {
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "CAT CLIMBING FRAME"
+        ],
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "ArrivalDate": 1711929600,
+        "GrossWeightKgs": 8,
+        "BillOfLading": "DWCH24HWS0457494",
+        "GrossWeightLbs": 18,
+        "Consignee": {
+          "name": "VALERIE MCCALLUM"
+        },
+        "EntryId": 263057006,
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "contactInfo": "10256 SHOECH WAY ELK GROVE CA 95757-352 US",
+    "totalShipments": 3,
+    "company": "CATALINA SOLIMAN",
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 36,
+          "shipmentCount": 2,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 16,
+          "overAllShipmentCount": 114,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "containersCount": 2,
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        },
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 3,
+          "overAllShipmentCount": 206911,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "containersCount": 1,
+          "name": "HAINAN GOLDEN SHELL CO., LTD."
+        }
+      ]
+    },
+    "mostRecentDate": 1711929600,
+    "url": "importers/catalina-soliman",
+    "shipments": [
+      {
+        "GrossWeightKgs": 8,
+        "BillOfLading": "DWCH24HWS0471263",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263826328,
+        "Consignee": {
+          "name": "CATALINA SOLIMAN"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 18,
+        "ProductDescription": [
+          "SHOPPING CART"
+        ]
+      },
+      {
+        "GrossWeightKgs": 3,
+        "BillOfLading": "TZWH62403592948",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263794134,
+        "Consignee": {
+          "name": "CATALINA SOLIMAN"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 7,
+        "ProductDescription": [
+          "TOILET"
+        ]
+      },
+      {
+        "GrossWeightKgs": 8,
+        "BillOfLading": "DWCH24HWS0459066",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1711929600,
+        "EntryId": 263059333,
+        "Consignee": {
+          "name": "CATALINA SOLIMAN"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 18,
+        "ProductDescription": [
+          "PERCUSSION INSTRUMENTS"
+        ]
+      }
+    ]
+  }
+]

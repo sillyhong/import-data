@@ -1,0 +1,6007 @@
+[
+  {
+    "contactInfo": "206 EDDYSTONE AVE,CRUM LYNNE,PA 19022 TEL 610-497-8586",
+    "company": "BDP INTERNATIONAL EDDYSTONE",
+    "totalShipments": 2,
+    "shippers": {
+      "items": [
+        {
+          "shipmentCount": 2,
+          "iso": "sg",
+          "name": "THE KEIHIN CO., LTD.",
+          "containersCount": 3,
+          "grossWeightInKgs": 36760,
+          "landingPageUrl": "suppliers/the-keihin-co-ltd",
+          "country": "singapore",
+          "lastAddress": {
+            "fullAddress": "3-4-20 KAIGAN MINATO-KU,TOKYO,JAPAN TEL 3-3456-7857 FAX 3-34567833",
+            "shortAddress": "Singapore"
+          },
+          "grossWeightInLbs": 80872,
+          "mostRecentDate": 1713484800,
+          "overAllShipmentCount": 4459
+        }
+      ],
+      "totalShipments": 2
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/bdp-international-eddystone",
+    "shipments": [
+      {
+        "BillOfLading": "HLCUMN2240200936",
+        "GrossWeightLbs": 26998,
+        "Quantity": 48,
+        "EntryId": 263983420,
+        "Shipper": {
+          "link": "suppliers/the-keihin-co-ltd",
+          "name": "THE KEIHIN CO., LTD."
+        },
+        "CountryOfOrigin": "Singapore",
+        "ArrivalDate": 1713484800,
+        "GrossWeightKgs": 12272,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "BDP INTERNATIONAL EDDYSTONE"
+        },
+        "ProductDescription": [
+          "AUTO PARTS (PEDAL ASSEMBLY) ."
+        ]
+      },
+      {
+        "BillOfLading": "HLCUMN2240105127",
+        "GrossWeightLbs": 53874,
+        "Quantity": 96,
+        "EntryId": 263492173,
+        "Shipper": {
+          "link": "suppliers/the-keihin-co-ltd",
+          "name": "THE KEIHIN CO., LTD."
+        },
+        "CountryOfOrigin": "Singapore",
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 24488,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "BDP INTERNATIONAL EDDYSTONE"
+        },
+        "ProductDescription": [
+          "AUTO PARTS (PEDAL ASSEMBLY) .",
+          "AUTO PARTS (PEDAL ASSEMBLY) ."
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "gb",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/rob-boston-racing-ltd",
+          "overAllShipmentCount": 1,
+          "country": "united kingdom",
+          "name": "ROB BOSTON RACING LTD",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 72,
+          "grossWeightInLbs": 158,
+          "lastAddress": {
+            "shortAddress": "United Kingdom",
+            "fullAddress": "UNIT 7A HEAPHAM ROAD LINCOLNSHIRE DN21 1RZ GB"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "31210 144TH AVE KENT WA 98042 US",
+    "totalShipments": 1,
+    "company": "RACER ON RAILS",
+    "mostRecentDate": 1712707200,
+    "url": "importers/racer-on-rails",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 72,
+        "GrossWeightLbs": 158,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "PCXS3ET24020104",
+        "EntryId": 263492716,
+        "CountryOfOrigin": "United Kingdom",
+        "Shipper": {
+          "link": "suppliers/rob-boston-racing-ltd",
+          "name": "ROB BOSTON RACING LTD"
+        },
+        "ProductDescription": [
+          "GEARBOX"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "RACER ON RAILS"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "th",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/oriental-copper-thailand",
+          "overAllShipmentCount": 3,
+          "country": "thailand",
+          "name": "ORIENTAL COPPER THAILAND",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 5689,
+          "grossWeightInLbs": 12516,
+          "lastAddress": {
+            "shortAddress": "Thailand",
+            "fullAddress": "27TH FL BANGKOK INSURANCE Y.W.C.A B UILDING 25 SOUTH SATHON ROAD THUNGM UILDING 25 SOUTH SATHON ROAD THUNGM"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "VTC DISTRIBUTION 101 SMORGON WAY 101 SMORGON WAY",
+    "totalShipments": 1,
+    "company": "VERGINIA TRANSFORMER CORP",
+    "mostRecentDate": 1712707200,
+    "url": "importers/verginia-transformer-corp",
+    "shipments": [
+      {
+        "Quantity": 7,
+        "GrossWeightKgs": 5689,
+        "GrossWeightLbs": 12516,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "ATGIH24020093",
+        "EntryId": 263493379,
+        "CountryOfOrigin": "Thailand",
+        "Shipper": {
+          "link": "suppliers/oriental-copper-thailand",
+          "name": "ORIENTAL COPPER THAILAND"
+        },
+        "ProductDescription": [
+          "HIGH CONDUCTIVITY COPPER BAR, COPPER STRIP"
+        ],
+        "QuantityUnit": "BDL",
+        "Consignee": {
+          "name": "VERGINIA TRANSFORMER CORP"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "shipmentCount": 1,
+          "country": "united arab em",
+          "name": "N/A",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 18630,
+          "grossWeightInLbs": 40986,
+          "lastAddress": {
+            "shortAddress": "United Arab Em",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "VIA EDIFICIO BRAZIL 11 PISO CALLE E CIUDAD DEL ESTE 92832 PARAGUAY",
+    "totalShipments": 1,
+    "company": "VIA BRASIL S.R.L",
+    "mostRecentDate": 1712707200,
+    "url": "importers/via-brasil-s-r-l",
+    "shipments": [
+      {
+        "Quantity": 663,
+        "GrossWeightKgs": 18630,
+        "GrossWeightLbs": 40986,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "MEDUDV320012",
+        "EntryId": 263494006,
+        "CountryOfOrigin": "United Arab Em",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "PERFUMES AND TOILET WATERS (EXCL. AFTERSHAVE LOTIO - PERFUMERY IN 20 PLASTIC PALLETS NCM:3303HS CODE - 33030010 CARGO IN-TRANSIT TO PARAGUAY AT CONSIGNEE'S OWN RISKS AND EXPENSES AND CARRIER RESPONSIBILITY CEASES AT PORT OF DISCHARGE TIPO DE CONSIGNATARIO: PC. DE ENTREGA NO EXTERIOR PAIS DE ENTREGA: PARAGUAY 14 D, AYS F/T AT POD."
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "VIA BRASIL S.R.L"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "om",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/marine-engagement-team-jordan",
+          "overAllShipmentCount": 61,
+          "country": "oman",
+          "name": "MARINE ENGAGEMENT TEAM JORDAN",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 6136,
+          "grossWeightInLbs": 13500,
+          "lastAddress": {
+            "shortAddress": "Oman",
+            "fullAddress": "JOINT TRAINING CENTER JORDANIAN AF SIM CTR ZARKA JO 13112 ZARKA JO 13112 96266934000"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "BLDG 9640 I STREET BAY F JOINT BASE LEWIS MCCHWA FORT LEWIS, WA",
+    "totalShipments": 1,
+    "company": "W90MZV 0573 EN TM CONSTRUCTION MA",
+    "mostRecentDate": 1712707200,
+    "url": "importers/w90mzv-0573-en-tm-construction-ma",
+    "shipments": [
+      {
+        "Quantity": 2,
+        "GrossWeightKgs": 6136,
+        "GrossWeightLbs": 13500,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "MAEIUSG346387",
+        "EntryId": 263497401,
+        "CountryOfOrigin": "Oman",
+        "Shipper": {
+          "link": "suppliers/marine-engagement-team-jordan",
+          "name": "MARINE ENGAGEMENT TEAM JORDAN"
+        },
+        "ProductDescription": [
+          "US DIPLOMATIC CARGO TRLRS/S EMI-TRLRS NOT GT 2.5 TON CAP SPEC CAR 123120080233/NW22S P TLR CGO HIMOB 3/4-T 302650 /NZ1PES TRK UT EXP CAP BB CARGO"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "W90MZV 0573 EN TM CONSTRUCTION MA"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "lk",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/floorgardens",
+          "overAllShipmentCount": 214,
+          "country": "sri lanka",
+          "name": "FLOORGARDENS",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 9256,
+          "grossWeightInLbs": 20363,
+          "lastAddress": {
+            "shortAddress": "Sri Lanka",
+            "fullAddress": "MAYITHRA MARKET KANICHUKULANGA MAYITHARA CHERTHALA ALLEPPEY IN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "EBIALA ENISUOH 819 ANITA ST, CHULA VISTA CHULA VISTA CA 91911 US",
+    "totalShipments": 1,
+    "company": "RAG TAG MATS",
+    "mostRecentDate": 1712707200,
+    "url": "importers/rag-tag-mats",
+    "shipments": [
+      {
+        "Quantity": 445,
+        "GrossWeightKgs": 9256,
+        "GrossWeightLbs": 20363,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "DMALCOKA04668",
+        "EntryId": 263497720,
+        "CountryOfOrigin": "Sri Lanka",
+        "Shipper": {
+          "link": "suppliers/floorgardens",
+          "name": "FLOORGARDENS"
+        },
+        "ProductDescription": [
+          "PVC BACKED COIR TUFTED MATS INVOICE NO:FG/339/2023-24 DT. 24.02.2024 SB NO: 7815278 DT. 24.02.2024 HS CODE : 57039090 TOTAL N.WT: 8811.00 KGS TOTAL G.WT: 9256.00 KGS TOTAL 445 ( FOUR HUNDRED AND FOURTY FIVE) CARTONS ONLY"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "RAG TAG MATS"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "es",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/psagot-playground-ltd",
+          "overAllShipmentCount": 2,
+          "country": "spain",
+          "name": "PSAGOT PLAYGROUND LTD.",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 5000,
+          "grossWeightInLbs": 11000,
+          "lastAddress": {
+            "shortAddress": "Spain",
+            "fullAddress": "MP EAST BENJAMIN PSAGOT JM 9062400 ISRAEL"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "3707 NE COLUMBIA BLVD PORTLAND, OR OR 97211 UNITED STATES",
+    "totalShipments": 1,
+    "company": "WILDWOOD PLAYGROUNDS LTD",
+    "mostRecentDate": 1712707200,
+    "url": "importers/wildwood-playgrounds-ltd",
+    "shipments": [
+      {
+        "Quantity": 11,
+        "GrossWeightKgs": 5000,
+        "GrossWeightLbs": 11000,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "MEDUAS759234",
+        "EntryId": 263498220,
+        "CountryOfOrigin": "Spain",
+        "Shipper": {
+          "link": "suppliers/psagot-playground-ltd",
+          "name": "PSAGOT PLAYGROUND LTD."
+        },
+        "ProductDescription": [
+          "11 PIECES OF VRIOUS TOYS H S CODE: 950699"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "WILDWOOD PLAYGROUNDS LTD"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "in",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/suncity-metals-and-tubes-private-li",
+          "overAllShipmentCount": 10,
+          "country": "india",
+          "name": "SUNCITY METALS AND TUBES PRIVATE LI",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 28397,
+          "grossWeightInLbs": 62473,
+          "lastAddress": {
+            "shortAddress": "India",
+            "fullAddress": "VILLAGE GUNDALA, PLOT NO. 503/2, 52 MUNDRA GJ 370410 INDIA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "AV DUQUE DE CAXIAS, 2300/ GP A - JA FORTALEZA CE 60035078 BRAZIL",
+    "totalShipments": 1,
+    "company": "A C E DISTRIBUIDORA DE ACO INOX E M",
+    "mostRecentDate": 1712707200,
+    "url": "importers/a-c-e-distribuidora-de-aco-inox-e-m",
+    "shipments": [
+      {
+        "Quantity": 95,
+        "GrossWeightKgs": 28397,
+        "GrossWeightLbs": 62473,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "MEDUE7649290",
+        "EntryId": 263498472,
+        "CountryOfOrigin": "India",
+        "Shipper": {
+          "link": "suppliers/suncity-metals-and-tubes-private-li",
+          "name": "SUNCITY METALS AND TUBES PRIVATE LI"
+        },
+        "ProductDescription": [
+          "STAINLESS STEEL WELDED ROUND TUBES - SAID TO CONTAIN / WEIGHT & MEASURE 01X40HC FCL CNTR STC: 95 BUNDLE (S) NIN ETY FIVE OF STAINLESS ST EEL WELDED ROUND TUBES TP 304 - ASTM A554 WITH 6 ME TERS LENGTH SB NO. 78006 88 DATE: 24/02/2024 INVO ICE NO. EXP/2023-24/178 D T. 24/02/2024 IE CODE: 1 304009815,  WOODEN PACKING : NOT APPLICABLE NET WE IGHT : 28302 KGS CBM : 5 0 NCM NO. : 7306"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "A C E DISTRIBUIDORA DE ACO INOX E M"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "in",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/j-j-plastalloy-pvt-ltd",
+          "overAllShipmentCount": 69,
+          "country": "india",
+          "name": "J.J. PLASTALLOY PVT.LTD.",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 28089,
+          "grossWeightInLbs": 61796,
+          "lastAddress": {
+            "shortAddress": "India",
+            "fullAddress": "D/2/P/23, DAHEJ INDUSTRIAL ESTATE BHARUCH GJ 392130 INDIA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "PROVIDENCIA,CHILE MANUEL,BARROS BAR PROVIDENCIA RM 199 CHILE",
+    "totalShipments": 1,
+    "company": "PROMA CHILE LIMITADA",
+    "mostRecentDate": 1712707200,
+    "url": "importers/proma-chile-limitada",
+    "shipments": [
+      {
+        "Quantity": 1120,
+        "GrossWeightKgs": 28089,
+        "GrossWeightLbs": 61796,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "MEDUE7680352",
+        "EntryId": 263498528,
+        "CountryOfOrigin": "India",
+        "Shipper": {
+          "link": "suppliers/j-j-plastalloy-pvt-ltd",
+          "name": "J.J. PLASTALLOY PVT.LTD."
+        },
+        "ProductDescription": [
+          "COLOUR MASTER BATCH - 1X40 FCL CONTAINER SAID TO CONTAIN 1120 BAGS TOTAL 1120 BAGS EACH OF 25 KGS ORIGIN : INDIA CFR SAN ANTONIO PORT, CHILE BL ACK MASTER BATCH BKE 01 21 PC - 1000 BAGS EACH OF 25 KGS HS CODE: 3204199 0 COLOUR MASTER BATCH WE-9135 PC 120 BAGS EACH OF 25 KGS HS CODE: 32064 990 I, NVOICE NO.: DG-2300 7059 DATE : 21/02/2024 S .BILL NO: 7715425 DATE: 21 /02/2024 NET WEIGHT: 280 00.000 KGS GROSS WEIGHT: 2 8089.600 KGS. FREIGHT PR EPAID"
+        ],
+        "QuantityUnit": "BAG",
+        "Consignee": {
+          "name": "PROMA CHILE LIMITADA"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "kr",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/dalian-tiankui-pet-products-co-ltd",
+          "overAllShipmentCount": 299,
+          "country": "south korea",
+          "name": "DALIAN TIANKUI PET PRODUCTS CO.,LTD",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 498,
+          "grossWeightInLbs": 1096,
+          "lastAddress": {
+            "shortAddress": "South Korea",
+            "fullAddress": "BEIHAI INDUSTRIAL PARK,MAOYINGZI,DA LIANWAN, GANJINGZI DIST. DALIAN LI AONING CHINA,116113,CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "250 RIVERSIDE STREET CHILLICOTHE O H 45601 USA,MUNCIE,IN, 47302,US",
+    "totalShipments": 1,
+    "company": "PETLAND INC. (US)",
+    "mostRecentDate": 1712707200,
+    "url": "importers/petland-inc-us",
+    "shipments": [
+      {
+        "Quantity": 91,
+        "GrossWeightKgs": 498,
+        "GrossWeightLbs": 1096,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "THGLDLN24030030",
+        "EntryId": 263509022,
+        "CountryOfOrigin": "South Korea",
+        "Shipper": {
+          "link": "suppliers/dalian-tiankui-pet-products-co-ltd",
+          "name": "DALIAN TIANKUI PET PRODUCTS CO.,LTD"
+        },
+        "ProductDescription": [
+          "PET BED"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "PETLAND INC. (US)"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "nl",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jensen-sweden-ab",
+          "overAllShipmentCount": 84,
+          "country": "netherlands",
+          "name": "JENSEN SWEDEN AB",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 3506,
+          "grossWeightInLbs": 7713,
+          "lastAddress": {
+            "shortAddress": "Netherlands",
+            "fullAddress": "FORETAGSGATAN 68 BORAS, VASTRA GOT ALAND, SWEDEN TELEX: 50464 ."
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "580 N MONITOR RD SPRINGDALE, WASHI NGTON, ARKANSAS, UNITED STATES TEL EX: 72764",
+    "totalShipments": 1,
+    "company": "CINTAS SPRINGDALE (AR)",
+    "mostRecentDate": 1712707200,
+    "url": "importers/cintas-springdale-ar",
+    "shipments": [
+      {
+        "Quantity": 9,
+        "GrossWeightKgs": 3506,
+        "GrossWeightLbs": 7713,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "OOLU273378231001",
+        "EntryId": 263509264,
+        "CountryOfOrigin": "Netherlands",
+        "Shipper": {
+          "link": "suppliers/jensen-sweden-ab",
+          "name": "JENSEN SWEDEN AB"
+        },
+        "ProductDescription": [
+          "CONVEYOR SYSTEM HS.84289090"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "CINTAS SPRINGDALE (AR)"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/anhui-sugrand-top-nets-co-ltd",
+          "overAllShipmentCount": 7,
+          "country": "china",
+          "name": "ANHUI SUGRAND TOP NETS CO.,LTD",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 25500,
+          "grossWeightInLbs": 56100,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM1505,BLOCK B, JINZHONGHUAN PLAZA,299 WANGJIANG EAST ROAD CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "10709 12TH AVE E TACOMA, WA98445 TACOMA WA98445 US",
+    "totalShipments": 1,
+    "company": "EAST VALLEY FARMS LLC",
+    "mostRecentDate": 1712707200,
+    "url": "importers/east-valley-farms-llc",
+    "shipments": [
+      {
+        "Quantity": 2491,
+        "GrossWeightKgs": 25500,
+        "GrossWeightLbs": 56100,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "UPSPQDA24020372",
+        "EntryId": 263519911,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/anhui-sugrand-top-nets-co-ltd",
+          "name": "ANHUI SUGRAND TOP NETS CO.,LTD"
+        },
+        "ProductDescription": [
+          "PP GROUND COVER"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "EAST VALLEY FARMS LLC"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/foshan-gaoming-wanshun-kay",
+          "overAllShipmentCount": 38,
+          "country": "china",
+          "name": "FOSHAN GAOMING WANSHUN KAY",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 9610,
+          "grossWeightInLbs": 21142,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "VENTILATION EQUIPMENT CO LTD SANZHO U CANGJIANG INDUSTRY ZONE GAOMING DISTRICT FOSHAN CITY GUANGDONG CN"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "KETTLE BUTTE DAIRY 3 20N 2100E ROBERTS IDAHO USA 83444",
+    "totalShipments": 2,
+    "company": "CANNON DAIRY",
+    "mostRecentDate": 1712707200,
+    "url": "importers/cannon-dairy",
+    "shipments": [
+      {
+        "Quantity": 10,
+        "GrossWeightKgs": 4620,
+        "GrossWeightLbs": 10164,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "OSTISZSLC2430518",
+        "EntryId": 263527579,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/foshan-gaoming-wanshun-kay",
+          "name": "FOSHAN GAOMING WANSHUN KAY"
+        },
+        "ProductDescription": [
+          "VENTILATION COOLING SYSTEM"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "CANNON DAIRY"
+        }
+      },
+      {
+        "Quantity": 18,
+        "GrossWeightKgs": 4990,
+        "GrossWeightLbs": 10978,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "OSTISZSLC2430526",
+        "EntryId": 263527562,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/foshan-gaoming-wanshun-kay",
+          "name": "FOSHAN GAOMING WANSHUN KAY"
+        },
+        "ProductDescription": [
+          "VENTILATION COOLING SYSTEM"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "CANNON DAIRY"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "PR 156 KM 58.2 VALLE TOLIMA INDUSTR IAL PARK,CAGUAS, PUERTO RICO 132 ES TANCIAS,DEL LAGO CAGUAS, 00725,PR",
+    "company": "H & E HOM",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "shipmentCount": 1,
+          "iso": "mx",
+          "name": "QINGDAO REXI INDUSTRIES COMPANY LIM",
+          "containersCount": 1,
+          "grossWeightInKgs": 26200,
+          "landingPageUrl": "suppliers/qingdao-rexi-industries-company-lim",
+          "country": "mexico",
+          "lastAddress": {
+            "fullAddress": "NO.1 XIANGLING ROAD,QINGDAO,PR.CHIN A,QINGDAO,CN",
+            "shortAddress": "Mexico"
+          },
+          "grossWeightInLbs": 57640,
+          "mostRecentDate": 1712707200,
+          "overAllShipmentCount": 207
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/h-e-hom",
+    "shipments": [
+      {
+        "BillOfLading": "QLOMSLHE24020395",
+        "GrossWeightLbs": 57640,
+        "Quantity": 14,
+        "EntryId": 263529101,
+        "Shipper": {
+          "link": "suppliers/qingdao-rexi-industries-company-lim",
+          "name": "QINGDAO REXI INDUSTRIES COMPANY LIM"
+        },
+        "CountryOfOrigin": "Mexico",
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 26200,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "H & E HOM"
+        },
+        "ProductDescription": [
+          "LAMINATED GLASS, 3MM CLEAR GLASS + 0.38MM CLEAR PVB + 3MM CLEAR GLASS LAMINATED GLASS, 3MMCLEAR GLASS + 0.38MM MILKWHITE PVB + 3MM CLE AR GLASS LAMINATED GLASS, 3MM CLEAR GLASS + 0.38MM BLUE GREEN PVB + 3MM CLEAR GLASS LAMINATED GLASS, 3MM CLEAR GLASS + 0.38MM BRONZE PVB + 3MM CLEAR GLASS"
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "items": [
+        {
+          "overAllShipmentCount": 272,
+          "country": "china",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "TRUST COMPANY COMPLEX,AJEITAKE ISLAND, AJEITAKE ROAD, MAJURO, MAJURO MH"
+          },
+          "iso": "cn",
+          "name": "PHOENIX INTERNATIONAL HOLDING LIMIT",
+          "mostRecentDate": 1713312000,
+          "grossWeightInLbs": 191970,
+          "containersCount": 5,
+          "landingPageUrl": "suppliers/phoenix-international-holding-limit",
+          "grossWeightInKgs": 87260,
+          "shipmentCount": 5
+        },
+        {
+          "overAllShipmentCount": 719,
+          "country": "china",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "MARSHALL ISLANDS MH96960 ISLAND, AJEITAKE ROAD,MAJURO MAJURO MH"
+          },
+          "iso": "cn",
+          "name": "PHOENIX INTL BUSINESS LOGISTICS",
+          "mostRecentDate": 1712707200,
+          "grossWeightInLbs": 198269,
+          "containersCount": 5,
+          "landingPageUrl": "suppliers/phoenix-intl-business-logistics",
+          "grossWeightInKgs": 90123,
+          "shipmentCount": 5
+        }
+      ],
+      "totalShipments": 10
+    },
+    "totalShipments": 10,
+    "contactInfo": "643 CHATHAM RD GLENVIEW IL 60025 US",
+    "company": "WINS NORTH AMERICA LLC.",
+    "mostRecentDate": 1712707200,
+    "url": "importers/wins-north-america-llc",
+    "shipments": [
+      {
+        "Shipper": {
+          "link": "suppliers/phoenix-international-holding-limit",
+          "name": "PHOENIX INTERNATIONAL HOLDING LIMIT"
+        },
+        "GrossWeightLbs": 38394,
+        "ProductDescription": [
+          "GASOLINE ENGINE"
+        ],
+        "ArrivalDate": 1713312000,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SCQHNJGSD3000054",
+        "Quantity": 42,
+        "Consignee": {
+          "name": "WINS NORTH AMERICA LLC."
+        },
+        "GrossWeightKgs": 17452,
+        "EntryId": 263903513
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/phoenix-international-holding-limit",
+          "name": "PHOENIX INTERNATIONAL HOLDING LIMIT"
+        },
+        "GrossWeightLbs": 38394,
+        "ProductDescription": [
+          "GASOLINE ENGINE"
+        ],
+        "ArrivalDate": 1713312000,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SCQHNJGSD3000053",
+        "Quantity": 42,
+        "Consignee": {
+          "name": "WINS NORTH AMERICA LLC."
+        },
+        "GrossWeightKgs": 17452,
+        "EntryId": 263903463
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/phoenix-international-holding-limit",
+          "name": "PHOENIX INTERNATIONAL HOLDING LIMIT"
+        },
+        "GrossWeightLbs": 38394,
+        "ProductDescription": [
+          "GASOLINE ENGINE"
+        ],
+        "ArrivalDate": 1713312000,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SCQHNJGSD3000050",
+        "Quantity": 42,
+        "Consignee": {
+          "name": "WINS NORTH AMERICA LLC."
+        },
+        "GrossWeightKgs": 17452,
+        "EntryId": 263901357
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/phoenix-international-holding-limit",
+          "name": "PHOENIX INTERNATIONAL HOLDING LIMIT"
+        },
+        "GrossWeightLbs": 38394,
+        "ProductDescription": [
+          "GASOLINE ENGINE"
+        ],
+        "ArrivalDate": 1713312000,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SCQHNJGSD3000052",
+        "Quantity": 42,
+        "Consignee": {
+          "name": "WINS NORTH AMERICA LLC."
+        },
+        "GrossWeightKgs": 17452,
+        "EntryId": 263901347
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/phoenix-international-holding-limit",
+          "name": "PHOENIX INTERNATIONAL HOLDING LIMIT"
+        },
+        "GrossWeightLbs": 38394,
+        "ProductDescription": [
+          "GASOLINE ENGINE"
+        ],
+        "ArrivalDate": 1713312000,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SCQHNJGSD3000051",
+        "Quantity": 42,
+        "Consignee": {
+          "name": "WINS NORTH AMERICA LLC."
+        },
+        "GrossWeightKgs": 17452,
+        "EntryId": 263901331
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/phoenix-intl-business-logistics",
+          "name": "PHOENIX INTL BUSINESS LOGISTICS"
+        },
+        "GrossWeightLbs": 38394,
+        "ProductDescription": [
+          "GASOLINE ENGINE"
+        ],
+        "ArrivalDate": 1712707200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SCQHNJGSD3000072",
+        "Quantity": 42,
+        "Consignee": {
+          "name": "WINS NORTH AMERICA LLC."
+        },
+        "GrossWeightKgs": 17452,
+        "EntryId": 263529175
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/phoenix-intl-business-logistics",
+          "name": "PHOENIX INTL BUSINESS LOGISTICS"
+        },
+        "GrossWeightLbs": 41406,
+        "ProductDescription": [
+          "GASOLINE ENGINE"
+        ],
+        "ArrivalDate": 1712707200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SCQHNJGSD3000073",
+        "Quantity": 42,
+        "Consignee": {
+          "name": "WINS NORTH AMERICA LLC."
+        },
+        "GrossWeightKgs": 18821,
+        "EntryId": 263529154
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/phoenix-intl-business-logistics",
+          "name": "PHOENIX INTL BUSINESS LOGISTICS"
+        },
+        "GrossWeightLbs": 38394,
+        "ProductDescription": [
+          "GASOLINE ENGINE"
+        ],
+        "ArrivalDate": 1712707200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SCQHNJGSD3000074",
+        "Quantity": 42,
+        "Consignee": {
+          "name": "WINS NORTH AMERICA LLC."
+        },
+        "GrossWeightKgs": 17452,
+        "EntryId": 263529103
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/phoenix-intl-business-logistics",
+          "name": "PHOENIX INTL BUSINESS LOGISTICS"
+        },
+        "GrossWeightLbs": 41406,
+        "ProductDescription": [
+          "GASOLINE ENGINE"
+        ],
+        "ArrivalDate": 1712707200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SCQHNJGSD3000043",
+        "Quantity": 42,
+        "Consignee": {
+          "name": "WINS NORTH AMERICA LLC."
+        },
+        "GrossWeightKgs": 18821,
+        "EntryId": 263529102
+      },
+      {
+        "Shipper": {
+          "link": "suppliers/phoenix-intl-business-logistics",
+          "name": "PHOENIX INTL BUSINESS LOGISTICS"
+        },
+        "GrossWeightLbs": 38669,
+        "ProductDescription": [
+          "GASOLINE ENGINE"
+        ],
+        "ArrivalDate": 1712707200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "SCQHNJGSD3000041",
+        "Quantity": 42,
+        "Consignee": {
+          "name": "WINS NORTH AMERICA LLC."
+        },
+        "GrossWeightKgs": 17577,
+        "EntryId": 263529095
+      }
+    ]
+  },
+  {
+    "contactInfo": "275 CLEARBROOK RD ELMSFORD, NY 1052 3,ELMSFORD, ,US",
+    "company": "ACESUR WORLDWIDE AMERICA INC",
+    "totalShipments": 2,
+    "shippers": {
+      "items": [
+        {
+          "shipmentCount": 2,
+          "iso": "cn",
+          "name": "CHIMELONG IMPORT AND EXPORT LIMITED",
+          "containersCount": 2,
+          "grossWeightInKgs": 24619,
+          "landingPageUrl": "suppliers/chimelong-import-and-export-limited",
+          "country": "china",
+          "lastAddress": {
+            "fullAddress": "ROOM 418, HOLLYWOOD PLAZA, 610 NATH AN ROAD, MONGKOK, KOWLOON, HONG KON G 999077,HONG KONG,CN",
+            "shortAddress": "China"
+          },
+          "grossWeightInLbs": 54162,
+          "mostRecentDate": 1713484800,
+          "overAllShipmentCount": 2
+        }
+      ],
+      "totalShipments": 2
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/acesur-worldwide-america-inc",
+    "shipments": [
+      {
+        "BillOfLading": "NPSCNPSEL2401990",
+        "GrossWeightLbs": 23166,
+        "Quantity": 540,
+        "EntryId": 264023463,
+        "Shipper": {
+          "link": "suppliers/chimelong-import-and-export-limited",
+          "name": "CHIMELONG IMPORT AND EXPORT LIMITED"
+        },
+        "CountryOfOrigin": "China",
+        "ArrivalDate": 1713484800,
+        "GrossWeightKgs": 10530,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "ACESUR WORLDWIDE AMERICA INC"
+        },
+        "ProductDescription": [
+          "LADIES 60%COTTON 40%POLYESTER KNITTED JACKETSLADIES 59%COTTON 41%POLYESTER KNITTED JACKE TS LADIES 57%COTTON 43%POLYESTER KNITTED JACKETS"
+        ]
+      },
+      {
+        "BillOfLading": "PLKQSH24046009",
+        "GrossWeightLbs": 30996,
+        "Quantity": 1718,
+        "EntryId": 263534712,
+        "Shipper": {
+          "link": "suppliers/chimelong-import-and-export-limited",
+          "name": "CHIMELONG IMPORT AND EXPORT LIMITED"
+        },
+        "CountryOfOrigin": "China",
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 14089,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "ACESUR WORLDWIDE AMERICA INC"
+        },
+        "ProductDescription": [
+          "LADIES 60%COTTON 40%POLYESTER KNITTED T-SHIRTS"
+        ]
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "2710 FORUM DR SUITE 300 GRAND PRAIRIE, TX 75052 US",
+    "company": "DOMETIC CORPORATIO",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "china",
+          "containersCount": 1,
+          "mostRecentDate": 1712707200,
+          "grossWeightInLbs": 3051,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "fullAddress": "-NOT AVAILABLE-",
+            "shortAddress": "China"
+          },
+          "grossWeightInKgs": 1387,
+          "iso": "cn",
+          "name": "N/A"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/dometic-corporatio",
+    "shipments": [
+      {
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "MATTRESS"
+        ],
+        "Consignee": {
+          "name": "DOMETIC CORPORATIO"
+        },
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 1387,
+        "Quantity": 126,
+        "GrossWeightLbs": 3051,
+        "EntryId": 263536629,
+        "BillOfLading": "SHPT29697605",
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/ningbo-yifuyuan-technology-co-ltd",
+          "overAllShipmentCount": 1,
+          "country": "china",
+          "name": "NINGBO YIFUYUAN TECHNOLOGY CO., LTD",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 430,
+          "grossWeightInLbs": 946,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "8-1 SHUNDA ROAD, JIATANG VILLAGE, S IMEN TOWN YUYAO ZH 315000 CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "C/O FBA21590 NEEDHAM RANCH PARKWAY SANTA CLARITA CA 91321 US",
+    "totalShipments": 1,
+    "company": "NINGBO YIFUYUAN TECHNOLOGY CO., LTD",
+    "mostRecentDate": 1712707200,
+    "url": "importers/ningbo-yifuyuan-technology-co-ltd",
+    "shipments": [
+      {
+        "Quantity": 24,
+        "GrossWeightKgs": 430,
+        "GrossWeightLbs": 946,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "AMZDCN24VJBHCMRL",
+        "EntryId": 263536782,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/ningbo-yifuyuan-technology-co-ltd",
+          "name": "NINGBO YIFUYUAN TECHNOLOGY CO., LTD"
+        },
+        "ProductDescription": [
+          "STEEL WIRE"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "NINGBO YIFUYUAN TECHNOLOGY CO., LTD"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "country": "china",
+          "name": "N/A",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 271,
+          "grossWeightInLbs": 596,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "ANGONG C/O FBA21590 NEEDHAM RANCH P ARKWAY SANTA CLARITA CA 91321 US",
+    "totalShipments": 1,
+    "company": "YIWUSHI YINGHENG DIANZISHANGWUYOUXI",
+    "mostRecentDate": 1712707200,
+    "url": "importers/yiwushi-yingheng-dianzishangwuyouxi",
+    "shipments": [
+      {
+        "Quantity": 15,
+        "GrossWeightKgs": 271,
+        "GrossWeightLbs": 596,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "AMZDCN24RIBAE53U",
+        "EntryId": 263536833,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "GIRLS SWIMSUITS BOYS SHORTS SET WOMEN SWIMSUITS"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "YIWUSHI YINGHENG DIANZISHANGWUYOUXI"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "nl",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/para-international-tilburg-b-v",
+          "overAllShipmentCount": 10,
+          "country": "netherlands",
+          "name": "PARA INTERNATIONAL TILBURG B.V.",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 3804,
+          "grossWeightInLbs": 8369,
+          "lastAddress": {
+            "shortAddress": "Netherlands",
+            "fullAddress": "RHEASTRAAT 34 5047TL TILBURG THE NETHERLANDS"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "LA CONCEPCIONWEG 4 WILLEMSTAD CURACAO",
+    "totalShipments": 1,
+    "company": "STOFFEERDERIJ CHONG",
+    "mostRecentDate": 1712707200,
+    "url": "importers/stoffeerderij-chong",
+    "shipments": [
+      {
+        "Quantity": 140,
+        "GrossWeightKgs": 3804,
+        "GrossWeightLbs": 8369,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "HLCURTM240324955",
+        "EntryId": 263537339,
+        "CountryOfOrigin": "Netherlands",
+        "Shipper": {
+          "link": "suppliers/para-international-tilburg-b-v",
+          "name": "PARA INTERNATIONAL TILBURG B.V."
+        },
+        "ProductDescription": [
+          "ROLLS STC 99 ROLLS LEATHERETTES 12 ROLLS FOAMED FABRICS 4 ROLLS RUBBERMAT 7 ROLLS FLOORING 17 ROLLS UPHOLSTERY FABRICS, 1 ROLL POLYESTER"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "STOFFEERDERIJ CHONG"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/hansen-king-industrial-trading",
+          "overAllShipmentCount": 295,
+          "country": "china",
+          "name": "HANSEN KING INDUSTRIAL TRADING",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 277,
+          "grossWeightInLbs": 609,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "NO.58,LINGCAO ROAD,GAOQIAO INDUSTRI AL PARK,HAISHU,,NINGBO,CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "941 NORTH COLEMAN ST. #483,PROSPER, TX 75078,US",
+    "totalShipments": 1,
+    "company": "A&W CREATIONS",
+    "mostRecentDate": 1712707200,
+    "url": "importers/a-w-creations",
+    "shipments": [
+      {
+        "Quantity": 84,
+        "GrossWeightKgs": 277,
+        "GrossWeightLbs": 609,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "PEVHNBUC24030349",
+        "EntryId": 263537433,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/hansen-king-industrial-trading",
+          "name": "HANSEN KING INDUSTRIAL TRADING"
+        },
+        "ProductDescription": [
+          "WINDBRRRLY"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "A&W CREATIONS"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "be",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/ada-cosmetics-gmbh",
+          "overAllShipmentCount": 49,
+          "country": "belgium",
+          "name": "ADA COSMETICS GMBH",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 8333,
+          "grossWeightInLbs": 18333,
+          "lastAddress": {
+            "shortAddress": "Belgium",
+            "fullAddress": "RASTATTER STRAE 2A KEHL 77694 GERMANY"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "UNIT 9 AND 10, HALF MOON SHOPPING VILLAGE, MONTEGO BAY, 1 PO, ST JAMES, JAMAICA",
+    "totalShipments": 1,
+    "company": "WELLNESS LOGISTICS OF JAMAICA,",
+    "mostRecentDate": 1712707200,
+    "url": "importers/wellness-logistics-of-jamaica",
+    "shipments": [
+      {
+        "Quantity": 18,
+        "GrossWeightKgs": 8333,
+        "GrossWeightLbs": 18333,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "HLCUHAM240338574",
+        "EntryId": 263537474,
+        "CountryOfOrigin": "Belgium",
+        "Shipper": {
+          "link": "suppliers/ada-cosmetics-gmbh",
+          "name": "ADA COSMETICS GMBH"
+        },
+        "ProductDescription": [
+          "COSMETICS"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "WELLNESS LOGISTICS OF JAMAICA,"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jiaxing-aphrodite-technology-co-lt",
+          "overAllShipmentCount": 43361,
+          "country": "china",
+          "name": "JIAXING APHRODITE TECHNOLOGY CO.,LT",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 2,
+          "grossWeightInLbs": 4,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "SANLIAN VILLAGE,YUCHENG TOWN, JIAXING ITY CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "1419 CAMPBELL ST CAMDEN SC 29020-285 US",
+    "totalShipments": 1,
+    "company": "DEA ANDENNERINO",
+    "mostRecentDate": 1712707200,
+    "url": "importers/dea-andennerino",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 2,
+        "GrossWeightLbs": 4,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "KLQI710303434129",
+        "EntryId": 263538060,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/jiaxing-aphrodite-technology-co-lt",
+          "name": "JIAXING APHRODITE TECHNOLOGY CO.,LT"
+        },
+        "ProductDescription": [
+          "SW - POLY KNIT JACKET,6101.30.20 10"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "DEA ANDENNERINO"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jiaxing-aphrodite-technology-co-lt",
+          "overAllShipmentCount": 43361,
+          "country": "china",
+          "name": "JIAXING APHRODITE TECHNOLOGY CO.,LT",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 2,
+          "grossWeightInLbs": 4,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "SANLIAN VILLAGE,YUCHENG TOWN, JIAXING ITY CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "3103 VICTORIA CT BENSALEM PA 19020-194 US",
+    "totalShipments": 1,
+    "company": "EJ LENNOX",
+    "mostRecentDate": 1712707200,
+    "url": "importers/ej-lennox",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 2,
+        "GrossWeightLbs": 4,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "KLQI710334354961",
+        "EntryId": 263539408,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/jiaxing-aphrodite-technology-co-lt",
+          "name": "JIAXING APHRODITE TECHNOLOGY CO.,LT"
+        },
+        "ProductDescription": [
+          "SW - POLY KNIT JACKET,6101.30.20 10"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "EJ LENNOX"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jiaxing-aphrodite-technology-co-lt",
+          "overAllShipmentCount": 43361,
+          "country": "china",
+          "name": "JIAXING APHRODITE TECHNOLOGY CO.,LT",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 2,
+          "grossWeightInLbs": 4,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "SANLIAN VILLAGE,YUCHENG TOWN, JIAXING ITY CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "300 LAKEPOINTE DR UNIT 101 ALTAMONTE SPG FL 32701-581 US",
+    "totalShipments": 1,
+    "company": "ANNIKEN BERGO",
+    "mostRecentDate": 1712707200,
+    "url": "importers/anniken-bergo",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 2,
+        "GrossWeightLbs": 4,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "KLQI710334787048",
+        "EntryId": 263539433,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/jiaxing-aphrodite-technology-co-lt",
+          "name": "JIAXING APHRODITE TECHNOLOGY CO.,LT"
+        },
+        "ProductDescription": [
+          "SW - POLY KNIT JACKET,6101.30.20 10"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "ANNIKEN BERGO"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jiaxing-aphrodite-technology-co-lt",
+          "overAllShipmentCount": 43361,
+          "country": "china",
+          "name": "JIAXING APHRODITE TECHNOLOGY CO.,LT",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 2,
+          "grossWeightInLbs": 4,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "SANLIAN VILLAGE,YUCHENG TOWN, JIAXING ITY CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "915 PARK MANOR DR ORLANDO FL 32825-674 US",
+    "totalShipments": 1,
+    "company": "CHRISTOPHER CACCIAPAGLIA",
+    "mostRecentDate": 1712707200,
+    "url": "importers/christopher-cacciapaglia",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 2,
+        "GrossWeightLbs": 4,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "KLQI710335232108",
+        "EntryId": 263539446,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/jiaxing-aphrodite-technology-co-lt",
+          "name": "JIAXING APHRODITE TECHNOLOGY CO.,LT"
+        },
+        "ProductDescription": [
+          "SW - POLY KNIT JACKET,6101.30.20 10"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "CHRISTOPHER CACCIAPAGLIA"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jiaxing-aphrodite-technology-co-lt",
+          "overAllShipmentCount": 43361,
+          "country": "china",
+          "name": "JIAXING APHRODITE TECHNOLOGY CO.,LT",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 2,
+          "grossWeightInLbs": 4,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "SANLIAN VILLAGE,YUCHENG TOWN, JIAXING ITY CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "2701 TAOS TRL DEER PARK TX 77536-563 US",
+    "totalShipments": 1,
+    "company": "AVETTE MATHIS",
+    "mostRecentDate": 1712707200,
+    "url": "importers/avette-mathis",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 2,
+        "GrossWeightLbs": 4,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "KLQI710338283745",
+        "EntryId": 263539568,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/jiaxing-aphrodite-technology-co-lt",
+          "name": "JIAXING APHRODITE TECHNOLOGY CO.,LT"
+        },
+        "ProductDescription": [
+          "SW - POLY KNIT JACKET,6101.30.20 10"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "AVETTE MATHIS"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jegreat",
+          "overAllShipmentCount": 1,
+          "country": "china",
+          "name": "JEGREAT",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 288,
+          "grossWeightInLbs": 634,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "FLOOR 2, UNIT 2, BLDG. 19, ZONE 1, DONGFUZHAI YIWU ZH 322000 CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "24300 NANDINA AVE MORENO VALLEY CA 92551 US",
+    "totalShipments": 1,
+    "company": "WISHBOX CO C/O FBA",
+    "mostRecentDate": 1712707200,
+    "url": "importers/wishbox-co-c-o-fba",
+    "shipments": [
+      {
+        "Quantity": 15,
+        "GrossWeightKgs": 288,
+        "GrossWeightLbs": 634,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "AMZDCN24QK4SPPJD",
+        "EntryId": 263539814,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/jegreat",
+          "name": "JEGREAT"
+        },
+        "ProductDescription": [
+          "16GB PARTY SET"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "WISHBOX CO C/O FBA"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "21590 NEEDHAM RANCH PARKWAY SANTA CLARITA CA 91321 US",
+    "totalShipments": 2,
+    "company": "ZKEE C/O FBA",
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 15556,
+          "shipmentCount": 2,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 7071,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "iso": "cn",
+          "containersCount": 2,
+          "name": "N/A"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/zkee-c-o-fba",
+    "shipments": [
+      {
+        "GrossWeightKgs": 3271,
+        "BillOfLading": "AMZDCN24EMAXDPUE",
+        "Quantity": 240,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "CTN",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263873722,
+        "Consignee": {
+          "name": "ZKEE C/O FBA"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 7196,
+        "ProductDescription": [
+          "POWER CORD"
+        ]
+      },
+      {
+        "GrossWeightKgs": 3800,
+        "BillOfLading": "AMZDCN24HWCDNPEP",
+        "Quantity": 300,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "CTN",
+        "ArrivalDate": 1712707200,
+        "EntryId": 263539849,
+        "Consignee": {
+          "name": "ZKEE C/O FBA"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 8360,
+        "ProductDescription": [
+          "POWER CORD"
+        ]
+      }
+    ]
+  },
+  {
+    "totalShipments": 3,
+    "contactInfo": "+FBA3300 HOGUM BAY ROAD NE OLYMPIA WA 98516 US",
+    "company": "HANGZHOU SHAOZHEKEJI CO., LTD.+ C/O",
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "country": "china",
+          "mostRecentDate": 1713139200,
+          "grossWeightInLbs": 73704,
+          "shipmentCount": 3,
+          "containersCount": 3,
+          "iso": "cn",
+          "grossWeightInKgs": 33502,
+          "name": "N/A",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "-NOT AVAILABLE-"
+          }
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/hangzhou-shaozhekeji-co-ltd-c-o",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "HANGZHOU SHAOZHEKEJI CO., LTD.+ C/O"
+        },
+        "BillOfLading": "AMZDCN24CF257L6J",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 18478,
+        "EntryId": 263751107,
+        "Quantity": 875,
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 8399,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "MATTRESS TOPPER"
+        ],
+        "QuantityUnit": "CTN"
+      },
+      {
+        "Consignee": {
+          "name": "HANGZHOU SHAOZHEKEJI CO., LTD.+ C/O"
+        },
+        "BillOfLading": "AMZDCN24M5UMOJN5",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 28109,
+        "EntryId": 263759370,
+        "Quantity": 1136,
+        "ArrivalDate": 1713052800,
+        "GrossWeightKgs": 12777,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "STEEL TUMBLER DEEP FRYER POT DUTCH OVEN COLLAPSIBLE TRAVEL CUP DISPOSABLE TABLEWARE"
+        ],
+        "QuantityUnit": "CTN"
+      },
+      {
+        "Consignee": {
+          "name": "HANGZHOU SHAOZHEKEJI CO., LTD.+ C/O"
+        },
+        "BillOfLading": "AMZDCN242LCHZX7U",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 27117,
+        "EntryId": 263540557,
+        "Quantity": 1043,
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 12326,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "STEEL TUMBLER DEEP FRYER POT STEEL TUMBLER DUTCH OVEN"
+        ],
+        "QuantityUnit": "CTN"
+      }
+    ]
+  },
+  {
+    "contactInfo": "200 ST. ANDREWS CIRCLE MILFORD OH 45150 US",
+    "company": "BRIAN GIBSON DESIGN LTD",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "shipmentCount": 1,
+          "iso": "sg",
+          "name": "HIMALAYA EXPORTS",
+          "containersCount": 1,
+          "grossWeightInKgs": 172,
+          "landingPageUrl": "suppliers/himalaya-exports",
+          "country": "singapore",
+          "lastAddress": {
+            "fullAddress": "6A EVEREST 46C J.L. NEHRU ROAD KOLKATA 70 IN",
+            "shortAddress": "Singapore"
+          },
+          "grossWeightInLbs": 378,
+          "mostRecentDate": 1712707200,
+          "overAllShipmentCount": 76
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/brian-gibson-design-ltd",
+    "shipments": [
+      {
+        "BillOfLading": "CROI402614LAX809",
+        "GrossWeightLbs": 378,
+        "Quantity": 2,
+        "EntryId": 263540643,
+        "Shipper": {
+          "link": "suppliers/himalaya-exports",
+          "name": "HIMALAYA EXPORTS"
+        },
+        "CountryOfOrigin": "Singapore",
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 172,
+        "QuantityUnit": "CRT",
+        "Consignee": {
+          "name": "BRIAN GIBSON DESIGN LTD"
+        },
+        "ProductDescription": [
+          "GLASS HANGING LAMP"
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/wenzhou-deli-machinery-equipment-co",
+          "overAllShipmentCount": 166,
+          "country": "china",
+          "name": "WENZHOU DELI MACHINERY EQUIPMENT CO",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 5980,
+          "grossWeightInLbs": 13156,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "NO.906,BUILDING 4,NATURE HOME,TANG JIAQIAO ROAD,NANHUI STREET,LUCHENG WENZHOU CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "613 WEST YELLOWSTONE HIGHWAY,CASPE R,WYOMING 82604 USATEL307-259-4083 WYOMING CO US",
+    "totalShipments": 1,
+    "company": "CYGNET BREWING LLC",
+    "mostRecentDate": 1712707200,
+    "url": "importers/cygnet-brewing-llc",
+    "shipments": [
+      {
+        "Quantity": 55,
+        "GrossWeightKgs": 5980,
+        "GrossWeightLbs": 13156,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "SFOKHT24033289",
+        "EntryId": 263540788,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/wenzhou-deli-machinery-equipment-co",
+          "name": "WENZHOU DELI MACHINERY EQUIPMENT CO"
+        },
+        "ProductDescription": [
+          "BREWING EQUIPMENT"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "CYGNET BREWING LLC"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jincheng-group-imp-exp-co-ltd",
+          "overAllShipmentCount": 380,
+          "country": "china",
+          "name": "JINCHENG GROUP IMP & EXP CO LTD",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 1440,
+          "grossWeightInLbs": 3168,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "NO. 216 MIDDLE LONGPAN ROAD, QINHUAI DISTRICT,NANJING CHINA NANJING 32 210000 CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "BLACKMER-GENERAL 1809 CENTURY AVE GRAND RAPIDS MI 49503 US",
+    "totalShipments": 1,
+    "company": "DOVER PSG BLACKER",
+    "mostRecentDate": 1712707200,
+    "url": "importers/dover-psg-blacker",
+    "shipments": [
+      {
+        "Quantity": 80,
+        "GrossWeightKgs": 1440,
+        "GrossWeightLbs": 3168,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "CHSL467871968NKG",
+        "EntryId": 263541917,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/jincheng-group-imp-exp-co-ltd",
+          "name": "JINCHENG GROUP IMP & EXP CO LTD"
+        },
+        "ProductDescription": [
+          "SEAL JACKET"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "DOVER PSG BLACKER"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "country": "china",
+          "name": "N/A",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 234,
+          "grossWeightInLbs": 515,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "1700 SWINNEY AVE, DOCK 6 FORT WAYNE ,IN 46802 CONTACT:RICK TURNER US",
+    "totalShipments": 1,
+    "company": "ESSSEX FURUKAWA MAGNET WIRE USA LLC",
+    "mostRecentDate": 1712707200,
+    "url": "importers/esssex-furukawa-magnet-wire-usa-llc",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 234,
+        "GrossWeightLbs": 515,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "FPSMFSH24003448",
+        "EntryId": 263542782,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "DIBENZYLTOLUENE"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "ESSSEX FURUKAWA MAGNET WIRE USA LLC"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "iso": "cn",
+          "name": "N/A",
+          "mostRecentDate": 1713225600,
+          "grossWeightInLbs": 34885,
+          "containersCount": 6,
+          "grossWeightInKgs": 15857,
+          "shipmentCount": 6
+        }
+      ],
+      "totalShipments": 6
+    },
+    "totalShipments": 6,
+    "contactInfo": "LTD C/O FBA36900 WEST 4TH STREET BEAUMONT CA 92223 US",
+    "company": "HUANGSHAN HONGHENG E-COMMERCE CO",
+    "mostRecentDate": 1712707200,
+    "url": "importers/huangshan-hongheng-e-commerce-co",
+    "shipments": [
+      {
+        "Shipper": {
+          "name": "N/A"
+        },
+        "GrossWeightLbs": 471,
+        "ProductDescription": [
+          "BED SHEET NET"
+        ],
+        "ArrivalDate": 1713225600,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "BillOfLading": "AMZDCN24QNBIUXSO",
+        "Quantity": 20,
+        "Consignee": {
+          "name": "HUANGSHAN HONGHENG E-COMMERCE CO"
+        },
+        "GrossWeightKgs": 214,
+        "EntryId": 263918175
+      },
+      {
+        "Shipper": {
+          "name": "N/A"
+        },
+        "GrossWeightLbs": 2389,
+        "ProductDescription": [
+          "BED SHEET MATTRESS PAD MATTRESS PROTECTOR BED SKIRT PILLOW"
+        ],
+        "ArrivalDate": 1713139200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "BillOfLading": "AMZDCN24SJMYHH2F",
+        "Quantity": 89,
+        "Consignee": {
+          "name": "HUANGSHAN HONGHENG E-COMMERCE CO"
+        },
+        "GrossWeightKgs": 1086,
+        "EntryId": 263875247
+      },
+      {
+        "Shipper": {
+          "name": "N/A"
+        },
+        "GrossWeightLbs": 17930,
+        "ProductDescription": [
+          "MATTRESS PAD MATTRESS PROTECTOR BED SHEET"
+        ],
+        "ArrivalDate": 1713139200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "BillOfLading": "AMZDCN24HHSSN3WP",
+        "Quantity": 570,
+        "Consignee": {
+          "name": "HUANGSHAN HONGHENG E-COMMERCE CO"
+        },
+        "GrossWeightKgs": 8150,
+        "EntryId": 263875246
+      },
+      {
+        "Shipper": {
+          "name": "N/A"
+        },
+        "GrossWeightLbs": 10463,
+        "ProductDescription": [
+          "MATTRESS PROTECTOR DOG MAT BED SHEET NET PILLOW"
+        ],
+        "ArrivalDate": 1712707200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "BillOfLading": "AMZDCN242DCAKR36",
+        "Quantity": 336,
+        "Consignee": {
+          "name": "HUANGSHAN HONGHENG E-COMMERCE CO"
+        },
+        "GrossWeightKgs": 4756,
+        "EntryId": 263543735
+      },
+      {
+        "Shipper": {
+          "name": "N/A"
+        },
+        "GrossWeightLbs": 1802,
+        "ProductDescription": [
+          "BED SHEET MATTRESS PAD MATTRESS PROTECTOR BED SKIRT PILLOW"
+        ],
+        "ArrivalDate": 1712707200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "BillOfLading": "AMZDCN24XU7TO2IR",
+        "Quantity": 64,
+        "Consignee": {
+          "name": "HUANGSHAN HONGHENG E-COMMERCE CO"
+        },
+        "GrossWeightKgs": 819,
+        "EntryId": 263543660
+      },
+      {
+        "Shipper": {
+          "name": "N/A"
+        },
+        "GrossWeightLbs": 1830,
+        "ProductDescription": [
+          "MATTRESS PROTECTOR MATTRESS PAD BED SHEET"
+        ],
+        "ArrivalDate": 1712707200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "BillOfLading": "AMZDCN24MQA45KVO",
+        "Quantity": 55,
+        "Consignee": {
+          "name": "HUANGSHAN HONGHENG E-COMMERCE CO"
+        },
+        "GrossWeightKgs": 832,
+        "EntryId": 263543656
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/wz-runto-trading-co-ltd",
+          "overAllShipmentCount": 5,
+          "country": "china",
+          "name": "WZ RUNTO TRADING CO.,LTD",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 12825,
+          "grossWeightInLbs": 28215,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YAOTAI SQUARE., WENZHOU,ZHEJIANG,CHINA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "421 S BROOKHURST ST., ANAHEIM,CA 928042413,USA",
+    "totalShipments": 1,
+    "company": "HAPPIGY TRADING CO",
+    "mostRecentDate": 1712707200,
+    "url": "importers/happigy-trading-co",
+    "shipments": [
+      {
+        "Quantity": 855,
+        "GrossWeightKgs": 12825,
+        "GrossWeightLbs": 28215,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "SNYLMZ0967465",
+        "EntryId": 263546638,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/wz-runto-trading-co-ltd",
+          "name": "WZ RUNTO TRADING CO.,LTD"
+        },
+        "ProductDescription": [
+          "SPORTS SHOES"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "HAPPIGY TRADING CO"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "14803 GRANT STREET SUITE 120 THORNTON CO 80023",
+    "totalShipments": 3,
+    "company": "HP INC.C/O VIVACITY TECH PBC PO1699",
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 46378,
+          "shipmentCount": 3,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 21081,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "iso": "cn",
+          "containersCount": 3,
+          "name": "N/A"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/hp-inc-c-o-vivacity-tech-pbc-po1699",
+    "shipments": [
+      {
+        "GrossWeightKgs": 5689,
+        "BillOfLading": "CMDUCHN0980718C",
+        "Quantity": 6,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263875931,
+        "Consignee": {
+          "name": "HP INC.C/O VIVACITY TECH PBC PO1699"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 12516,
+        "ProductDescription": [
+          "NOTEBOOK COMPUTER SHIP ID: QQ41711679 CUST PO:2186651L HP PN:9R3B0UT ABA HP PO:5209139905 HS CODE:8471309000 HPI-OCP NB-EXX, 858 CARTONS INTO 8 PALLETS NAVALOCK:COSCO23352 THIS SHIPMENT CONTAINS NO: WOODEN PACKING MATERIALS ALL CHARGES COLLECT AT USA BY HP USA 0005579523 EMAIL:ALICE.CHEN1 QUANTACN.COM PHONE:86-023-8828-8168X12873"
+        ]
+      },
+      {
+        "GrossWeightKgs": 8625,
+        "BillOfLading": "CMDUCHN0989913A",
+        "Quantity": 16,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263875912,
+        "Consignee": {
+          "name": "HP INC.C/O VIVACITY TECH PBC PO1699"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 18975,
+        "ProductDescription": [
+          "NOTEBOOK COMPUTER SHIP ID: QQ41711729 CUST PO:2186712L HP PN:9R3B0UT ABA HP PO:5209139890 HS CODE:8471309000 HPI-OCP NB-EXX, 2400 CARTONS INTO 16 PALLETS NAVALOCK:COSCO23355 THIS SHIPMENT CONTAINS NO: WOODEN PACKING MATERIALS ALL CHARGES COLLECT AT USA BY HP USA 0005579523 EMAIL:ALICE.CHEN1 QUANTACN.COM PHONE:86-023-8828-8168X12873"
+        ]
+      },
+      {
+        "GrossWeightKgs": 6767,
+        "BillOfLading": "CMDUCHN0959960C",
+        "Quantity": 10,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1712707200,
+        "EntryId": 263551712,
+        "Consignee": {
+          "name": "HP INC.C/O VIVACITY TECH PBC PO1699"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 14887,
+        "ProductDescription": [
+          "NOTEBOOK COMPUTER SHIP ID: QQ41709900 CUST PO:2186719C HP PN:A12VHUT ABA HP PO:5209139927 HS CODE:8471309000 HPI-OCP NB-EXX, 1430 CARTONS INTO 10 PALLETS NAVALOCK:COSCO23511 THIS SHIPMENT CONTAINS NO: WOODEN PACKING MATERIALS ALL CHARGES COLLECT AT USA BY HP USA 0005579523 EMAIL:ALICE.CHEN1 QUANTACN.COM PHONE:86-023-8828-8168X12873PART LOAD CONTAINER(S) COVERED BY BLS:CHN0959960A/B/C"
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 2,
+          "country": "china",
+          "name": "N/A",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 25048,
+          "grossWeightInLbs": 55105,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "5100 LIBERTY AV FT WORTH FT WORTH TX 761774008 US",
+    "totalShipments": 2,
+    "company": "HP INC.C/O TD SYNNEX FORT WORTH A5",
+    "mostRecentDate": 1712707200,
+    "url": "importers/hp-inc-c-o-td-synnex-fort-worth-a5",
+    "shipments": [
+      {
+        "Quantity": 14,
+        "GrossWeightKgs": 8546,
+        "GrossWeightLbs": 18801,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "CMDUCHN0967981A",
+        "EntryId": 263551725,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "NOTEBOOK COMPUTER SHIP ID: QQ41708871 CUST PO:33974924 HP PN:3V2T8UT ABA HP PO:5209122374 HS CODE:8471309000 HPI-NB-EXX, 2142 CARTONS INTO 0 PALLETS NAVALOCK:33789 THIS SHIPMENT CONTAINS NO: WOODEN PACKING MATERIALS ALL CHARGES COLLECT AT USA BY HP USA 0005579523 EMAIL:ALICE.CHEN1 QUANTACN.COM PHONE:86-023-8828-8168X12873PART LOAD CONTAINER(S) COVERED BY BLS:CHN0967CHN0967981B"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "HP INC C/O TD SYNNEX FORT WORTH A5"
+        }
+      },
+      {
+        "Quantity": 42,
+        "GrossWeightKgs": 16502,
+        "GrossWeightLbs": 36304,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "CMDUCHN0968107",
+        "EntryId": 263551604,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "NOTEBOOK COMPUTER SHIP ID: QQ41709277 CUST PO:33974924 HP PN:3V2Y2UT ABA HP PO:5209122239 HS CODE:8471309000 HPI-NB-EXX, 6384 CARTONS INTO 42 PALLETS NAVALOCK:COSCO23318 THIS SHIPMENT CONTAINS NO: WOODEN PACKING MATERIALS ALL CHARGES COLLECT AT USA BY HP USA 0005579523 EMAIL:ALICE.CHEN1 QUANTACN.COM PHONE:86-023-8828-8168X12873"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "HP INC.C/O TD SYNNEX FORT WORTH A5"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "12801 EXCELSIOR DRIVE,SANTA FE SPRINGS, CA 90670-5413 ARACELI DAVILA TEL: 1 (323) 559-1960",
+    "totalShipments": 6,
+    "company": "HP INC C/0 MAERSK LNS",
+    "shippers": {
+      "totalShipments": 6,
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 178227,
+          "shipmentCount": 6,
+          "mostRecentDate": 1713139200,
+          "grossWeightInKgs": 81012,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "iso": "cn",
+          "containersCount": 6,
+          "name": "N/A"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/hp-inc-c-0-maersk-lns",
+    "shipments": [
+      {
+        "GrossWeightKgs": 13542,
+        "BillOfLading": "CMDUCHN1000028",
+        "Quantity": 24,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263876196,
+        "Consignee": {
+          "name": "HP INC C/0 MAERSK LNS"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 29792,
+        "ProductDescription": [
+          "PRINTERS HP DESKJET 2852E AIO PRINTER:MASS SHIP ID: JW50119995 CUST PO:NA HP PN:60K23A 1H5 HP PO:5209076724, HS CODE:8443319010 HPI-IPG 2016 CARTONS INTO 24 PALLETS ALL CHARGES PAYABLE AT SINGAPORE BY HP SINGAPORE 0001712960"
+        ]
+      },
+      {
+        "GrossWeightKgs": 13494,
+        "BillOfLading": "CMDUCHN1000033",
+        "Quantity": 24,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263876195,
+        "Consignee": {
+          "name": "HP INC C/0 MAERSK LNS"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 29687,
+        "ProductDescription": [
+          "PRINTERS HP DESKJET 2852E AIO PRINTER:MASS SHIP ID: JW50120024 CUST PO:NA HP PN:60K23A 1H5 HP PO:5209076724, HS CODE:8443319010 HPI-IPG 2016 CARTONS INTO 24 PALLETS ALL CHARGES PAYABLE AT SINGAPORE BY HP SINGAPORE 0001712960"
+        ]
+      },
+      {
+        "GrossWeightKgs": 13396,
+        "BillOfLading": "CMDUCHN0980745",
+        "Quantity": 24,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1713139200,
+        "EntryId": 263876098,
+        "Consignee": {
+          "name": "HP INC C/0 MAERSK LNS"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 29471,
+        "ProductDescription": [
+          "PRINTERS HP DESKJET 2852E AIO PRINTER:MASS SHIP ID: JW50120112 CUST PO:NA HP PN:60K23A 1H5 HP PO:5209076724, HS CODE:8443319010 HPI-IPG 2016 CARTONS INTO 24 PALLETS ALL CHARGES PAYABLE AT SINGAPORE BY HP SINGAPORE 0001712960"
+        ]
+      },
+      {
+        "GrossWeightKgs": 13468,
+        "BillOfLading": "CMDUCHN0968091",
+        "Quantity": 24,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1712707200,
+        "EntryId": 263551948,
+        "Consignee": {
+          "name": "HP INC C/0 MAERSK LNS"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 29630,
+        "ProductDescription": [
+          "PRINTERS HP DESKJET 2852E AIO PRINTER:MASS SHIP ID: JW50118733 HP PN:60K23A 1H5 HP PO:5209076119 HS CODE:8443319010, HPI-IPG 2016 CARTONS INTO 24 PALLETS ALL CHARGES PAYABLE AT SINGAPORE BY HP SINGAPORE 0001712960 PROVINCE,CHINA"
+        ]
+      },
+      {
+        "GrossWeightKgs": 13668,
+        "BillOfLading": "CMDUCHN0968056",
+        "Quantity": 24,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1712707200,
+        "EntryId": 263551943,
+        "Consignee": {
+          "name": "HP INC C/0 MAERSK LNS"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 30070,
+        "ProductDescription": [
+          "PRINTERS HP DESKJET 2852E AIO PRINTER:MASS SHIP ID: JW50118671 HP PN:60K23A 1H5 HP PO:5209076119 HS CODE:8443319010, HPI-IPG 2016 CARTONS INTO 24 PALLETS ALL CHARGES PAYABLE AT SINGAPORE BY HP SINGAPORE 0001712960 PROVINCE,CHINA"
+        ]
+      },
+      {
+        "GrossWeightKgs": 13444,
+        "BillOfLading": "CMDUCHN0968094",
+        "Quantity": 24,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1712707200,
+        "EntryId": 263551586,
+        "Consignee": {
+          "name": "HP INC C/0 MAERSK LNS"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 29577,
+        "ProductDescription": [
+          "PRINTERS HP DESKJET 2852E AIO PRINTER:MASS SHIP ID: JW50118737 HP PN:60K23A 1H5 HP PO:5209076119 HS CODE:8443319010, HPI-IPG 2016 CARTONS INTO 24 PALLETS ALL CHARGES PAYABLE AT SINGAPORE BY HP SINGAPORE 0001712960 PROVINCE,CHINA"
+        ]
+      }
+    ]
+  },
+  {
+    "totalShipments": 3,
+    "contactInfo": "1772 LARCH AVE NE APT 302 ISSAQUAH WA 98029 7832",
+    "company": "EUDOCHIA SIRBU",
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "country": "china",
+          "mostRecentDate": 1713139200,
+          "iso": "cn",
+          "grossWeightInLbs": 118,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "shipmentCount": 3,
+          "containersCount": 3,
+          "overAllShipmentCount": 94,
+          "grossWeightInKgs": 54,
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          }
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/eudochia-sirbu",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "EUDOCHIA SIRBU"
+        },
+        "BillOfLading": "IBCV990860876",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 44,
+        "EntryId": 263778933,
+        "Quantity": 1,
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 20,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "OFFICE DESK"
+        ],
+        "QuantityUnit": "PCS"
+      },
+      {
+        "Consignee": {
+          "name": "EUDOCHIA SIRBU"
+        },
+        "BillOfLading": "IBCV990861973",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 15,
+        "EntryId": 263774875,
+        "Quantity": 1,
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 7,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "OFFICE DESK"
+        ],
+        "QuantityUnit": "PCS"
+      },
+      {
+        "Consignee": {
+          "name": "EUDOCHIA SIRBU"
+        },
+        "BillOfLading": "IBCV990840186",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 59,
+        "EntryId": 263552251,
+        "Quantity": 1,
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 27,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 80,
+          "grossWeightInLbs": 176,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "75 PECKSLAND ROAD GREENWICH CT 06831",
+    "totalShipments": 1,
+    "company": "JANNELL BAKROW",
+    "mostRecentDate": 1712707200,
+    "url": "importers/jannell-bakrow",
+    "shipments": [
+      {
+        "Quantity": 4,
+        "GrossWeightKgs": 80,
+        "GrossWeightLbs": 176,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990847520",
+        "EntryId": 263552259,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "JANNELL BAKROW"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 39,
+          "grossWeightInLbs": 86,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "41 DRIFTWOOD DRIV SOMERS NY 10589",
+    "totalShipments": 1,
+    "company": "YANA KRMIC",
+    "mostRecentDate": 1712707200,
+    "url": "importers/yana-krmic",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 39,
+        "GrossWeightLbs": 86,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990852531",
+        "EntryId": 263552283,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "WASH BASIN"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "YANA KRMIC"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 155,
+          "grossWeightInLbs": 341,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "1 JACOB AMSDEN RD WESTBOROUGH MA 01581",
+    "totalShipments": 1,
+    "company": "DMITRY MAKSIMOV",
+    "mostRecentDate": 1712707200,
+    "url": "importers/dmitry-maksimov",
+    "shipments": [
+      {
+        "Quantity": 2,
+        "GrossWeightKgs": 155,
+        "GrossWeightLbs": 341,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990854246",
+        "EntryId": 263552305,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "DMITRY MAKSIMOV"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 98,
+          "grossWeightInLbs": 216,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "12992 HOLDENBURY LN WINDERMERE FL 34786",
+    "totalShipments": 1,
+    "company": "FLAVIO BOROWIEC",
+    "mostRecentDate": 1712707200,
+    "url": "importers/flavio-borowiec",
+    "shipments": [
+      {
+        "Quantity": 2,
+        "GrossWeightKgs": 98,
+        "GrossWeightLbs": 216,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990855549",
+        "EntryId": 263552328,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "FLAVIO BOROWIEC"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 44,
+          "grossWeightInLbs": 97,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "4441 COLLINS AVENUE MIAMI BEACH FL 33140",
+    "totalShipments": 1,
+    "company": "RIVKI ROSENWALD",
+    "mostRecentDate": 1712707200,
+    "url": "importers/rivki-rosenwald",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 44,
+        "GrossWeightLbs": 97,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990855654",
+        "EntryId": 263552335,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "RIVKI ROSENWALD"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 20,
+          "grossWeightInLbs": 44,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "6387 SWAINS ROAD MARSHALL VA 20115",
+    "totalShipments": 1,
+    "company": "MICHAEL FERRI",
+    "mostRecentDate": 1712707200,
+    "url": "importers/michael-ferri",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 20,
+        "GrossWeightLbs": 44,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990855740",
+        "EntryId": 263552343,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "MICHAEL FERRI"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 31,
+          "grossWeightInLbs": 68,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "24197 HOLLYOAK ALISO VIEJO CA 92656",
+    "totalShipments": 1,
+    "company": "VL FANAI",
+    "mostRecentDate": 1712707200,
+    "url": "importers/vl-fanai",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 31,
+        "GrossWeightLbs": 68,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990856113",
+        "EntryId": 263552375,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "BED"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "VL FANAI"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 2,
+    "contactInfo": "26872 SALAZAR DR MISSION VIEJO CA 92691",
+    "company": "VITTORIA FACCIN",
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "country": "china",
+          "mostRecentDate": 1713139200,
+          "iso": "cn",
+          "grossWeightInLbs": 176,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "shipmentCount": 2,
+          "containersCount": 2,
+          "overAllShipmentCount": 94,
+          "grossWeightInKgs": 80,
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          }
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/vittoria-faccin",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "VITTORIA FACCIN"
+        },
+        "BillOfLading": "IBCV990857869",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 70,
+        "EntryId": 263774280,
+        "Quantity": 1,
+        "ArrivalDate": 1713139200,
+        "GrossWeightKgs": 32,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "OFFICE DESK"
+        ],
+        "QuantityUnit": "PCS"
+      },
+      {
+        "Consignee": {
+          "name": "VITTORIA FACCIN"
+        },
+        "BillOfLading": "IBCV990856280",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 106,
+        "EntryId": 263552386,
+        "Quantity": 1,
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 48,
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "QuantityUnit": "PCS"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 6,
+          "grossWeightInLbs": 13,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "4225 156ST FLUSHING NY 11355",
+    "totalShipments": 1,
+    "company": "YANQING ZHUANG",
+    "mostRecentDate": 1712707200,
+    "url": "importers/yanqing-zhuang",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 6,
+        "GrossWeightLbs": 13,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990856570",
+        "EntryId": 263552400,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CAR TOY"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "YANQING ZHUANG"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 26,
+          "grossWeightInLbs": 57,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "400 W SWAN CERCLE OAK CREEK WI 53154",
+    "totalShipments": 1,
+    "company": "DUAA ALMAKAWI",
+    "mostRecentDate": 1712707200,
+    "url": "importers/duaa-almakawi",
+    "shipments": [
+      {
+        "Quantity": 6,
+        "GrossWeightKgs": 26,
+        "GrossWeightLbs": 57,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990856618",
+        "EntryId": 263552410,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "DUAA ALMAKAWI"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "1721 EVELYN DR ROCKVILLE MD 20852",
+    "totalShipments": 2,
+    "company": "NELY NAFTALY",
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 176,
+          "shipmentCount": 2,
+          "mostRecentDate": 1713052800,
+          "grossWeightInKgs": 80,
+          "overAllShipmentCount": 94,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "iso": "cn",
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "containersCount": 2,
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/nely-naftaly",
+    "shipments": [
+      {
+        "GrossWeightKgs": 67,
+        "BillOfLading": "IBCV990856809",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1713052800,
+        "EntryId": 263821443,
+        "Consignee": {
+          "name": "NELY NAFTALY"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 147,
+        "ProductDescription": [
+          "WASH BASIN"
+        ]
+      },
+      {
+        "GrossWeightKgs": 13,
+        "BillOfLading": "IBCV990856811",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        },
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1712707200,
+        "EntryId": 263552439,
+        "Consignee": {
+          "name": "NELY NAFTALY"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 29,
+        "ProductDescription": [
+          "WASH BASIN"
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 37,
+          "grossWeightInLbs": 81,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "437 RIVERCREST DR PISCATAWAY NJ 08854 4741",
+    "totalShipments": 1,
+    "company": "RAHIMA K",
+    "mostRecentDate": 1712707200,
+    "url": "importers/rahima-k",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 37,
+        "GrossWeightLbs": 81,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990856937",
+        "EntryId": 263552454,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "RAHIMA K"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 44,
+          "grossWeightInLbs": 97,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "801 IDAHO AVE SANTA MONICA CA 90403",
+    "totalShipments": 1,
+    "company": "ZOHAL AMINI",
+    "mostRecentDate": 1712707200,
+    "url": "importers/zohal-amini",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 44,
+        "GrossWeightLbs": 97,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857036",
+        "EntryId": 263552469,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "ZOHAL AMINI"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 24,
+          "grossWeightInLbs": 53,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "543 PALOMA AVENUE LEHIGH ACRES FL 33974",
+    "totalShipments": 1,
+    "company": "BABATUNDE FALANA",
+    "mostRecentDate": 1712707200,
+    "url": "importers/babatunde-falana",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 24,
+        "GrossWeightLbs": 53,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857090",
+        "EntryId": 263552487,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "BABATUNDE FALANA"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 50,
+          "grossWeightInLbs": 110,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "1413 CROCUS CT PROSPER TX 75078",
+    "totalShipments": 1,
+    "company": "SRIRAMPRABHU RAJENDRAN",
+    "mostRecentDate": 1712707200,
+    "url": "importers/sriramprabhu-rajendran",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 50,
+        "GrossWeightLbs": 110,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857150",
+        "EntryId": 263552495,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "SRIRAMPRABHU RAJENDRAN"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 13,
+          "grossWeightInLbs": 29,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "6818 WEMBERLY WAY MC LEAN VA 22101",
+    "totalShipments": 1,
+    "company": "C RACICH",
+    "mostRecentDate": 1712707200,
+    "url": "importers/c-racich",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 13,
+        "GrossWeightLbs": 29,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857151",
+        "EntryId": 263552496,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "C RACICH"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 18,
+          "grossWeightInLbs": 40,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "515 JEFFERSON ST LL1 HOBOKEN NJ 073030",
+    "totalShipments": 1,
+    "company": "LAL VAGHJI",
+    "mostRecentDate": 1712707200,
+    "url": "importers/lal-vaghji",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 18,
+        "GrossWeightLbs": 40,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857157",
+        "EntryId": 263552499,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "LAL VAGHJI"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 21,
+          "grossWeightInLbs": 46,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "5914 REGAL GLEN DR APT 207 BOYNTON BEACH FL 33437 5631",
+    "totalShipments": 1,
+    "company": "J SHWEDEL",
+    "mostRecentDate": 1712707200,
+    "url": "importers/j-shwedel",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 21,
+        "GrossWeightLbs": 46,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857164",
+        "EntryId": 263552502,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "J SHWEDEL"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 8,
+          "grossWeightInLbs": 18,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "1123 36TH AVE N SAINT PETERSBURG FL 33704",
+    "totalShipments": 1,
+    "company": "HARTNELL PAULTRE",
+    "mostRecentDate": 1712707200,
+    "url": "importers/hartnell-paultre",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 8,
+        "GrossWeightLbs": 18,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857229",
+        "EntryId": 263552512,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "HARTNELL PAULTRE"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 24,
+          "grossWeightInLbs": 53,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "2249 PALENQUE DRIVE SOUTHEAST RIO RANCHO NM 87124 8759",
+    "totalShipments": 1,
+    "company": "MEIZHEN LI",
+    "mostRecentDate": 1712707200,
+    "url": "importers/meizhen-li",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 24,
+        "GrossWeightLbs": 53,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857278",
+        "EntryId": 263552518,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "MEIZHEN LI"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 16,
+          "grossWeightInLbs": 35,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "1538 NE 8TH ST APT 207 HOMESTEAD FL 33033 4678",
+    "totalShipments": 1,
+    "company": "DINORAH ZEQUEIRA ALVAREZ",
+    "mostRecentDate": 1712707200,
+    "url": "importers/dinorah-zequeira-alvarez",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 16,
+        "GrossWeightLbs": 35,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857312",
+        "EntryId": 263552525,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "TABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "DINORAH ZEQUEIRA ALVAREZ"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 16,
+          "grossWeightInLbs": 35,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "16 W 16TH ST NEW YORK NY 10011",
+    "totalShipments": 1,
+    "company": "KAHREJ AHLUWALIA",
+    "mostRecentDate": 1712707200,
+    "url": "importers/kahrej-ahluwalia",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 16,
+        "GrossWeightLbs": 35,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857314",
+        "EntryId": 263552526,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CABINET"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "KAHREJ AHLUWALIA"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 4,
+          "grossWeightInLbs": 9,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "225 16TH STREET BROOKLYN NY 11215",
+    "totalShipments": 1,
+    "company": "SUSI GRAF",
+    "mostRecentDate": 1712707200,
+    "url": "importers/susi-graf",
+    "shipments": [
+      {
+        "Quantity": 4,
+        "GrossWeightKgs": 4,
+        "GrossWeightLbs": 9,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857564",
+        "EntryId": 263552541,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "BATHROOM ACCESSEORIES"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "SUSI GRAF"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "overAllShipmentCount": 94,
+          "country": "china",
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 17,
+          "grossWeightInLbs": 37,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "2311 GLEN HEATHER LN PROSPER TX 75078",
+    "totalShipments": 1,
+    "company": "MANU K",
+    "mostRecentDate": 1712707200,
+    "url": "importers/manu-k",
+    "shipments": [
+      {
+        "Quantity": 2,
+        "GrossWeightKgs": 17,
+        "GrossWeightLbs": 37,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "IBCV990857583",
+        "EntryId": 263552545,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "link": "suppliers/baycheer-international-limited",
+          "name": "BAYCHEER INTERNATIONAL LIMITED"
+        },
+        "ProductDescription": [
+          "CHAIR"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "MANU K"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 12,
+      "items": [
+        {
+          "iso": "kr",
+          "shipmentCount": 5,
+          "landingPageUrl": "suppliers/kaiyuan-shipping-company-limited",
+          "overAllShipmentCount": 9175,
+          "country": "south korea",
+          "name": "KAIYUAN SHIPPING COMPANY LIMITED",
+          "mostRecentDate": 1427587200,
+          "grossWeightInKgs": 83995,
+          "grossWeightInLbs": 184788,
+          "lastAddress": {
+            "shortAddress": "South Korea",
+            "fullAddress": "ADD 17F,8-BUILDING,NINGBO BOOK-CITY MANSION, NO.1YONGJIANG AVENUE,NINGBO CHINA 315040- \n"
+          },
+          "containersCount": 5
+        },
+        {
+          "iso": "hk",
+          "shipmentCount": 4,
+          "landingPageUrl": "suppliers/ningbo-kaiyuan-shipping-co-ltd",
+          "overAllShipmentCount": 2888,
+          "country": "hong kong",
+          "name": "NINGBO KAIYUAN SHIPPING CO. LTD",
+          "mostRecentDate": 1333324800,
+          "grossWeightInKgs": 58340,
+          "grossWeightInLbs": 128349,
+          "lastAddress": {
+            "shortAddress": "Hong Kong",
+            "fullAddress": "17F,8-BUILDING,NINGBO BOOK-CITY    \nMANSION,                           \nNO.1YONGJIANG AVENUE,NINGBO CHINA  \n315040-                            "
+          },
+          "containersCount": 5
+        },
+        {
+          "iso": "hk",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/kaiyuan-shipping-co-ltd-ningbo-hq",
+          "overAllShipmentCount": 361,
+          "country": "hong kong",
+          "name": "KAIYUAN SHIPPING CO.,LTD.NINGBO HQ",
+          "mostRecentDate": 1337472000,
+          "grossWeightInKgs": 26941,
+          "grossWeightInLbs": 59271,
+          "lastAddress": {
+            "shortAddress": "Hong Kong",
+            "fullAddress": "ADD:17F,8-BUILDING,NINGBO          \nBOOK-CITY MANSION,NO.1YONGJIANG    \nAVENUE,NINGBO CHINA 315040         \nTAX ID:330204739475397             "
+          },
+          "containersCount": 2
+        },
+        {
+          "iso": "ca",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shipco-transport-inc-mkc-7501-nw",
+          "overAllShipmentCount": 1,
+          "country": "canada",
+          "name": "SHIPCO TRANSPORT INC. (MKC) 7501 NW",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 15658,
+          "grossWeightInLbs": 34448,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "TIFFANY SPRINGS PKWY, SUITE 230 KANSAS CITY MO 64153"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "130-584044 ] AV. GUSTAVO MEJIA RICART NO. 128 E DIFICIO ELAB, SUITE 201 SANTO DOMIN GO - REPUBLICA DOMINICANA TO BE CO",
+    "totalShipments": 12,
+    "company": "NL NEUTRAL LOGISTICS [ RNC",
+    "mostRecentDate": 1712707200,
+    "url": "importers/nl-neutral-logistics-rnc",
+    "shipments": [
+      {
+        "Quantity": 11,
+        "GrossWeightKgs": 15658,
+        "GrossWeightLbs": 34448,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "HLCUBSC2403BPVN9",
+        "EntryId": 263552685,
+        "CountryOfOrigin": "Canada",
+        "Shipper": {
+          "link": "suppliers/shipco-transport-inc-mkc-7501-nw",
+          "name": "SHIPCO TRANSPORT INC. (MKC) 7501 NW"
+        },
+        "ProductDescription": [
+          "LIGHTING ACCESSORIES FOR COMPLETE X40OT SLAC 11 PACKAGES LIGHTING ACCESSORIES FOR COMPLETE STADIUM LIGHTING SYSTEMS HS CODE 9405.49.0000 ITN X20240320558615, S/C S24NWE633 TO BE CONTINUED FROM CONSIGNEE AND NOTIFY PH +1 809 793 4300 FX +1 809 683 1994 HOPIS.TEJEDANEUTRALLOGISTICS.COM GABRIEL.MATEONEUTRALLOGISTICS.COM NL.GRUPONEUTRALLOGISTICS.COMANA.MENDEZNEUTRALLOGISTICS.COM JUAN.MORELNEUTRALLOGISTICS.COM EXPRESS BILL OF LADING ALL DESTINATION CHARGES ARE COLLECT FREIGHT PREPAID FREIGHT INVOICES SHOULD GO TO CORP.VENDORINVOICE.A MSHIPCO.COM"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "NL NEUTRAL LOGISTICS [ RNC"
+        }
+      },
+      {
+        "Quantity": 586,
+        "GrossWeightKgs": 20534,
+        "GrossWeightLbs": 45175,
+        "ArrivalDate": 1427587200,
+        "BillOfLading": "HLCUNG11502AYOJ9",
+        "EntryId": 110711941,
+        "CountryOfOrigin": "South Korea",
+        "Shipper": {
+          "link": "suppliers/kaiyuan-shipping-company-limited",
+          "name": "KAIYUAN SHIPPING COMPANY LIMITED"
+        },
+        "ProductDescription": [
+          ""
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "NL NEUTRAL LOGISTICS,RNC 130-584044"
+        }
+      },
+      {
+        "Quantity": 638,
+        "GrossWeightKgs": 9622,
+        "GrossWeightLbs": 21168,
+        "ArrivalDate": 1424563200,
+        "BillOfLading": "HLCUNG11412AYUM0",
+        "EntryId": 109163382,
+        "CountryOfOrigin": "South Korea",
+        "Shipper": {
+          "link": "suppliers/kaiyuan-shipping-company-limited",
+          "name": "KAIYUAN SHIPPING COMPANY LIMITED"
+        },
+        "ProductDescription": [
+          "GLOW STICK                                   WOODEN PALETTE                               TOOTHBRUSH HOLDER                            PLASTIC DISC CAP                             CONNECTORS                                   -TEL (0574)87190870                          -FAX (0574)87190424/25/26/27/28",
+          "--FAX 809-683-1994"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "NL NEUTRAL LOGISTICS,RNC 130-584044"
+        }
+      },
+      {
+        "Quantity": 492,
+        "GrossWeightKgs": 11452,
+        "GrossWeightLbs": 25194,
+        "ArrivalDate": 1423267200,
+        "BillOfLading": "HLCUNG11412AYTH9",
+        "EntryId": 108833970,
+        "CountryOfOrigin": "South Korea",
+        "Shipper": {
+          "link": "suppliers/kaiyuan-shipping-company-limited",
+          "name": "KAIYUAN SHIPPING COMPANY LIMITED"
+        },
+        "ProductDescription": [
+          "AIR CONDITIONER                              PLASTIC CAP                                  OPTICAL FIBER SPLICE ENCLOSURE               ELEVATOR DOOR                                COOKWARE SET                                 EMBROIDERY UNDER THREAD                      MESAS INFANTILES",
+          "TWO COLOR FLEXO PRINTING MACHINE             HANG TAG                                     BALL PEN                                     COMMUNICATION ACCESSORY                      -TEL (0574)87190870                          -FAX (0574)87190424/25/26/27/28              --FAX 809-683-1994"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "NL NEUTRAL LOGISTICS,RNC 130-584044"
+        }
+      },
+      {
+        "Quantity": 1103,
+        "GrossWeightKgs": 21657,
+        "GrossWeightLbs": 47645,
+        "ArrivalDate": 1421107200,
+        "BillOfLading": "HLCUNG11410AWAA5",
+        "EntryId": 107878444,
+        "CountryOfOrigin": "South Korea",
+        "Shipper": {
+          "link": "suppliers/kaiyuan-shipping-company-limited",
+          "name": "KAIYUAN SHIPPING COMPANY LIMITED"
+        },
+        "ProductDescription": [
+          "POLYMER INSULATOR                            CAR LAMPS                                    GLOW STICK                                   FURNITURE ACCESSORIES                        RUBBER PATCHES                               ELECTRIC BICYCLE                             STEEL STRAPING",
+          "SECURTIY SEALS                               FAUCETS                                      -TEL (0574)87190870                          -FAX (0574)87190424/25/26/27/28              --FAX 809-683-1994"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "NL NEUTRAL LOGISTICS,RNC 130-584044"
+        }
+      },
+      {
+        "Quantity": 787,
+        "GrossWeightKgs": 20730,
+        "GrossWeightLbs": 45606,
+        "ArrivalDate": 1420329600,
+        "BillOfLading": "HLCUNG11410AVZD9",
+        "EntryId": 107681132,
+        "CountryOfOrigin": "South Korea",
+        "Shipper": {
+          "link": "suppliers/kaiyuan-shipping-company-limited",
+          "name": "KAIYUAN SHIPPING COMPANY LIMITED"
+        },
+        "ProductDescription": [
+          "SEAL                                         SPRING TOGGLES                               BALL PEN                                     IRRIGATION SPRINKLER 1/2\"                    TEFLON CONVEYOR BELT                         TELESCOPIC PIPE                              STAINLESS STEEL PIPE SLEEVE",
+          "TWIN TUB WASHER                              PLASTIC MUG                                  SUNGLASSES                                   CABLE ITES                                   FIBER IPTIC DISCTRIBUTION BOX                STAINLESS STEEL HANDRAIL FITTINGS            STAINLESS STEEL FITTINGS                     STAINLESS STEEL PIPE SLEEVE",
+          "HANDRAIL BRACKET                             DOOR KNOB                                    COMMUNICATION PARTS                          -TEL (0574)87190870                          -FAX (0574)87190424/25/26/27/28              --FAX 809-683-1994"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "NL NEUTRAL LOGISTICS,RNC 130-584044"
+        }
+      },
+      {
+        "Quantity": 604,
+        "GrossWeightKgs": 13763,
+        "GrossWeightLbs": 30279,
+        "ArrivalDate": 1337472000,
+        "BillOfLading": "HLCUNG11203APTF0",
+        "EntryId": 69937114,
+        "CountryOfOrigin": "Hong Kong",
+        "Shipper": {
+          "link": "suppliers/kaiyuan-shipping-co-ltd-ningbo-hq",
+          "name": "KAIYUAN SHIPPING CO.,LTD.NINGBO HQ"
+        },
+        "ProductDescription": [
+          "SUNGLASSESSUNGLASSESSUNGLASSESPAPER BAGSUNGLASSESSTAINLESS STEEL MIXING TANKSUNGLASSESPLUMBING SUPPLIES(CONNECTINGB)SUNGLASSESSAFTY VESTSUNGLASSESRULERSUNGLASSESSAFETY SHOESSUNGLASSESLIQUOR DISPENSER HEADSUNGLASSESLIQUOR DISPENSER RACKSUNGLASSESFLUTESUNGLASSES58/60 INCHES WIDE 100 PERCENTSUNGLASSESCOTTON,SHIRTING FABRICSSUNGLASSESCAPACITORSUNGLASSESSPARE PARTS FOR MOTORCYCLESSUNGLASSES-FAX:(0574)87190424/25/26/27/28SUNGLASSES--FAX:809-683-1994SUNGLASSES---FAX:809-683-1994"
+        ],
+        "QuantityUnit": "PCS  ",
+        "Consignee": {
+          "name": "NL NEUTRAL LOGISTICS,RNC 130-584044"
+        }
+      },
+      {
+        "Quantity": 831,
+        "GrossWeightKgs": 13178,
+        "GrossWeightLbs": 28992,
+        "ArrivalDate": 1334534400,
+        "BillOfLading": "HLCUNG1120320268",
+        "EntryId": 68673385,
+        "CountryOfOrigin": "Hong Kong",
+        "Shipper": {
+          "link": "suppliers/kaiyuan-shipping-co-ltd-ningbo-hq",
+          "name": "KAIYUAN SHIPPING CO.,LTD.NINGBO HQ"
+        },
+        "ProductDescription": [
+          "TUNERS FOR TELEVISION SETSLNBFTUNERS FOR TELEVISION SETSCASKET HARDWARETUNERS FOR TELEVISION SETSCAPACITORTUNERS FOR TELEVISION SETSELECTRIC WINCHTUNERS FOR TELEVISION SETSWINCH PARTSTUNERS FOR TELEVISION SETSVACUUM PACKING MACHINETUNERS FOR TELEVISION SETSDOORTUNERS FOR TELEVISION SETS"
+        ],
+        "QuantityUnit": "PCS  ",
+        "Consignee": {
+          "name": "NL NEUTRAL LOGISTICS,RNC 130-584044"
+        }
+      },
+      {
+        "Quantity": 658,
+        "GrossWeightKgs": 20498,
+        "GrossWeightLbs": 45096,
+        "ArrivalDate": 1333324800,
+        "BillOfLading": "HLCUNG1120233823",
+        "EntryId": 68138405,
+        "CountryOfOrigin": "Hong Kong",
+        "Shipper": {
+          "link": "suppliers/ningbo-kaiyuan-shipping-co-ltd",
+          "name": "NINGBO KAIYUAN SHIPPING CO. LTD"
+        },
+        "ProductDescription": [
+          "DISCHG LAMP:FLORESCENT,CATHODEDROP WIRE CLAMPDISCHG LAMP:FLORESCENT,CATHODEPENCILSDISCHG LAMP:FLORESCENT,CATHODECHEST FREEZERDISCHG LAMP:FLORESCENT,CATHODEENAMELED STEEL PANELSDISCHG LAMP:FLORESCENT,CATHODETB-350PACKING MACHINEDISCHG LAMP:FLORESCENT,CATHODELNBFDISCHG LAMP:FLORESCENT,CATHODEOUTDOOR PLAYGROUNDDISCHG LAMP:FLORESCENT,CATHODEDETERGENT PUSH ANDDISCHG LAMP:FLORESCENT,CATHODEPULL CAPDISCHG LAMP:FLORESCENT,CATHODESUNGLESSESDISCHG LAMP:FLORESCENT,CATHODESIGN FIXINGSDISCHG LAMP:FLORESCENT,CATHODESTEEL CABLEDISCHG LAMP:FLORESCENT,CATHODESPRAY MACHINEDISCHG LAMP:FLORESCENT,CATHODEPART FOR WATER PUMPDISCHG LAMP:FLORESCENT,CATHODECABLE GLANDDISCHG LAMP:FLORESCENT,CATHODEHALF-SPIRALDISCHG LAMP:FLORESCENT,CATHODELED LAMPDISCHG LAMP:FLORESCENT,CATHODE-TEL:(0574)87868666DISCHG LAMP:FLORESCENT,CATHODE-FAX:(0574)87190424/25/26/27/28DISCHG LAMP:FLORESCENT,CATHODE--FAX:809-683-1994DISCHG LAMP:FLORESCENT,CATHODE--TAX ID: 130-584044DISCHG LAMP:FLORESCENT,CATHODE--GAVINONEUTRALLOGISTICS.COM(LISSIDISCHG LAMP:FLORESCENT,CATHODE--GAVINO LISSI.)DISCHG LAMP:FLORESCENT,CATHODE---FAX:809-683-1994DISCHG LAMP:FLORESCENT,CATHODE---TAX ID: 130-584044DISCHG LAMP:FLORESCENT,CATHODE---GAVINONEUTRALLOGISTICS.COMDISCHG LAMP:FLORESCENT,CATHODE---(LISSI GAVINO LISSI.)"
+        ],
+        "QuantityUnit": "PCS  ",
+        "Consignee": {
+          "name": "NL NEUTRAL LOGISTICS,RNC 130-584044"
+        }
+      },
+      {
+        "Quantity": 740,
+        "GrossWeightKgs": 21781,
+        "GrossWeightLbs": 47918,
+        "ArrivalDate": 1328400000,
+        "BillOfLading": "HLCUNG1120108344",
+        "EntryId": 66120010,
+        "CountryOfOrigin": "Hong Kong",
+        "Shipper": {
+          "link": "suppliers/ningbo-kaiyuan-shipping-co-ltd",
+          "name": "NINGBO KAIYUAN SHIPPING CO. LTD"
+        },
+        "ProductDescription": [
+          "MECHANO-THERAPY & MESSAGE APPMASSAGERMECHANO-THERAPY & MESSAGE APPSPRINGMECHANO-THERAPY & MESSAGE APPQUILTMECHANO-THERAPY & MESSAGE APPWASHING MACHIEN GEAR BOXESMECHANO-THERAPY & MESSAGE APPMASSAGE CHAIRMECHANO-THERAPY & MESSAGE APPMASSAGE CHAIRMECHANO-THERAPY & MESSAGE APPAGRICULTURAL SHEARSMECHANO-THERAPY & MESSAGE APPFOR GREENHOUSESMECHANO-THERAPY & MESSAGE APPWIRE ROPE HOISTMECHANO-THERAPY & MESSAGE APPCOMPRESSED TISSUEMECHANO-THERAPY & MESSAGE APPBIOMASS GASIFIERMECHANO-THERAPY & MESSAGE APPAIR FRESHENERMECHANO-THERAPY & MESSAGE APPARTIFICIAL LEATHERMECHANO-THERAPY & MESSAGE APPHEATER BLOWER R-BLOWERMECHANO-THERAPY & MESSAGE APP-TEL:(0574)87868666MECHANO-THERAPY & MESSAGE APP-FAX:(0574)87190424/25/26/27/28MECHANO-THERAPY & MESSAGE APP--FAX:809-683-1994MECHANO-THERAPY & MESSAGE APP---FAX:809-683-1994MECHANO-THERAPY & MESSAGE APPMASSAGERMECHANO-THERAPY & MESSAGE APPSPRINGMECHANO-THERAPY & MESSAGE APPQUILTMECHANO-THERAPY & MESSAGE APPWASHING MACHIEN GEAR BOXESMECHANO-THERAPY & MESSAGE APPMASSAGE CHAIRMECHANO-THERAPY & MESSAGE APPMASSAGE CHAIRMECHANO-THERAPY & MESSAGE APPAGRICULTURAL SHEARSMECHANO-THERAPY & MESSAGE APPFOR GREENHOUSESMECHANO-THERAPY & MESSAGE APPWIRE ROPE HOISTMECHANO-THERAPY & MESSAGE APPCOMPRESSED TISSUEMECHANO-THERAPY & MESSAGE APPBIOMASS GASIFIERMECHANO-THERAPY & MESSAGE APPAIR FRESHENERMECHANO-THERAPY & MESSAGE APPARTIFICIAL LEATHERMECHANO-THERAPY & MESSAGE APPHEATER BLOWER R-BLOWERMECHANO-THERAPY & MESSAGE APP-TEL:(0574)87868666MECHANO-THERAPY & MESSAGE APP-FAX:(0574)87190424/25/26/27/28MECHANO-THERAPY & MESSAGE APP--FAX:809-683-1994MECHANO-THERAPY & MESSAGE APP---FAX:809-683-1994"
+        ],
+        "QuantityUnit": "PCS  ",
+        "Consignee": {
+          "name": "NL NEUTRAL LOGISTICS,RNC 130-584044"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "bs",
+          "shipmentCount": 1,
+          "country": "bahamas",
+          "name": "N/A",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 19539,
+          "grossWeightInLbs": 42986,
+          "lastAddress": {
+            "shortAddress": "Bahamas",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "3460 INDUSTRIAL AREA AL JUBAYL INDUSTRIAL CITY 04 35714",
+    "totalShipments": 1,
+    "company": "EASTERN PETROCHEMICAL CO. (SHARQ)",
+    "mostRecentDate": 1712707200,
+    "url": "importers/eastern-petrochemical-co-sharq",
+    "shipments": [
+      {
+        "Quantity": 88,
+        "GrossWeightKgs": 19539,
+        "GrossWeightLbs": 42986,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "MEDUVD611020",
+        "EntryId": 263552927,
+        "CountryOfOrigin": "Bahamas",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "ARTIFICIAL CORUNDUM, WHETHER OR NOT CHEMICALLY DEF - STEEL DRUM(S) LOADED ONTO 22 PALLETS LOADED INTO 1 40' HIGH CUBE DRY CONTAINER(S) T162 1/4 HS CODE: 281820 MSCU , HERMANN SCHULTE , NG411E AS PER BELOW SHIPPED ON BOARD DATE. ON BOARD VESSEL AS PER BELOW SHIPPED ON BOARD DATE. 2012402372 0119435049 4802177850 AE, S X20240315325095 / ETUS12020261983 FOR CHEMICAL EMERGENCY CALL DAY OR NIGHT: CHEMTREC 800-424-9300/703-527-3887 OR BASF 800-832-HELP DAMMAM FREE ZONE FREIGHT PREPAID"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "EASTERN PETROCHEMICAL CO. (SHARQ)"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 4,
+      "items": [
+        {
+          "iso": "fr",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/hermes-parfums",
+          "overAllShipmentCount": 744,
+          "country": "france",
+          "name": "HERMES PARFUMS",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 376,
+          "grossWeightInLbs": 827,
+          "lastAddress": {
+            "shortAddress": "France",
+            "fullAddress": "4, RUE DU PONT VERT B.P. 25 LE VAUDREUIL FR"
+          },
+          "containersCount": 2
+        },
+        {
+          "iso": "fr",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/lvmh-fragrance-brands",
+          "overAllShipmentCount": 2188,
+          "country": "france",
+          "name": "LVMH FRAGRANCE BRANDS",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 3932,
+          "grossWeightInLbs": 8650,
+          "lastAddress": {
+            "shortAddress": "France",
+            "fullAddress": "77 RUE ANATOLE FRANCE LEVALLOIS-PERRET FR"
+          },
+          "containersCount": 1
+        },
+        {
+          "iso": "fr",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/cfeb-sisley",
+          "overAllShipmentCount": 295,
+          "country": "france",
+          "name": "CFEB SISLEY",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 443,
+          "grossWeightInLbs": 975,
+          "lastAddress": {
+            "shortAddress": "France",
+            "fullAddress": "3 AVENUE DE FRIEDLAND PARIS FR"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "9290 NW 112TH AVE MEDLEY FL 33178 US",
+    "totalShipments": 4,
+    "company": "STARBOARD HOLDINGS, LTD. DBA STARBO",
+    "mostRecentDate": 1712707200,
+    "url": "importers/starboard-holdings-ltd-dba-starbo",
+    "shipments": [
+      {
+        "Quantity": 47,
+        "GrossWeightKgs": 3932,
+        "GrossWeightLbs": 8650,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "VSIB12407155B",
+        "EntryId": 263552964,
+        "CountryOfOrigin": "France",
+        "Shipper": {
+          "link": "suppliers/lvmh-fragrance-brands",
+          "name": "LVMH FRAGRANCE BRANDS"
+        },
+        "ProductDescription": [
+          "PERFUMERY AND COSMETICS HS CODE 330300/330410/330499/330420/330491"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "STARBOARD HOLDINGS, LTD. DBA STARBO"
+        }
+      },
+      {
+        "Quantity": 13,
+        "GrossWeightKgs": 443,
+        "GrossWeightLbs": 975,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "VSIB12407155A",
+        "EntryId": 263552963,
+        "CountryOfOrigin": "France",
+        "Shipper": {
+          "link": "suppliers/cfeb-sisley",
+          "name": "CFEB SISLEY"
+        },
+        "ProductDescription": [
+          "PERFUMERY TESTERS HS CODE 330300UN1266 PERFUMERY PRODUCTS"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "STARBOARD HOLDINGS, LTD. DBA STARBO"
+        }
+      },
+      {
+        "Quantity": 30,
+        "GrossWeightKgs": 307,
+        "GrossWeightLbs": 675,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "VSIB12407230B",
+        "EntryId": 263552962,
+        "CountryOfOrigin": "France",
+        "Shipper": {
+          "link": "suppliers/hermes-parfums",
+          "name": "HERMES PARFUMS"
+        },
+        "ProductDescription": [
+          "PERFUMERY PRODUCTS HS CODE 330300"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "STARBOARD HOLDINGS, LTD. DBA STARBO"
+        }
+      },
+      {
+        "Quantity": 5,
+        "GrossWeightKgs": 69,
+        "GrossWeightLbs": 152,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "VSIB12407230A",
+        "EntryId": 263552961,
+        "CountryOfOrigin": "France",
+        "Shipper": {
+          "link": "suppliers/hermes-parfums",
+          "name": "HERMES PARFUMS"
+        },
+        "ProductDescription": [
+          "PERFUMERY TESTERS HS CODE 330300"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "STARBOARD HOLDINGS, LTD. DBA STARBO"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/brp-queretaro-s-a-de-c-v",
+          "overAllShipmentCount": 3466,
+          "country": "mexico",
+          "name": "BRP QUERETARO.S.A. DE C.V.",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 18453,
+          "grossWeightInLbs": 40597,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "AVENIDA FERROCARRIL 202 A SANTA ROSA JAUREGUI, QUERETARO CP: 76220 MEXICO TE RFC: BQU120316S58"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "TALA BAY MARINA BLOCK 8 AQABA SPECIAL ECONOMIC ZONE, JORDAN TAX ID: 200146382",
+    "totalShipments": 1,
+    "company": "ROYAL MARINE TRADING CO. LTD",
+    "mostRecentDate": 1712707200,
+    "url": "importers/royal-marine-trading-co-ltd",
+    "shipments": [
+      {
+        "Quantity": 24,
+        "GrossWeightKgs": 18453,
+        "GrossWeightLbs": 40597,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "CMDUMXO0690562",
+        "EntryId": 263553417,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/brp-queretaro-s-a-de-c-v",
+          "name": "BRP QUERETARO.S.A. DE C.V."
+        },
+        "ProductDescription": [
+          "12 NEW AND CRATED BRP PERSONAL WATERCRAFT UN3166, VEHICLE, FLAMMABLE LIQUID POWERED, CLASS 9, GROSS: 5351.80 KGS NET: 4094.00 KGS. EN CASO DE EMERGENCIA QUIMICA, DERRAME, FUGA, EXPLOSION O ACCIDENTE LLAMAR AL SETIQ -24 HORAS 01-800-00-214-00 (ESTADOS DEL PAIS) 55-59-15-88 (D.F) ING. HSE BERNARDO AVALOS REYES CEL 442 475 35 33 PROFORMA: 1030803792BRP FO NUMBER: 7200013045 HS: 890331 HAZ EMERGENCY CONTACT: 3523233500 PSN: VEHICLE, FLAMMABLE LIQUID POWERED UN NUMBER: 3166 - IMDG CLASS: 9",
+          "FREIGHT PREPAID LABELING OF UN 3166 IS NOT REQUIRED IN CASE CARGO IS IN COMPLIANCE WITH SPECIAL PROVISION962 OF IMDG CODE. QUANTITY OF FUEL IS LESS T OF THE FUEL TANK IS FILLED IN WITH FUEL. REMARK SHOULD BE DONE IN MANIFEST - DECLARIN THAT CARGO IS COMPLIANT WITH REQUIREMENTS OF, SPECIAL PROVISION 962 12 NEW AND CRATED BRP PERSONAL WATERCRAFT UN3166, VEHICLE, FLAMMABLE LIQUID POWERED, CLASS 9, GROSS: 5351.80 KGS NET: 4094.00 KGS. EN CASO DE EMERGENCIA QUIMICADERRAME, FUGA, EXPLOSION O ACCIDENTE LLAMAR AL SETIQ -24 HORAS 01-800-00-214-00 (ESTADOS DEL PAIS) 55-59-15-88 (D.F) ING. HSE BERNARDO AVALOS REYES CEL 442 475 35 33 PROFORMA: 1030803792BRP FO NUMBER: 7200013045 HS: 890331 HAZ EMERGENCY CONTACT: 3523233500 PSN: VEHICLE, FLAMMABLE LIQUID POWERED UN NUMBER: 3166 - IMDG CLASS: 9"
+        ],
+        "QuantityUnit": "CRT",
+        "Consignee": {
+          "name": "ROYAL MARINE TRADING CO. LTD"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "grossWeightInKgs": 23240,
+          "lastAddress": {
+            "shortAddress": "Bahamas",
+            "fullAddress": "3000 L STREET OMAHA NE 68107 UNITED STATES"
+          },
+          "iso": "bs",
+          "overAllShipmentCount": 9,
+          "mostRecentDate": 1712707200,
+          "country": "bahamas",
+          "name": "GREATER OMAHA PACKING CO",
+          "landingPageUrl": "suppliers/greater-omaha-packing-co",
+          "containersCount": 1,
+          "grossWeightInLbs": 51128,
+          "shipmentCount": 1
+        }
+      ]
+    },
+    "company": "HASAN & HABIB SONS OF MAHMOOD WLL",
+    "contactInfo": "BLD132 ROAD42, MINA SULMAN PORT 13 BLK343 BAHRAIN",
+    "totalShipments": 1,
+    "mostRecentDate": 1712707200,
+    "url": "importers/hasan-habib-sons-of-mahmood-wll",
+    "shipments": [
+      {
+        "BillOfLading": "MEDUVD529214",
+        "EntryId": 263553475,
+        "CountryOfOrigin": "Bahamas",
+        "GrossWeightLbs": 51128,
+        "Quantity": 737,
+        "Shipper": {
+          "link": "suppliers/greater-omaha-packing-co",
+          "name": "GREATER OMAHA PACKING CO"
+        },
+        "Consignee": {
+          "name": "HASAN & HABIB SONS OF MAHMOOD WLL"
+        },
+        "GrossWeightKgs": 23240,
+        "QuantityUnit": "CAS",
+        "ArrivalDate": 1712707200,
+        "ProductDescription": [
+          "EDIBLE OFFAL OF BOVINE ANIMALS, SWINE, SHEEP, GOAT - FROZEN BEEF NET WEIGHT:49249.90 LB 22339.61 KG SHIPPER REF:CHK8488 541089 FREIGHT PREPAID"
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "bs",
+          "shipmentCount": 1,
+          "country": "bahamas",
+          "name": "N/A",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 66416,
+          "grossWeightInLbs": 146115,
+          "lastAddress": {
+            "shortAddress": "Bahamas",
+            "fullAddress": "HOBOKEN BUSINESS CENTER 50 HARRISON HOBOKEN NJ 07030 UNITED STATES"
+          },
+          "containersCount": 3
+        }
+      ]
+    },
+    "contactInfo": "KACHI FATOMAND COMMISAINER ROAD, NE GUJRANWALA 52250 PAKISTAN",
+    "totalShipments": 1,
+    "company": "F&A GLOBAL COMPANY PVT LTD.",
+    "mostRecentDate": 1712707200,
+    "url": "importers/f-a-global-company-pvt-ltd",
+    "shipments": null
+  },
+  {
+    "contactInfo": "MILLENNIUM, KOLDREEF 7 4703 RE ROOSENDAAL NETHERLANDS",
+    "company": "LOENDERSLOOT AS AGENTS FOR",
+    "totalShipments": 3,
+    "shippers": {
+      "items": [
+        {
+          "shipmentCount": 3,
+          "iso": "mx",
+          "name": "COMPANIA CERVECERA DEL TROPICO",
+          "containersCount": 13,
+          "grossWeightInKgs": 388300,
+          "landingPageUrl": "suppliers/compania-cervecera-del-tropico",
+          "country": "mexico",
+          "lastAddress": {
+            "fullAddress": "BLVD. ANTONINO FDZ. RODRIGUEZ 1 SAN JUAN BAUTISTA TUXTEPEC, 68330, OAXACA, CP TE JORGE.YEPEZ AB-INBEV.COM",
+            "shortAddress": "Mexico"
+          },
+          "grossWeightInLbs": 854259,
+          "mostRecentDate": 1713484800,
+          "overAllShipmentCount": 1650
+        }
+      ],
+      "totalShipments": 3
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/loendersloot-as-agents-for",
+    "shipments": [
+      {
+        "BillOfLading": "CMDUMXO0690614",
+        "GrossWeightLbs": 459835,
+        "Quantity": 18480,
+        "EntryId": 264030126,
+        "Shipper": {
+          "link": "suppliers/compania-cervecera-del-tropico",
+          "name": "COMPANIA CERVECERA DEL TROPICO"
+        },
+        "CountryOfOrigin": "Mexico",
+        "ArrivalDate": 1713484800,
+        "GrossWeightKgs": 209016,
+        "QuantityUnit": "CAS",
+        "Consignee": {
+          "name": "LOENDERSLOOT AS AGENTS FOR"
+        },
+        "ProductDescription": [
+          "FREIGHT PREPAID FREIGHT PREPAID HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR BEER MADE FROM MALT SECOND NOTIFY: BEER MADE FROM MALT",
+          "HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR BEER MADE FROM MALT BEER MADE FROM MALT",
+          "HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR BEER MADE FROM MALT - 2ND NOTIFY:LOENDERSLOOT AS AGENTS FOR MILLENNKOOLDREEF 7 4703 RE ROOSENDAAL NETHERLANDS LOGISTICS MIGTLLC.AE, BEER MADE FROM MALT",
+          "FREIGHT PREPAID HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR BEER MADE FROM MALT BEER MADE FROM MALT",
+          "HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR BEER MADE FROM MALT BEER MADE FROM MALT",
+          "HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR BEER MADE FROM MALT BEER MADE FROM MALT",
+          "HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR BEER MADE FROM MALT LOENDERSLOOT AS AGENTS FOR MILLENNIUM, KOOLDREEF 7 4703 RE ROOSENDAAL NETHERLANDS LOGISTICS MIGTLLC.AE, BEER MADE FROM MALT"
+        ]
+      },
+      {
+        "BillOfLading": "CMDUMXO0690612",
+        "GrossWeightLbs": 65938,
+        "Quantity": 2640,
+        "EntryId": 264030125,
+        "Shipper": {
+          "link": "suppliers/compania-cervecera-del-tropico",
+          "name": "COMPANIA CERVECERA DEL TROPICO"
+        },
+        "CountryOfOrigin": "Mexico",
+        "ArrivalDate": 1713484800,
+        "GrossWeightKgs": 29972,
+        "QuantityUnit": "CAS",
+        "Consignee": {
+          "name": "LOENDERSLOOT AS AGENTS FOR"
+        },
+        "ProductDescription": [
+          "FREIGHT COLLECT 22030001 (HS) 22030001-70158-CORN EXTR OW 4X6 0,210 AFR BEER MADE FROM MALT - 2ND NOTIFY:LOENDERSLOOT AS AGENTS FOR MILLENNKOOLDREEF 7 4703 RE ROOSENDAAL NETHERLANDS, LOGISTICS MIGTLLC.AE"
+        ]
+      },
+      {
+        "BillOfLading": "CMDUMXO0690611",
+        "GrossWeightLbs": 328486,
+        "Quantity": 13200,
+        "EntryId": 263553614,
+        "Shipper": {
+          "link": "suppliers/compania-cervecera-del-tropico",
+          "name": "COMPANIA CERVECERA DEL TROPICO"
+        },
+        "CountryOfOrigin": "Mexico",
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 149312,
+        "QuantityUnit": "CAS",
+        "Consignee": {
+          "name": "LOENDERSLOOT AS AGENTS FOR"
+        },
+        "ProductDescription": [
+          "HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR 2ND NOTIFY:LOENDERSLOOT AS AGENTS FOR MILLENNKOOLDREEF 7 4703 RE ROOSENDAAL NETHERLANDS LOGISTICS MIGTLLC.AE BEER MADE FROM MALT",
+          "FREIGHT PREPAID HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR SECOND NOTIFY: BEER MADE FROM MALT",
+          "HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR LOENDERSLOOT AS AGENTS FOR MILLENNIUM, KOOLDREEF 7 4703 RE ROOSENDAAL NETHERLANDS LOGISTICS MIGTLLC.AE BEER MADE FROM MALT",
+          "HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR BEER MADE FROM MALT",
+          "HS CODE: 22030001 22030001-70158-CORN EXTR OW 4X6 0,210 AFR BEER MADE FROM MALT"
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "bs",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/greater-omaha-packing-co",
+          "overAllShipmentCount": 9,
+          "country": "bahamas",
+          "name": "GREATER OMAHA PACKING CO",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 22698,
+          "grossWeightInLbs": 49936,
+          "lastAddress": {
+            "shortAddress": "Bahamas",
+            "fullAddress": "3000 L STREET OMAHA NE 68107 UNITED STATES"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "SWK INDUSTRIAL AREA 3 MAIN WHOLESAL SHUWAIKH KUWAIT",
+    "totalShipments": 1,
+    "company": "KUWAIT LEGION FOODSTUFF CO WLL",
+    "mostRecentDate": 1712707200,
+    "url": "importers/kuwait-legion-foodstuff-co-wll",
+    "shipments": [
+      {
+        "Quantity": 753,
+        "GrossWeightKgs": 22698,
+        "GrossWeightLbs": 49936,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "MEDUVD529198",
+        "EntryId": 263554295,
+        "CountryOfOrigin": "Bahamas",
+        "Shipper": {
+          "link": "suppliers/greater-omaha-packing-co",
+          "name": "GREATER OMAHA PACKING CO"
+        },
+        "ProductDescription": [
+          "MEAT AND EDIBLE MEAT OFFAL, SALTED, IN BRINE, DRIE - FROZEN BEEF NET WEIGHT: 48008.50 LB 21776.51 KG SHIPPER REF: CHL7281 540783 FREIGHT PREPAID"
+        ],
+        "QuantityUnit": "CAS",
+        "Consignee": {
+          "name": "KUWAIT LEGION FOODSTUFF CO WLL"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/stolt-tank-containers-b-v-as",
+          "overAllShipmentCount": 1696,
+          "country": "mexico",
+          "name": "STOLT TANK CONTAINERS B.V. AS",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 8,
+          "grossWeightInLbs": 18,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "AGENTS FOR REPRESENTACIONES Y REEXPEDICIONES DEL ATLANTICO X"
+          },
+          "containersCount": 8
+        }
+      ]
+    },
+    "contactInfo": "STOLT TANK CONTAINERS MORENO 550, 1ST FLOOR, OFFICE 132 C1091AAL - BUENOS AIRES, ARGENTINA XX",
+    "totalShipments": 1,
+    "company": "STOLT NIELSEN ARGENTINA S.A.U",
+    "mostRecentDate": 1712707200,
+    "url": "importers/stolt-nielsen-argentina-s-a-u",
+    "shipments": [
+      {
+        "Quantity": 8,
+        "GrossWeightKgs": 8,
+        "GrossWeightLbs": 18,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "HLCUME3240342813",
+        "EntryId": 263554379,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/stolt-tank-containers-b-v-as",
+          "name": "STOLT TANK CONTAINERS B.V. AS"
+        },
+        "ProductDescription": [
+          "EMPTY /CLEAN 1 CONTAINER 1 X 20 ISO TANK, EMPTY /CLEAN NO RESIDUE SHIPPER OWNED NON HAZARDOUS PRODUCT",
+          "EMPTY /CLEAN 1 CONTAINER 1 X 20 ISO TANK, EMPTY /CLEAN NO RESIDUE SHIPPER OWNED NON HAZARDOUS PRODUCT",
+          "EMPTY /CLEAN 1 CONTAINER 1 X 20 ISO TANK, EMPTY /CLEAN NO RESIDUE SHIPPER OWNED NON HAZARDOUS PRODUCT",
+          "EMPTY /CLEAN 1 CONTAINER 1 X 20 ISO TANK, EMPTY /CLEAN NO RESIDUE SHIPPER OWNED NON HAZARDOUS PRODUCT",
+          "EMPTY /CLEAN 1 CONTAINER 1 X 20 ISO TANK, EMPTY /CLEAN NO RESIDUE SHIPPER OWNED NON HAZARDOUS PRODUCT",
+          "EMPTY /CLEAN 1 CONTAINER 1 X 20 ISO TANK, EMPTY /CLEAN NO RESIDUE SHIPPER OWNED NON HAZARDOUS PRODUCT",
+          "EMPTY /CLEAN 1 CONTAINER 1 X 20 ISO TANK, EMPTY /CLEAN NO RESIDUE SHIPPER OWNED NON HAZARDOUS PRODUCT",
+          "EMPTY /CLEAN 1 CONTAINER 1 X 20 ISO TANK, EMPTY /CLEAN NO RESIDUE SHIPPER OWNED NON HAZARDOUS PRODUCT"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "STOLT NIELSEN ARGENTINA S.A.U"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/nowports-mexico-sa-de-cv",
+          "overAllShipmentCount": 168,
+          "country": "mexico",
+          "name": "NOWPORTS MEXICO SA DE CV",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 11563,
+          "grossWeightInLbs": 25439,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "& ADDRESS AV. MIGUEL HIDALGO PTE 2404, PISO 40, COL. OBISPADO, MONTERREY, NL, C.P 64060"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "& ADDRESS CNPJ 34.471.330/0001-87 AV WASHINGTON LUIS, 61 - SALA 32 CEP 11.050-201 - VILA MATHIAS - SANTOS/SP BRASIL TEL 55 44",
+    "totalShipments": 1,
+    "company": "IKES LOGISTICA INTERNACIONAL LTDA",
+    "mostRecentDate": 1712707200,
+    "url": "importers/ikes-logistica-internacional-ltda",
+    "shipments": [
+      {
+        "Quantity": 65,
+        "GrossWeightKgs": 11563,
+        "GrossWeightLbs": 25439,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "HLCUME3240340734",
+        "EntryId": 263554395,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/nowports-mexico-sa-de-cv",
+          "name": "NOWPORTS MEXICO SA DE CV"
+        },
+        "ProductDescription": [
+          "TAPONES DE PLASTICO PLASTIC PLUGS HS CODE 39235001 00",
+          "TAPONES DE PLASTICO PLASTIC PLUGS HS CODE 39235001 00 WOODEN PACKAGES NOT APPLICABLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "IKES LOGISTICA INTERNACIONAL LTDA"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/aim-servicios-administrativos",
+          "overAllShipmentCount": 1,
+          "country": "mexico",
+          "name": "AIM SERVICIOS ADMINISTRATIVOS",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 543,
+          "grossWeightInLbs": 1195,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "CARR MONTERREY HUINALA KM 2.8 EXT 4 02 INT EDIFICIO B OTRA NO ESPECIFICADA EN EL CATALO GO APODACA MX BEATRIZ FRAIRE EM BFRAIRE@AIIG.COM"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "TURANKA 1316/114 SLATINA BRNO CZ",
+    "totalShipments": 1,
+    "company": "EDWARDS BRNO SERVICE HUB",
+    "mostRecentDate": 1712707200,
+    "url": "importers/edwards-brno-service-hub",
+    "shipments": [
+      {
+        "Quantity": 5,
+        "GrossWeightKgs": 543,
+        "GrossWeightLbs": 1195,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "DMALMTYA14087",
+        "EntryId": 263554553,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/aim-servicios-administrativos",
+          "name": "AIM SERVICIOS ADMINISTRATIVOS"
+        },
+        "ProductDescription": [
+          "COMPRESOR CRIOGENICO / COMPRESOR CRIOGENICO"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "EDWARDS BRNO SERVICE HUB"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/procter-gamble-manufacturing-co",
+          "overAllShipmentCount": 1389,
+          "country": "mexico",
+          "name": "PROCTER & GAMBLE MANUFACTURING CO.",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 49533,
+          "grossWeightInLbs": 108972,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "MEXICO, S DE RL DE CV ON BEHALF OF THE PROCTER & GAMBLE DISTRIBUTING LLC 1 PROCTER & GAMBLE PLAZA. CINCINNATI, OHIO 45202X"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "NARIO, CP 12000 MONTEVIDEO, URUGUAY , RFC 210001100017,CTC DANIEL MARTI NEZ/ GRAZIELLA ALGORTA GALGORTAALG ORTA.COM MDELPALACIOALGORTA.COM.UY",
+    "totalShipments": 2,
+    "company": "ALGORTA S.A.CALLAO N3364 ESQ. CENTE",
+    "mostRecentDate": 1712707200,
+    "url": "importers/algorta-s-a-callao-n3364-esq-cente",
+    "shipments": [
+      {
+        "Quantity": 4310,
+        "GrossWeightKgs": 24572,
+        "GrossWeightLbs": 54058,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "HLCUME3240355895",
+        "EntryId": 263554844,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/procter-gamble-manufacturing-co",
+          "name": "PROCTER & GAMBLE MANUFACTURING CO."
+        },
+        "ProductDescription": [
+          "SHAMPOO, CONDITIONER WITH SHAMPOO, CONDITIONER AND HAIR TREATMENTS LOAD ID 8001287852 NCM 330510,330590"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "ALGORTA S.A.CALLAO N3364 ESQ. CENTE"
+        }
+      },
+      {
+        "Quantity": 4448,
+        "GrossWeightKgs": 24961,
+        "GrossWeightLbs": 54914,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "HLCUME3240345135",
+        "EntryId": 263554840,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/procter-gamble-manufacturing-co",
+          "name": "PROCTER & GAMBLE MANUFACTURING CO."
+        },
+        "ProductDescription": [
+          "WITH SHAMPOO, CONDITIONER AND HAIR TREATMENTS LOAD ID 8001287804 NCM 330510,330590"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "ALGORTA S.A.CALLAO N3364 ESQ. CENTE"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/arteche-north-america-sa-de-cv-rfc",
+          "overAllShipmentCount": 1,
+          "country": "mexico",
+          "name": "ARTECHE NORTH AMERICA SA DE CV RFC:",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 5606,
+          "grossWeightInLbs": 12333,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "INE911127JG1 ANTIGUA CARRETERA FEDERAL MEXICO-QUERETARO KM.73.540, TLAXINACALPAN, TEPEJI DEL RIO DE OCAMPO. HIDALGO, MEXICO, 42855"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "GDOR. DR. AMADEO SABATINI N 8429, FERREYRA CRDOBA, ARGENTINA, 5123",
+    "totalShipments": 1,
+    "company": "AIT S.A. TAX ID: 30698853677AVDA.",
+    "mostRecentDate": 1712707200,
+    "url": "importers/ait-s-a-tax-id-30698853677avda",
+    "shipments": [
+      {
+        "Quantity": 8,
+        "GrossWeightKgs": 5606,
+        "GrossWeightLbs": 12333,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "HLCUME3OC48842AB",
+        "EntryId": 263554845,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/arteche-north-america-sa-de-cv-rfc",
+          "name": "ARTECHE NORTH AMERICA SA DE CV RFC:"
+        },
+        "ProductDescription": [
+          "ELECTRICAL INSULATORS. 8 PACKAGES ELECTRICAL INSULATORS. N.W. 5,605.9 KG HS CODE 85462001"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "AIT S.A. TAX ID: 30698853677AVDA."
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/dow-quimica-mexicana-sa-de-cv",
+          "overAllShipmentCount": 935,
+          "country": "mexico",
+          "name": "DOW QUIMICA MEXICANA SA DE CV",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 13888,
+          "grossWeightInLbs": 30554,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "RFC DQM590909RK0 AV. PASEO DE LA REFORMA NO. 243 PISO 8 COL.CUAUHTEMOC DEL.CUAUHTEMOC CP.06500 CDMX MEXICO"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "PARA VEDACAO LTDA EPP TAX ID 08939862000196,R PADRE ROQUE GONCALVES 487 VILA SAO JOSE 12955000 BOM JESUS DOS PERDOES SP",
+    "totalShipments": 1,
+    "company": "QUALITA INDUSTRIA E COM DE PROD",
+    "mostRecentDate": 1712707200,
+    "url": "importers/qualita-industria-e-com-de-prod",
+    "shipments": [
+      {
+        "Quantity": 64,
+        "GrossWeightKgs": 13888,
+        "GrossWeightLbs": 30554,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "HLCUME3240358023",
+        "EntryId": 263554950,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/dow-quimica-mexicana-sa-de-cv",
+          "name": "DOW QUIMICA MEXICANA SA DE CV"
+        },
+        "ProductDescription": [
+          "12 DRUMS XIAMETER SLT-5400 SEALANT ACETOXY EXTENDED WHITE 195 KG DRUM CODE 4022449 SILICONA SELANTE NCM 3214, ORDER NUMBER 0115979230 CUSTOMER ORDER NUMBER MEX NET WEIGHT 2,340.00 KG WOODEN PACKING USED TREATED AND CERTIFIED HS-CODE 321410 SEALANT ACETOXY EXTENDED / 8 DRUMS XIAMETER SLT-5400 SEALANT ACETOXY EXTENDED BLACK 195 KG DRUM CODE 4022446 SILICONA SELANTE NCM 3214, ORDER NUMBER 0115979230 CUSTOMER ORDER NUMBER MEX NET WEIGHT 1,560.00 KG WOODEN PACKING USED TREATED AND CERTIFIED HS-CODE 321410 SEALANT ACETOXY EXTENDED / 44 DRUMS XIAMETER SLT-5400 SEALANT ACETOXY EXTENDED CLEAR 195 KG DRUM CODE 4022447 SILICONA SELANTE NCM 3214, ORDER NUMBER 0115979230 CUSTOMER ORDER NUMBER MEX NET WEIGHT 8,580.00 KG WOODEN PACKING USED TREATED AND CERTIFIED HS-CODE 321410 SEALANT ACETOXY EXTENDED"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "QUALITA INDUSTRIA E COM DE PROD"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/ruhrpumpen-industrial-s-a-de-c-v",
+          "overAllShipmentCount": 52,
+          "country": "mexico",
+          "name": "RUHRPUMPEN INDUSTRIAL, S.A. DE C.V.",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 11635,
+          "grossWeightInLbs": 25597,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "NIQUEL, NO. 9204, COL.CUIDAD INDUSTRIAL MITRAS GARCIA, NUEVO LEON, NL 6600, MEXICO"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "FLAT/SHOP NO. 0, BUILDING 1262 ROAD STREET 8525, BLOCK 985 AL.C, ISMAEEL HELAL E.",
+    "totalShipments": 1,
+    "company": "BAPCO GAS COMPANY B.S.C.",
+    "mostRecentDate": 1712707200,
+    "url": "importers/bapco-gas-company-b-s-c",
+    "shipments": [
+      {
+        "Quantity": 3,
+        "GrossWeightKgs": 11635,
+        "GrossWeightLbs": 25597,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "CMDUMXO0692506",
+        "EntryId": 263554962,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/ruhrpumpen-industrial-s-a-de-c-v",
+          "name": "RUHRPUMPEN INDUSTRIAL, S.A. DE C.V."
+        },
+        "ProductDescription": [
+          "------------ TCLU6065223 DESCRIPTION---------CENTRIGUGAL PUMP AND CENTRIFUGAL PUMP PARTS HS CODE 8413709999 /8413911306 OVERSIZE - HEIGHT: 104.1 CM -------------GENERIC DESCRIPTION-------------FREIGHT PREPAID",
+          "------------ TCLU6047580 DESCRIPTION---------CENTRIGUGAL PUMP AND CENTRIFUGAL PUMP PARTS HS CODE 8413709999 /8413911306 OVERSIZE - HEIGHT: 84.1 CM BAH.OCEAN ARAMEX.COM -------------GENERIC DESCRIPTION-------------FREIGHT PREPAID"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "BAPCO GAS COMPANY B.S.C."
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/industrias-unidas-sa-de-cv",
+          "overAllShipmentCount": 242,
+          "country": "mexico",
+          "name": "INDUSTRIAS UNIDAS SA DE CV",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 757,
+          "grossWeightInLbs": 1665,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": ". CARRETERA PANAMERICANA MEXICO- QUER MEXICO CITY 99999 MX"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": ". AV 10 DE AGOSTO N39-210 Y AV AMERIC MENDOZA 99999 CO",
+    "totalShipments": 1,
+    "company": "ACR PROYECTOS S.A",
+    "mostRecentDate": 1712707200,
+    "url": "importers/acr-proyectos-s-a",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 757,
+        "GrossWeightLbs": 1665,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "ONEYMEXE04036A01",
+        "EntryId": 263555325,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/industrias-unidas-sa-de-cv",
+          "name": "INDUSTRIAS UNIDAS SA DE CV"
+        },
+        "ProductDescription": [
+          "COPPER TUBING"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "ACR PROYECTOS S.A"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/ocean-point-terminals",
+          "overAllShipmentCount": 2,
+          "country": "us virgin is",
+          "name": "OCEAN POINT TERMINALS",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 364,
+          "grossWeightInLbs": 801,
+          "lastAddress": {
+            "shortAddress": "US Virgin Is",
+            "fullAddress": "#1 ESTATE HOPE CHRISTIANSTED VI 00820 VI"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "17865 CHAPPEL LANSING IL 60438 US",
+    "totalShipments": 1,
+    "company": "ALLOY MECHANICAL, INC.",
+    "mostRecentDate": 1712707200,
+    "url": "importers/alloy-mechanical-inc",
+    "shipments": [
+      {
+        "Quantity": 2,
+        "GrossWeightKgs": 364,
+        "GrossWeightLbs": 801,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "TSCW16849351",
+        "EntryId": 263555406,
+        "CountryOfOrigin": "US Virgin Is",
+        "Shipper": {
+          "link": "suppliers/ocean-point-terminals",
+          "name": "OCEAN POINT TERMINALS"
+        },
+        "ProductDescription": [
+          "MACHINERY / MACHINERY"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "ALLOY MECHANICAL, INC."
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "8511 WELBORN ROAD EVANSVILLE IN 47712 US",
+    "totalShipments": 2,
+    "company": "A.B. BROWN GENERATING STATION C/O H",
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "country": "belgium",
+          "grossWeightInLbs": 24882,
+          "shipmentCount": 2,
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 11310,
+          "overAllShipmentCount": 2,
+          "lastAddress": {
+            "shortAddress": "Belgium",
+            "fullAddress": "BROWN BOVERI STRASSE 5 Z RICH CH"
+          },
+          "iso": "be",
+          "landingPageUrl": "suppliers/hitachi-energy-switzerland-ltd-pgh",
+          "containersCount": 2,
+          "name": "HITACHI ENERGY SWITZERLAND LTD, PGH"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/a-b-brown-generating-station-c-o-h",
+    "shipments": [
+      {
+        "GrossWeightKgs": 300,
+        "BillOfLading": "DSVFBSL0059292",
+        "Quantity": 1,
+        "Shipper": {
+          "name": "HITACHI ENERGY SWITZERLAND LTD, PGH",
+          "link": "suppliers/hitachi-energy-switzerland-ltd-pgh"
+        },
+        "QuantityUnit": "CAS",
+        "ArrivalDate": 1712707200,
+        "EntryId": 263555854,
+        "Consignee": {
+          "name": "A.B. BROWN GENERATING STATION C/O H"
+        },
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightLbs": 660,
+        "ProductDescription": [
+          "GENERATORSCHALTERSYSTEMHECSHS CODE: 8535.30HBL:"
+        ]
+      },
+      {
+        "GrossWeightKgs": 11010,
+        "BillOfLading": "DSVFBSL0056895",
+        "Quantity": 2,
+        "Shipper": {
+          "name": "HITACHI ENERGY SWITZERLAND LTD, PGH",
+          "link": "suppliers/hitachi-energy-switzerland-ltd-pgh"
+        },
+        "QuantityUnit": "CAS",
+        "ArrivalDate": 1712707200,
+        "EntryId": 263551969,
+        "Consignee": {
+          "name": "A.B. BROWN GENERATING STATION C/O H"
+        },
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightLbs": 24222,
+        "ProductDescription": [
+          "2 CRATES 532 X 242 X 270 CM LOADED ONTO 1 X 40FT FLATRACK AND REMAINING CRATE 175 X 110 X 82 CM INTO 1 X 20FT DRY / GENERATORSCHALTERSYSTEMHECSHS CODE: 8535.30HBL:"
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "do",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yantai-original-import-and-export-c",
+          "overAllShipmentCount": 12,
+          "country": "dominican republic",
+          "name": "YANTAI ORIGINAL IMPORT AND EXPORT C",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 1700,
+          "grossWeightInLbs": 3740,
+          "lastAddress": {
+            "shortAddress": "Dominican Republic",
+            "fullAddress": "122-6 SHIXUE RD, ZHIFU DIST YANTAI, SHANDONG CN 26400-1 CN EXPORTS DEPT."
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "HC 4 BOX 6738 YABUCOA PR 00767- PR",
+    "totalShipments": 1,
+    "company": "ROBERTO DELGADO DBA PR AGRO-DEV",
+    "mostRecentDate": 1712707200,
+    "url": "importers/roberto-delgado-dba-pr-agro-dev",
+    "shipments": [
+      {
+        "Quantity": 3,
+        "GrossWeightKgs": 1700,
+        "GrossWeightLbs": 3740,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "PSPQTAOSJU00661",
+        "EntryId": 263555885,
+        "CountryOfOrigin": "Dominican Republic",
+        "Shipper": {
+          "link": "suppliers/yantai-original-import-and-export-c",
+          "name": "YANTAI ORIGINAL IMPORT AND EXPORT C"
+        },
+        "ProductDescription": [
+          "GLASS CARBOYS, BOTTLES, JARS, POTS, FLASKS, &"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "ROBERTO DELGADO DBA PR AGRO-DEV"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "do",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/moldeados-dominicnaos-s-a",
+          "overAllShipmentCount": 1,
+          "country": "dominican republic",
+          "name": "MOLDEADOS DOMINICNAOS, S.A,",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 8250,
+          "grossWeightInLbs": 18150,
+          "lastAddress": {
+            "shortAddress": "Dominican Republic",
+            "fullAddress": "(MOLDOSA) CARRETERA LA VICTORIA, VILLA MELLA, STO. DGO. NORTE RNC: 1-01-77830-1"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "APARTADO PO BOX 449 / 00751 SALINAS PR 00751 TEL: 1-787-504-0233",
+    "totalShipments": 1,
+    "company": "LOYD SANABRIA / HACIENDA SANTA FE",
+    "mostRecentDate": 1712707200,
+    "url": "importers/loyd-sanabria-hacienda-santa-fe",
+    "shipments": [
+      {
+        "Quantity": 760,
+        "GrossWeightKgs": 8250,
+        "GrossWeightLbs": 18150,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "EGLV479400004161",
+        "EntryId": 263555931,
+        "CountryOfOrigin": "Dominican Republic",
+        "Shipper": {
+          "link": "suppliers/moldeados-dominicnaos-s-a",
+          "name": "MOLDEADOS DOMINICNAOS, S.A,"
+        },
+        "ProductDescription": [
+          "CARTON FOR EGG SEPARADOR PARA HUEVOS DE PULPA MOLDEADA UNITRAY(PAQ. DE 140 UNID. C/U) THE INFORMATION APPEARING ON THE DECLARATION RELATING TO THE QUANTITY AND DESCRIPTION OF THE CARGO IS IN EACH INSTANCE BASED ON THE SHIPPER'S LOAD, AND COUNT. I HAVE NO KNOWLEDGE OR INFORMATION WHICH WOULD LEAD ME TO BELIEVE OR TO SUSPECT THAT THE INFORMATION FURNISHED BY THE SHIPPER IS INCOMPLETE, INACCURATE, OR FALSE IN ANY WAY."
+        ],
+        "QuantityUnit": "BAG",
+        "Consignee": {
+          "name": "LOYD SANABRIA / HACIENDA SANTA FE"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "jm",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yj-s-associates-limited",
+          "overAllShipmentCount": 1,
+          "country": "jamaica",
+          "name": "YJ'S & ASSOCIATES LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 1072,
+          "grossWeightInLbs": 2358,
+          "lastAddress": {
+            "shortAddress": "Jamaica",
+            "fullAddress": "7 POWELL CRESCENT RICHMOIND DISTRICT MANDEVILLE JM"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "11305 NW 122ND STREET MEDLEY, FL 33178 US",
+    "totalShipments": 1,
+    "company": "CASCADES SHIPPING SERVICE LLC",
+    "mostRecentDate": 1712707200,
+    "url": "importers/cascades-shipping-service-llc",
+    "shipments": [
+      {
+        "Quantity": 105,
+        "GrossWeightKgs": 1072,
+        "GrossWeightLbs": 2358,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "SHPT32000249",
+        "EntryId": 263556013,
+        "CountryOfOrigin": "Jamaica",
+        "Shipper": {
+          "link": "suppliers/yj-s-associates-limited",
+          "name": "YJ'S & ASSOCIATES LIMITED"
+        },
+        "ProductDescription": [
+          "SLAC - 105 BOXES GLASS BOTTLES - ASSORTED SAUCES LOADED ON 1 PALLET"
+        ],
+        "QuantityUnit": "PLT",
+        "Consignee": {
+          "name": "CASCADES SHIPPING SERVICE LLC"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "bs",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/vardhman-textiles-limited",
+          "overAllShipmentCount": 18,
+          "country": "bahamas",
+          "name": "VARDHMAN TEXTILES LIMITED",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 6200,
+          "grossWeightInLbs": 13640,
+          "lastAddress": {
+            "shortAddress": "Bahamas",
+            "fullAddress": "CHANDIGARH ROAD LUDHIANA 141011 IN NA TE 911612228943"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "PEDRO GRENDENE 50 FARROUPILHA RIO GRANDE DO SUL 95180 052 BR",
+    "totalShipments": 1,
+    "company": "MALHARIA ANSELMI LTDA",
+    "mostRecentDate": 1712707200,
+    "url": "importers/malharia-anselmi-ltda",
+    "shipments": [
+      {
+        "Quantity": 242,
+        "GrossWeightKgs": 6200,
+        "GrossWeightLbs": 13640,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "GBNS230479564",
+        "EntryId": 263556894,
+        "CountryOfOrigin": "Bahamas",
+        "Shipper": {
+          "link": "suppliers/vardhman-textiles-limited",
+          "name": "VARDHMAN TEXTILES LIMITED"
+        },
+        "ProductDescription": [
+          "NE 20 / 2 CBD COT HOS MEL YN SHADE BEIGE MELANGE"
+        ],
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "MALHARIA ANSELMI LTDA"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/viking-cruises-usa-ltd",
+          "overAllShipmentCount": 579,
+          "country": "mexico",
+          "name": "VIKING CRUISES USA LTD",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 19000,
+          "grossWeightInLbs": 41800,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "2 CHURCH ST HAMILTON, BM"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "1007 N AMERICA WAY MIAMI FL 33132",
+    "totalShipments": 1,
+    "company": "STERICYCLE / SMS INTERNATIONAL SHOR",
+    "mostRecentDate": 1712707200,
+    "url": "importers/stericycle-sms-international-shor",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 19000,
+        "GrossWeightLbs": 41800,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "VOCSOCT240410007",
+        "EntryId": 263556918,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/viking-cruises-usa-ltd",
+          "name": "VIKING CRUISES USA LTD"
+        },
+        "ProductDescription": [
+          "DRY GARBAGE - FOOD WASTE, USDA REGULATED WAST"
+        ],
+        "QuantityUnit": "PLT",
+        "Consignee": {
+          "name": "STERICYCLE / SMS INTERNATIONAL SHOR"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "iso": "mx",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/viking-cruises-usa-ltd",
+          "overAllShipmentCount": 579,
+          "country": "mexico",
+          "name": "VIKING CRUISES USA LTD",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 12,
+          "grossWeightInLbs": 26,
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "2 CHURCH ST HAMILTON, BM"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "4101 RAVENSWOOD RD SUITE 402-403 DANIA BEACH FL 33312",
+    "totalShipments": 2,
+    "company": "VIKAND SOLUTIONS",
+    "mostRecentDate": 1712707200,
+    "url": "importers/vikand-solutions",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 2,
+        "GrossWeightLbs": 4,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "VOCSOCT240410011",
+        "EntryId": 263556922,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/viking-cruises-usa-ltd",
+          "name": "VIKING CRUISES USA LTD"
+        },
+        "ProductDescription": [
+          "CAST REMOVAL SAW"
+        ],
+        "QuantityUnit": "BOX",
+        "Consignee": {
+          "name": "VIKAND SOLUTIONS"
+        }
+      },
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 10,
+        "GrossWeightLbs": 22,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "VOCSOCT240410010",
+        "EntryId": 263556921,
+        "CountryOfOrigin": "Mexico",
+        "Shipper": {
+          "link": "suppliers/viking-cruises-usa-ltd",
+          "name": "VIKING CRUISES USA LTD"
+        },
+        "ProductDescription": [
+          "QBC STAR DRY HEMATOLOGY SYSTEM"
+        ],
+        "QuantityUnit": "BOX",
+        "Consignee": {
+          "name": "VIKAND SOLUTIONS"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "iso": "do",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/alca-srl",
+          "overAllShipmentCount": 7,
+          "country": "dominican republic",
+          "name": "ALCA SRL",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 3000,
+          "grossWeightInLbs": 6600,
+          "lastAddress": {
+            "shortAddress": "Dominican Republic",
+            "fullAddress": "CALLE PASEO DEL ARROYO N 3B LAS COABAS SANTO DOMINGO DO"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "850 CALLE DEL PARQUE SAN JUAN PR 00909 US",
+    "totalShipments": 1,
+    "company": "NFRE LLC",
+    "mostRecentDate": 1712707200,
+    "url": "importers/nfre-llc",
+    "shipments": [
+      {
+        "Quantity": 20,
+        "GrossWeightKgs": 3000,
+        "GrossWeightLbs": 6600,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "DFBA244706SJU",
+        "EntryId": 263556932,
+        "CountryOfOrigin": "Dominican Republic",
+        "Shipper": {
+          "link": "suppliers/alca-srl",
+          "name": "ALCA SRL"
+        },
+        "ProductDescription": [
+          "PCS ALUMINUM & GLASS SLIDING WINDOWS"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "NFRE LLC"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shore-support",
+          "overAllShipmentCount": 5,
+          "country": "neth antilles",
+          "name": "SHORE SUPPORT",
+          "mostRecentDate": 1712707200,
+          "grossWeightInKgs": 6804,
+          "grossWeightInLbs": 14969,
+          "lastAddress": {
+            "shortAddress": "Neth Antilles",
+            "fullAddress": "SIMPSON BAY MARINA AIRPORT ROAD SIMPSON BAY SX"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "35 SAWGRASS DRIVE , STE 1 BELLPORT NY 11713 US",
+    "totalShipments": 1,
+    "company": "ZJS YACHT CHARTERS",
+    "mostRecentDate": 1712707200,
+    "url": "importers/zjs-yacht-charters",
+    "shipments": [
+      {
+        "Quantity": 1,
+        "GrossWeightKgs": 6804,
+        "GrossWeightLbs": 14969,
+        "ArrivalDate": 1712707200,
+        "BillOfLading": "TSCW16970949",
+        "EntryId": 263556968,
+        "CountryOfOrigin": "Neth Antilles",
+        "Shipper": {
+          "link": "suppliers/shore-support",
+          "name": "SHORE SUPPORT"
+        },
+        "ProductDescription": [
+          "39FT SEA VEE CENTER CONSOLE BOAT ON CRADLE"
+        ],
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "ZJS YACHT CHARTERS"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "POLE BRIDGE WPC PLANT WATERSHED MGMT 4664 FLAT BRIDGE RD LITHONIA GE 30038 US",
+    "company": "R2T INC",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "shipmentCount": 1,
+          "iso": "lk",
+          "name": "FLENDER DRIVES PRIVATE LIMITED",
+          "containersCount": 1,
+          "grossWeightInKgs": 6300,
+          "landingPageUrl": "suppliers/flender-drives-private-limited",
+          "country": "sri lanka",
+          "lastAddress": {
+            "fullAddress": "309 2 CHETTIPEDU V BLOCK 100 THANDALAM POST CHENNAI 602105 CHENNAI IN",
+            "shortAddress": "Sri Lanka"
+          },
+          "grossWeightInLbs": 13860,
+          "mostRecentDate": 1712707200,
+          "overAllShipmentCount": 380
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/r2t-inc",
+    "shipments": [
+      {
+        "BillOfLading": "TMGB500344001952",
+        "GrossWeightLbs": 13860,
+        "Quantity": 2,
+        "EntryId": 263558534,
+        "Shipper": {
+          "link": "suppliers/flender-drives-private-limited",
+          "name": "FLENDER DRIVES PRIVATE LIMITED"
+        },
+        "CountryOfOrigin": "Sri Lanka",
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 6300,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "R2T INC"
+        },
+        "ProductDescription": [
+          "GEARBOX UNIT"
+        ]
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "9700 NW 91ST CT MEDLEY FL US",
+    "company": "DINOSCAPES C/O PARADISE FREIGHT",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "overAllShipmentCount": 8,
+          "country": "china",
+          "landingPageUrl": "suppliers/zigongcity-dragon-culture-and-arts",
+          "containersCount": 1,
+          "mostRecentDate": 1712707200,
+          "grossWeightInLbs": 2911,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "fullAddress": "GROUP6 YONGSHENG VILLAGE FENGHUANGTOWN ZIGONG CN",
+            "shortAddress": "China"
+          },
+          "grossWeightInKgs": 1323,
+          "iso": "cn",
+          "name": "ZIGONGCITY DRAGON CULTURE AND ARTS"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/dinoscapes-c-o-paradise-freight",
+    "shipments": [
+      {
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "ANIMATRONIC MODEL"
+        ],
+        "Consignee": {
+          "name": "DINOSCAPES C/O PARADISE FREIGHT"
+        },
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 1323,
+        "Quantity": 44,
+        "GrossWeightLbs": 2911,
+        "EntryId": 263559098,
+        "BillOfLading": "SGLSSHA35114169",
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "ZIGONGCITY DRAGON CULTURE AND ARTS",
+          "link": "suppliers/zigongcity-dragon-culture-and-arts"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "1800 NE 114TH ST. APT 1703 MIAMI FL 33181 US",
+    "company": "L AND C HOME AND DESIGN LLC.",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "overAllShipmentCount": 1,
+          "country": "sri lanka",
+          "landingPageUrl": "suppliers/omsakthi-a-tex",
+          "containersCount": 1,
+          "mostRecentDate": 1712707200,
+          "grossWeightInLbs": 2376,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "fullAddress": "SF 64 2B, SALAPALAYAM V.THANNEERPAN GREENWEAYS ROAD TIRUPUR TAMIL NADU 639002 IN",
+            "shortAddress": "Sri Lanka"
+          },
+          "grossWeightInKgs": 1080,
+          "iso": "lk",
+          "name": "OMSAKTHI A TEX"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/l-and-c-home-and-design-llc",
+    "shipments": [
+      {
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "100% COTTON POWER LOOM MADE UPS."
+        ],
+        "Consignee": {
+          "name": "L AND C HOME AND DESIGN LLC."
+        },
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 1080,
+        "Quantity": 113,
+        "GrossWeightLbs": 2376,
+        "EntryId": 263559148,
+        "BillOfLading": "MHPE740314001123",
+        "CountryOfOrigin": "Sri Lanka",
+        "Shipper": {
+          "name": "OMSAKTHI A TEX",
+          "link": "suppliers/omsakthi-a-tex"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "6911 MATTHEWS WAY SUGARLAND TX 77479 US",
+    "company": "ASTRA FENCE HARDWARE LLC",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "overAllShipmentCount": 2,
+          "country": "bahamas",
+          "landingPageUrl": "suppliers/maple-fencing-overseas",
+          "containersCount": 1,
+          "mostRecentDate": 1712707200,
+          "grossWeightInLbs": 42381,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "fullAddress": "GUDAIPUR BULANDPUR ROAD BEHIND TRANSFORMER FACTORY, VPO BULANDPUR JALANDHAR IN",
+            "shortAddress": "Bahamas"
+          },
+          "grossWeightInKgs": 19264,
+          "iso": "bs",
+          "name": "MAPLE FENCING OVERSEAS"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/astra-fence-hardware-llc",
+    "shipments": [
+      {
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          " HOT DIP GALVANISED FABRICATED STEEL STRUCTURAL FENCE FITTINGS"
+        ],
+        "Consignee": {
+          "name": "ASTRA FENCE HARDWARE LLC"
+        },
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 19264,
+        "Quantity": 20,
+        "GrossWeightLbs": 42381,
+        "EntryId": 263560331,
+        "BillOfLading": "UNQLSDEL2404360",
+        "CountryOfOrigin": "Bahamas",
+        "Shipper": {
+          "name": "MAPLE FENCING OVERSEAS",
+          "link": "suppliers/maple-fencing-overseas"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "314 S. STEELE ST. PO 503, IONIA, MI 48846, UNITED STATES",
+    "company": "MATCOR AUTOMOTIVE MICHIGAN ING.",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "overAllShipmentCount": 65,
+          "country": "china",
+          "landingPageUrl": "suppliers/dongguan-vision-tool-mould-co-l",
+          "containersCount": 1,
+          "mostRecentDate": 1712707200,
+          "grossWeightInLbs": 29128,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "fullAddress": "TAOZI INDUSTRIAL PARK, HENGLI TOWN, DONGGUAN CITY, CHINA",
+            "shortAddress": "China"
+          },
+          "grossWeightInKgs": 13240,
+          "iso": "cn",
+          "name": "DONGGUAN VISION TOOL & MOULD CO., L"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/matcor-automotive-michigan-ing",
+    "shipments": [
+      {
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "BIG PROGRESSIVE DIE CHECKING FIXTURE AUTOMOAUTOMOTIVE PARTS SAMPLES"
+        ],
+        "Consignee": {
+          "name": "MATCOR AUTOMOTIVE MICHIGAN ING."
+        },
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 13240,
+        "Quantity": 6,
+        "GrossWeightLbs": 29128,
+        "EntryId": 263563604,
+        "BillOfLading": "AGLP240200028",
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "DONGGUAN VISION TOOL & MOULD CO., L",
+          "link": "suppliers/dongguan-vision-tool-mould-co-l"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "2 ALPINE CT CHESTNUT RIDGE NY UNITED STATES 10977",
+    "company": "ALPINE HOME GOODS INC",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "overAllShipmentCount": 9,
+          "country": "vietnam",
+          "landingPageUrl": "suppliers/bao-minh-manufacturer-joint-stock-c",
+          "containersCount": 1,
+          "mostRecentDate": 1712707200,
+          "grossWeightInLbs": 15708,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "fullAddress": "NO 67 TT12 VAN PHU URBAN ZONE PHU LA WARD HA DONG DISTRICT HANOI VIETNAM 100000",
+            "shortAddress": "Vietnam"
+          },
+          "grossWeightInKgs": 7140,
+          "name": "BAO MINH MANUFACTURER JOINT STOCK C"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/alpine-home-goods-inc",
+    "shipments": [
+      {
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "RATTAN BASKETS, STEEL BAKING TOOLS, STEEL SCRAPER"
+        ],
+        "Consignee": {
+          "name": "ALPINE HOME GOODS INC"
+        },
+        "ArrivalDate": 1712707200,
+        "GrossWeightKgs": 7140,
+        "Quantity": 583,
+        "GrossWeightLbs": 15708,
+        "EntryId": 263564792,
+        "BillOfLading": "KFUNTCS9WO31883",
+        "CountryOfOrigin": "Vietnam",
+        "Shipper": {
+          "name": "BAO MINH MANUFACTURER JOINT STOCK C",
+          "link": "suppliers/bao-minh-manufacturer-joint-stock-c"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "(BLOCK Q PUESTO 5) AV. LOS INCAS NR AREQUIPA PERU",
+    "company": "COMERCIAL SENOR DE HUANCA YOMIBE E.",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "containersCount": 1,
+          "mostRecentDate": 1712707200,
+          "grossWeightInLbs": 55119,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "fullAddress": "6200 E PRIMROSE GREEN DRIVE REGINA SK S4V 3L7 CANADA",
+            "shortAddress": "Canada"
+          },
+          "grossWeightInKgs": 25054,
+          "iso": "ca",
+          "name": "N/A"
+        }
+      ]
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/comercial-senor-de-huanca-yomibe-e",
+    "shipments": null
+  },
+  {
+    "contactInfo": "ORANGE COUNTY CONVENTION CENTER 9800 INTERNATIONAL DRIVE ORLANDO FL US",
+    "company": "TONGYONG INTERNATIONAL TRADE CO.",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "shipmentCount": 1,
+          "iso": "cn",
+          "name": "TONGYONG INTERNATIONAL TRADE CO.",
+          "containersCount": 1,
+          "grossWeightInKgs": 4620,
+          "landingPageUrl": "suppliers/tongyong-international-trade-co",
+          "country": "china",
+          "lastAddress": {
+            "fullAddress": "NO.1 ZHUHAN INDUSTRIAL ZONE, HENGZHANG VILLAGE, SHIQI STREET, NINGBO CN",
+            "shortAddress": "China"
+          },
+          "grossWeightInLbs": 10164,
+          "mostRecentDate": 1712707200,
+          "overAllShipmentCount": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1712707200,
+    "url": "importers/tongyong-international-trade-co",
+    "shipments": [
+      {
+        "BillOfLading": "UULNNB2402LC645",
+        "EntryId": 263616285,
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 10164,
+        "Quantity": 12,
+        "Shipper": {
+          "link": "suppliers/tongyong-international-trade-co",
+          "name": "TONGYONG INTERNATIONAL TRADE CO."
+        },
+        "Consignee": {
+          "name": "TONGYONG INTERNATIONAL TRADE CO."
+        },
+        "GrossWeightKgs": 4620,
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1712707200,
+        "ProductDescription": [
+          "EXHIBITION GOODS FOR NPE 2024 (PLASTIC INJECTOBOT) INVOICE NO.20240229J . ."
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "grossWeightInKgs": 15430,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "NO.001,FENGKAN ROAD GUANGMING VILLAGE, GUANGZHOU .CHINA CN"
+          },
+          "iso": "cn",
+          "overAllShipmentCount": 78,
+          "mostRecentDate": 1712707200,
+          "country": "china",
+          "name": "GUANGZHOU JOVA DISPLAY FURNITURE CO",
+          "landingPageUrl": "suppliers/guangzhou-jova-display-furniture-co",
+          "containersCount": 3,
+          "grossWeightInLbs": 33946,
+          "shipmentCount": 1
+        }
+      ]
+    },
+    "company": "VALLIANI JEWELLERS",
+    "contactInfo": "SOLANO TOWN CENTER 1350 TRAVIS BOULEVARD FAIRFIE CA 9 4533 US",
+    "totalShipments": 1,
+    "mostRecentDate": 1712707200,
+    "url": "importers/valliani-jewellers",
+    "shipments": [
+      {
+        "BillOfLading": "FTNVSZS000199787",
+        "EntryId": 263629912,
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 33946,
+        "Quantity": 99,
+        "Shipper": {
+          "link": "suppliers/guangzhou-jova-display-furniture-co",
+          "name": "GUANGZHOU JOVA DISPLAY FURNITURE CO"
+        },
+        "Consignee": {
+          "name": "VALLIANI JEWELLERS"
+        },
+        "GrossWeightKgs": 15430,
+        "QuantityUnit": "CTN",
+        "ArrivalDate": 1712707200,
+        "ProductDescription": [
+          "SHOP DISPLAY FURNITURETHIS SHIPMENT DOES NOT CONTAIN WOOD PACKAGING MATERIALS",
+          "SHOP DISPLAY FURNITURETHIS SHIPMENT DOES NOT CONTAIN WOOD PACKAGING MATERIALS",
+          "SHOP DISPLAY FURNITURETHIS SHIPMENT DOES NOT CONTAIN WOOD PACKAGING MATERIALS"
+        ]
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "items": [
+        {
+          "overAllShipmentCount": 1580,
+          "country": "mexico",
+          "lastAddress": {
+            "shortAddress": "Mexico",
+            "fullAddress": "JR. INCA N 1001, SURQUILLO - LIMA, PERU LIMA PE"
+          },
+          "iso": "mx",
+          "name": "INDUSTRIAL SURQUILLO S.A.C.",
+          "mostRecentDate": 1712707200,
+          "grossWeightInLbs": 43428,
+          "containersCount": 1,
+          "landingPageUrl": "suppliers/industrial-surquillo-s-a-c",
+          "grossWeightInKgs": 19740,
+          "shipmentCount": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "totalShipments": 1,
+    "contactInfo": "4462 NEW VINTAGE COURT, MILLCREEK 84124 US",
+    "company": "LAMMERT ASSOCIATES, INC.",
+    "mostRecentDate": 1712707200,
+    "url": "importers/lammert-associates-inc",
+    "shipments": [
+      {
+        "Shipper": {
+          "link": "suppliers/industrial-surquillo-s-a-c",
+          "name": "INDUSTRIAL SURQUILLO S.A.C."
+        },
+        "GrossWeightLbs": 43428,
+        "ProductDescription": [
+          "LEAD SHOT"
+        ],
+        "ArrivalDate": 1712707200,
+        "CountryOfOrigin": "Mexico",
+        "QuantityUnit": "PKG",
+        "BillOfLading": "PUSJCLLLAX240224",
+        "Quantity": 22,
+        "Consignee": {
+          "name": "LAMMERT ASSOCIATES, INC."
+        },
+        "GrossWeightKgs": 19740,
+        "EntryId": 263923704
+      }
+    ]
+  }
+]
