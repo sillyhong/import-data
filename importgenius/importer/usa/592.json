@@ -170,202 +170,202 @@
     "url": "importers/n-a-p-san-diego",
     "shipments": [
       {
-        "Consignee": {
-          "name": "NAP SAN DIEGO LLC"
-        },
-        "EntryId": 263972423,
-        "BillOfLading": "OFSHKLAX2403376M",
-        "ArrivalDate": 1713398400,
-        "GrossWeightLbs": 6668,
-        "Quantity": 637,
         "CountryOfOrigin": "China Taiwan",
+        "GrossWeightKgs": 5302,
+        "Quantity": 1631,
+        "EntryId": 264477546,
+        "Shipper": {
+          "name": "NWEST INTL TRADING CO., LTD",
+          "link": "suppliers/nwest-intl-trading-co-ltd"
+        },
+        "ProductDescription": [
+          "AUTO PARTS (SUCH ASBUMPER,FENDER,SUPPORT...) . ."
+        ],
+        "ArrivalDate": 1714089600,
         "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "NAP SAN DIEGO, LLC"
+        },
+        "BillOfLading": "OFSHELAX2404008M",
+        "GrossWeightLbs": 11664
+      },
+      {
+        "CountryOfOrigin": "China Taiwan",
+        "GrossWeightKgs": 3031,
+        "Quantity": 637,
+        "EntryId": 263972423,
         "Shipper": {
           "name": "N/A"
         },
-        "GrossWeightKgs": 3031,
         "ProductDescription": [
           "AFTERMARKET REPLACEMENT AUTO PARTS (BUMPER,FE. . . ."
-        ]
+        ],
+        "ArrivalDate": 1713398400,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "NAP SAN DIEGO LLC"
+        },
+        "BillOfLading": "OFSHKLAX2403376M",
+        "GrossWeightLbs": 6668
       },
       {
-        "Consignee": {
-          "name": "NAP SAN DIEGO, LLC"
-        },
-        "EntryId": 263593743,
-        "BillOfLading": "OFSHELAX2403316M",
-        "ArrivalDate": 1712793600,
-        "GrossWeightLbs": 9953,
-        "Quantity": 954,
         "CountryOfOrigin": "China Taiwan",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 4524,
+        "Quantity": 954,
+        "EntryId": 263593743,
         "Shipper": {
           "name": "NWEST INTL TRADING CO., LTD",
           "link": "suppliers/nwest-intl-trading-co-ltd"
         },
-        "GrossWeightKgs": 4524,
         "ProductDescription": [
           "AUTO PARTS (SUCH ASBUMPER,FENDER,SUPPORT...) . ."
-        ]
-      },
-      {
+        ],
+        "ArrivalDate": 1712793600,
+        "QuantityUnit": "CTN",
         "Consignee": {
           "name": "NAP SAN DIEGO, LLC"
         },
-        "EntryId": 263267185,
-        "BillOfLading": "OFSHELAX2403160M",
-        "ArrivalDate": 1712275200,
-        "GrossWeightLbs": 9955,
-        "Quantity": 1150,
+        "BillOfLading": "OFSHELAX2403316M",
+        "GrossWeightLbs": 9953
+      },
+      {
         "CountryOfOrigin": "China Taiwan",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 4525,
+        "Quantity": 1150,
+        "EntryId": 263267185,
         "Shipper": {
           "name": "NWEST INTL TRADING CO., LTD",
           "link": "suppliers/nwest-intl-trading-co-ltd"
         },
-        "GrossWeightKgs": 4525,
         "ProductDescription": [
           "AUTO PARTS (BUMPER,FENDER,SUPPORT) HS CODE87 . ."
-        ]
-      },
-      {
+        ],
+        "ArrivalDate": 1712275200,
+        "QuantityUnit": "CTN",
         "Consignee": {
           "name": "NAP SAN DIEGO, LLC"
         },
-        "EntryId": 263267181,
-        "BillOfLading": "OFSHTLAX2403190M",
-        "ArrivalDate": 1712275200,
-        "GrossWeightLbs": 4943,
-        "Quantity": 516,
+        "BillOfLading": "OFSHELAX2403160M",
+        "GrossWeightLbs": 9955
+      },
+      {
         "CountryOfOrigin": "China Taiwan",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 2247,
+        "Quantity": 516,
+        "EntryId": 263267181,
         "Shipper": {
           "name": "Y.C.C. PARTS MFG. CO., LTD.",
           "link": "suppliers/y-c-c-parts-mfg-co-ltd"
         },
-        "GrossWeightKgs": 2247,
         "ProductDescription": [
           "REPLACEMENT AUTO PARTS (BUMPER & GRILLE) HS C. ."
-        ]
+        ],
+        "ArrivalDate": 1712275200,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "NAP SAN DIEGO, LLC"
+        },
+        "BillOfLading": "OFSHTLAX2403190M",
+        "GrossWeightLbs": 4943
       },
       {
+        "CountryOfOrigin": "China Taiwan",
+        "GrossWeightKgs": 2826,
+        "Quantity": 667,
+        "EntryId": 262841361,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "AFTERMARKET REPLACEMENT AUTO PARTS (BUMPER, H."
+        ],
+        "ArrivalDate": 1711584000,
+        "QuantityUnit": "CTN",
         "Consignee": {
           "name": "NAP SAN DIEGO,LLC"
         },
-        "EntryId": 262841361,
         "BillOfLading": "UNPSU243011US10",
-        "ArrivalDate": 1711584000,
-        "GrossWeightLbs": 6217,
-        "Quantity": 667,
-        "CountryOfOrigin": "China Taiwan",
-        "QuantityUnit": "CTN",
-        "Shipper": {
-          "name": "N/A"
-        },
-        "GrossWeightKgs": 2826,
-        "ProductDescription": [
-          "AFTERMARKET REPLACEMENT AUTO PARTS (BUMPER, H."
-        ]
+        "GrossWeightLbs": 6217
       },
       {
-        "Consignee": {
-          "name": "NAP SAN DIEGO. LLC"
-        },
-        "EntryId": 262841286,
-        "BillOfLading": "OFSHELAX2403072M",
-        "ArrivalDate": 1711584000,
-        "GrossWeightLbs": 9108,
-        "Quantity": 1380,
         "CountryOfOrigin": "China Taiwan",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 4140,
+        "Quantity": 1380,
+        "EntryId": 262841286,
         "Shipper": {
           "name": "NWEST INTL TRADING CO., LTD",
           "link": "suppliers/nwest-intl-trading-co-ltd"
         },
-        "GrossWeightKgs": 4140,
         "ProductDescription": [
           "AUTO PARTS HS CODE8708.29 ."
-        ]
+        ],
+        "ArrivalDate": 1711584000,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "NAP SAN DIEGO. LLC"
+        },
+        "BillOfLading": "OFSHELAX2403072M",
+        "GrossWeightLbs": 9108
       },
       {
-        "Consignee": {
-          "name": "NAP SAN DIEGO LLC"
-        },
-        "EntryId": 262153348,
-        "BillOfLading": "OFSHTLAX2402084M",
-        "ArrivalDate": 1710460800,
-        "GrossWeightLbs": 4640,
-        "Quantity": 545,
         "CountryOfOrigin": "China Taiwan",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 2109,
+        "Quantity": 545,
+        "EntryId": 262153348,
         "Shipper": {
           "name": "Y.C.C. PARTS MFG. CO., LTD.",
           "link": "suppliers/y-c-c-parts-mfg-co-ltd"
         },
-        "GrossWeightKgs": 2109,
         "ProductDescription": [
           "REPLACEMENT AUTO PARTS (BUMPER & GRILLE) HS C. ."
-        ]
+        ],
+        "ArrivalDate": 1710460800,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "NAP SAN DIEGO LLC"
+        },
+        "BillOfLading": "OFSHTLAX2402084M",
+        "GrossWeightLbs": 4640
       },
       {
-        "Consignee": {
-          "name": "NAP SAN DIEGO, LLC"
-        },
-        "EntryId": 262153341,
-        "BillOfLading": "OFSHELAX2402085M",
-        "ArrivalDate": 1710460800,
-        "GrossWeightLbs": 9636,
-        "Quantity": 1474,
         "CountryOfOrigin": "China Taiwan",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 4380,
+        "Quantity": 1474,
+        "EntryId": 262153341,
         "Shipper": {
           "name": "NWEST INTL TRADING CO., LTD",
           "link": "suppliers/nwest-intl-trading-co-ltd"
         },
-        "GrossWeightKgs": 4380,
         "ProductDescription": [
           "AUTO PARTS (SUCH ASBUMPER,FENDER,SUPPORT...) . ."
-        ]
+        ],
+        "ArrivalDate": 1710460800,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "NAP SAN DIEGO, LLC"
+        },
+        "BillOfLading": "OFSHELAX2402085M",
+        "GrossWeightLbs": 9636
       },
       {
-        "Consignee": {
-          "name": "NAP SAN DIEGO"
-        },
-        "EntryId": 261602375,
-        "BillOfLading": "OFSHKLAX2402021M",
-        "ArrivalDate": 1709337600,
-        "GrossWeightLbs": 9957,
-        "Quantity": 581,
         "CountryOfOrigin": "China Taiwan",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 4526,
+        "Quantity": 581,
+        "EntryId": 261602375,
         "Shipper": {
           "name": "EAGLE EYES TRAFFIC INDUSTRIAL CO",
           "link": "suppliers/eagle-eyes-traffic-industrial-co"
         },
-        "GrossWeightKgs": 4526,
         "ProductDescription": [
           "AUTO LAMPS HS CODE8512.20 ."
-        ]
-      },
-      {
-        "Consignee": {
-          "name": "NAP SAN DIEGO LLC"
-        },
-        "EntryId": 261602246,
-        "BillOfLading": "OFSHTLAX2402027M",
+        ],
         "ArrivalDate": 1709337600,
-        "GrossWeightLbs": 4943,
-        "Quantity": 456,
-        "CountryOfOrigin": "China Taiwan",
         "QuantityUnit": "CTN",
-        "Shipper": {
-          "name": "Y.C.C. PARTS MFG. CO., LTD.",
-          "link": "suppliers/y-c-c-parts-mfg-co-ltd"
+        "Consignee": {
+          "name": "NAP SAN DIEGO"
         },
-        "GrossWeightKgs": 2247,
-        "ProductDescription": [
-          "REPLACEMENT AUTO PARTS (BUMPER & GRILLE) HS C. ."
-        ]
+        "BillOfLading": "OFSHKLAX2402021M",
+        "GrossWeightLbs": 9957
       }
     ]
   },
@@ -882,204 +882,205 @@
     "url": "importers/zbx-international-trading-inc",
     "shipments": [
       {
-        "QuantityUnit": "CTN",
         "Consignee": {
           "name": "ZBX INTERNATIONAL TRADING INC"
         },
-        "GrossWeightKgs": 15414,
-        "Quantity": 936,
+        "BillOfLading": "TLKPHKGLAX44062X",
+        "Shipper": {
+          "name": "OLINS (SHENZHEN) TECHNOLOGY",
+          "link": "suppliers/olins-shenzhen-technology"
+        },
+        "GrossWeightLbs": 26409,
+        "GrossWeightKgs": 12004,
         "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "STORAGE BOXES"
+        ],
+        "ArrivalDate": 1714608000,
+        "Quantity": 795,
+        "EntryId": 264869014
+      },
+      {
+        "Consignee": {
+          "name": "ZBX INTERNATIONAL TRADING INC"
+        },
+        "BillOfLading": "KFUNA2404280346",
+        "Shipper": {
+          "name": "CHAOZHOU XINGNING KITCHEN AND BATHR",
+          "link": "suppliers/chaozhou-xingning-kitchen-and-bathr"
+        },
+        "GrossWeightLbs": 25388,
+        "GrossWeightKgs": 11540,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "VANITY,PORCELAIN BASIN"
+        ],
+        "ArrivalDate": 1714521600,
+        "Quantity": 528,
+        "EntryId": 264769812
+      },
+      {
+        "Consignee": {
+          "name": "ZBX INTERNATIONAL TRADING INC"
+        },
+        "BillOfLading": "CWQGNSZ240309507",
+        "Shipper": {
+          "name": "VINUS TRADING LIMITED",
+          "link": "suppliers/vinus-trading-limited"
+        },
+        "GrossWeightLbs": 21450,
+        "GrossWeightKgs": 9750,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "VANITY PORCELAIN BASIN MIRROR"
+        ],
+        "ArrivalDate": 1714435200,
+        "Quantity": 394,
+        "EntryId": 264705310
+      },
+      {
+        "Consignee": {
+          "name": "ZBX INTERNATIONAL TRADING INC"
+        },
+        "BillOfLading": "RDIH24040188",
+        "Shipper": {
+          "name": "SHENZHEN FUHUAXING GARMENT CO.,LTD",
+          "link": "suppliers/shenzhen-fuhuaxing-garment-co-ltd"
+        },
+        "GrossWeightLbs": 6296,
+        "GrossWeightKgs": 2862,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "LADY'S KNITTED SWIMWEAR PO:23074474/23074475/23074487/23074488/23074483/23074484/23074485/23074486/23074489/23074490/23074491/23074492 /23075811/23075812/23075803/23075804/23075805/23075806 PO:23074493/23074494/23074495/23074496/23074498/23074499"
+        ],
+        "ArrivalDate": 1714262400,
+        "Quantity": 305,
+        "EntryId": 264626448
+      },
+      {
+        "Consignee": {
+          "name": "ZBX INTERNATIONAL TRADING INC"
+        },
+        "BillOfLading": "ZAIM00034948324",
+        "Shipper": {
+          "name": "SHENZHEN TAHO TECHNOLOGY LOGISTICS",
+          "link": "suppliers/shenzhen-taho-technology-logistics"
+        },
+        "GrossWeightLbs": 32538,
+        "GrossWeightKgs": 14790,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "36 TRAMPOLINE WITH HANDLE(PI) 36 TRAMPOLINEUMBBELL"
+        ],
+        "ArrivalDate": 1714089600,
+        "Quantity": 930,
+        "EntryId": 264481148
+      },
+      {
+        "Consignee": {
+          "name": "ZBX INTERNATIONAL TRADING INC"
+        },
+        "BillOfLading": "PPILNB424040502",
+        "Shipper": {
+          "name": "ZHEJIANG GRANDSTONE TECHNOLOGY CO",
+          "link": "suppliers/zhejiang-grandstone-technology-co"
+        },
+        "GrossWeightLbs": 51911,
+        "GrossWeightKgs": 23596,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "VANITY BATHTUBSHOWER BASE",
+          "VANITY BATHTUB SHOWER BASE"
+        ],
+        "ArrivalDate": 1714003200,
+        "Quantity": 535,
+        "EntryId": 264425075
+      },
+      {
+        "Consignee": {
+          "name": "ZBX INTERNATIONAL TRADING INC"
+        },
         "BillOfLading": "MFNOMFSE24040238",
+        "Shipper": {
+          "name": "OLINS (SHENZHEN) TECHNOLOGY",
+          "link": "suppliers/olins-shenzhen-technology"
+        },
+        "GrossWeightLbs": 33911,
+        "GrossWeightKgs": 15414,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
         "ProductDescription": [
           "PHONE CASE"
         ],
         "ArrivalDate": 1713744000,
-        "EntryId": 264249960,
-        "Shipper": {
-          "link": "suppliers/olins-shenzhen-technology",
-          "name": "OLINS (SHENZHEN) TECHNOLOGY"
-        },
-        "GrossWeightLbs": 33911
+        "Quantity": 936,
+        "EntryId": 264249960
       },
       {
-        "QuantityUnit": "CTN",
         "Consignee": {
           "name": "ZBX INTERNATIONAL TRADING INC"
         },
-        "GrossWeightKgs": 11100,
-        "Quantity": 487,
-        "CountryOfOrigin": "China",
         "BillOfLading": "KFUNA2404280197",
+        "Shipper": {
+          "name": "CHAOZHOU XINGNING KITCHEN AND BATHR",
+          "link": "suppliers/chaozhou-xingning-kitchen-and-bathr"
+        },
+        "GrossWeightLbs": 24420,
+        "GrossWeightKgs": 11100,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
         "ProductDescription": [
           "VANITY,PORCELAIN BASIN"
         ],
         "ArrivalDate": 1713744000,
-        "EntryId": 264194029,
-        "Shipper": {
-          "link": "suppliers/chaozhou-xingning-kitchen-and-bathr",
-          "name": "CHAOZHOU XINGNING KITCHEN AND BATHR"
-        },
-        "GrossWeightLbs": 24420
+        "Quantity": 487,
+        "EntryId": 264194029
       },
       {
-        "QuantityUnit": "CTN",
         "Consignee": {
           "name": "ZBX INTERNATIONAL TRADING INC"
         },
-        "GrossWeightKgs": 10200,
-        "Quantity": 458,
-        "CountryOfOrigin": "China",
         "BillOfLading": "KFUNA2404280080",
+        "Shipper": {
+          "name": "CHAOZHOU XINGNING KITCHEN AND BATHR",
+          "link": "suppliers/chaozhou-xingning-kitchen-and-bathr"
+        },
+        "GrossWeightLbs": 22440,
+        "GrossWeightKgs": 10200,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
         "ProductDescription": [
           "VANITY,PORCELAIN BASIN,MIRROR,ACCESSORY"
         ],
         "ArrivalDate": 1713657600,
-        "EntryId": 264092341,
-        "Shipper": {
-          "link": "suppliers/chaozhou-xingning-kitchen-and-bathr",
-          "name": "CHAOZHOU XINGNING KITCHEN AND BATHR"
-        },
-        "GrossWeightLbs": 22440
+        "Quantity": 458,
+        "EntryId": 264092341
       },
       {
-        "QuantityUnit": "CTN",
         "Consignee": {
           "name": "ZBX INTERNATIONAL TRADING INC"
         },
-        "GrossWeightKgs": 13088,
-        "Quantity": 862,
-        "CountryOfOrigin": "China",
         "BillOfLading": "COSU6379799012",
+        "Shipper": {
+          "name": "CUMULUS SMART HOME APPLIANCE COMPAN",
+          "link": "suppliers/cumulus-smart-home-appliance-compan"
+        },
+        "GrossWeightLbs": 28794,
+        "GrossWeightKgs": 13088,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
         "ProductDescription": [
           "HANDRAIL BRACKET"
         ],
         "ArrivalDate": 1713225600,
-        "EntryId": 263871724,
-        "Shipper": {
-          "link": "suppliers/cumulus-smart-home-appliance-compan",
-          "name": "CUMULUS SMART HOME APPLIANCE COMPAN"
-        },
-        "GrossWeightLbs": 28794
-      },
-      {
-        "QuantityUnit": "CTN",
-        "Consignee": {
-          "name": "ZBX INTERNATIONAL TRADING INC"
-        },
-        "GrossWeightKgs": 11734,
-        "Quantity": 847,
-        "CountryOfOrigin": "China",
-        "BillOfLading": "TLKPHKGLAX43071X",
-        "ProductDescription": [
-          "RACK"
-        ],
-        "ArrivalDate": 1713225600,
-        "EntryId": 263849804,
-        "Shipper": {
-          "link": "suppliers/olins-shenzhen-technology",
-          "name": "OLINS (SHENZHEN) TECHNOLOGY"
-        },
-        "GrossWeightLbs": 25815
-      },
-      {
-        "QuantityUnit": "CTN",
-        "Consignee": {
-          "name": "ZBX INTERNATIONAL TRADING INC"
-        },
-        "GrossWeightKgs": 15316,
-        "Quantity": 1006,
-        "CountryOfOrigin": "China",
-        "BillOfLading": "SUSSPWL202403484",
-        "ProductDescription": [
-          "WATCH CASE THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIALS."
-        ],
-        "ArrivalDate": 1713139200,
-        "EntryId": 263810807,
-        "Shipper": {
-          "link": "suppliers/lesiji-shenzhen-trading-co-ltd",
-          "name": "LESIJI (SHENZHEN) TRADING CO.,LTD"
-        },
-        "GrossWeightLbs": 33695
-      },
-      {
-        "QuantityUnit": "CTN",
-        "Consignee": {
-          "name": "ZBX INTERNATIONAL TRADING INC"
-        },
-        "GrossWeightKgs": 10740,
-        "Quantity": 494,
-        "CountryOfOrigin": "China",
-        "BillOfLading": "KFUNA2403280579",
-        "ProductDescription": [
-          "VANITY,PORCELAIN BASIN,MIRROR"
-        ],
-        "ArrivalDate": 1712793600,
-        "EntryId": 263586375,
-        "Shipper": {
-          "link": "suppliers/chaozhou-xingning-kitchen-and-bathr",
-          "name": "CHAOZHOU XINGNING KITCHEN AND BATHR"
-        },
-        "GrossWeightLbs": 23628
-      },
-      {
-        "QuantityUnit": "CTN",
-        "Consignee": {
-          "name": "ZBX INTERNATIONAL TRADING INC"
-        },
-        "GrossWeightKgs": 13973,
-        "Quantity": 930,
-        "CountryOfOrigin": "China",
-        "BillOfLading": "SUSSPWL202403343",
-        "ProductDescription": [
-          "WATCH CASE THIS SHIPMENT CONTAINS NO SOLID WOOD PACKING MATERIALS."
-        ],
-        "ArrivalDate": 1712534400,
-        "EntryId": 263416814,
-        "Shipper": {
-          "link": "suppliers/olins-shenzhen-technology",
-          "name": "OLINS (SHENZHEN) TECHNOLOGY"
-        },
-        "GrossWeightLbs": 30741
-      },
-      {
-        "QuantityUnit": "CTN",
-        "Consignee": {
-          "name": "ZBX INTERNATIONAL TRADING INC"
-        },
-        "GrossWeightKgs": 8095,
-        "Quantity": 624,
-        "CountryOfOrigin": "China",
-        "BillOfLading": "MFNOMFSE24030338",
-        "ProductDescription": [
-          "PLASTIC BOX"
-        ],
-        "ArrivalDate": 1712448000,
-        "EntryId": 263332803,
-        "Shipper": {
-          "link": "suppliers/olins-shenzhen-technology",
-          "name": "OLINS (SHENZHEN) TECHNOLOGY"
-        },
-        "GrossWeightLbs": 17809
-      },
-      {
-        "QuantityUnit": "CTN",
-        "Consignee": {
-          "name": "ZBX INTERNATIONAL TRADING INC"
-        },
-        "GrossWeightKgs": 12834,
-        "Quantity": 829,
-        "CountryOfOrigin": "China",
-        "BillOfLading": "TLKPHKGLAX43074X",
-        "ProductDescription": [
-          "RACK"
-        ],
-        "ArrivalDate": 1712275200,
-        "EntryId": 263270624,
-        "Shipper": {
-          "link": "suppliers/olins-shenzhen-technology",
-          "name": "OLINS (SHENZHEN) TECHNOLOGY"
-        },
-        "GrossWeightLbs": 28235
+        "Quantity": 862,
+        "EntryId": 263871724
       }
     ]
   },
@@ -2262,102 +2263,102 @@
     "url": "importers/nilco-sommers-inc",
     "shipments": [
       {
-        "QuantityUnit": "CTN",
-        "EntryId": 264322388,
         "BillOfLading": "MFSRUS017111",
-        "GrossWeightKgs": 20085,
-        "CountryOfOrigin": "India",
-        "ArrivalDate": 1713830400,
-        "Quantity": 403,
-        "ProductDescription": [
-          "PVC LEATHER CLOTH IN ASSORTED COLORS"
-        ],
         "GrossWeightLbs": 44187,
-        "Consignee": {
-          "name": "NILCO SOMMERS INC."
-        },
-        "Shipper": {
-          "name": "ARITAS VINYL PRIVATE LIMITED",
-          "link": "suppliers/aritas-vinyl-private-limited"
-        }
-      },
-      {
-        "QuantityUnit": "ROL",
-        "EntryId": 263949635,
-        "BillOfLading": "MFSRUS017093",
-        "GrossWeightKgs": 20610,
-        "CountryOfOrigin": "India",
-        "ArrivalDate": 1713398400,
-        "Quantity": 580,
         "ProductDescription": [
           "PVC LEATHER CLOTH IN ASSORTED COLORS"
         ],
-        "GrossWeightLbs": 45342,
-        "Consignee": {
-          "name": "NILCO SOMMERS INC."
-        },
+        "EntryId": 264322388,
+        "Quantity": 403,
+        "CountryOfOrigin": "India",
+        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 20085,
         "Shipper": {
           "name": "ARITAS VINYL PRIVATE LIMITED",
           "link": "suppliers/aritas-vinyl-private-limited"
+        },
+        "ArrivalDate": 1713830400,
+        "Consignee": {
+          "name": "NILCO SOMMERS INC."
         }
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 262615878,
+        "BillOfLading": "MFSRUS017093",
+        "GrossWeightLbs": 45342,
+        "ProductDescription": [
+          "PVC LEATHER CLOTH IN ASSORTED COLORS"
+        ],
+        "EntryId": 263949635,
+        "Quantity": 580,
+        "CountryOfOrigin": "India",
+        "QuantityUnit": "ROL",
+        "GrossWeightKgs": 20610,
+        "Shipper": {
+          "name": "ARITAS VINYL PRIVATE LIMITED",
+          "link": "suppliers/aritas-vinyl-private-limited"
+        },
+        "ArrivalDate": 1713398400,
+        "Consignee": {
+          "name": "NILCO SOMMERS INC."
+        }
+      },
+      {
         "BillOfLading": "CHKMPNXX249035",
-        "GrossWeightKgs": 1370,
-        "CountryOfOrigin": "South Korea",
-        "ArrivalDate": 1711238400,
-        "Quantity": 2,
+        "GrossWeightLbs": 3014,
         "ProductDescription": [
           "PLASTICS COATED FABRICS 5903.20-0000"
         ],
-        "GrossWeightLbs": 3014,
-        "Consignee": {
-          "name": "NILCO SOMMERS, INC."
-        },
+        "EntryId": 262615878,
+        "Quantity": 2,
+        "CountryOfOrigin": "South Korea",
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 1370,
         "Shipper": {
           "name": "N/A"
+        },
+        "ArrivalDate": 1711238400,
+        "Consignee": {
+          "name": "NILCO SOMMERS, INC."
         }
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 261291019,
         "BillOfLading": "SWLVSWLDEL013797",
-        "GrossWeightKgs": 26642,
-        "CountryOfOrigin": "India",
-        "ArrivalDate": 1708905600,
-        "Quantity": 681,
+        "GrossWeightLbs": 58612,
         "ProductDescription": [
           "PVC LEATHER CLOTH PVC FOAM SPONGE SHEET UNSUPPORTED"
         ],
-        "GrossWeightLbs": 58612,
-        "Consignee": {
-          "name": "NILCO SOMMERS INC"
-        },
+        "EntryId": 261291019,
+        "Quantity": 681,
+        "CountryOfOrigin": "India",
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 26642,
         "Shipper": {
           "name": "KLASSIK LAMITEX PVT LTD",
           "link": "suppliers/klassik-lamitex-pvt-ltd"
+        },
+        "ArrivalDate": 1708905600,
+        "Consignee": {
+          "name": "NILCO SOMMERS INC"
         }
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 260974274,
         "BillOfLading": "PEVHWXTROY52390H",
-        "GrossWeightKgs": 297,
-        "CountryOfOrigin": "China",
-        "ArrivalDate": 1708560000,
-        "Quantity": 12,
+        "GrossWeightLbs": 653,
         "ProductDescription": [
           "HIGH PILE KNITTED FABRIC"
         ],
-        "GrossWeightLbs": 653,
-        "Consignee": {
-          "name": "NILCO SOMMERS, INC"
-        },
+        "EntryId": 260974274,
+        "Quantity": 12,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 297,
         "Shipper": {
           "name": "FULAN GROUP LTD.",
           "link": "suppliers/fulan-group-ltd"
+        },
+        "ArrivalDate": 1708560000,
+        "Consignee": {
+          "name": "NILCO SOMMERS, INC"
         }
       }
     ]
@@ -3017,7 +3018,48 @@
     },
     "mostRecentDate": 1708560000,
     "url": "importers/laird-plastics-los-angeles",
-    "shipments": null
+    "shipments": [
+      {
+        "QuantityUnit": "PKG",
+        "GrossWeightLbs": 440,
+        "ProductDescription": [
+          "PRINT MEDIA PRODUCTS (NON-STACKABLE)"
+        ],
+        "EntryId": 262633264,
+        "ArrivalDate": 1711324800,
+        "Quantity": 1,
+        "GrossWeightKgs": 200,
+        "CountryOfOrigin": "United Kingdom",
+        "Shipper": {
+          "name": "INNOTECH DIGITAL & DISPLAY LTD",
+          "link": "suppliers/innotech-digital-display-ltd"
+        },
+        "Consignee": {
+          "name": "LAIRD PLASTICS LOS ANGELES"
+        },
+        "BillOfLading": "MFGTGBHVM4732591"
+      },
+      {
+        "QuantityUnit": "PCS",
+        "GrossWeightLbs": 1247,
+        "ProductDescription": [
+          "DISPLAY TEXTILE PRODUCTS"
+        ],
+        "EntryId": 260982700,
+        "ArrivalDate": 1708560000,
+        "Quantity": 12,
+        "GrossWeightKgs": 567,
+        "CountryOfOrigin": "United Kingdom",
+        "Shipper": {
+          "name": "INNOTECH DIGITAL & DISPLAY LTD",
+          "link": "suppliers/innotech-digital-display-ltd"
+        },
+        "Consignee": {
+          "name": "LAIRD PLASTICS LOS ANGELES"
+        },
+        "BillOfLading": "MFGTGBLAX4695124"
+      }
+    ]
   },
   {
     "totalShipments": 1,
@@ -3723,83 +3765,167 @@
     "url": "importers/phd-interior-deco-inc",
     "shipments": [
       {
-        "ArrivalDate": 1711065600,
-        "EntryId": 262506385,
         "QuantityUnit": "PKG",
+        "GrossWeightLbs": 93918,
+        "ProductDescription": [
+          "VINYL FLOOR TILES",
+          "VINYL FLOOR TILES"
+        ],
+        "EntryId": 264368177,
+        "ArrivalDate": 1713916800,
+        "Quantity": 40,
+        "GrossWeightKgs": 42690,
+        "CountryOfOrigin": "China",
         "Shipper": {
-          "link": "suppliers/viking-traders-ltd",
-          "name": "VIKING TRADERS LTD"
+          "name": "VIKING TRADERS LTD",
+          "link": "suppliers/viking-traders-ltd"
         },
-        "Quantity": 20,
+        "Consignee": {
+          "name": "PHD INTERIOR DECO INC"
+        },
+        "BillOfLading": "CHQFHXM24030631"
+      },
+      {
+        "QuantityUnit": "PKG",
+        "GrossWeightLbs": 94336,
+        "ProductDescription": [
+          "VINYL FLOOR TILES",
+          "VINYL FLOOR TILES"
+        ],
+        "EntryId": 264368154,
+        "ArrivalDate": 1713916800,
+        "Quantity": 40,
+        "GrossWeightKgs": 42880,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "VIKING TRADERS LTD",
+          "link": "suppliers/viking-traders-ltd"
+        },
+        "Consignee": {
+          "name": "PHD INTERIOR DECO INC"
+        },
+        "BillOfLading": "CHQFHXM24030626"
+      },
+      {
+        "QuantityUnit": "PKG",
+        "GrossWeightLbs": 94050,
+        "ProductDescription": [
+          "VINYL FLOOR TILES",
+          "VINYL FLOOR TILES"
+        ],
+        "EntryId": 264355115,
+        "ArrivalDate": 1713916800,
+        "Quantity": 40,
+        "GrossWeightKgs": 42750,
+        "CountryOfOrigin": "China Taiwan",
+        "Shipper": {
+          "name": "VIKING TRADERS LTD",
+          "link": "suppliers/viking-traders-ltd"
+        },
+        "Consignee": {
+          "name": "PHD INTERIOR DECO INC"
+        },
+        "BillOfLading": "CHQFHXM24030228"
+      },
+      {
+        "QuantityUnit": "PKG",
+        "GrossWeightLbs": 93786,
+        "ProductDescription": [
+          "VINYL FLOOR TILES",
+          "VINYL FLOOR TILES"
+        ],
+        "EntryId": 264355103,
+        "ArrivalDate": 1713916800,
+        "Quantity": 40,
+        "GrossWeightKgs": 42630,
+        "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "VIKING TRADERS LTD",
+          "link": "suppliers/viking-traders-ltd"
+        },
+        "Consignee": {
+          "name": "PHD INTERIOR DECO INC"
+        },
+        "BillOfLading": "CHQFHXM24030229"
+      },
+      {
+        "QuantityUnit": "PKG",
         "GrossWeightLbs": 46992,
         "ProductDescription": [
           "VINYL FLOOR TILES"
         ],
+        "EntryId": 262506385,
+        "ArrivalDate": 1711065600,
+        "Quantity": 20,
+        "GrossWeightKgs": 21360,
         "CountryOfOrigin": "China Taiwan",
+        "Shipper": {
+          "name": "VIKING TRADERS LTD",
+          "link": "suppliers/viking-traders-ltd"
+        },
         "Consignee": {
           "name": "PHD INTERIOR DECO INC"
         },
-        "GrossWeightKgs": 21360,
         "BillOfLading": "CHQFHXM24020451"
       },
       {
-        "ArrivalDate": 1711065600,
-        "EntryId": 262506316,
         "QuantityUnit": "PKG",
-        "Shipper": {
-          "link": "suppliers/viking-traders-ltd",
-          "name": "VIKING TRADERS LTD"
-        },
-        "Quantity": 20,
         "GrossWeightLbs": 47058,
         "ProductDescription": [
           "VINYL FLOOR TILES"
         ],
+        "EntryId": 262506316,
+        "ArrivalDate": 1711065600,
+        "Quantity": 20,
+        "GrossWeightKgs": 21390,
         "CountryOfOrigin": "China Taiwan",
+        "Shipper": {
+          "name": "VIKING TRADERS LTD",
+          "link": "suppliers/viking-traders-ltd"
+        },
         "Consignee": {
           "name": "PHD INTERIOR DECO INC"
         },
-        "GrossWeightKgs": 21390,
         "BillOfLading": "CHQFHXM24020452"
       },
       {
-        "ArrivalDate": 1708560000,
-        "EntryId": 260990395,
         "QuantityUnit": "PKG",
-        "Shipper": {
-          "link": "suppliers/viking-traders-ltd",
-          "name": "VIKING TRADERS LTD"
-        },
-        "Quantity": 20,
         "GrossWeightLbs": 47498,
         "ProductDescription": [
           "VINYL FLOOR TILES"
         ],
+        "EntryId": 260990395,
+        "ArrivalDate": 1708560000,
+        "Quantity": 20,
+        "GrossWeightKgs": 21590,
         "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "VIKING TRADERS LTD",
+          "link": "suppliers/viking-traders-ltd"
+        },
         "Consignee": {
           "name": "PHD INTERIOR DECO INC"
         },
-        "GrossWeightKgs": 21590,
         "BillOfLading": "CHQFHXM24010824"
       },
       {
-        "ArrivalDate": 1708560000,
-        "EntryId": 260990383,
         "QuantityUnit": "PKG",
-        "Shipper": {
-          "link": "suppliers/viking-traders-ltd",
-          "name": "VIKING TRADERS LTD"
-        },
-        "Quantity": 20,
         "GrossWeightLbs": 46640,
         "ProductDescription": [
           "VINYL FLOOR TILES"
         ],
+        "EntryId": 260990383,
+        "ArrivalDate": 1708560000,
+        "Quantity": 20,
+        "GrossWeightKgs": 21200,
         "CountryOfOrigin": "China",
+        "Shipper": {
+          "name": "VIKING TRADERS LTD",
+          "link": "suppliers/viking-traders-ltd"
+        },
         "Consignee": {
           "name": "PHD INTERIOR DECO INC"
         },
-        "GrossWeightKgs": 21200,
         "BillOfLading": "CHQFHXM24010821"
       }
     ]
@@ -6103,143 +6229,163 @@
     "url": "importers/somfy-us-florida",
     "shipments": [
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 263957279,
-        "BillOfLading": "CCLLLYSS24019159",
-        "GrossWeightKgs": 8550,
+        "BillOfLading": "CCLLLYSS24019160",
+        "GrossWeightLbs": 23494,
+        "ProductDescription": [
+          "LOADED ON 34 PALLETS PARCELS CONTAINING SIMU MOTORS,CONTROLS AND ACCESSORIES FOR ROLLER SHUTTERSAS PER INVOICE 40404568 OF 26/03/24PACKING LIST 350416146"
+        ],
+        "EntryId": 264379846,
+        "Quantity": 1661,
         "CountryOfOrigin": "France",
-        "ArrivalDate": 1713398400,
-        "Quantity": 1901,
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 10679,
+        "Shipper": {
+          "name": "SIMU FRANCE",
+          "link": "suppliers/simu-france"
+        },
+        "ArrivalDate": 1713916800,
+        "Consignee": {
+          "name": "SOMFY US FLORIDA"
+        }
+      },
+      {
+        "BillOfLading": "CCLLLYSS24019159",
+        "GrossWeightLbs": 18810,
         "ProductDescription": [
           "LOADED ON 32 PALLETS PARCELS CONTAINING SIMU MOTORS,CONTROLS AND ACCESSORIES FOR ROLLER SHUTTERSAS PER INVOICE 3419423 DTD PACKING LIST 3419423"
         ],
-        "GrossWeightLbs": 18810,
-        "Consignee": {
-          "name": "SOMFY US FLORIDA"
-        },
+        "EntryId": 263957279,
+        "Quantity": 1901,
+        "CountryOfOrigin": "France",
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 8550,
         "Shipper": {
           "name": "SIMU FRANCE",
           "link": "suppliers/simu-france"
+        },
+        "ArrivalDate": 1713398400,
+        "Consignee": {
+          "name": "SOMFY US FLORIDA"
         }
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 263088415,
         "BillOfLading": "CCLLLYSS24019169",
-        "GrossWeightKgs": 9538,
-        "CountryOfOrigin": "France",
-        "ArrivalDate": 1712016000,
-        "Quantity": 1945,
+        "GrossWeightLbs": 20984,
         "ProductDescription": [
           "LOADED ON 34 PALLETS PARCELS CONTAINING SIMU MOTORS,CONTROLS AND ACCESSORIES FOR ROLLER SHUTTERSAS PER INVOICES 40403500 DTD 27/02/24 & 40403876 DTD 07/03/24PACKING LIST 350415097 & 350415467"
         ],
-        "GrossWeightLbs": 20984,
-        "Consignee": {
-          "name": "SOMFY US FLORIDA"
-        },
+        "EntryId": 263088415,
+        "Quantity": 1945,
+        "CountryOfOrigin": "France",
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 9538,
         "Shipper": {
           "name": "SIMU FRANCE",
           "link": "suppliers/simu-france"
+        },
+        "ArrivalDate": 1712016000,
+        "Consignee": {
+          "name": "SOMFY US FLORIDA"
         }
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 262826670,
         "BillOfLading": "CCLLLYSS24019104",
-        "GrossWeightKgs": 8977,
-        "CountryOfOrigin": "France",
-        "ArrivalDate": 1711584000,
-        "Quantity": 1173,
+        "GrossWeightLbs": 19749,
         "ProductDescription": [
           "LOADED ON 27 PALLETSPARCELS CONTAINING SIMU MOTORS,CONTROLS AND ACCESSORIES FOR ROLLER SHUTTERSAS PER INVOICE 40403499 DTD 27/02/24PACKING LIST 350415096"
         ],
-        "GrossWeightLbs": 19749,
-        "Consignee": {
-          "name": "SOMFY US FLORIDA"
-        },
+        "EntryId": 262826670,
+        "Quantity": 1173,
+        "CountryOfOrigin": "France",
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 8977,
         "Shipper": {
           "name": "SIMU FRANCE",
           "link": "suppliers/simu-france"
+        },
+        "ArrivalDate": 1711584000,
+        "Consignee": {
+          "name": "SOMFY US FLORIDA"
         }
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 262571202,
         "BillOfLading": "CCLLLYSS24019103",
-        "GrossWeightKgs": 6090,
-        "CountryOfOrigin": "France",
-        "ArrivalDate": 1711152000,
-        "Quantity": 1382,
+        "GrossWeightLbs": 13398,
         "ProductDescription": [
           "LOADED ON 24 PALLETSPARCELS CONTAINING SIMU MOTORS,CONTROLS AND ACCESSORIES FOR ROLLER SHUTTERSAS PER INVOICE 40403135 DTD 15/0224PACKING LIST 350414722"
         ],
-        "GrossWeightLbs": 13398,
-        "Consignee": {
-          "name": "SOMFY US FLORIDA"
-        },
+        "EntryId": 262571202,
+        "Quantity": 1382,
+        "CountryOfOrigin": "France",
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 6090,
         "Shipper": {
           "name": "SIMU FRANCE",
           "link": "suppliers/simu-france"
+        },
+        "ArrivalDate": 1711152000,
+        "Consignee": {
+          "name": "SOMFY US FLORIDA"
         }
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 261803322,
         "BillOfLading": "CCLLLYSS24019111",
-        "GrossWeightKgs": 7511,
-        "CountryOfOrigin": "France",
-        "ArrivalDate": 1709856000,
-        "Quantity": 1465,
+        "GrossWeightLbs": 16524,
         "ProductDescription": [
           "LOADED ON 27 PALLETS CONTAINING SIMU MOTORS,CONTROLS AND ACCESSORIES FOR ROLLER SHUTTERSCUSTOMER REFERENCE NUMBER SR3250207INVOICES NUMBER 40402448+40402857PACKING LIST 350414034 + 350414446"
         ],
-        "GrossWeightLbs": 16524,
-        "Consignee": {
-          "name": "SOMFY US FLORIDA"
-        },
+        "EntryId": 261803322,
+        "Quantity": 1465,
+        "CountryOfOrigin": "France",
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 7511,
         "Shipper": {
           "name": "SIMU FRANCE",
           "link": "suppliers/simu-france"
+        },
+        "ArrivalDate": 1709856000,
+        "Consignee": {
+          "name": "SOMFY US FLORIDA"
         }
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 261355581,
         "BillOfLading": "CCLLLYSS23019065",
-        "GrossWeightKgs": 10195,
-        "CountryOfOrigin": "France",
-        "ArrivalDate": 1709078400,
-        "Quantity": 1478,
+        "GrossWeightLbs": 22429,
         "ProductDescription": [
           "LOADED ON 27 PALLETSPARCELS CONTAINING SIMU MOTORS, CONTROLS AND ACCESSORIES FOR ROLLER SHUTTERSAS PER INVOICE 40402447 DTD 30/01/24PACKING LIST 350414033"
         ],
-        "GrossWeightLbs": 22429,
-        "Consignee": {
-          "name": "SOMFY US FLORIDA"
-        },
+        "EntryId": 261355581,
+        "Quantity": 1478,
+        "CountryOfOrigin": "France",
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 10195,
         "Shipper": {
           "name": "SIMU FRANCE",
           "link": "suppliers/simu-france"
+        },
+        "ArrivalDate": 1709078400,
+        "Consignee": {
+          "name": "SOMFY US FLORIDA"
         }
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 261001989,
         "BillOfLading": "CCLLLYSS23019064",
-        "GrossWeightKgs": 8572,
-        "CountryOfOrigin": "France",
-        "ArrivalDate": 1708560000,
-        "Quantity": 2099,
+        "GrossWeightLbs": 18858,
         "ProductDescription": [
           "LOADED ON 33 PALLETSPARCELS CONTAINING SOMFY MOTORS,CONTROLS AND ACCESSORIES FOR ROLLER SHUTTERSAS PER INVOICE 40402233 DTD 24/01/24PACKING LIST 350413858DTHC PREPAID"
         ],
-        "GrossWeightLbs": 18858,
-        "Consignee": {
-          "name": "SOMFY US FLORIDA"
-        },
+        "EntryId": 261001989,
+        "Quantity": 2099,
+        "CountryOfOrigin": "France",
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 8572,
         "Shipper": {
           "name": "SIMU FRANCE",
           "link": "suppliers/simu-france"
+        },
+        "ArrivalDate": 1708560000,
+        "Consignee": {
+          "name": "SOMFY US FLORIDA"
         }
       }
     ]
@@ -6271,79 +6417,79 @@
     "url": "importers/hongkong-hikari-c-o-fba",
     "shipments": [
       {
-        "CountryOfOrigin": "China",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 547,
+        "ArrivalDate": 1713571200,
         "ProductDescription": [
           "SHOWER TRAY"
         ],
+        "BillOfLading": "AMZDCN24JGKYTV7Z",
+        "EntryId": 264083971,
+        "QuantityUnit": "CTN",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 1203,
         "Shipper": {
           "name": "N/A"
         },
-        "ArrivalDate": 1713571200,
-        "GrossWeightKgs": 547,
-        "BillOfLading": "AMZDCN24JGKYTV7Z",
-        "GrossWeightLbs": 1203,
         "Consignee": {
           "name": "HONGKONG HIKARI C/O FBA"
         },
-        "EntryId": 264083971,
         "Quantity": 30
       },
       {
-        "CountryOfOrigin": "China",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 2214,
+        "ArrivalDate": 1712016000,
         "ProductDescription": [
           "HAMMOCK CHAIR"
         ],
+        "BillOfLading": "AMZDCN24QQARCR7X",
+        "EntryId": 263091551,
+        "QuantityUnit": "CTN",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 4871,
         "Shipper": {
           "name": "N/A"
         },
-        "ArrivalDate": 1712016000,
-        "GrossWeightKgs": 2214,
-        "BillOfLading": "AMZDCN24QQARCR7X",
-        "GrossWeightLbs": 4871,
         "Consignee": {
           "name": "HONGKONG HIKARI C/O FBA"
         },
-        "EntryId": 263091551,
         "Quantity": 224
       },
       {
-        "CountryOfOrigin": "China",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 396,
+        "ArrivalDate": 1708992000,
         "ProductDescription": [
           "HAMMOCH CHAIR"
         ],
+        "BillOfLading": "AMZDCN24CU3LV7IF",
+        "EntryId": 261313007,
+        "QuantityUnit": "CTN",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 871,
         "Shipper": {
           "name": "N/A"
         },
-        "ArrivalDate": 1708992000,
-        "GrossWeightKgs": 396,
-        "BillOfLading": "AMZDCN24CU3LV7IF",
-        "GrossWeightLbs": 871,
         "Consignee": {
           "name": "HONGKONG HIKARI C/O FBA"
         },
-        "EntryId": 261313007,
         "Quantity": 23
       },
       {
-        "CountryOfOrigin": "China",
-        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 870,
+        "ArrivalDate": 1708560000,
         "ProductDescription": [
           "HAMMOCK CHAIR"
         ],
+        "BillOfLading": "AMZDCN24VU4BYFSH",
+        "EntryId": 261002060,
+        "QuantityUnit": "CTN",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 1914,
         "Shipper": {
           "name": "N/A"
         },
-        "ArrivalDate": 1708560000,
-        "GrossWeightKgs": 870,
-        "BillOfLading": "AMZDCN24VU4BYFSH",
-        "GrossWeightLbs": 1914,
         "Consignee": {
           "name": "HONGKONG HIKARI C/O FBA"
         },
-        "EntryId": 261002060,
         "Quantity": 300
       }
     ]
@@ -7897,208 +8043,207 @@
     "url": "importers/portega-inc",
     "shipments": [
       {
-        "QuantityUnit": "CTN",
-        "EntryId": 264291687,
-        "BillOfLading": "EPAQEC20240142",
-        "GrossWeightKgs": 19770,
-        "CountryOfOrigin": "Ecuador",
-        "ArrivalDate": 1713744000,
-        "Quantity": 31,
-        "ProductDescription": [
-          "ALUMINUM TUBES"
-        ],
-        "GrossWeightLbs": 43494,
         "Consignee": {
           "name": "PORTEGA INC"
         },
+        "BillOfLading": "MAEU237532607",
         "Shipper": {
           "name": "CEDAL DURAN S.A.",
           "link": "suppliers/cedal-duran-s-a"
-        }
-      },
-      {
-        "QuantityUnit": "CTN",
-        "EntryId": 264291654,
-        "BillOfLading": "EPAQEC20240141",
-        "GrossWeightKgs": 38110,
-        "CountryOfOrigin": "Ecuador",
-        "ArrivalDate": 1713744000,
-        "Quantity": 96,
-        "ProductDescription": [
-          "ALUMINUM TUBES",
-          "ALUMINUM TUBES",
-          "ALUMINUM TUBES"
-        ],
-        "GrossWeightLbs": 83842,
-        "Consignee": {
-          "name": "PORTEGA INC"
         },
-        "Shipper": {
-          "name": "CEDAL DURAN S.A.",
-          "link": "suppliers/cedal-duran-s-a"
-        }
-      },
-      {
+        "GrossWeightLbs": 25617,
+        "GrossWeightKgs": 11644,
+        "CountryOfOrigin": "Mexico",
         "QuantityUnit": "PKG",
-        "EntryId": 264206382,
-        "BillOfLading": "MAEU237186966",
-        "GrossWeightKgs": 21445,
+        "ProductDescription": [
+          "BUNDLE / CONTAIN ALUMINUM TUB ES ALLOYS HS CODE: 7604.29.5 0.90 /7610.90.00.40 DAE 0282 0244000603072"
+        ],
+        "ArrivalDate": 1714608000,
+        "Quantity": 1898,
+        "EntryId": 264857736
+      },
+      {
+        "Consignee": {
+          "name": "PORTEGA INC"
+        },
+        "BillOfLading": "MAEU237936309",
+        "Shipper": {
+          "name": "CEDAL DURAN S.A.",
+          "link": "suppliers/cedal-duran-s-a"
+        },
+        "GrossWeightLbs": 33510,
+        "GrossWeightKgs": 15232,
         "CountryOfOrigin": "Panama",
-        "ArrivalDate": 1713744000,
-        "Quantity": 32,
+        "QuantityUnit": "PKG",
         "ProductDescription": [
-          "BUNDLE / CONTAIN ALUMINUM TUB ES ALLOYS HS CODE:7604.29.50 .90 AND 7604.21.00.10. DAE 02 820244000624980"
+          "BUNDLE / CONTAIN ALUMINUM TUB ES ALLOYS HS CODE: 7604.29. 50.90. DAE 02820244000361834"
         ],
-        "GrossWeightLbs": 47178,
+        "ArrivalDate": 1714348800,
+        "Quantity": 32,
+        "EntryId": 264636845
+      },
+      {
         "Consignee": {
           "name": "PORTEGA INC"
         },
+        "BillOfLading": "MAEU237483128",
         "Shipper": {
           "name": "CEDAL DURAN S.A.",
           "link": "suppliers/cedal-duran-s-a"
-        }
+        },
+        "GrossWeightLbs": 32385,
+        "GrossWeightKgs": 14720,
+        "CountryOfOrigin": "Panama",
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "BUNDLE / CONTAIN ALUMINUM TUB ES ALLOYS HS CODE: 7604.29.5 0.90 / 7604.21.00.10 DAE 0282 0244000574114"
+        ],
+        "ArrivalDate": 1714348800,
+        "Quantity": 33,
+        "EntryId": 264636833
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 263992737,
-        "BillOfLading": "HNLTJK24A00190",
-        "GrossWeightKgs": 10474,
-        "CountryOfOrigin": "Singapore",
-        "ArrivalDate": 1713484800,
-        "Quantity": 24,
-        "ProductDescription": [
-          "ALUMINIUM EXTRUSION"
-        ],
-        "GrossWeightLbs": 23043,
         "Consignee": {
           "name": "PORTEGA INC"
         },
+        "BillOfLading": "MAEU237187143",
         "Shipper": {
-          "name": "PT. ALEXINDO COMPANY EXTRUSION",
-          "link": "suppliers/pt-alexindo-company-extrusion"
-        }
+          "name": "CEDAL DURAN S.A.",
+          "link": "suppliers/cedal-duran-s-a"
+        },
+        "GrossWeightLbs": 59260,
+        "GrossWeightKgs": 26936,
+        "CountryOfOrigin": "Panama",
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "BUNDLE / CONTAIN ALUMINUM TUB ES ALLOYS HS CODE: 7604.21.0 0.10 / 7604.29.50.90 DAE 0282 0244000626009",
+          "BUNDLE / CONTAIN ALUMINUM TUB ES ALLOYS HS CODE: 7604.21.0 0.10 / 7604.29.50.90 DAE 0282 0244000626009"
+        ],
+        "ArrivalDate": 1714348800,
+        "Quantity": 65,
+        "EntryId": 264636815
       },
       {
-        "QuantityUnit": "PKG",
-        "EntryId": 263839418,
-        "BillOfLading": "HNLTJK2402A0048",
-        "GrossWeightKgs": 23357,
-        "CountryOfOrigin": "Singapore",
-        "ArrivalDate": 1713225600,
-        "Quantity": 38,
-        "ProductDescription": [
-          "ALUMINIUM EXTRUSION TO SPECIFICATION",
-          "ALUMINIUM EXTRUSION TO SPECIFICATION"
-        ],
-        "GrossWeightLbs": 51385,
         "Consignee": {
           "name": "PORTEGA INC"
         },
+        "BillOfLading": "EPAQEC20240119",
         "Shipper": {
-          "name": "PT. ALEXINDO COMPANY EXTRUSION",
-          "link": "suppliers/pt-alexindo-company-extrusion"
-        }
-      },
-      {
-        "QuantityUnit": "CTN",
-        "EntryId": 263866887,
-        "BillOfLading": "EPAQEC20240115",
-        "GrossWeightKgs": 13680,
+          "name": "CEDAL DURAN S.A.",
+          "link": "suppliers/cedal-duran-s-a"
+        },
+        "GrossWeightLbs": 45540,
+        "GrossWeightKgs": 20700,
         "CountryOfOrigin": "Colombia",
-        "ArrivalDate": 1713139200,
-        "Quantity": 32,
+        "QuantityUnit": "CTN",
         "ProductDescription": [
           "ALUMINUM TUBES"
         ],
-        "GrossWeightLbs": 30096,
+        "ArrivalDate": 1714348800,
+        "Quantity": 32,
+        "EntryId": 264633244
+      },
+      {
         "Consignee": {
           "name": "PORTEGA INC"
         },
+        "BillOfLading": "FLXT00002585850A",
         "Shipper": {
           "name": "CEDAL DURAN S.A.",
           "link": "suppliers/cedal-duran-s-a"
-        }
+        },
+        "GrossWeightLbs": 24332,
+        "GrossWeightKgs": 11060,
+        "CountryOfOrigin": "Ecuador",
+        "QuantityUnit": "BDL",
+        "ProductDescription": [
+          "ALUMINUM TUBES .. ALLOYS 7604210010 DAE: 028-2024-40-00652436"
+        ],
+        "ArrivalDate": 1714348800,
+        "Quantity": 32,
+        "EntryId": 264621624
       },
       {
+        "Consignee": {
+          "name": "PORTEGA INC"
+        },
+        "BillOfLading": "EPAQEC20240148",
+        "Shipper": {
+          "name": "CEDAL DURAN S.A.",
+          "link": "suppliers/cedal-duran-s-a"
+        },
+        "GrossWeightLbs": 19294,
+        "GrossWeightKgs": 8770,
+        "CountryOfOrigin": "Ecuador",
         "QuantityUnit": "CTN",
-        "EntryId": 263866802,
-        "BillOfLading": "EPAQEC20240116",
-        "GrossWeightKgs": 19370,
-        "CountryOfOrigin": "Colombia",
-        "ArrivalDate": 1713139200,
-        "Quantity": 896,
         "ProductDescription": [
           "ALUMINUM TUBES"
         ],
-        "GrossWeightLbs": 42614,
+        "ArrivalDate": 1714262400,
+        "Quantity": 16,
+        "EntryId": 264586020
+      },
+      {
         "Consignee": {
           "name": "PORTEGA INC"
         },
+        "BillOfLading": "EPAQEC20240140",
         "Shipper": {
           "name": "CEDAL DURAN S.A.",
           "link": "suppliers/cedal-duran-s-a"
-        }
-      },
-      {
+        },
+        "GrossWeightLbs": 53548,
+        "GrossWeightKgs": 24340,
+        "CountryOfOrigin": "Ecuador",
         "QuantityUnit": "CTN",
-        "EntryId": 263866785,
-        "BillOfLading": "EPAQEC20240103",
-        "GrossWeightKgs": 28660,
-        "CountryOfOrigin": "Colombia",
-        "ArrivalDate": 1713139200,
-        "Quantity": 67,
         "ProductDescription": [
           "ALUMINUM TUBES",
           "ALUMINUM TUBES"
         ],
-        "GrossWeightLbs": 63052,
-        "Consignee": {
-          "name": "PORTEGA INC"
-        },
-        "Shipper": {
-          "name": "CEDAL DURAN S.A.",
-          "link": "suppliers/cedal-duran-s-a"
-        }
+        "ArrivalDate": 1714262400,
+        "Quantity": 65,
+        "EntryId": 264583307
       },
       {
-        "QuantityUnit": "CTN",
-        "EntryId": 263714453,
-        "BillOfLading": "EPAQEC20240133",
-        "GrossWeightKgs": 14920,
-        "CountryOfOrigin": "Ecuador",
-        "ArrivalDate": 1712966400,
-        "Quantity": 174,
-        "ProductDescription": [
-          "ALUMINUM TUBES"
-        ],
-        "GrossWeightLbs": 32824,
         "Consignee": {
           "name": "PORTEGA INC"
         },
+        "BillOfLading": "MAEU237580955",
         "Shipper": {
           "name": "CEDAL DURAN S.A.",
           "link": "suppliers/cedal-duran-s-a"
-        }
+        },
+        "GrossWeightLbs": 35913,
+        "GrossWeightKgs": 16324,
+        "CountryOfOrigin": "Mexico",
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "BUNDLE / CONTAIN ALUMINUM TUB ES ALLOYS HS CODE: 7604.29.5 0.90 DAE 02820244000602545."
+        ],
+        "ArrivalDate": 1714089600,
+        "Quantity": 687,
+        "EntryId": 264509277
       },
       {
-        "QuantityUnit": "CTN",
-        "EntryId": 263714452,
-        "BillOfLading": "EPAQEC20240134",
-        "GrossWeightKgs": 15400,
-        "CountryOfOrigin": "Ecuador",
-        "ArrivalDate": 1712966400,
-        "Quantity": 209,
-        "ProductDescription": [
-          "ALUMINUM TUBES"
-        ],
-        "GrossWeightLbs": 33880,
         "Consignee": {
           "name": "PORTEGA INC"
         },
+        "BillOfLading": "EPAQEC20240135",
         "Shipper": {
           "name": "CEDAL DURAN S.A.",
           "link": "suppliers/cedal-duran-s-a"
-        }
+        },
+        "GrossWeightLbs": 73722,
+        "GrossWeightKgs": 33510,
+        "CountryOfOrigin": "Ecuador",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "ALUMINUM TUBES",
+          "ALUMINUM TUBES"
+        ],
+        "ArrivalDate": 1713916800,
+        "Quantity": 68,
+        "EntryId": 264395180
       }
     ]
   },

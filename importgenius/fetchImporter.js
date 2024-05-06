@@ -9,9 +9,8 @@ const scrapeArr = []
 
 
 // 定义要爬取的页面范围
-const startPage = 701;
-// const endPage = 3000;
-const endPage = 800;
+const startPage = 1001;
+const endPage = 1200;
 
 
 

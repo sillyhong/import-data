@@ -21,8 +21,9 @@ async function main() {
         // 逐个读取并插入文件内容到数据库
         for (const file of files) {
             const filePath = `${jsonFilesPath}/${file}`;
+            const fileNumber = parseInt(file)
+            if (fileNumber <= 700) continue
             console.log('\x1b[36m%s', 'filePath123', filePath);
-            if (!filePath.includes('700.json')) continue
 
             const data = await fs.readFile(filePath, 'utf8');
             const jsonData = JSON.parse(data);
@@ -40,7 +41,8 @@ async function main() {
 
 // 插入数据到数据库表
 async function insertData(data, filePath, connection) {
-    const selectQuery = 'SELECT COUNT(*) AS count FROM importgenius WHERE url = ?';
+    const selectQueryUrl = 'SELECT COUNT(*) AS count FROM importgenius WHERE url = ?';
+    const updateQuery = 'UPDATE importgenius SET totalShipments = ?, mostRecentDate = ?, raw = ? WHERE url = ?';
     const insertQuery = 'INSERT INTO importgenius (raw, totalShipments, company, contactInfo, mostRecentDate, url) VALUES (?, ?, ?, ?, ?, ?)';
 
     for (const item of data) {
@@ -54,14 +56,62 @@ async function insertData(data, filePath, connection) {
         ];
 
         try {
-            const [rows] = await connection.query(selectQuery, [item.url]);
-            const count = rows[0].count;
+            // Check if the URL already exists in the database
+            const [urlRows] = await connection.query(selectQueryUrl, [item.url]);
+            const urlCount = urlRows[0].count;
 
-            if (count === 0) {
+            if (urlCount === 0) {
                 await connection.query(insertQuery, values);
                 console.log('Data inserted successfully. filePath:', filePath);
             } else {
-                console.log('URL already exists. Skipping insertion.', item.url);
+                // 新数据没有shipments
+                if (!item.shipments || !item.shipments.length) {
+                    continue
+                }
+                // If URL exists, compare shipments for any changes
+                const [existingRows] = await connection.query('SELECT raw FROM importgenius WHERE url = ?', [item.url]);
+                // const existingRaw = JSON.parse(existingRows[0].raw);
+                const existingRaw = existingRows[0].raw;
+
+
+                // If there are new shipments, update existing record
+                const updatedTotalShipments = item.totalShipments;
+                const updatedMostRecentDate = new Date(item.mostRecentDate * 1000).toISOString().slice(0, 10);
+
+                // 旧数据没有 shipments
+                if (!existingRaw.shipments || !existingRaw.shipments.length) {
+                    const updatedRaw = JSON.stringify({
+                        ...item,
+                        shipments: item.shipments
+                    });
+
+                    console.log('\x1b[36m%s', item.url, 'old的值', 0, 'new的值', item.shipments.length, '合并后的值', JSON.parse(updatedRaw).shipments.length);
+                    await connection.query(updateQuery, [updatedTotalShipments, updatedMostRecentDate, updatedRaw, item.url]);
+
+                    continue
+                }
+
+                const newShipments = item.shipments.filter(newShipment =>
+                    !existingRaw.shipments.some(existingShipment =>
+                        existingShipment.BillOfLading === newShipment.BillOfLading
+                    )
+                );
+
+                if (newShipments && newShipments.length > 0) {
+
+                    // Add new shipment objects to the beginning of the array
+                    const updatShipments = existingRaw?.shipments ? [...newShipments, ...existingRaw.shipments] : newShipments
+                    const updatedRaw = JSON.stringify({
+                        ...item,
+                        shipments: updatShipments
+                    });
+
+                    await connection.query(updateQuery, [updatedTotalShipments, updatedMostRecentDate, updatedRaw, item.url]);
+                    console.log('\x1b[36m%s', item.url, '有新增的newShipments', newShipments.length, 'old的值', existingRaw.shipments && existingRaw.shipments.length, 'new的值', item.shipments.length, '合并后的值', JSON.parse(updatedRaw).shipments.length);
+                    // console.log('Data updated successfully. filePath:', filePath);
+                } else {
+                    console.log('URL already exists. No new shipments found. Skipping insertion.', item.url);
+                }
             }
         } catch (error) {
             console.error('Error inserting data:', error);

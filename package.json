@@ -10,6 +10,7 @@
     "@testing-library/user-event": "^13.5.0",
     "antd": "^4.24.2",
     "Cheerio": "npm:cheerio@^1.0.0-rc.12",
+    "mysql2": "^3.9.7",
     "qs": "^6.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -19,6 +20,7 @@
   "scripts": {
     "fetchImport": "node importgenius/fetchImporter.js",
     "fetchShipments": "node importgenius/fetchShipments.js",
+    "insertSql": "node importgenius/utils/inSertSql.js",
     "start": "cross-env PORT=8080 react-scripts start",
     "start2": "cross-env PORT=8080 react-scripts start & npm run server",
     "build": "react-scripts build",
