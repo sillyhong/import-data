@@ -1,0 +1,5409 @@
+[
+  {
+    "company": "BAHA CHERD",
+    "contactInfo": "21392 BRIDGEVIEW DRIVE BOCA RATON FL 33428 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jack-qiao",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 4868,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 21, LIANTANG DISTRICT 4, Y IWU CITY JINHUA CN JACK QIAO"
+          },
+          "name": "JACK QIAO",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/baha-cherd",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257658006,
+        "Shipper": {
+          "link": "suppliers/jack-qiao",
+          "name": "JACK QIAO"
+        },
+        "Consignee": {
+          "name": "BAHA CHERD"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300363742",
+        "ProductDescription": [
+          "FLOOR MAT"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "SEONG YOO",
+    "contactInfo": "7358 N. KENNETH AVE. LINCOLNWOOD IL 60712 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/seong-yoo",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257658009,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "SEONG YOO"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300363745",
+        "ProductDescription": [
+          "PLASTIC PUZZLE"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "JILLIAN SHEPHERD",
+    "contactInfo": "755-1 EAGLE CREEK RD VALPARAISO IN 46385 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jack-qiao",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 4868,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 21, LIANTANG DISTRICT 4, Y IWU CITY JINHUA CN JACK QIAO"
+          },
+          "name": "JACK QIAO",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/jillian-shepherd",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257658053,
+        "Shipper": {
+          "link": "suppliers/jack-qiao",
+          "name": "JACK QIAO"
+        },
+        "Consignee": {
+          "name": "JILLIAN SHEPHERD"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300363789",
+        "ProductDescription": [
+          "FLOOR MAT"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "totalShipments": 3,
+    "shippers": {
+      "items": [
+        {
+          "containersCount": 2,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "grossWeightInKgs": 4,
+          "grossWeightInLbs": 9,
+          "lastAddress": {
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-",
+            "shortAddress": "China"
+          },
+          "iso": "cn",
+          "mostRecentDate": 1705881600,
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "overAllShipmentCount": 1,
+          "country": "china",
+          "shipmentCount": 2
+        },
+        {
+          "containersCount": 1,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "grossWeightInKgs": 8,
+          "grossWeightInLbs": 18,
+          "lastAddress": {
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO.97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP",
+            "shortAddress": "China"
+          },
+          "iso": "cn",
+          "mostRecentDate": 1708819200,
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "overAllShipmentCount": 114,
+          "country": "china",
+          "shipmentCount": 1
+        }
+      ],
+      "totalShipments": 3
+    },
+    "contactInfo": "920 VIA CARTAGO APARTMENT 59 RIVERSIDE CA 92507 US",
+    "company": "IVAN MILOSAVLJEVIC",
+    "mostRecentDate": 1702771200,
+    "url": "importers/ivan-milosavljevic",
+    "shipments": [
+      {
+        "BillOfLading": "DWCH24HWS0400926",
+        "CountryOfOrigin": "China",
+        "ArrivalDate": 1708819200,
+        "ProductDescription": [
+          "BUILDING BLOCKS"
+        ],
+        "Quantity": 1,
+        "EntryId": 261272614,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "GrossWeightLbs": 18,
+        "GrossWeightKgs": 8,
+        "Consignee": {
+          "name": "IVAN MILOSAVLJEVIC"
+        },
+        "QuantityUnit": "PCS"
+      },
+      {
+        "BillOfLading": "DWCH202400378084",
+        "CountryOfOrigin": "China",
+        "ArrivalDate": 1705881600,
+        "ProductDescription": [
+          "EDUCATIONAL TOYS"
+        ],
+        "Quantity": 1,
+        "EntryId": 259342033,
+        "Shipper": {
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce"
+        },
+        "GrossWeightLbs": 2,
+        "GrossWeightKgs": 1,
+        "Consignee": {
+          "name": "IVAN MILOSAVLJEVIC"
+        },
+        "QuantityUnit": "PCS"
+      },
+      {
+        "BillOfLading": "DWCH202300363816",
+        "CountryOfOrigin": "China",
+        "ArrivalDate": 1702771200,
+        "ProductDescription": [
+          "PLASTIC PUZZLE"
+        ],
+        "Quantity": 1,
+        "EntryId": 257658080,
+        "Shipper": {
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce"
+        },
+        "GrossWeightLbs": 7,
+        "GrossWeightKgs": 3,
+        "Consignee": {
+          "name": "IVAN MILOSAVLJEVIC"
+        },
+        "QuantityUnit": "PCS"
+      }
+    ]
+  },
+  {
+    "company": "NISSA WEGIENEK",
+    "contactInfo": "11 BIRCH LANE LARCHMONT NY 10538 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/nissa-wegienek",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658130,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "NISSA WEGIENEK"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300363866",
+        "ProductDescription": [
+          "PLASTIC PUZZLE"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "TIEMEN STAAL",
+    "contactInfo": "7454 W SONESTA DR TUCSON AZ 85743 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/tiemen-staal",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658137,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "TIEMEN STAAL"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300363873",
+        "ProductDescription": [
+          "PLASTIC PUZZLE"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MIKE MCCORMICK",
+    "contactInfo": "4320 MILLWOOD RD MOUNT AIRY MD 21771-460 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/linli-fu",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1273,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "LONGGANG DISTRICT LONGGANG STREET Z HENPULING VILLAGE 1ST FLOOR, BUILDING 7, LAN E 13, DISTRICT SHENZHEN CN LINLI FU"
+          },
+          "name": "LINLI FU",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/mike-mccormick",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658166,
+        "Shipper": {
+          "link": "suppliers/linli-fu",
+          "name": "LINLI FU"
+        },
+        "Consignee": {
+          "name": "MIKE MCCORMICK"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300363902",
+        "ProductDescription": [
+          "CAR CARGO MATS"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "JHX",
+    "contactInfo": "1002 WILLOW DR APT 43 27514-2936 CHAPEL HILL NC 27514 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/jhx",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658172,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "JHX"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300363908",
+        "ProductDescription": [
+          "BOOK"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "ARUN PAI",
+    "contactInfo": "6069 KOLB RANCH DR PLEASANTON CA 94588 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/arun-pai",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658183,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "ARUN PAI"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300363919",
+        "ProductDescription": [
+          "PLASTIC PUZZLE"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "TAQUILA YANCEY",
+    "contactInfo": "22820 IMPERIAL VALLEY DR APT 106 HOUSTON TX 77073 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/taquila-yancey",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658284,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "TAQUILA YANCEY"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364017",
+        "ProductDescription": [
+          "TOYS"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "YUTASATO",
+    "contactInfo": "3815 EASTSIDE ST APT4029 HOUSTON TX 77098-204 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/linli-fu",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1273,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "LONGGANG DISTRICT LONGGANG STREET Z HENPULING VILLAGE 1ST FLOOR, BUILDING 7, LAN E 13, DISTRICT SHENZHEN CN LINLI FU"
+          },
+          "name": "LINLI FU",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/yutasato",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658303,
+        "Shipper": {
+          "link": "suppliers/linli-fu",
+          "name": "LINLI FU"
+        },
+        "Consignee": {
+          "name": "YUTASATO"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364036",
+        "ProductDescription": [
+          "CAR CARGO MATS"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "ORIANNA BRAVO",
+    "contactInfo": "4204 CHAPELGATE PL BELCAMP MD 21017 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/emperor-wu-xizong",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 84,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BEIYUAN STREET YIWU CN EMPEROR WU XIZONG"
+          },
+          "name": "EMPEROR WU XIZONG",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/orianna-bravo",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658304,
+        "Shipper": {
+          "link": "suppliers/emperor-wu-xizong",
+          "name": "EMPEROR WU XIZONG"
+        },
+        "Consignee": {
+          "name": "ORIANNA BRAVO"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364037",
+        "ProductDescription": [
+          "SLEEPWEAR"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "KIDS CRECHE",
+    "contactInfo": "13180 WESTPARK DR STE 109 HOUSTON TX 77082 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/kids-creche",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658323,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "KIDS CRECHE"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364056",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "TMAC MCSWAIN",
+    "contactInfo": "878 W. BUFFINGTON ST UPLAND CA 91784 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/jack-qiao",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 4868,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 21, LIANTANG DISTRICT 4, Y IWU CITY JINHUA CN JACK QIAO"
+          },
+          "name": "JACK QIAO",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/tmac-mcswain",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658348,
+        "Shipper": {
+          "link": "suppliers/jack-qiao",
+          "name": "JACK QIAO"
+        },
+        "Consignee": {
+          "name": "TMAC MCSWAIN"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364081",
+        "ProductDescription": [
+          "FLOOR MAT"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "BETHANY WEAKLAND",
+    "totalShipments": 3,
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "grossWeightInLbs": 32,
+          "mostRecentDate": 1703289600,
+          "overAllShipmentCount": 1,
+          "shipmentCount": 3,
+          "containersCount": 3,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "country": "china",
+          "grossWeightInKgs": 15
+        }
+      ]
+    },
+    "contactInfo": "4116 WILLOW CREEK DR GIBSONIA PA 15044 US",
+    "mostRecentDate": 1702771200,
+    "url": "importers/bethany-weakland",
+    "shipments": [
+      {
+        "ProductDescription": [
+          "PLASTIC PUZZLE"
+        ],
+        "Shipper": {
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce"
+        },
+        "Consignee": {
+          "name": "BETHANY WEAKLAND"
+        },
+        "GrossWeightKgs": 6,
+        "ArrivalDate": 1703289600,
+        "GrossWeightLbs": 13,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "China",
+        "BillOfLading": "DWCH202300365717",
+        "Quantity": 1,
+        "EntryId": 258025209
+      },
+      {
+        "ProductDescription": [
+          "HOME DECORATION"
+        ],
+        "Shipper": {
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce"
+        },
+        "Consignee": {
+          "name": "BETHANY WEAKLAND"
+        },
+        "GrossWeightKgs": 7,
+        "ArrivalDate": 1703289600,
+        "GrossWeightLbs": 15,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "China",
+        "BillOfLading": "DWCH202300365694",
+        "Quantity": 1,
+        "EntryId": 258025186
+      },
+      {
+        "ProductDescription": [
+          "PLASTIC PUZZLE"
+        ],
+        "Shipper": {
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce"
+        },
+        "Consignee": {
+          "name": "BETHANY WEAKLAND"
+        },
+        "GrossWeightKgs": 2,
+        "ArrivalDate": 1702771200,
+        "GrossWeightLbs": 4,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "China",
+        "BillOfLading": "DWCH202300364101",
+        "Quantity": 1,
+        "EntryId": 257658368
+      }
+    ]
+  },
+  {
+    "company": "NATHALINE JAHNAGILE",
+    "contactInfo": "9336 FOLEY BOULEVARD COON RAPIDS MN 55433 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/zhuangzhihao",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 2065,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BEIYUANJIEDAO YIWU CN ZHUANGZHIHAO"
+          },
+          "name": "ZHUANGZHIHAO",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/nathaline-jahnagile",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658399,
+        "Shipper": {
+          "link": "suppliers/zhuangzhihao",
+          "name": "ZHUANGZHIHAO"
+        },
+        "Consignee": {
+          "name": "NATHALINE JAHNAGILE"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364132",
+        "ProductDescription": [
+          "SHIMMER WALL PANELS"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "NETWIZE",
+    "contactInfo": "20 MATTERHORN DR. . PARK CITY UT 84098 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/netwize",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658415,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "NETWIZE"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364148",
+        "ProductDescription": [
+          "PAPER BOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "DIONYS ESPINOSA",
+    "contactInfo": "8400 NW 25TH ST STE SUITE BM-228235 DORAL FL 33198 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/dionys-espinosa",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658416,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "DIONYS ESPINOSA"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364149",
+        "ProductDescription": [
+          "WORKING LAMP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "JINFU LENG",
+    "contactInfo": "1 MANDALAY CT REDWOOD CITY CA 94065 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/jinfu-leng",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658444,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "JINFU LENG"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364176",
+        "ProductDescription": [
+          "BOOK"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "SANDTWAN MCKINNEY",
+    "contactInfo": "9395 COOGAN DR CINCINNATI OH 45231 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 2
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/sandtwan-mckinney",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4,
+        "EntryId": 257658487,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "SANDTWAN MCKINNEY"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364218",
+        "ProductDescription": [
+          "JACKET"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 2,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "IRINA RAKOVA",
+    "contactInfo": "5240 N WINTHROP AVE, APT 103 APT 10 3 CHICAGO IL 60640 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/irina-rakova",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658519,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "IRINA RAKOVA"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364250",
+        "ProductDescription": [
+          "PLASTIC PUZZLE"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "CHANTELL LAFLAMME",
+    "contactInfo": "1698 CARTON WAY GRANTS PASS OR 97526 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/chantell-laflamme",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658564,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "CHANTELL LAFLAMME"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364295",
+        "ProductDescription": [
+          "PLASTIC PUZZLE"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "HARKA MAGAR",
+    "contactInfo": "30 ELI DR YORK PA 17404 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/harka-magar",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658649,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "HARKA MAGAR"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364380",
+        "ProductDescription": [
+          "IRON BRACKET"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MANNY PAYAN",
+    "contactInfo": "375 S MONROE ST BLISSFIELD MI 49228-124 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/manny-payan",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658680,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "MANNY PAYAN"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364411",
+        "ProductDescription": [
+          "PLASTIC CARD"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "DEMASSION WARE",
+    "contactInfo": "2220 VALLEYHIGH DR NW APT 208 ROCHESTER MN 55901 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/demassion-ware",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658712,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "DEMASSION WARE"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364443",
+        "ProductDescription": [
+          "INTAKE PIPE"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "FABRICIO STRAMBECK",
+    "contactInfo": "LIDGE AVENUE BRIARWOOD NY 11435 204 BRIARWOOD NY 11435 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/fabricio-strambeck",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658745,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "FABRICIO STRAMBECK"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364476",
+        "ProductDescription": [
+          "DAILY NECESSITIES"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "VENKATESWAR IVATURI",
+    "contactInfo": "44909 PAINE DR NOVI MI 48377 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/venkateswar-ivaturi",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658787,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "VENKATESWAR IVATURI"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364515",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "JEYME ARAKI",
+    "contactInfo": "11655 WESTVIEW PKWY SAN DIEGO CA 92126 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/jeyme-araki",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658806,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "JEYME ARAKI"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364533",
+        "ProductDescription": [
+          "SILICONE MOLD"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MANEESHA JAYAKUMAR",
+    "contactInfo": "2 XAVIER CT GENESIS GATE CODE 36517 PALM DESERT CA 92211 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/maneesha-jayakumar",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658824,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "MANEESHA JAYAKUMAR"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364550",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MAMUN HOSSAIN",
+    "contactInfo": "3430 LARCHMONT AVE APT 543 ALEXANDRIA VA 22302 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/mamun-hossain",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658830,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "MAMUN HOSSAIN"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364555",
+        "ProductDescription": [
+          "HEADSET"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "THERESA KOERNER",
+    "contactInfo": "7575 NORFOLK DR ONSTED MI 49265 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/theresa-koerner",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658839,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "THERESA KOERNER"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364564",
+        "ProductDescription": [
+          "SHIRTS"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MIKYLE",
+    "contactInfo": "7341 HILL DR ANNANDALE VA 22003 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/mikyle",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658852,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "MIKYLE"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364577",
+        "ProductDescription": [
+          "PLASTIC PUZZLE"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MICHAEL YASHINSKI",
+    "contactInfo": "409 LARKSPUR DR JOPPA MD 21085-433 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/michael-yashinski",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658869,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "MICHAEL YASHINSKI"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364594",
+        "ProductDescription": [
+          "PUZZLE JIGSAW"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "NET JL SPORT",
+    "contactInfo": "2157 NW 79TH AVE STE 59 DORAL FL 33122 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/net-jl-sport",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658890,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "NET JL SPORT"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364613",
+        "ProductDescription": [
+          "GRILLE"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "LAURENT KOLOGO",
+    "contactInfo": "149 GRANT ST SALEM NJ 08079 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/laurent-kologo",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658907,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "LAURENT KOLOGO"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364629",
+        "ProductDescription": [
+          "MOULD"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MARITIMO JUDIT GUERRERO",
+    "contactInfo": "UNIT 4,9000 NW 15TH STREET MIAMI FL 33172 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yeweijie",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 2233,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "HOUZHAIJIEDAO YIWU CN YEWEIJIE"
+          },
+          "name": "YEWEIJIE",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/maritimo-judit-guerrero",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257658931,
+        "Shipper": {
+          "link": "suppliers/yeweijie",
+          "name": "YEWEIJIE"
+        },
+        "Consignee": {
+          "name": "MARITIMO JUDIT GUERRERO"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364651",
+        "ProductDescription": [
+          "ALLOY EARRINGS,JEWELRY SETS,PAPER CARD"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MORENA SEGOVIA",
+    "contactInfo": "64625 PIERSON BLVD SPC B9 DESERT HOT SPRINGS CA 92240 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/morena-segovia",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658936,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "MORENA SEGOVIA"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364656",
+        "ProductDescription": [
+          "CASUAL SHOES"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "SERGEI STROGANOV",
+    "contactInfo": "2308 W GRANVILLE AVE APT 1W CHICAGO IL 60659 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/sergei-stroganov",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658937,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "SERGEI STROGANOV"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364657",
+        "ProductDescription": [
+          "TRINKETS"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "AJ PIP",
+    "contactInfo": "570 UNIVERSITY AVENUE UNIT 22 LOS GATOS CA 95032 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/aj-pip",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658944,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "AJ PIP"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364663",
+        "ProductDescription": [
+          "SHOES"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "JOSH ROSENTHAL",
+    "contactInfo": "16 GRANDVIEW LN SMITHTOWN NY 11787 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/josh-rosenthal",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658947,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "JOSH ROSENTHAL"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364666",
+        "ProductDescription": [
+          "SPARE PARTS"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "LUONG DAI",
+    "contactInfo": "195 BLOSSOM HILL RD LOT 103 SAN JOSE CA 95123 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/luong-dai",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658949,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "LUONG DAI"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364667",
+        "ProductDescription": [
+          "HELMET"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "ROOHULLAH MANSOOR",
+    "contactInfo": "848 GOLFVIEW AVE ZUMBROTA MN 55992 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/roohullah-mansoor",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257658971,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "ROOHULLAH MANSOOR"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364689",
+        "ProductDescription": [
+          "PORTABLE TOOL"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "BRYAN WADAS",
+    "contactInfo": "46734 FLUME RD ELYRIA NE 68837-502 US",
+    "totalShipments": 3,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 6,
+          "shipmentCount": 3,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "containersCount": 3,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 3
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/bryan-wadas",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659055,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "BRYAN WADAS"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364768",
+        "ProductDescription": [
+          "PROTECTIVE COVER"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      },
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659030,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "BRYAN WADAS"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364745",
+        "ProductDescription": [
+          "PROTECTIVE COVER"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      },
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659018,
+        "Shipper": {
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE"
+        },
+        "Consignee": {
+          "name": "BRYAN WADAS"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364733",
+        "ProductDescription": [
+          "PROTECTIVE COVER"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "BEEZERS FINE BILLARDS",
+    "contactInfo": "224 N SHAMROCK BLVD RUSSELLVILLE AR 72802 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/beezers-fine-billards",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659062,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "BEEZERS FINE BILLARDS"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364775",
+        "ProductDescription": [
+          "STOPWATCH"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "YSABELA",
+    "contactInfo": "13204 TIERRA MONTANOSA DR NE ALBUQUERQUE NM 87112 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/ysabela",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659064,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "YSABELA"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364777",
+        "ProductDescription": [
+          "DAILY NECESSITIES"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "JMLANZ",
+    "contactInfo": "27 WALNUT AVE UNIT 1 SETAUKET NY 11733 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/jmlanz",
+    "shipments": null
+  },
+  {
+    "company": "KENY F WILPER",
+    "contactInfo": "10024 WILD CALLA ST LAS VEGAS NV 89178 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/keny-f-wilper",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659175,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "KENY F WILPER"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364861",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "DORAS A MARLATT",
+    "contactInfo": "124 SHERRI LN OCEANSIDE CA 92054 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/doras-a-marlatt",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659259,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "DORAS A MARLATT"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364914",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "GIACOBONE MIKEY",
+    "contactInfo": "7217 S INDIANWOOD AVE BROKEN ARROW OK 74011 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/giacobone-mikey",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659289,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "GIACOBONE MIKEY"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364926",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "VIRGINIA TAMBONE",
+    "contactInfo": "8420 SWEET PINE CT SPRINGFIELD VA 22153 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/virginia-tambone",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659311,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "VIRGINIA TAMBONE"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364939",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "ELSBETH BOWE",
+    "contactInfo": "49 CHARLES ST PENACOOK NH 03303 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/elsbeth-bowe",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659322,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "ELSBETH BOWE"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364945",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "WILLIAM DALE CORNWELL",
+    "contactInfo": "139 WHITEHURST RD CHESAPEAKE VA 23322 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/william-dale-cornwell",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659327,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "WILLIAM DALE CORNWELL"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300364948",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "overAllShipmentCount": 311286,
+          "mostRecentDate": 1714348800,
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "country": "china",
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "grossWeightInKgs": 4,
+          "grossWeightInLbs": 9,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          }
+        },
+        {
+          "name": "YAN WEN",
+          "overAllShipmentCount": 62031,
+          "mostRecentDate": 1702771200,
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "country": "china",
+          "iso": "cn",
+          "landingPageUrl": "suppliers/yan-wen",
+          "grossWeightInKgs": 1,
+          "grossWeightInLbs": 2,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          }
+        }
+      ]
+    },
+    "company": "THERESA MCKAY",
+    "totalShipments": 2,
+    "contactInfo": "4462 30TH AVE S FARGO ND 58104 US",
+    "mostRecentDate": 1702771200,
+    "url": "importers/theresa-mckay",
+    "shipments": [
+      {
+        "BillOfLading": "TZWH62404158129",
+        "GrossWeightLbs": 9,
+        "ProductDescription": [
+          "HOUSEHOLD STORAGE BOX"
+        ],
+        "EntryId": 264679418,
+        "Quantity": 1,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 4,
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "ArrivalDate": 1714348800,
+        "Consignee": {
+          "name": "THERESA MCKAY"
+        }
+      },
+      {
+        "BillOfLading": "DWCH202300364967",
+        "GrossWeightLbs": 2,
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "EntryId": 257659373,
+        "Quantity": 1,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "Shipper": {
+          "name": "YAN WEN",
+          "link": "suppliers/yan-wen"
+        },
+        "ArrivalDate": 1702771200,
+        "Consignee": {
+          "name": "THERESA MCKAY"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 3,
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "lastAddress": {
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP",
+            "shortAddress": "China"
+          },
+          "containersCount": 2,
+          "mostRecentDate": 1710892800,
+          "iso": "cn",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "grossWeightInKgs": 22,
+          "grossWeightInLbs": 48,
+          "country": "china",
+          "overAllShipmentCount": 114
+        },
+        {
+          "lastAddress": {
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN",
+            "shortAddress": "China"
+          },
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "iso": "cn",
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1,
+          "grossWeightInLbs": 2,
+          "country": "china",
+          "overAllShipmentCount": 61749
+        }
+      ]
+    },
+    "contactInfo": "1224 MOHAWK RD YATES CENTER KS 66783 US",
+    "company": "KIMBOYD",
+    "mostRecentDate": 1702771200,
+    "url": "importers/kimboyd",
+    "shipments": [
+      {
+        "BillOfLading": "DWCH24HWS0430790",
+        "ArrivalDate": 1710892800,
+        "ProductDescription": [
+          "STORAGE RACK"
+        ],
+        "Consignee": {
+          "name": "KIM BOYD"
+        },
+        "EntryId": 262421438,
+        "Shipper": {
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        },
+        "Quantity": 1,
+        "GrossWeightLbs": 24,
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 11,
+        "CountryOfOrigin": "China"
+      },
+      {
+        "BillOfLading": "DWCH24HWS0430774",
+        "ArrivalDate": 1710892800,
+        "ProductDescription": [
+          "STORAGE RACK"
+        ],
+        "Consignee": {
+          "name": "KIM BOYD"
+        },
+        "EntryId": 262421422,
+        "Shipper": {
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        },
+        "Quantity": 1,
+        "GrossWeightLbs": 24,
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 11,
+        "CountryOfOrigin": "China"
+      },
+      {
+        "BillOfLading": "DWCH202300364998",
+        "ArrivalDate": 1702771200,
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "Consignee": {
+          "name": "KIMBOYD"
+        },
+        "EntryId": 257659447,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Quantity": 1,
+        "GrossWeightLbs": 2,
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China"
+      }
+    ]
+  },
+  {
+    "company": "BETSY ROSENTHAL",
+    "contactInfo": "20344 E 41ST AVE DENVER CO 80249 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/betsy-rosenthal",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659463,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "BETSY ROSENTHAL"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300365007",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "VIRGINIA B CUSUMANO",
+    "contactInfo": "1608 SW 18TH STREET CT BLUE SPRINGS MO 64015 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/virginia-b-cusumano",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659496,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "VIRGINIA B CUSUMANO"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300365038",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "ROBERT GARRETT CO C GILMER",
+    "contactInfo": "345 RIDGE CREST TER WAYNESBORO VA 22980 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/robert-garrett-co-c-gilmer",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659509,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "ROBERT GARRETT CO C GILMER"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300365050",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "LARYTA WIGGINS",
+    "contactInfo": "5505 BANDIT DR DALLAS TX 75249 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/laryta-wiggins",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659524,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "LARYTA WIGGINS"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300365064",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "TONIANN BUSCHOW",
+    "contactInfo": "3062 GREYMOOR CIR AIKEN SC 29801 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/toniann-buschow",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659569,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "TONIANN BUSCHOW"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300365107",
+        "ProductDescription": [
+          "WATER CUP"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "INDIA MAY",
+    "contactInfo": "1430 220TH ST IONIA IA 50645 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/india-may",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659633,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "INDIA MAY"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300365170",
+        "ProductDescription": [
+          "HAT"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "PEI ZHU",
+    "contactInfo": "188 W SAINT JAMES ST UNIT 10813 SAN JOSE CA 95110 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/pei-zhu",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659661,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "PEI ZHU"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300365198",
+        "ProductDescription": [
+          "TOYS"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "LOLAS SUDS N SUCH LLC",
+    "contactInfo": "202 WALKER ST 656 ESTANCIA NM 87016 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/lolas-suds-n-such-llc",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659793,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "LOLAS SUDS N SUCH LLC"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300365277",
+        "ProductDescription": [
+          "SILICONE MOLD"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "ABELARDO",
+    "contactInfo": "12427 BLACK MESA CT LUSBY MD 20657 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/abelardo",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659886,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "ABELARDO"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300365309",
+        "ProductDescription": [
+          "DECORATE"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "YONGSI WANG",
+    "contactInfo": "3008 VIA DELORES BALDWIN PARK CA 91706 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 2,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yan-wen",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 59659,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "YANWEN LOGISTICS WAREHOUSE, BUILDIN G A1, PLOS LOGISTICS PARK, NO. 825, LONGHAI R OAD, YIWU CITY, YIWU CN YANWEN"
+          },
+          "name": "YAN WEN",
+          "grossWeightInKgs": 1
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/yongsi-wang",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2,
+        "EntryId": 257659901,
+        "Shipper": {
+          "link": "suppliers/yan-wen",
+          "name": "YAN WEN"
+        },
+        "Consignee": {
+          "name": "YONGSI WANG"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "DWCH202300365313",
+        "ProductDescription": [
+          "TOYS"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 1,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "OCASO TRADING (USD) INC.",
+    "contactInfo": "12320 BURBANK BLVD, APT 110 VALLEY VILLAGE,CA 91607 VALLEY VILLAGE CA 91607 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 1111,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/beijing-ocaso-trading-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 1,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "RM328 NO.1 YINDIAN RD, PINGGU DIS., BEIJING CHINA BEIJING CN"
+          },
+          "name": "BEIJING OCASO TRADING LTD.",
+          "grossWeightInKgs": 505
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/ocaso-trading-usd-inc",
+    "shipments": [
+      {
+        "GrossWeightLbs": 1111,
+        "EntryId": 257660382,
+        "Shipper": {
+          "link": "suppliers/beijing-ocaso-trading-ltd",
+          "name": "BEIJING OCASO TRADING LTD."
+        },
+        "Consignee": {
+          "name": "OCASO TRADING (USD) INC."
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "WLSISH23120657LB",
+        "ProductDescription": [
+          "AGAR AGAR POWDER"
+        ],
+        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 505,
+        "CountryOfOrigin": "China",
+        "Quantity": 20
+      }
+    ]
+  },
+  {
+    "company": "TIERRA CONCEPTS INC",
+    "contactInfo": "800 CALLE RUMOLO SANTA FE NM 87505 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "united kingdom",
+          "grossWeightInLbs": 220,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/design-form-inc",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 23,
+          "iso": "gb",
+          "lastAddress": {
+            "shortAddress": "United Kingdom",
+            "fullAddress": "WHITEGATE LANCASTER LA3 3BT GB"
+          },
+          "name": "DESIGN & FORM INC.",
+          "grossWeightInKgs": 100
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/tierra-concepts-inc",
+    "shipments": [
+      {
+        "GrossWeightLbs": 220,
+        "EntryId": 257660521,
+        "Shipper": {
+          "link": "suppliers/design-form-inc",
+          "name": "DESIGN & FORM INC."
+        },
+        "Consignee": {
+          "name": "TIERRA CONCEPTS INC"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "ECUWMANABQ00060",
+        "ProductDescription": [
+          "BATH HS CODE 3922100000 AMS ECUWMANABQ00060"
+        ],
+        "QuantityUnit": "PKG",
+        "GrossWeightKgs": 100,
+        "CountryOfOrigin": "United Kingdom",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "shipmentCount": 2,
+          "grossWeightInKgs": 4,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "country": "china",
+          "mostRecentDate": 1703289600,
+          "overAllShipmentCount": 5870,
+          "containersCount": 2,
+          "iso": "cn",
+          "lastAddress": {
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN",
+            "shortAddress": "China"
+          },
+          "grossWeightInLbs": 9
+        }
+      ]
+    },
+    "totalShipments": 2,
+    "company": "CHRISTOPHER P GESUALDO",
+    "contactInfo": "175 SHERWOOD LN STIRLING NJ 07980 US",
+    "mostRecentDate": 1702771200,
+    "url": "importers/christopher-p-gesualdo",
+    "shipments": [
+      {
+        "GrossWeightKgs": 1,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "CHRISTOPHER P GESUALDO"
+        },
+        "ArrivalDate": 1703289600,
+        "BillOfLading": "GWTH800002274",
+        "Quantity": 1,
+        "GrossWeightLbs": 2,
+        "EntryId": 258036533,
+        "Shipper": {
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd"
+        },
+        "ProductDescription": [
+          "HAIR BAND"
+        ],
+        "CountryOfOrigin": "China"
+      },
+      {
+        "GrossWeightKgs": 3,
+        "QuantityUnit": "PCS",
+        "Consignee": {
+          "name": "CHRISTOPHER P GESUALDO"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001349",
+        "Quantity": 1,
+        "GrossWeightLbs": 7,
+        "EntryId": 257662041,
+        "Shipper": {
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd"
+        },
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "CountryOfOrigin": "China"
+      }
+    ]
+  },
+  {
+    "company": "DREW HOLLAND",
+    "contactInfo": "33 SOUTHAMPTON DRIVE MASSAPEQUA NY 11758 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/drew-holland",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662109,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "DREW HOLLAND"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001489",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "NIDAL ABDEL RAHMAN",
+    "contactInfo": "20089 DARTMOUTH AVENUE RIVERSIDE CA 92507 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/nidal-abdel-rahman",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257662127,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "NIDAL ABDEL RAHMAN"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001455",
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "contactInfo": "515 W SPRUCE AVE INGLEWOOD CA 90301-313 US",
+    "shippers": {
+      "totalShipments": 3,
+      "items": [
+        {
+          "country": "china",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "grossWeightInKgs": 4,
+          "mostRecentDate": 1714521600,
+          "iso": "cn",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "overAllShipmentCount": 114,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "grossWeightInLbs": 9
+        },
+        {
+          "country": "china",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "1806, BUILDING 11, TIANAN YUNGU IND USTRIAL PARK PHASE II (PARCEL 02-08), GANGTOU C OMMUNITY, BANTI SHENZHEN CN SHENZHEN YI HUASHANG E-"
+          },
+          "grossWeightInKgs": 1,
+          "mostRecentDate": 1705276800,
+          "iso": "cn",
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "overAllShipmentCount": 1,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/shenzhen-yi-hua-shang-e-commerce",
+          "grossWeightInLbs": 2
+        },
+        {
+          "country": "china",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "grossWeightInKgs": 3,
+          "mostRecentDate": 1702771200,
+          "iso": "cn",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "overAllShipmentCount": 5870,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "grossWeightInLbs": 7
+        }
+      ]
+    },
+    "company": "CYNTHIA AVILA",
+    "totalShipments": 3,
+    "mostRecentDate": 1702771200,
+    "url": "importers/cynthia-avila",
+    "shipments": [
+      {
+        "GrossWeightKgs": 4,
+        "ArrivalDate": 1714521600,
+        "ProductDescription": [
+          "ARTIFICIAL TREE"
+        ],
+        "BillOfLading": "DWCH24HWS0516977",
+        "EntryId": 264810802,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 9,
+        "Shipper": {
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma"
+        },
+        "Consignee": {
+          "name": "CYNTHIA AVILA"
+        },
+        "Quantity": 1
+      },
+      {
+        "GrossWeightKgs": 1,
+        "ArrivalDate": 1705276800,
+        "ProductDescription": [
+          "PLASTIC TOYS"
+        ],
+        "BillOfLading": "DWCH202400376594",
+        "EntryId": 258952492,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 2,
+        "Shipper": {
+          "name": "SHENZHEN YI HUA SHANG E-COMMERCE",
+          "link": "suppliers/shenzhen-yi-hua-shang-e-commerce"
+        },
+        "Consignee": {
+          "name": "CYNTHIA AVILA"
+        },
+        "Quantity": 1
+      },
+      {
+        "GrossWeightKgs": 3,
+        "ArrivalDate": 1702771200,
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "BillOfLading": "GWTH800001372",
+        "EntryId": 257662177,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "China",
+        "GrossWeightLbs": 7,
+        "Shipper": {
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd"
+        },
+        "Consignee": {
+          "name": "CYNTHIA AVILA"
+        },
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "OSMELY CARDOSO",
+    "contactInfo": "1409 WINDING BROOK CIR APARTAMENTO DALLAS TX 75208 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/osmely-cardoso",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257662179,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "OSMELY CARDOSO"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001347",
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "CHRISTOPHER KWOK",
+    "contactInfo": "510 S HEWITT ST UNIT 410 LOS ANGELES CA 90013 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/christopher-kwok",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257662181,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "CHRISTOPHER KWOK"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001240",
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MICHAEL LINSTROT",
+    "contactInfo": "6601 ELIZA DR ARLINGTON TX 76001 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/michael-linstrot",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257662187,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "MICHAEL LINSTROT"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001299",
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MEDJYNE DUPICHE",
+    "contactInfo": "142 CATANIA WAY ROYAL PALM BEACH FL 33411 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/medjyne-dupiche",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257662199,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "MEDJYNE DUPICHE"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001336",
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "ZARINA BEGUM",
+    "contactInfo": "4023 W CLINTON AVE FRESNO CA 93722 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/zarina-begum",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257662224,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "ZARINA BEGUM"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001437",
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "IRAEL MONDEJA",
+    "contactInfo": "9303 TOWN PARK DR APT263 HOUSTON TX 77036 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/irael-mondeja",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257662227,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "IRAEL MONDEJA"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001378",
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "TEAL TRAN",
+    "contactInfo": "5611 COHN MEADOW HOUSTON TX 77007 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/teal-tran",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257662274,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "TEAL TRAN"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001368",
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "C GILPIN",
+    "contactInfo": "6937 SIR GALAHAD ROAD HENRICO VA 23231 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 7,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 3
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/c-gilpin",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7,
+        "EntryId": 257662284,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "C GILPIN"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001380",
+        "ProductDescription": [
+          "STORAGE BOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 3,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "AUBRI CALL",
+    "contactInfo": "916 S GOOSENEST DR PAYSON UT 84651 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/aubri-call",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662306,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "AUBRI CALL"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001948",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "YANKEL KATZ",
+    "contactInfo": "701 MONTGOMERY ST BROOKLYN NY 11213 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/yankel-katz",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662315,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "YANKEL KATZ"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001960",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "TYLA AMICKS",
+    "contactInfo": "147 W 150TH STREET HARVEY IL 60426 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/tyla-amicks",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662347,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "TYLA AMICKS"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001687",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "JIYA JACOBS",
+    "contactInfo": "837 QUEENSHIRE LANE ELGIN SC 29045 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/jiya-jacobs",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662356,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "JIYA JACOBS"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001901",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "KHADI SHERIFF",
+    "contactInfo": "440 RIVER ROAD MANCHESTER NH 3104 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/khadi-sheriff",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662390,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "KHADI SHERIFF"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001773",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "AUBRY DELUCCA",
+    "contactInfo": "616 NW 120TH ST OKLAHOMA CITY OK 73114 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/aubry-delucca",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662391,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "AUBRY DELUCCA"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001628",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "contactInfo": "1073 CALLE PILARES CHULA VISTA CA 91913-334 US",
+    "totalShipments": 2,
+    "shippers": {
+      "items": [
+        {
+          "mostRecentDate": 1711756800,
+          "shipmentCount": 1,
+          "country": "china",
+          "containersCount": 1,
+          "grossWeightInKgs": 5,
+          "overAllShipmentCount": 114,
+          "iso": "cn",
+          "landingPageUrl": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1117, BUILDING 1, YUNFENG BUIL DING, NO97 HUANZHAN EAST ROAD, JIANGGAN DISTR ICT JIANGGAN DI HANGZHOU CN HANGZHOU WELL-TRANS SUP"
+          },
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA",
+          "grossWeightInLbs": 11
+        },
+        {
+          "mostRecentDate": 1702771200,
+          "shipmentCount": 1,
+          "country": "china",
+          "containersCount": 1,
+          "grossWeightInKgs": 5,
+          "overAllShipmentCount": 5870,
+          "iso": "cn",
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInLbs": 11
+        }
+      ],
+      "totalShipments": 2
+    },
+    "company": "CELSO NUNEZ",
+    "mostRecentDate": 1702771200,
+    "url": "importers/celso-nunez",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "CELSO NUNEZ"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightKgs": 5,
+        "QuantityUnit": "PCS",
+        "Shipper": {
+          "link": "suppliers/hangzhou-well-trans-supply-chain-ma",
+          "name": "HANGZHOU WELL-TRANS SUPPLY CHAIN MA"
+        },
+        "Quantity": 1,
+        "ProductDescription": [
+          "FOLDING BOX"
+        ],
+        "ArrivalDate": 1711756800,
+        "EntryId": 262967336,
+        "GrossWeightLbs": 11,
+        "BillOfLading": "DWCH24HWS0439502"
+      },
+      {
+        "Consignee": {
+          "name": "CELSO NUNEZ"
+        },
+        "CountryOfOrigin": "China",
+        "GrossWeightKgs": 5,
+        "QuantityUnit": "PCS",
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Quantity": 1,
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "ArrivalDate": 1702771200,
+        "EntryId": 257662424,
+        "GrossWeightLbs": 11,
+        "BillOfLading": "GWTH800001521"
+      }
+    ]
+  },
+  {
+    "company": "TAHLIA CABOLONG MONTES",
+    "contactInfo": "13604 100TH AVE NE UNIT B KIRKLAND WA 98034 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/tahlia-cabolong-montes",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662472,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "TAHLIA CABOLONG MONTES"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001838",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "ALIMAMY TRAORE",
+    "contactInfo": "2024 THEBERTON TRAIL LOCUST GROVE GA 30248 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/alimamy-traore",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662478,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "ALIMAMY TRAORE"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001898",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "items": [
+        {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "country": "china",
+          "mostRecentDate": 1711324800,
+          "grossWeightInKgs": 2,
+          "landingPageUrl": "suppliers/baycheer-international-limited",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 1101B 11 F LIPPO SUN PLAZA 28 CANTON ROAD TSIM SHA TSUI KOWLOON HONGKONG HK"
+          },
+          "containersCount": 1,
+          "grossWeightInLbs": 4,
+          "shipmentCount": 1,
+          "iso": "cn",
+          "overAllShipmentCount": 94
+        },
+        {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "country": "china",
+          "mostRecentDate": 1708819200,
+          "grossWeightInKgs": 4,
+          "landingPageUrl": "suppliers/hainan-golden-shell-co-ltd",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "WORLD TRADE CENTER 2 SHIMAO EAST RO HAIKOU CN"
+          },
+          "containersCount": 1,
+          "grossWeightInLbs": 9,
+          "shipmentCount": 1,
+          "iso": "cn",
+          "overAllShipmentCount": 118761
+        },
+        {
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "country": "china",
+          "mostRecentDate": 1702771200,
+          "grossWeightInKgs": 5,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "containersCount": 1,
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "iso": "cn",
+          "overAllShipmentCount": 5870
+        }
+      ],
+      "totalShipments": 3
+    },
+    "company": "ALEXANDRA MILES",
+    "totalShipments": 3,
+    "contactInfo": "1642 NW 96TH AVE PEMBROKE PINES FL 33024 4436",
+    "mostRecentDate": 1702771200,
+    "url": "importers/alexandra-miles",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "ALEXANDRA MILES"
+        },
+        "BillOfLading": "IBCV990834456",
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "CEILING LIGHTS"
+        ],
+        "GrossWeightLbs": 4,
+        "Quantity": 1,
+        "GrossWeightKgs": 2,
+        "ArrivalDate": 1711324800,
+        "QuantityUnit": "PCS",
+        "Shipper": {
+          "name": "BAYCHEER INTERNATIONAL LIMITED",
+          "link": "suppliers/baycheer-international-limited"
+        },
+        "EntryId": 262720363
+      },
+      {
+        "Consignee": {
+          "name": "ALEXANDRA MILES"
+        },
+        "BillOfLading": "TZWH62401293129",
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "BLOUSE"
+        ],
+        "GrossWeightLbs": 9,
+        "Quantity": 1,
+        "GrossWeightKgs": 4,
+        "ArrivalDate": 1708819200,
+        "QuantityUnit": "CTN",
+        "Shipper": {
+          "name": "HAINAN GOLDEN SHELL CO., LTD.",
+          "link": "suppliers/hainan-golden-shell-co-ltd"
+        },
+        "EntryId": 261184325
+      },
+      {
+        "Consignee": {
+          "name": "ALEXANDRA MILES"
+        },
+        "BillOfLading": "GWTH800001717",
+        "CountryOfOrigin": "China",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "GrossWeightLbs": 11,
+        "Quantity": 1,
+        "GrossWeightKgs": 5,
+        "ArrivalDate": 1702771200,
+        "QuantityUnit": "PCS",
+        "Shipper": {
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd"
+        },
+        "EntryId": 257662504
+      }
+    ]
+  },
+  {
+    "company": "VASILIKI KOTSIOTAS",
+    "contactInfo": "21345 29TH AVE BAYSIDE NY 11360 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/vasiliki-kotsiotas",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662511,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "VASILIKI KOTSIOTAS"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001980",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "JODELL A HOLMAN",
+    "contactInfo": "2157 COUNTRY CLUB PARKWAY MILLIKEN CO 80543 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/jodell-a-holman",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662552,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "JODELL A HOLMAN"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001939",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "KHASIJAH ECHEVARRIA",
+    "contactInfo": "2927 NEW HOPE STREET PHILADELPHIA PA 19145 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/khasijah-echevarria",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662562,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "KHASIJAH ECHEVARRIA"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001707",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "BRENIN SHARP 1678",
+    "contactInfo": "260 COUNTRY ROAD N6725 ST JOHNS AZ 85936 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/brenin-sharp-1678",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662574,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "BRENIN SHARP 1678"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001942",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "DANIM STEPHENS",
+    "contactInfo": "1205 BUDDWOOD RD LAKELAND FL 33801 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/danim-stephens",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662602,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "DANIM STEPHENS"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001605",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "LOTRELL THOMS",
+    "contactInfo": "7833 POINT HOLLOW DRIVE RICHMOND CA 23227 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/lotrell-thoms",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662611,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "LOTRELL THOMS"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001728",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "KENNADY MITCHEM",
+    "contactInfo": "1106 BRIDGE MILL AVE CANTON GA 30114 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/kennady-mitchem",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662638,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "KENNADY MITCHEM"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001869",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "COACH TEE",
+    "contactInfo": "2630 ROSS ST HAMPSHIRE IL 60140 HAMPSHIRE IL 60140 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/coach-tee",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662641,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "COACH TEE"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001635",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "AKIBA DENSON",
+    "contactInfo": "140 MAYFIELD DR LEESBURG GA 31763 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/akiba-denson",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662642,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "AKIBA DENSON"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001739",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "YULU GAN",
+    "contactInfo": "10 PARK AVE SOMERVILLE MA 2144 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/yulu-gan",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662649,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "YULU GAN"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001571",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "MICHAEL CARRETTO",
+    "contactInfo": "10 RIDDELL CANISTEO NY 14823 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/michael-carretto",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662701,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "MICHAEL CARRETTO"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001711",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "company": "TAGARYRIUS MCCRARY",
+    "contactInfo": "15920 TREY HUGHES DR HARVEST AL 35749 US",
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "country": "china",
+          "grossWeightInLbs": 11,
+          "shipmentCount": 1,
+          "landingPageUrl": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "containersCount": 1,
+          "mostRecentDate": 1702771200,
+          "overAllShipmentCount": 3343,
+          "iso": "cn",
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "BUILDING 73 HOUER COMMUNITY JIANG YIWU SH 322099 CN"
+          },
+          "name": "YIWU JIRUN ECOMMERCE CO LTD",
+          "grossWeightInKgs": 5
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1702771200,
+    "url": "importers/tagaryrius-mccrary",
+    "shipments": [
+      {
+        "GrossWeightLbs": 11,
+        "EntryId": 257662711,
+        "Shipper": {
+          "link": "suppliers/yiwu-jirun-ecommerce-co-ltd",
+          "name": "YIWU JIRUN ECOMMERCE CO LTD"
+        },
+        "Consignee": {
+          "name": "TAGARYRIUS MCCRARY"
+        },
+        "ArrivalDate": 1702771200,
+        "BillOfLading": "GWTH800001895",
+        "ProductDescription": [
+          "TOOLBOX"
+        ],
+        "QuantityUnit": "PCS",
+        "GrossWeightKgs": 5,
+        "CountryOfOrigin": "China",
+        "Quantity": 1
+      }
+    ]
+  }
+]

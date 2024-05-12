@@ -5,6 +5,8 @@ exports.productKeyWords = [
     'door part',
     'doorpart',
     'handle',
+    // connecter
+    '830241604545',
     // 不锈钢
     'steel',
     'stainless',
@@ -21,9 +23,12 @@ exports.productKeyWords = [
     // 玻璃
     "glass",
     "glass door",
+    //玻璃夹
+    "8302410000",
     "glass clamp",
     "clamp",
     //玻璃落地弹簧
+    '8302413000',
     "floor",
     "floorspring",
     "floor-spring",
@@ -42,6 +47,9 @@ exports.productKeyWords = [
     "pullhandle",
     //手柄hscode,
     '83024200',
+    //扶手
+    '7308900000',
+    'handrail',
     //管
     "pipetube",
     "pipe tube",

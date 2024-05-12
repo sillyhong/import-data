@@ -7,14 +7,23 @@ const vm = require('vm');
 // 定义每次处理的数据数量
 const batchSize = 4;
 
-// 读取 importer/usa 目录下的所有 JSON 文件
-const directoryPath = path.join(__dirname, 'importer/usa');
+
+const country = 'usa'// 美国
+// const country = 'argentina'// 阿根廷
+
+const writeFileDir = country
+
+// 读取 importer/country 目录下的所有 JSON 文件
+const directoryPath = path.join(__dirname, `importer/${writeFileDir}`);
 let jsonFiles = fs.readdirSync(directoryPath);
 jsonFiles = jsonFiles.sort((a, b) => {
     const numberA = parseInt(a.match(/\d+/)[0]); // 提取数字部分并转换为整数
     const numberB = parseInt(b.match(/\d+/)[0]); // 提取数字部分并转换为整数
     return numberA - numberB;
 })
+
+// 获取当前文件最后一个json名字
+// const lastJsonFile = jsonFiles.length ? jsonFiles[jsonFiles.length - 1] : 0
 
 // 定义一个函数，用于处理每批次的数据
 function processDataBatch(data, startIndex, readPath) {
@@ -103,7 +112,7 @@ function processDataBatch(data, startIndex, readPath) {
 
 // 定义一个函数，用于处理所有 JSON 文件
 async function processAllJsonFiles(files, index) {
-    // if (index !== 379) {
+    // if (index !== 1) {
     //     console.log('所有数据已处理完成');
     //     return;
     // }
@@ -128,7 +137,7 @@ async function processAllJsonFiles(files, index) {
             });
 
         // 等待 3 秒
-        await new Promise(resolve => setTimeout(resolve, 2700));
+        await new Promise(resolve => setTimeout(resolve, 2500));
     }
 
     // 处理下一个 JSON 文件
@@ -136,4 +145,4 @@ async function processAllJsonFiles(files, index) {
 }
 
 // 开始处理所有 JSON 文件，从索引 0 开始
-processAllJsonFiles(jsonFiles, 1001);
+processAllJsonFiles(jsonFiles, 1801);

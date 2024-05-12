@@ -7,23 +7,57 @@ const vm = require('vm');
 //优先读取scrapeArr
 const scrapeArr = []
 
+const country = 'usa'// 美国
+// const country = 'argentina'// 阿根廷
+
+const writeFileDir = country
+// 获取当前文件最后一个json名字
+
+
+
+
+// 读取 importer/country 目录下的所有 JSON 文件
+const directoryPath = path.join(__dirname, `importer/${writeFileDir}`);
+let jsonFiles = fs.readdirSync(directoryPath);
+jsonFiles = jsonFiles.sort((a, b) => {
+    const numberA = parseInt(a.match(/\d+/)[0]); // 提取数字部分并转换为整数
+    const numberB = parseInt(b.match(/\d+/)[0]); // 提取数字部分并转换为整数
+    return numberA - numberB;
+})
+
+const lastJsonFile = jsonFiles.length ? jsonFiles[jsonFiles.length - 1] : 0
 
 // 定义要爬取的页面范围
-const startPage = 1001;
-const endPage = 1200;
+const startPage = parseInt(lastJsonFile) + 1
+const endPage = startPage + 200
+console.log('\x1b[36m%s', 'startPage123', startPage, 'endPage', endPage);
 
-
-
-const country = 'us'// 美国
+const urlPrefix = country === 'usa' ? '' : `${country}/`
 
 async function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
+}
+const getUrl = (country, pageNumber) => {
+    if (country === 'usa') {
+        // https://www.importgenius.cn/tradebase/browse/importer/latest/1
+        return `https://www.importgenius.cn/tradebase/browse/importer/latest/${pageNumber}`;
+    } else {
+        // https://www.importgenius.cn/argentina/tradebase/importer/latest/1
+        return `https://www.importgenius.cn/${urlPrefix}tradebase/importer/latest/${pageNumber}`;
+
+    }
+
+}
+
+const countryMap = {
+    'usa': 'us',
+    'argentina': 'argentina'
 }
 
 // 定义爬取函数
 async function scrapePage(pageNumber) {
     try {
-        const url = `https://www.importgenius.cn/tradebase/browse/importer/latest/${pageNumber}`;
+        const url = getUrl(country, pageNumber)
         console.log('\x1b[36m%s', 'url123', url);
         const response = await axios.get(url);
         const html = response.data;
@@ -53,7 +87,7 @@ async function scrapePage(pageNumber) {
                     // 输出 window.__NUXT__ 的值
                     // console.log('window.__NUXT__ 的值为:', nuxtData.state.tradebase.traders[country].importers[pageNumber]);
                     // window.__NUXT__.state.tradebase.traders.us.importers[134]
-                    importerData = nuxtData.state.tradebase.traders[country].importers[pageNumber]
+                    importerData = nuxtData.state.tradebase.traders[countryMap[country]].importers[pageNumber]
                     return false; // 结束循环
                 }
             }
@@ -68,8 +102,8 @@ async function scrapePage(pageNumber) {
             return item
         })
         // 写入数据到文件
-        const writhPath = path.join(__dirname, `importer/usa/${pageNumber}.json`)
-        console.log('\x1b[36m%s', 'writhPath123', `importer/usa/${pageNumber}.json`);
+        const writhPath = path.join(__dirname, `importer/${writeFileDir}/${pageNumber}.json`)
+        console.log('\x1b[36m%s', 'writhPath123', `importer/${writeFileDir}/${pageNumber}.json`);
         fs.writeFileSync(writhPath, JSON.stringify(importerData));
 
         console.log(`Page ${pageNumber} scraped successfully.`);

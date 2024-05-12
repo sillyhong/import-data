@@ -22,8 +22,8 @@ async function main() {
         for (const file of files) {
             const filePath = `${jsonFilesPath}/${file}`;
             const fileNumber = parseInt(file)
-            if (fileNumber <= 700) continue
-            console.log('\x1b[36m%s', 'filePath123', filePath);
+            if (fileNumber <= 1801) continue
+            // console.log('\x1b[36m%s', 'filePath123', filePath);
 
             const data = await fs.readFile(filePath, 'utf8');
             const jsonData = JSON.parse(data);

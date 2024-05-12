@@ -1,0 +1,6546 @@
+[
+  {
+    "shippers": {
+      "totalShipments": 9,
+      "items": [
+        {
+          "landingPageUrl": "suppliers/rosanna-austin",
+          "shipmentCount": 2,
+          "grossWeightInKgs": 556,
+          "name": "ROSANNA AUSTIN",
+          "containersCount": 2,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "208-2739 VICTORIA AVE.             \n                                   \nTORONTO ON  CA                     \n                                   "
+          },
+          "grossWeightInLbs": 1222,
+          "iso": "ca",
+          "mostRecentDate": 1290297600,
+          "overAllShipmentCount": 4,
+          "country": "canada"
+        },
+        {
+          "landingPageUrl": "suppliers/kenneth-austin",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 1682,
+          "name": "KENNETH AUSTIN",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "Turks Is",
+            "fullAddress": "8 DOLPHIN LANE PROVIDENCIALES"
+          },
+          "grossWeightInLbs": 3700,
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 10,
+          "country": "turks is"
+        },
+        {
+          "landingPageUrl": "suppliers/cnc-global-holdings-co-ltd",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 2,
+          "name": "CNC GLOBAL HOLDINGS CO., LTD",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "JINBI INDUSTRY HANGCHENG ST SHENZHEN CN"
+          },
+          "grossWeightInLbs": 4,
+          "iso": "cn",
+          "mostRecentDate": 1674604800,
+          "overAllShipmentCount": 15340,
+          "country": "china"
+        },
+        {
+          "landingPageUrl": "suppliers/ester-austin",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 114,
+          "name": "ESTER AUSTIN",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "2821 BIRCHMOUNT RD SCAR ON CA"
+          },
+          "grossWeightInLbs": 250,
+          "iso": "ca",
+          "mostRecentDate": 1673568000,
+          "overAllShipmentCount": 1,
+          "country": "canada"
+        },
+        {
+          "landingPageUrl": "suppliers/wallenius-wilhelmsen",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 5823,
+          "name": "WALLENIUS WILHELMSEN",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "United Kingdom",
+            "fullAddress": "4-12 TEAMINUS TERRACE SOUTHHAMPTON, HAMPS GB \n"
+          },
+          "grossWeightInLbs": 12810,
+          "iso": "gb",
+          "mostRecentDate": 1411689600,
+          "overAllShipmentCount": 15991,
+          "country": "united kingdom"
+        },
+        {
+          "landingPageUrl": "suppliers/rosanna-osten",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 318,
+          "name": "ROSANNA OSTEN",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "28 VICTORIA PARK                   \nSCARBOROUGH ON                     \n CA                                \n                                   "
+          },
+          "grossWeightInLbs": 700,
+          "iso": "ca",
+          "mostRecentDate": 1322784000,
+          "overAllShipmentCount": 2,
+          "country": "canada"
+        },
+        {
+          "shipmentCount": 1,
+          "grossWeightInKgs": 80,
+          "name": "N/A",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "United Kingdom",
+            "fullAddress": "FLAT 15, 208 PLYMOUTH GRIVE        PLYMOUUTH VILLAGE                                                     TEL:0161 343 3458 FAX:0161 343 3458"
+          },
+          "grossWeightInLbs": 176,
+          "iso": "gb",
+          "mostRecentDate": 1222560000,
+          "country": "united kingdom"
+        },
+        {
+          "landingPageUrl": "suppliers/rosana-austin",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 119,
+          "name": "ROSANA AUSTIN",
+          "containersCount": 0,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "208-2739 VICTORIA PK               SCARBOROUGH ON M1T1A7               CA                                                                   "
+          },
+          "grossWeightInLbs": 261,
+          "iso": "ca",
+          "mostRecentDate": 1165622400,
+          "overAllShipmentCount": 1,
+          "country": "canada"
+        }
+      ]
+    },
+    "contactInfo": "11405 4TH STREET E TREASURE ISLAND FL 33706",
+    "totalShipments": 9,
+    "company": "KENNETH AUSTIN",
+    "mostRecentDate": 1700784000,
+    "url": "importers/kenneth-austin",
+    "shipments": [
+      {
+        "EntryId": 256541472,
+        "ArrivalDate": 1700784000,
+        "Quantity": 6,
+        "Shipper": {
+          "link": "suppliers/kenneth-austin",
+          "name": "KENNETH AUSTIN"
+        },
+        "BillOfLading": "SILJPDTPEV002150",
+        "GrossWeightKgs": 1682,
+        "ProductDescription": [
+          "PERSONAL EFFECTS DOB 02/22/1979 PASSPORT GC574070"
+        ],
+        "Consignee": {
+          "name": "KENNETH AUSTIN"
+        },
+        "GrossWeightLbs": 3700,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "Turks Is"
+      },
+      {
+        "EntryId": 241620783,
+        "ArrivalDate": 1674604800,
+        "Quantity": 1,
+        "Shipper": {
+          "link": "suppliers/cnc-global-holdings-co-ltd",
+          "name": "CNC GLOBAL HOLDINGS CO., LTD"
+        },
+        "BillOfLading": "JCSMCNC230109452",
+        "GrossWeightKgs": 2,
+        "ProductDescription": [
+          "DWARF II SMART TELESCOPE"
+        ],
+        "Consignee": {
+          "name": "KENNETH AUSTIN"
+        },
+        "GrossWeightLbs": 4,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "China"
+      },
+      {
+        "EntryId": 240995626,
+        "ArrivalDate": 1673568000,
+        "Quantity": 2,
+        "Shipper": {
+          "link": "suppliers/ester-austin",
+          "name": "ESTER AUSTIN"
+        },
+        "BillOfLading": "TSCWM23124",
+        "GrossWeightKgs": 114,
+        "ProductDescription": [
+          "FLOUR, SUGAR, RICE"
+        ],
+        "Consignee": {
+          "name": "KENNETH AUSTIN"
+        },
+        "GrossWeightLbs": 250,
+        "QuantityUnit": "UNT",
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "EntryId": 104119887,
+        "ArrivalDate": 1411689600,
+        "Quantity": 11,
+        "Shipper": {
+          "link": "suppliers/wallenius-wilhelmsen",
+          "name": "WALLENIUS WILHELMSEN"
+        },
+        "BillOfLading": "PSGPYBCA0024051",
+        "GrossWeightKgs": 5823,
+        "ProductDescription": [
+          "DOD HOUSEHOLD GOODS",
+          ""
+        ],
+        "Consignee": {
+          "name": "KENNETH AUSTIN"
+        },
+        "GrossWeightLbs": 12810,
+        "QuantityUnit": "BOX",
+        "CountryOfOrigin": "United Kingdom"
+      },
+      {
+        "EntryId": 63943248,
+        "ArrivalDate": 1322784000,
+        "Quantity": 2,
+        "Shipper": {
+          "link": "suppliers/rosanna-osten",
+          "name": "ROSANNA OSTEN"
+        },
+        "BillOfLading": "TSCWG111128     ",
+        "GrossWeightKgs": 318,
+        "ProductDescription": [
+          "DRIED SOUPS/BROTHS & PREP THRFRICE, FLOUR, SUGAR, CAN SOUP, VEGGIES"
+        ],
+        "Consignee": {
+          "name": "KENNETH AUSTIN"
+        },
+        "GrossWeightLbs": 700,
+        "QuantityUnit": "PCS  ",
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "EntryId": 50121897,
+        "ArrivalDate": 1290297600,
+        "Quantity": 4,
+        "Shipper": {
+          "link": "suppliers/rosanna-austin",
+          "name": "ROSANNA AUSTIN"
+        },
+        "BillOfLading": "TSCWG10794      ",
+        "GrossWeightKgs": 278,
+        "ProductDescription": [
+          "DRIED SOUPS/BROTHS & PREP THRFCAN SOUP, VEGGIES, CLOTHING."
+        ],
+        "Consignee": {
+          "name": "KENNETH AUSTIN"
+        },
+        "GrossWeightLbs": 611,
+        "QuantityUnit": "PCE  ",
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "EntryId": 50121896,
+        "ArrivalDate": 1290297600,
+        "Quantity": 4,
+        "Shipper": {
+          "link": "suppliers/rosanna-austin",
+          "name": "ROSANNA AUSTIN"
+        },
+        "BillOfLading": "TSCWG10793      ",
+        "GrossWeightKgs": 278,
+        "ProductDescription": [
+          "DRIED SOUPS/BROTHS & PREP THRFCAN SOUP, VEGGIES, CLOTHING."
+        ],
+        "Consignee": {
+          "name": "KENNETH AUSTIN"
+        },
+        "GrossWeightLbs": 611,
+        "QuantityUnit": "PCE  ",
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "EntryId": 23803754,
+        "ArrivalDate": 1222560000,
+        "Quantity": 2,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "BillOfLading": "SAIJMIJ76230    ",
+        "GrossWeightKgs": 80,
+        "ProductDescription": [
+          "PERSONAL EFFECTS ",
+          ""
+        ],
+        "Consignee": {
+          "name": "KENNETH AUSTIN"
+        },
+        "GrossWeightLbs": 176,
+        "QuantityUnit": "CAS  ",
+        "CountryOfOrigin": "United Kingdom"
+      },
+      {
+        "EntryId": 4445071,
+        "ArrivalDate": 1165622400,
+        "Quantity": 2,
+        "Shipper": {
+          "link": "suppliers/rosana-austin",
+          "name": "ROSANA AUSTIN"
+        },
+        "BillOfLading": "TSCWM06671      ",
+        "GrossWeightKgs": 119,
+        "ProductDescription": [
+          " DRIED SOUPS/BROTHS & PREP THRF               21041000000  CAN SOUPS AND VEGGIES"
+        ],
+        "Consignee": {
+          "name": "KENNETH AUSTIN"
+        },
+        "GrossWeightLbs": 261,
+        "QuantityUnit": "PCE  ",
+        "CountryOfOrigin": "Canada"
+      }
+    ]
+  },
+  {
+    "contactInfo": "7875 HEMLOCK AVE UNIT 102 FONTANA CA 92336 US",
+    "totalShipments": 241,
+    "company": "ESHIPPING DISTRIBUTION",
+    "shippers": {
+      "items": [
+        {
+          "name": "N/A",
+          "grossWeightInLbs": 32300720,
+          "containersCount": 791,
+          "mostRecentDate": 1669939200,
+          "iso": "de",
+          "shipmentCount": 92,
+          "country": "germany",
+          "grossWeightInKgs": 14682143,
+          "lastAddress": {
+            "fullAddress": "BURG GRETESCH 49086 OSNABRUECK GERMANY",
+            "shortAddress": "Germany"
+          }
+        },
+        {
+          "name": "N/A",
+          "grossWeightInLbs": 2180997,
+          "containersCount": 51,
+          "mostRecentDate": 1684281600,
+          "iso": "de",
+          "shipmentCount": 36,
+          "country": "germany",
+          "grossWeightInKgs": 991365,
+          "lastAddress": {
+            "fullAddress": "-NOT AVAILABLE-",
+            "shortAddress": "Germany"
+          }
+        },
+        {
+          "name": "NINGBO SUNTIME GARDEN FURNITURE CO.",
+          "grossWeightInLbs": 815262,
+          "containersCount": 33,
+          "mostRecentDate": 1712707200,
+          "iso": "cn",
+          "shipmentCount": 19,
+          "landingPageUrl": "suppliers/ningbo-suntime-garden-furniture-co",
+          "grossWeightInKgs": 370573,
+          "country": "china",
+          "overAllShipmentCount": 42,
+          "lastAddress": {
+            "fullAddress": "XINFU VILLAGE, SANQISHI TOWN, YUYAO CN HELEN ZHANG",
+            "shortAddress": "China"
+          }
+        },
+        {
+          "name": "QINGDAO JEMAR POWER EQUIPMENT CO",
+          "grossWeightInLbs": 2256484,
+          "containersCount": 62,
+          "mostRecentDate": 1713830400,
+          "iso": "cn",
+          "shipmentCount": 18,
+          "landingPageUrl": "suppliers/qingdao-jemar-power-equipment-co",
+          "grossWeightInKgs": 1025675,
+          "country": "china",
+          "overAllShipmentCount": 381,
+          "lastAddress": {
+            "fullAddress": "CO., LTD .RM2407 ZHONGSHANG MANSI ON,#100 HONGKONG MID. ROAD QINGDAO CHINA",
+            "shortAddress": "China"
+          }
+        },
+        {
+          "name": "CLASSEN INTERNATIONAL GMBH",
+          "grossWeightInLbs": 2361262,
+          "containersCount": 45,
+          "mostRecentDate": 1708732800,
+          "iso": "de",
+          "shipmentCount": 17,
+          "landingPageUrl": "suppliers/classen-international-gmbh",
+          "grossWeightInKgs": 1073300,
+          "country": "germany",
+          "overAllShipmentCount": 5482,
+          "lastAddress": {
+            "fullAddress": "WERNER VON SIEMENS STR. 18 20,, KAISERSESCH, D-56759, GERMANY",
+            "shortAddress": "Germany"
+          }
+        },
+        {
+          "name": "QINGDAO JEMAR POWER EQUIPMENT CO.,L",
+          "grossWeightInLbs": 886467,
+          "containersCount": 28,
+          "mostRecentDate": 1708041600,
+          "iso": "cn",
+          "shipmentCount": 13,
+          "landingPageUrl": "suppliers/qingdao-jemar-power-equipment-co-l",
+          "grossWeightInKgs": 402939,
+          "country": "china",
+          "overAllShipmentCount": 42,
+          "lastAddress": {
+            "fullAddress": "RM2407 ZHONGSHANG MANSION, #100 HONGKONG MID. ROAD QINGDAO CHI NA QINGDAO CN KELLY",
+            "shortAddress": "China"
+          }
+        },
+        {
+          "name": "NINGBO AIFEITE TOOLS CO.,LTD",
+          "grossWeightInLbs": 523509,
+          "containersCount": 13,
+          "mostRecentDate": 1714608000,
+          "iso": "cn",
+          "shipmentCount": 13,
+          "landingPageUrl": "suppliers/ningbo-aifeite-tools-co-ltd",
+          "grossWeightInKgs": 237959,
+          "country": "china",
+          "overAllShipmentCount": 65,
+          "lastAddress": {
+            "fullAddress": "NO.68 FENGYI ROAD, ECONOMIC DEVELOP MENT ZONE HAISHU DISTRICT NINGBO CN ANNIE",
+            "shortAddress": "China"
+          }
+        },
+        {
+          "name": "HEAVEN+EARTH",
+          "grossWeightInLbs": 226502,
+          "containersCount": 7,
+          "mostRecentDate": 1693872000,
+          "iso": "cn",
+          "shipmentCount": 6,
+          "landingPageUrl": "suppliers/heaven-earth",
+          "grossWeightInKgs": 102955,
+          "country": "china",
+          "overAllShipmentCount": 66,
+          "lastAddress": {
+            "fullAddress": "KIBBUTZ KADARIM HAIFA IL EM KIMLTAYLOR@HOTMAIL.COM",
+            "shortAddress": "China"
+          }
+        },
+        {
+          "name": "COCREATION GRASS(HONGKONG)",
+          "grossWeightInLbs": 92400,
+          "containersCount": 6,
+          "mostRecentDate": 1622505600,
+          "shipmentCount": 6,
+          "landingPageUrl": "suppliers/cocreation-grass-hongkong",
+          "grossWeightInKgs": 42000,
+          "country": "vietnam",
+          "overAllShipmentCount": 1,
+          "lastAddress": {
+            "fullAddress": "UNIT 2, (S) LG1, MIRROR TOWER, 61 MODY ROAD TSIM SHA TSUI KOWLOON HK",
+            "shortAddress": "Vietnam"
+          }
+        },
+        {
+          "name": "CERVE SPA",
+          "grossWeightInLbs": 10307,
+          "containersCount": 3,
+          "mostRecentDate": 1625011200,
+          "iso": "it",
+          "shipmentCount": 3,
+          "landingPageUrl": "suppliers/cerve-spa",
+          "grossWeightInKgs": 4685,
+          "country": "italy",
+          "overAllShipmentCount": 124,
+          "lastAddress": {
+            "fullAddress": "VIA XXV APRILE, 6 - 43056 S.POLO DI TORRILE (PR) IT",
+            "shortAddress": "Italy"
+          }
+        }
+      ],
+      "totalShipments": 241
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/eshipping-distribution",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "ESHIPPING DISTRIBUTION"
+        },
+        "BillOfLading": "MFGTNBLGB4761541",
+        "Shipper": {
+          "name": "NINGBO AIFEITE TOOLS CO.,LTD",
+          "link": "suppliers/ningbo-aifeite-tools-co-ltd"
+        },
+        "GrossWeightLbs": 42643,
+        "GrossWeightKgs": 19383,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "TABLE TOPROUTER GUIDENGX CLAMP EDGEMITERIX"
+        ],
+        "ArrivalDate": 1714608000,
+        "Quantity": 1806,
+        "EntryId": 264851347
+      },
+      {
+        "Consignee": {
+          "name": "ESHIPPING DISTRIBUTION"
+        },
+        "BillOfLading": "HNLTQD24A01255",
+        "Shipper": {
+          "name": "QINGDAO JEMAR POWER EQUIPMENT CO",
+          "link": "suppliers/qingdao-jemar-power-equipment-co"
+        },
+        "GrossWeightLbs": 240324,
+        "GrossWeightKgs": 109238,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "PM-3245 BORA MOBILE BASE EXTENSION (PM3500)",
+          "PM-3245 BORA MOBILE BASE EXTENSION (PM3500)",
+          "PM-3245 BORA MOBILE BASE EXTENSION (PM3500)",
+          "PM-3245 BORA MOBILE BASE EXTENSION (PM3500)",
+          "PM-3245 BORA MOBILE BASE EXTENSION (PM3500)",
+          "PM-3245 BORA MOBILE BASE EXTENSION (PM3500)",
+          "PM-3245 BORA MOBILE BASE EXTENSION (PM3500)"
+        ],
+        "ArrivalDate": 1713830400,
+        "Quantity": 8451,
+        "EntryId": 264327459
+      },
+      {
+        "Consignee": {
+          "name": "ESHIPPING DISTRIBUTION"
+        },
+        "BillOfLading": "MFGTNBLGB4749964",
+        "Shipper": {
+          "name": "NINGBO SUNTIME GARDEN FURNITURE CO.",
+          "link": "suppliers/ningbo-suntime-garden-furniture-co"
+        },
+        "GrossWeightLbs": 21050,
+        "GrossWeightKgs": 9568,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "SAWHORSECENTIPEDE 2PC DOUBLE P-TOP"
+        ],
+        "ArrivalDate": 1712707200,
+        "Quantity": 953,
+        "EntryId": 263529254
+      },
+      {
+        "Consignee": {
+          "name": "ESHIPPING DISTRIBUTION"
+        },
+        "BillOfLading": "MFGTNBLGB4744863",
+        "Shipper": {
+          "name": "NINGBO SUNTIME GARDEN FURNITURE CO.",
+          "link": "suppliers/ningbo-suntime-garden-furniture-co"
+        },
+        "GrossWeightLbs": 44561,
+        "GrossWeightKgs": 20255,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "SAWHORSE /CARRY STRAP",
+          "SAWHORSE /CARRY STRAP"
+        ],
+        "ArrivalDate": 1712016000,
+        "Quantity": 2017,
+        "EntryId": 263087567
+      },
+      {
+        "Consignee": {
+          "name": "ESHIPPING DISTRIBUTION"
+        },
+        "BillOfLading": "HNLTQD24A00840",
+        "Shipper": {
+          "name": "QINGDAO JEMAR POWER EQUIPMENT CO",
+          "link": "suppliers/qingdao-jemar-power-equipment-co"
+        },
+        "GrossWeightLbs": 254850,
+        "GrossWeightKgs": 115841,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "PM-4550T BORA ADJUSTABLE SPEEDHORSE XT-TWO",
+          "PM-4550T BORA ADJUSTABLE SPEEDHORSE XT-TWO",
+          "PM-4550T BORA ADJUSTABLE SPEEDHORSE XT-TWO",
+          "PM-4550T BORA ADJUSTABLE SPEEDHORSE XT-TWO",
+          "PM-4550T BORA ADJUSTABLE SPEEDHORSE XT-TWO",
+          "PM-4550T BORA ADJUSTABLE SPEEDHORSE XT-TWO",
+          "PM-4550T BORA ADJUSTABLE SPEEDHORSE XT-TWO"
+        ],
+        "ArrivalDate": 1711411200,
+        "Quantity": 8500,
+        "EntryId": 262691881
+      },
+      {
+        "Consignee": {
+          "name": "ESHIPPING DISTRIBUTION"
+        },
+        "BillOfLading": "MFGTNBLGB4724487",
+        "Shipper": {
+          "name": "NINGBO SUNTIME GARDEN FURNITURE CO.",
+          "link": "suppliers/ningbo-suntime-garden-furniture-co"
+        },
+        "GrossWeightLbs": 30593,
+        "GrossWeightKgs": 13906,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "SAWHORSE"
+        ],
+        "ArrivalDate": 1711152000,
+        "Quantity": 964,
+        "EntryId": 262587897
+      },
+      {
+        "Consignee": {
+          "name": "ESHIPPING DISTRIBUTION"
+        },
+        "BillOfLading": "HNLTQD24A00390",
+        "Shipper": {
+          "name": "QINGDAO JEMAR POWER EQUIPMENT CO",
+          "link": "suppliers/qingdao-jemar-power-equipment-co"
+        },
+        "GrossWeightLbs": 191488,
+        "GrossWeightKgs": 87040,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "PM-4000 BORA MITER SAW STAND PM-3245 BORA",
+          "PM-4000 BORA MITER SAW STAND PM-3245 BORA",
+          "PM-4000 BORA MITER SAW STAND PM-3245 BORA",
+          "PM-4000 BORA MITER SAW STAND PM-3245 BORA",
+          "PM-4000 BORA MITER SAW STAND PM-3245 BORA",
+          "PM-4000 BORA MITER SAW STAND PM-3245 BORA"
+        ],
+        "ArrivalDate": 1709251200,
+        "Quantity": 4580,
+        "EntryId": 261437067
+      },
+      {
+        "Consignee": {
+          "name": "E SHIPPING DISTRIBUTION"
+        },
+        "BillOfLading": "CMDUHBG1825173",
+        "Shipper": {
+          "name": "CLASSEN INTERNATIONAL GMBH",
+          "link": "suppliers/classen-international-gmbh"
+        },
+        "GrossWeightLbs": 123994,
+        "GrossWeightKgs": 56361,
+        "CountryOfOrigin": "Belgium",
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "2ND NOTIFY:ESHIPPING, LLC 10812 NW HIGHWAY, 64152,US,PARKVILLE ,AMCGINNESS ESHIPPING.BIZ ADDITIONAL NOTIFY:DAMCO CUSTOMS SERVICES INC AVE 180 US,07932,FLORHAM PARK, CLASSENCHB LNS.MAERSK.COM FREIGHT PREPAID LAMINATE FLOORING",
+          "LAMINATED FLOORING"
+        ],
+        "ArrivalDate": 1708732800,
+        "Quantity": 60,
+        "EntryId": 261138093
+      },
+      {
+        "Consignee": {
+          "name": "ESHIPPING DISTRIBUTION"
+        },
+        "BillOfLading": "MFGTNBLGB4700646",
+        "Shipper": {
+          "name": "NINGBO AIFEITE TOOLS CO.,LTD",
+          "link": "suppliers/ningbo-aifeite-tools-co-ltd"
+        },
+        "GrossWeightLbs": 42638,
+        "GrossWeightKgs": 19381,
+        "CountryOfOrigin": "China",
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "TABLE TOPNGX QUICK CONNECT SUBASSEMBLY,QUICK TWIST LOCK FOR CK22T/CK22TM"
+        ],
+        "ArrivalDate": 1708560000,
+        "Quantity": 824,
+        "EntryId": 261009994
+      },
+      {
+        "Consignee": {
+          "name": "E SHIPPING DISTRIBUTION"
+        },
+        "BillOfLading": "CMDUHBG1825291",
+        "Shipper": {
+          "name": "CLASSEN INTERNATIONAL GMBH",
+          "link": "suppliers/classen-international-gmbh"
+        },
+        "GrossWeightLbs": 123801,
+        "GrossWeightKgs": 56273,
+        "CountryOfOrigin": "Germany",
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "LAMINATE FLOORING",
+          "LAMINATE FLOORING TOTAL PKGS 63 PK SHIPPER REF: 11065400 2ND NOTIFY:ESHIPPING, LLC 10812 NW HIGHWAY 45PARKVILLE, MO 64152 EMAIL: INTL ESHIPPING.BIZ816-548-3775 ADDITIONAL NOTIFY:DAMCO CUSTOMS SERVICES INC, AVE 180 ,US,07932,FLORHAM PARK, CLASSENCHB LNS.MAERSK.COM FREIGHT PREPAID"
+        ],
+        "ArrivalDate": 1708473600,
+        "Quantity": 63,
+        "EntryId": 260943977
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "SUBURBAN REMOVAL",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "china",
+          "shipmentCount": 1,
+          "name": "HOLLEE FASHIONAL CO.,LTD.",
+          "mostRecentDate": 1700784000,
+          "iso": "cn",
+          "grossWeightInKgs": 7736,
+          "landingPageUrl": "suppliers/hollee-fashional-co-ltd",
+          "overAllShipmentCount": 862,
+          "grossWeightInLbs": 17019,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "14F BUILDING A ZHONGLIANG PLAZA NO. 345 YOUYI NORTH ST.,SHIJIAZHUANG SHIJIAZHUANG CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "TRANSPORT SERVICE INC VA 23231 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/suburban-removal",
+    "shipments": [
+      {
+        "GrossWeightLbs": 17019,
+        "Quantity": 906,
+        "EntryId": 256437041,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 7736,
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "UNDERGARMENTS COVERALL GLOVES BAGS . ."
+        ],
+        "CountryOfOrigin": "China",
+        "BillOfLading": "OSTITJORF2390067",
+        "Shipper": {
+          "name": "HOLLEE FASHIONAL CO.,LTD.",
+          "link": "suppliers/hollee-fashional-co-ltd"
+        },
+        "Consignee": {
+          "name": "SUBURBAN REMOVAL"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "DAHL GLASS",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "china",
+          "shipmentCount": 1,
+          "name": "EFFICIENT GLASS LIMITED",
+          "mostRecentDate": 1700784000,
+          "iso": "cn",
+          "grossWeightInKgs": 16200,
+          "landingPageUrl": "suppliers/efficient-glass-limited",
+          "overAllShipmentCount": 476,
+          "grossWeightInLbs": 35640,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "ROOM 2105 QD5029 TREND CENTRE 29-31 CHEUNG LEE STREET CHAI WAN HONG KON G80977715"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "26285 TWELVE TREES LANE NW SUITE 10 7, POULSBO, WA98370, USA .",
+    "mostRecentDate": 1700784000,
+    "url": "importers/dahl-glass",
+    "shipments": [
+      {
+        "GrossWeightLbs": 35640,
+        "Quantity": 10,
+        "EntryId": 256444848,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 16200,
+        "QuantityUnit": "CRT",
+        "ProductDescription": [
+          "TEMPERED GLASS AS PER ORDER DG-SHOWER GLASS"
+        ],
+        "CountryOfOrigin": "China",
+        "BillOfLading": "SYLCQDSE23100030",
+        "Shipper": {
+          "name": "EFFICIENT GLASS LIMITED",
+          "link": "suppliers/efficient-glass-limited"
+        },
+        "Consignee": {
+          "name": "DAHL GLASS"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "DL HOME FURNISHINGS INC.",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "hong kong",
+          "shipmentCount": 1,
+          "name": "N/A",
+          "mostRecentDate": 1700784000,
+          "grossWeightInKgs": 3433,
+          "iso": "hk",
+          "grossWeightInLbs": 7553,
+          "lastAddress": {
+            "shortAddress": "Hong Kong",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "318 8TH STREET SOUTH BRECKENRIDGE MN 56520 UNITED STATES",
+    "mostRecentDate": 1700784000,
+    "url": "importers/dl-home-furnishings-inc",
+    "shipments": [
+      {
+        "GrossWeightLbs": 7553,
+        "Quantity": 62,
+        "EntryId": 256445590,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 3433,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "FURNITURE SOFA"
+        ],
+        "CountryOfOrigin": "Hong Kong",
+        "BillOfLading": "COSU6366895570",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "Consignee": {
+          "name": "DL HOME FURNISHINGS INC."
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "CAPELLI PLUMBING",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "china",
+          "shipmentCount": 1,
+          "name": "SHANDONG HIGHTOP GROUP",
+          "mostRecentDate": 1700784000,
+          "iso": "cn",
+          "grossWeightInKgs": 900,
+          "landingPageUrl": "suppliers/shandong-hightop-group",
+          "overAllShipmentCount": 406,
+          "grossWeightInLbs": 1980,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "EAST OF YINGCUI ROAD ,SOUTH HUOJU INDUSTRIAL PARK HIGH TECH ZONE JINING 272000 CN"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "544 LEWELLING BLVD SAN LEANDRO CA 94579 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/capelli-plumbing",
+    "shipments": [
+      {
+        "GrossWeightLbs": 1980,
+        "Quantity": 1,
+        "EntryId": 256449572,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 900,
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "MINI EXCAVATOR"
+        ],
+        "CountryOfOrigin": "China",
+        "BillOfLading": "NAQAGOAK3237771V",
+        "Shipper": {
+          "name": "SHANDONG HIGHTOP GROUP",
+          "link": "suppliers/shandong-hightop-group"
+        },
+        "Consignee": {
+          "name": "CAPELLI PLUMBING"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 5,
+    "shippers": {
+      "items": [
+        {
+          "lastAddress": {
+            "fullAddress": "RM501, NO.61 JUYUANZHOU INDUSTRIA LZONE, NO.618 JINSHAN ROAD, CANGSHA FUZHOU CN",
+            "shortAddress": "South Korea"
+          },
+          "grossWeightInLbs": 117298,
+          "iso": "kr",
+          "overAllShipmentCount": 146,
+          "mostRecentDate": 1709424000,
+          "name": "FUZHOU HYMAN HOSPITALITY CO LTD",
+          "grossWeightInKgs": 53317,
+          "containersCount": 6,
+          "landingPageUrl": "suppliers/fuzhou-hyman-hospitality-co-ltd",
+          "country": "south korea",
+          "shipmentCount": 5
+        }
+      ],
+      "totalShipments": 5
+    },
+    "company": "SHREE LAKSHMI KRUPA LLC",
+    "contactInfo": "1381 WEST FAIRWAY DRIVE.GULF SHORE S, AL 36542 GULF SHORES AL US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/shree-lakshmi-krupa-llc",
+    "shipments": [
+      {
+        "Quantity": 40,
+        "CountryOfOrigin": "China",
+        "BillOfLading": "SFOKHT24010504",
+        "EntryId": 261483559,
+        "GrossWeightLbs": 5317,
+        "ProductDescription": [
+          "WOODEN FURNITURE PVC CORNER GUARD"
+        ],
+        "ArrivalDate": 1709424000,
+        "Consignee": {
+          "name": "SHREE LAKSHMI KRUPA LLC"
+        },
+        "GrossWeightKgs": 2417,
+        "Shipper": {
+          "name": "FUZHOU HYMAN HOSPITALITY CO LTD",
+          "link": "suppliers/fuzhou-hyman-hospitality-co-ltd"
+        },
+        "QuantityUnit": "PKG"
+      },
+      {
+        "Quantity": 82,
+        "CountryOfOrigin": "China",
+        "BillOfLading": "SFOKHT23114667",
+        "EntryId": 259210005,
+        "GrossWeightLbs": 23305,
+        "ProductDescription": [
+          "WOODEN FURNITURE SOFA PORCELAIN TILE CULTURE ."
+        ],
+        "ArrivalDate": 1705708800,
+        "Consignee": {
+          "name": "SHREE LAKSHMI KRUPA LLC"
+        },
+        "GrossWeightKgs": 10593,
+        "Shipper": {
+          "name": "FUZHOU HYMAN HOSPITALITY CO LTD",
+          "link": "suppliers/fuzhou-hyman-hospitality-co-ltd"
+        },
+        "QuantityUnit": "PKG"
+      },
+      {
+        "Quantity": 209,
+        "CountryOfOrigin": "China",
+        "BillOfLading": "SFOKHT23114129",
+        "EntryId": 258599610,
+        "GrossWeightLbs": 17930,
+        "ProductDescription": [
+          "WOODEN FURNITURE SOFA CULTURE MARBLES ROLLER ."
+        ],
+        "ArrivalDate": 1704672000,
+        "Consignee": {
+          "name": "SHREE LAKSHMI KRUPA LLC"
+        },
+        "GrossWeightKgs": 8150,
+        "Shipper": {
+          "name": "FUZHOU HYMAN HOSPITALITY CO LTD",
+          "link": "suppliers/fuzhou-hyman-hospitality-co-ltd"
+        },
+        "QuantityUnit": "PKG"
+      },
+      {
+        "Quantity": 395,
+        "CountryOfOrigin": "China",
+        "BillOfLading": "SFOKNGB23102191",
+        "EntryId": 256452383,
+        "GrossWeightLbs": 24033,
+        "ProductDescription": [
+          "WOODEN FURNITURE SOFA"
+        ],
+        "ArrivalDate": 1700784000,
+        "Consignee": {
+          "name": "SHREE LAKSHMI KRUPA LLC"
+        },
+        "GrossWeightKgs": 10924,
+        "Shipper": {
+          "name": "FUZHOU HYMAN HOSPITALITY CO LTD",
+          "link": "suppliers/fuzhou-hyman-hospitality-co-ltd"
+        },
+        "QuantityUnit": "PKG"
+      },
+      {
+        "Quantity": 436,
+        "CountryOfOrigin": "South Korea",
+        "BillOfLading": "SFOKNGB23101370",
+        "EntryId": 256442913,
+        "GrossWeightLbs": 46713,
+        "ProductDescription": [
+          "WOODEN FURNITURE PVC SKIRTING BOARD CARPET CU.",
+          "WOODEN FURNITURE PVC SKIRTING BOARD CARPET CU."
+        ],
+        "ArrivalDate": 1700784000,
+        "Consignee": {
+          "name": "SHREE LAKSHMI KRUPA LLC"
+        },
+        "GrossWeightKgs": 21233,
+        "Shipper": {
+          "name": "FUZHOU HYMAN HOSPITALITY CO LTD",
+          "link": "suppliers/fuzhou-hyman-hospitality-co-ltd"
+        },
+        "QuantityUnit": "PKG"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "E&G PRINTING INC., ATT. MR ERNIE MO",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "netherlands",
+          "shipmentCount": 1,
+          "name": "SETEMA B.V. FACTORY",
+          "mostRecentDate": 1700784000,
+          "iso": "nl",
+          "grossWeightInKgs": 4760,
+          "landingPageUrl": "suppliers/setema-b-v-factory",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 10471,
+          "lastAddress": {
+            "shortAddress": "Netherlands",
+            "fullAddress": "DOMMEL 34, 5422 VH GEMERT THE NETHERLANDS 31485385764"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "1334 S. LORENA STREET 90023 LOS ANGELES USA 14108630211",
+    "mostRecentDate": 1700784000,
+    "url": "importers/e-g-printing-inc-att-mr-ernie-mo",
+    "shipments": [
+      {
+        "GrossWeightLbs": 10471,
+        "Quantity": 4,
+        "EntryId": 256460778,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 4760,
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "TEXTILE WASHING MACHINE, TEXTI LE PADDING MACHINE, TEXTILE DR YING MACHINE, TEXTILE WINDING MACHINE"
+        ],
+        "CountryOfOrigin": "Netherlands",
+        "BillOfLading": "MAEU232771355",
+        "Shipper": {
+          "name": "SETEMA B.V. FACTORY",
+          "link": "suppliers/setema-b-v-factory"
+        },
+        "Consignee": {
+          "name": "E&G PRINTING INC., ATT. MR ERNIE MO"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "NORMA STUDIO INC DBA MARTA",
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInKgs": 281,
+          "landingPageUrl": "suppliers/norma-studio-inc-dba-marta",
+          "name": "NORMA STUDIO INC DBA MARTA",
+          "mostRecentDate": 1700784000,
+          "grossWeightInLbs": 618,
+          "country": "united kingdom",
+          "overAllShipmentCount": 2,
+          "iso": "gb",
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "shortAddress": "United Kingdom",
+            "fullAddress": "C/O REGENCY SHIPPING, UNIT 10 TRIDENT IND ESTATE,BLACKTHORNE ROAD COLNBROOK SL3 0AX GB"
+          }
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "3021 ROWENA AVENUE LOS ANGELES CA 90039 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/norma-studio-inc-dba-marta",
+    "shipments": [
+      {
+        "Shipper": {
+          "link": "suppliers/norma-studio-inc-dba-marta",
+          "name": "NORMA STUDIO INC DBA MARTA"
+        },
+        "EntryId": 256462126,
+        "GrossWeightLbs": 618,
+        "Consignee": {
+          "name": "NORMA STUDIO INC DBA MARTA"
+        },
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "EXHIBITION GOODS"
+        ],
+        "CountryOfOrigin": "United Kingdom",
+        "GrossWeightKgs": 281,
+        "Quantity": 3,
+        "ArrivalDate": 1700784000,
+        "BillOfLading": "PCXS9ES23110003"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "ANTHOS BOTANICA LTD",
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInKgs": 200,
+          "landingPageUrl": "suppliers/citrefine-international-ltd",
+          "name": "CITREFINE INTERNATIONAL LTD",
+          "mostRecentDate": 1700784000,
+          "grossWeightInLbs": 440,
+          "country": "united kingdom",
+          "overAllShipmentCount": 89,
+          "iso": "gb",
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "shortAddress": "United Kingdom",
+            "fullAddress": "MOORFIELD ROAD LEEDS LS19 7BN GB"
+          }
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "SUITE B 3345 WEST JEFFERSON KIOUSVILLE ROAD WEST JEFFERSON OH 43162 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/anthos-botanica-ltd",
+    "shipments": [
+      {
+        "Shipper": {
+          "link": "suppliers/citrefine-international-ltd",
+          "name": "CITREFINE INTERNATIONAL LTD"
+        },
+        "EntryId": 256462396,
+        "GrossWeightLbs": 440,
+        "Consignee": {
+          "name": "ANTHOS BOTANICA LTD"
+        },
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "INSECT REPELLENT"
+        ],
+        "CountryOfOrigin": "United Kingdom",
+        "GrossWeightKgs": 200,
+        "Quantity": 1,
+        "ArrivalDate": 1700784000,
+        "BillOfLading": "PCXS3ET23100272"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "POLY-PROPS US LLC",
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInKgs": 350,
+          "landingPageUrl": "suppliers/poly-props-ltd-unit-3",
+          "name": "POLY-PROPS LTD UNIT 3",
+          "mostRecentDate": 1700784000,
+          "grossWeightInLbs": 770,
+          "country": "united kingdom",
+          "overAllShipmentCount": 2,
+          "iso": "gb",
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "lastAddress": {
+            "shortAddress": "United Kingdom",
+            "fullAddress": "BASFORD WAREHOUSE DERBY ROAD HEANOR DE DE75 7QL GB"
+          }
+        }
+      ],
+      "totalShipments": 1
+    },
+    "contactInfo": "10601 SUNDRIDGE ST MIDDLE RIVER BALTIMORE BALTIMORE MD 21220 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/poly-props-us-llc",
+    "shipments": [
+      {
+        "Shipper": {
+          "link": "suppliers/poly-props-ltd-unit-3",
+          "name": "POLY-PROPS LTD UNIT 3"
+        },
+        "EntryId": 256462469,
+        "GrossWeightLbs": 770,
+        "Consignee": {
+          "name": "POLY-PROPS US LLC"
+        },
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "PAINTING AND VARNISHES"
+        ],
+        "CountryOfOrigin": "United Kingdom",
+        "GrossWeightKgs": 350,
+        "Quantity": 1,
+        "ArrivalDate": 1700784000,
+        "BillOfLading": "PCXS3ET23100290"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "items": [
+        {
+          "iso": "be",
+          "grossWeightInLbs": 7986,
+          "containersCount": 3,
+          "mostRecentDate": 1710979200,
+          "name": "OSCIMED SA",
+          "shipmentCount": 3,
+          "lastAddress": {
+            "fullAddress": "RUE FRITZ-COURVOISIER 105 LA CHAUX-DE-FONDS CH",
+            "shortAddress": "Belgium"
+          },
+          "country": "belgium",
+          "overAllShipmentCount": 11,
+          "landingPageUrl": "suppliers/oscimed-sa",
+          "grossWeightInKgs": 3630
+        }
+      ],
+      "totalShipments": 3
+    },
+    "totalShipments": 3,
+    "company": "SNORELESSNOW LLC",
+    "contactInfo": "401 CENTER STREET SUITE 104 MOUNT AIRY MD 21771 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/snorelessnow-llc",
+    "shipments": [
+      {
+        "BillOfLading": "DMALBSLA32662",
+        "Consignee": {
+          "name": "SNORELESSNOW LLC"
+        },
+        "QuantityUnit": "PAL",
+        "EntryId": 262454168,
+        "ProductDescription": [
+          "AIRFLOW CLIP NASAL DILATOR"
+        ],
+        "Quantity": 11,
+        "GrossWeightLbs": 3322,
+        "ArrivalDate": 1710979200,
+        "CountryOfOrigin": "Belgium",
+        "Shipper": {
+          "name": "OSCIMED SA",
+          "link": "suppliers/oscimed-sa"
+        },
+        "GrossWeightKgs": 1510
+      },
+      {
+        "BillOfLading": "DMALBSLA31910",
+        "Consignee": {
+          "name": "SNORELESSNOW LLC"
+        },
+        "QuantityUnit": "PAL",
+        "EntryId": 258761363,
+        "ProductDescription": [
+          "AIRFLOW CLIP NASAL DILATOR"
+        ],
+        "Quantity": 12,
+        "GrossWeightLbs": 3080,
+        "ArrivalDate": 1704931200,
+        "CountryOfOrigin": "Belgium",
+        "Shipper": {
+          "name": "OSCIMED SA",
+          "link": "suppliers/oscimed-sa"
+        },
+        "GrossWeightKgs": 1400
+      },
+      {
+        "BillOfLading": "DMALBSLA31194",
+        "Consignee": {
+          "name": "SNORELESSNOW LLC"
+        },
+        "QuantityUnit": "PAL",
+        "EntryId": 256465576,
+        "ProductDescription": [
+          "SNORE LESS NOW ANTI-SNORE PILLOW POSI FORM BAMBOOZIPPER COVER HS CODE NO: 9404.9000"
+        ],
+        "Quantity": 6,
+        "GrossWeightLbs": 1584,
+        "ArrivalDate": 1700784000,
+        "CountryOfOrigin": "Belgium",
+        "Shipper": {
+          "name": "OSCIMED SA",
+          "link": "suppliers/oscimed-sa"
+        },
+        "GrossWeightKgs": 720
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "ANY TIRE",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "germany",
+          "shipmentCount": 1,
+          "name": "COTONPPUH IMPORT-EXPORT",
+          "mostRecentDate": 1700784000,
+          "iso": "de",
+          "grossWeightInKgs": 500,
+          "landingPageUrl": "suppliers/cotonppuh-import-export",
+          "overAllShipmentCount": 13,
+          "grossWeightInLbs": 1100,
+          "lastAddress": {
+            "shortAddress": "Germany",
+            "fullAddress": "ZDZISLAW KOTOWICZ BLONIE 4 BRZEG 49-306 PL"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "2246 FOREST AVE STATEN ISLAND NY 10303 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/any-tire",
+    "shipments": [
+      {
+        "GrossWeightLbs": 1100,
+        "Quantity": 1,
+        "EntryId": 256465789,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 500,
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "S.L.A.C. ON 1 PALLET AQUATEST 22 110V TYRE TESTING MACHINE HS CODE: 847989"
+        ],
+        "CountryOfOrigin": "Germany",
+        "BillOfLading": "ECUWGDNNYC00720",
+        "Shipper": {
+          "name": "COTONPPUH IMPORT-EXPORT",
+          "link": "suppliers/cotonppuh-import-export"
+        },
+        "Consignee": {
+          "name": "ANY TIRE"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "IME191015QL5 JOSE MARIA MORELOS 210 SAN RAFAEL A NUEVO LEON MEXICO, 67110",
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "grossWeightInKgs": 24698,
+          "grossWeightInLbs": 54335,
+          "landingPageUrl": "suppliers/europcell-gmbh",
+          "iso": "de",
+          "containersCount": 1,
+          "overAllShipmentCount": 949,
+          "country": "germany",
+          "lastAddress": {
+            "shortAddress": "Germany",
+            "fullAddress": "WILLY-BRANDT-STR. 23 D-63450 HANAU GERMANY 49618198660"
+          },
+          "mostRecentDate": 1712102400,
+          "name": "EUROPCELL GMBH",
+          "shipmentCount": 1
+        },
+        {
+          "grossWeightInKgs": 10575,
+          "grossWeightInLbs": 23265,
+          "landingPageUrl": "suppliers/polygraphica-equipment-limited",
+          "iso": "es",
+          "containersCount": 1,
+          "overAllShipmentCount": 12,
+          "country": "spain",
+          "lastAddress": {
+            "shortAddress": "Spain",
+            "fullAddress": "1 BENTON OFFICE PARK, BENNETT AVE WAKEFIELD ENGLAND WF4 5RA UNITED KINGDOM TE 363714"
+          },
+          "mostRecentDate": 1700784000,
+          "name": "POLYGRAPHICA EQUIPMENT LIMITED",
+          "shipmentCount": 1
+        }
+      ]
+    },
+    "company": "INSEPIA DE MEXICO S DE RL DE CV",
+    "totalShipments": 2,
+    "mostRecentDate": 1700784000,
+    "url": "importers/insepia-de-mexico-s-de-rl-de-cv",
+    "shipments": [
+      {
+        "EntryId": 263171609,
+        "ArrivalDate": 1712102400,
+        "Shipper": {
+          "link": "suppliers/europcell-gmbh",
+          "name": "EUROPCELL GMBH"
+        },
+        "Quantity": 28,
+        "Consignee": {
+          "name": "INSEPIA DE MEXICO, S DE RL DE CV"
+        },
+        "ProductDescription": [
+          "24646 KGS / 28 REELS VAREL JA DELINER NATURE PJ 59479 / OC 988"
+        ],
+        "QuantityUnit": "CTN",
+        "GrossWeightLbs": 54335,
+        "CountryOfOrigin": "Germany",
+        "BillOfLading": "MAEU236851558",
+        "GrossWeightKgs": 24698
+      },
+      {
+        "EntryId": 256466208,
+        "ArrivalDate": 1700784000,
+        "Shipper": {
+          "link": "suppliers/polygraphica-equipment-limited",
+          "name": "POLYGRAPHICA EQUIPMENT LIMITED"
+        },
+        "Quantity": 13,
+        "Consignee": {
+          "name": "INSEPIA DE MEXICO S DE RL DE CV"
+        },
+        "ProductDescription": [
+          "MACHINES FOR FLAT&SATCHEL PAPER BAGS"
+        ],
+        "QuantityUnit": "PKG",
+        "GrossWeightLbs": 23265,
+        "CountryOfOrigin": "Spain",
+        "BillOfLading": "COSU6366169040",
+        "GrossWeightKgs": 10575
+      }
+    ]
+  },
+  {
+    "totalShipments": 10,
+    "contactInfo": "AT AMERICOLD,14 NE 1ST AVE, SUITE 1205, MIAMI, MIAMI-DADE, FLORIDA, UNITED STATES TELEX: 33132",
+    "shippers": {
+      "totalShipments": 10,
+      "items": [
+        {
+          "country": "belgium",
+          "overAllShipmentCount": 21,
+          "mostRecentDate": 1713052800,
+          "containersCount": 10,
+          "grossWeightInKgs": 72827,
+          "iso": "be",
+          "lastAddress": {
+            "shortAddress": "Belgium",
+            "fullAddress": "ZA ECOPOLIS, TINCQUES, PAS DE CALA IS, HAUTS-DE-FRANCE, FRANCE TELEX: 62127"
+          },
+          "grossWeightInLbs": 160220,
+          "shipmentCount": 10,
+          "landingPageUrl": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        }
+      ]
+    },
+    "company": "DELICES DE 7 VALLEES",
+    "mostRecentDate": 1700784000,
+    "url": "importers/delices-de-7-vallees",
+    "shipments": [
+      {
+        "ProductDescription": [
+          "FROZEN BAKERY PRODUCTS"
+        ],
+        "BillOfLading": "OOLU214654725001",
+        "EntryId": 263702393,
+        "Quantity": 2324,
+        "Shipper": {
+          "link": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        },
+        "GrossWeightLbs": 16531,
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightKgs": 7514,
+        "ArrivalDate": 1713052800,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "DELICES DE 7 VALLEES"
+        }
+      },
+      {
+        "ProductDescription": [
+          "FROZEN BAKERY PRODUCTS HS CODE:19059070"
+        ],
+        "BillOfLading": "OOLU214512110001",
+        "EntryId": 261935586,
+        "Quantity": 1890,
+        "Shipper": {
+          "link": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        },
+        "GrossWeightLbs": 16216,
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightKgs": 7371,
+        "ArrivalDate": 1710115200,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "DELICES DE 7 VALLEES"
+        }
+      },
+      {
+        "ProductDescription": [
+          "FROZEN BAKERY PRODUCTS HS CODE:19059070"
+        ],
+        "BillOfLading": "OOLU214520439001",
+        "EntryId": 261076049,
+        "Quantity": 2498,
+        "Shipper": {
+          "link": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        },
+        "GrossWeightLbs": 15024,
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightKgs": 6829,
+        "ArrivalDate": 1708646400,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "DELICES DE 7 VALLEES"
+        }
+      },
+      {
+        "ProductDescription": [
+          "FROZEN BAKERY PRODUCTS HS CODE:19059070"
+        ],
+        "BillOfLading": "OOLU214512109001",
+        "EntryId": 260777263,
+        "Quantity": 1958,
+        "Shipper": {
+          "link": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        },
+        "GrossWeightLbs": 16790,
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightKgs": 7632,
+        "ArrivalDate": 1708128000,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "DELICES DE 7 VALLEES"
+        }
+      },
+      {
+        "ProductDescription": [
+          "FROZEN BAKERY PRODUCTS HS CODE: 19059070 NET"
+        ],
+        "BillOfLading": "ONEYHAMDB9960A01",
+        "EntryId": 260279440,
+        "Quantity": 1888,
+        "Shipper": {
+          "link": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        },
+        "GrossWeightLbs": 16236,
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightKgs": 7380,
+        "ArrivalDate": 1707350400,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "DELICES DE 7 VALLEES"
+        }
+      },
+      {
+        "ProductDescription": [
+          "FROZEN BAKERY PRODUCTS HS CODE:19059070 GROSS"
+        ],
+        "BillOfLading": "ONEYHAMDB5786A01",
+        "EntryId": 259578177,
+        "Quantity": 1884,
+        "Shipper": {
+          "link": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        },
+        "GrossWeightLbs": 16183,
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightKgs": 7356,
+        "ArrivalDate": 1706227200,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "DELICES DE 7 VALLEES"
+        }
+      },
+      {
+        "ProductDescription": [
+          "FROZEN BAKERY PRODUCTS HS CODE:19059070"
+        ],
+        "BillOfLading": "OOLU214481222001",
+        "EntryId": 259256062,
+        "Quantity": 2306,
+        "Shipper": {
+          "link": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        },
+        "GrossWeightLbs": 12879,
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightKgs": 5854,
+        "ArrivalDate": 1705708800,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "DELICES DE 7 VALLEES"
+        }
+      },
+      {
+        "ProductDescription": [
+          "FROZEN BAKERY PRODUCTS"
+        ],
+        "BillOfLading": "OOLU214310081001",
+        "EntryId": 258117467,
+        "Quantity": 2113,
+        "Shipper": {
+          "link": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        },
+        "GrossWeightLbs": 16606,
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightKgs": 7548,
+        "ArrivalDate": 1703721600,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "DELICES DE 7 VALLEES"
+        }
+      },
+      {
+        "ProductDescription": [
+          "FROZEN BAKERY PRODUCTS NET WEIGHT: 5857,975 K"
+        ],
+        "BillOfLading": "ONEYHAMDA0337A01",
+        "EntryId": 257159894,
+        "Quantity": 1843,
+        "Shipper": {
+          "link": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        },
+        "GrossWeightLbs": 15825,
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightKgs": 7193,
+        "ArrivalDate": 1701993600,
+        "QuantityUnit": "CTN",
+        "Consignee": {
+          "name": "DELICES DE 7 VALLEES"
+        }
+      },
+      {
+        "ProductDescription": [
+          "FROZEN BAKERY PRODUCTS"
+        ],
+        "BillOfLading": "OOLU214359449001",
+        "EntryId": 256466393,
+        "Quantity": 1940,
+        "Shipper": {
+          "link": "suppliers/delices-des-7-vallees",
+          "name": "DELICES DES 7 VALLEES"
+        },
+        "GrossWeightLbs": 17930,
+        "CountryOfOrigin": "Belgium",
+        "GrossWeightKgs": 8150,
+        "ArrivalDate": 1700784000,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "DELICES DE 7 VALLEES"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "TREFFLER M@M",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "belgium",
+          "shipmentCount": 1,
+          "name": "TREFFLER MASCHINENBAU GMBH & CO KG",
+          "mostRecentDate": 1700784000,
+          "iso": "be",
+          "grossWeightInKgs": 5600,
+          "landingPageUrl": "suppliers/treffler-maschinenbau-gmbh-co-kg",
+          "overAllShipmentCount": 7,
+          "grossWeightInLbs": 12320,
+          "lastAddress": {
+            "shortAddress": "Belgium",
+            "fullAddress": "REICHERSTEINER STR. 24 POTTMES, AI CHACH-FRIEDBERG, BAYERN, GERMANY T ELEX: 86554"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "1406 20TH AVENUE WEST BEND, PALO A LTO, IOWA, UNITED STATES TELEX: 50 597",
+    "mostRecentDate": 1700784000,
+    "url": "importers/treffler-m-m",
+    "shipments": [
+      {
+        "GrossWeightLbs": 12320,
+        "Quantity": 2,
+        "EntryId": 256466453,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 5600,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "TREFFLER HARROWS"
+        ],
+        "CountryOfOrigin": "Belgium",
+        "BillOfLading": "OOLU272776155001",
+        "Shipper": {
+          "name": "TREFFLER MASCHINENBAU GMBH & CO KG",
+          "link": "suppliers/treffler-maschinenbau-gmbh-co-kg"
+        },
+        "Consignee": {
+          "name": "TREFFLER M@M"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "NIEXIRA INC",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "france",
+          "shipmentCount": 1,
+          "name": "NEXIRA INC",
+          "mostRecentDate": 1700784000,
+          "iso": "fr",
+          "grossWeightInKgs": 13574,
+          "landingPageUrl": "suppliers/nexira-inc",
+          "overAllShipmentCount": 1286,
+          "grossWeightInLbs": 29863,
+          "lastAddress": {
+            "shortAddress": "France",
+            "fullAddress": "129 CHEMIN DE CROISSET CS 94151 76723 ROUEN CEDEX FRANCE"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "15 SOMERSET ST SOMERVILLE NJ 08876",
+    "mostRecentDate": 1700784000,
+    "url": "importers/niexira-inc",
+    "shipments": [
+      {
+        "GrossWeightLbs": 29863,
+        "Quantity": 727,
+        "EntryId": 256466709,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 13574,
+        "QuantityUnit": "BAG",
+        "ProductDescription": [
+          "GUM ARABIC 15 PALLETS = 600 BAGS GUM ARABIC NW 13000 KGS / GW 13574 KGS HTS 13012000 6 PALLETS = 127 BAGS NATURAL EXTRACTS NW 3175 KGS / GW 3452 KGS HTS 1302197000 / 2106909240 ID CODEFRCOLNAT129ROU FDA REGISTRATION NR"
+        ],
+        "CountryOfOrigin": "France",
+        "BillOfLading": "YMJAT800088437A",
+        "Shipper": {
+          "name": "NEXIRA INC",
+          "link": "suppliers/nexira-inc"
+        },
+        "Consignee": {
+          "name": "NIEXIRA INC"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "FINE FRAGRANES DISTRIBUTION LLC",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "france",
+          "shipmentCount": 1,
+          "name": "EURO PARFUMS FZE (BRANCH)",
+          "mostRecentDate": 1700784000,
+          "iso": "fr",
+          "grossWeightInKgs": 10300,
+          "landingPageUrl": "suppliers/euro-parfums-fze-branch",
+          "overAllShipmentCount": 42,
+          "grossWeightInLbs": 22660,
+          "lastAddress": {
+            "shortAddress": "France",
+            "fullAddress": "DUBAI SOUTH BUSINESS CENTER BUILDING A3 3RD FLOOR PO BOX 390667 DUBAI TE UNITED ARAB EMIRATES"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "50 HARRISON STREET SUITE 119 HOBOKEN NJ 07030 USA SHIPPINGFINEFRAGRANCESDISTRIBUTION.",
+    "mostRecentDate": 1700784000,
+    "url": "importers/fine-fragranes-distribution-llc",
+    "shipments": [
+      {
+        "GrossWeightLbs": 22660,
+        "Quantity": 1120,
+        "EntryId": 256466714,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 10300,
+        "QuantityUnit": "BOX",
+        "ProductDescription": [
+          "PERFUMES AND TOILET WATERS 1120 BOXES ON 24 PALLETS OF PERFUMERY PRODUCTS AND COSMETICS PRODUCTS UN 1266 CLASS3 GP II FREIGHT PREPAID THC DESTINATION PREPAID ON BOARD EXPRESS BL"
+        ],
+        "CountryOfOrigin": "France",
+        "BillOfLading": "YMJAT800088470",
+        "Shipper": {
+          "name": "EURO PARFUMS FZE (BRANCH)",
+          "link": "suppliers/euro-parfums-fze-branch"
+        },
+        "Consignee": {
+          "name": "FINE FRAGRANES DISTRIBUTION LLC"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "HONEY MOON COFFEE",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "peru",
+          "shipmentCount": 1,
+          "name": "SURINKA SOCIEDAD ANONIMA CERRADA",
+          "mostRecentDate": 1700784000,
+          "iso": "pe",
+          "grossWeightInKgs": 1073,
+          "landingPageUrl": "suppliers/surinka-sociedad-anonima-cerrada",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 2361,
+          "lastAddress": {
+            "shortAddress": "Peru",
+            "fullAddress": "AV. VILCANOTA- SAN JOSE URCO KM. 3 SEC. SAN JOSE URC CALCA CUSCO PE"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "323 MENAHAN ST.APT 2R BROOKLYN, NY 11237 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/honey-moon-coffee",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2361,
+        "Quantity": 2,
+        "EntryId": 256467595,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 1073,
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "GREEN COFFEE BEANS FDA # 12775597782 HS CODE: 090111.90"
+        ],
+        "CountryOfOrigin": "Peru",
+        "BillOfLading": "MSBGCLX231117518",
+        "Shipper": {
+          "name": "SURINKA SOCIEDAD ANONIMA CERRADA",
+          "link": "suppliers/surinka-sociedad-anonima-cerrada"
+        },
+        "Consignee": {
+          "name": "HONEY MOON COFFEE"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "SKYHAWKTRADINGINC",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "china",
+          "shipmentCount": 1,
+          "name": "HUIZHOU RONGHUI TECHNOLOGY CO.LTD",
+          "mostRecentDate": 1700784000,
+          "iso": "cn",
+          "grossWeightInKgs": 18801,
+          "landingPageUrl": "suppliers/huizhou-ronghui-technology-co-ltd",
+          "overAllShipmentCount": 25,
+          "grossWeightInLbs": 41362,
+          "lastAddress": {
+            "shortAddress": "China",
+            "fullAddress": "LIBOSHUI FIRST INDUSTRIAL ZONE,SHIW AN TOWN,BOLUO COUNTY,HUIZHOU CITY, GUANGDONG PROVINCE,516127 CHINA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "11818SANMARINOSTRANCHOCUCAMONGA,CA9 1730 EIN35-2718708",
+    "mostRecentDate": 1700784000,
+    "url": "importers/skyhawktradinginc",
+    "shipments": [
+      {
+        "GrossWeightLbs": 41362,
+        "Quantity": 1185,
+        "EntryId": 256467915,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 18801,
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "TOOL LITHIUM BATTERY"
+        ],
+        "CountryOfOrigin": "China",
+        "BillOfLading": "SHSJHYF2311011",
+        "Shipper": {
+          "name": "HUIZHOU RONGHUI TECHNOLOGY CO.LTD",
+          "link": "suppliers/huizhou-ronghui-technology-co-ltd"
+        },
+        "Consignee": {
+          "name": "SKYHAWKTRADINGINC"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "JT CONTROLS INC.",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "netherlands",
+          "shipmentCount": 1,
+          "name": "STEINHAUER GMBH",
+          "mostRecentDate": 1700784000,
+          "iso": "nl",
+          "grossWeightInKgs": 2800,
+          "landingPageUrl": "suppliers/steinhauer-gmbh",
+          "overAllShipmentCount": 59,
+          "grossWeightInLbs": 6160,
+          "lastAddress": {
+            "shortAddress": "Netherlands",
+            "fullAddress": ". ST. JOBSER STRAE 47A WUERSELEN NW 52146 DE"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": ". 407 PARK AVENUE WEST RENVILLE MN 56284 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/jt-controls-inc",
+    "shipments": [
+      {
+        "GrossWeightLbs": 6160,
+        "Quantity": 1,
+        "EntryId": 256468645,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 2800,
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "MOD CENTER 263 WITH BECKHOFF CONTROL (UL) MAC"
+        ],
+        "CountryOfOrigin": "Netherlands",
+        "BillOfLading": "ONEYHAMD94322A01",
+        "Shipper": {
+          "name": "STEINHAUER GMBH",
+          "link": "suppliers/steinhauer-gmbh"
+        },
+        "Consignee": {
+          "name": "JT CONTROLS INC."
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "DYSON US WAREHOUSE",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "netherlands",
+          "shipmentCount": 1,
+          "name": "WORLDPACK TRADING BV",
+          "mostRecentDate": 1700784000,
+          "iso": "nl",
+          "grossWeightInKgs": 1590,
+          "landingPageUrl": "suppliers/worldpack-trading-bv",
+          "overAllShipmentCount": 17,
+          "grossWeightInLbs": 3498,
+          "lastAddress": {
+            "shortAddress": "Netherlands",
+            "fullAddress": "EKKERSRIJT 3102A SON 5692 CC NL"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "3026 OWEN DRIVE ANTIOCH, TN 37013 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/dyson-us-warehouse",
+    "shipments": [
+      {
+        "GrossWeightLbs": 3498,
+        "Quantity": 216,
+        "EntryId": 256469630,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 1590,
+        "QuantityUnit": "CTN",
+        "ProductDescription": [
+          "CLOTHES HS CODE 6205200 HS CODE 6206300 HS CODE 62113390"
+        ],
+        "CountryOfOrigin": "Netherlands",
+        "BillOfLading": "SHPT17392054",
+        "Shipper": {
+          "name": "WORLDPACK TRADING BV",
+          "link": "suppliers/worldpack-trading-bv"
+        },
+        "Consignee": {
+          "name": "DYSON US WAREHOUSE"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "KOALING MUSHROOM FARMS INC",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "netherlands",
+          "shipmentCount": 1,
+          "name": "HOVING HOLLAND PRODUCTS BV",
+          "mostRecentDate": 1700784000,
+          "iso": "nl",
+          "grossWeightInKgs": 1335,
+          "landingPageUrl": "suppliers/hoving-holland-products-bv",
+          "overAllShipmentCount": 9,
+          "grossWeightInLbs": 2937,
+          "lastAddress": {
+            "shortAddress": "Netherlands",
+            "fullAddress": "OHMWEG 12 STADSKANAAL 9503 GW NL"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "WEST CYPRESS STREET 740 KENNETT SQUARE, PS 19348 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/koaling-mushroom-farms-inc",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2937,
+        "Quantity": 3,
+        "EntryId": 256469633,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 1335,
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "MACHINERY AND PARTS 84122120 83022000 85015230 40101200"
+        ],
+        "CountryOfOrigin": "Netherlands",
+        "BillOfLading": "SHPT17392390",
+        "Shipper": {
+          "name": "HOVING HOLLAND PRODUCTS BV",
+          "link": "suppliers/hoving-holland-products-bv"
+        },
+        "Consignee": {
+          "name": "KOALING MUSHROOM FARMS INC"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "items": [
+        {
+          "iso": "de",
+          "country": "germany",
+          "overAllShipmentCount": 37,
+          "grossWeightInLbs": 810,
+          "mostRecentDate": 1700784000,
+          "landingPageUrl": "suppliers/zenith-maschinenfabrik-gmbh",
+          "name": "ZENITH MASCHINENFABRIK GMBH",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 368,
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "Germany",
+            "fullAddress": "ZENITH-STRASSE 1 NEUNKIRCHEN 57290 DE"
+          }
+        }
+      ],
+      "totalShipments": 1
+    },
+    "totalShipments": 1,
+    "contactInfo": "22005 GILL ROAD FARMINGTON HILLS, MI 48335 US",
+    "company": "FENDT BUILDERS SUPPLY INC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/fendt-builders-supply-inc",
+    "shipments": [
+      {
+        "GrossWeightKgs": 368,
+        "CountryOfOrigin": "Germany",
+        "Shipper": {
+          "name": "ZENITH MASCHINENFABRIK GMBH",
+          "link": "suppliers/zenith-maschinenfabrik-gmbh"
+        },
+        "Consignee": {
+          "name": "FENDT BUILDERS SUPPLY INC"
+        },
+        "ArrivalDate": 1700784000,
+        "Quantity": 1,
+        "QuantityUnit": "CAS",
+        "GrossWeightLbs": 810,
+        "EntryId": 256471322,
+        "ProductDescription": [
+          "SPARE PARTS FOR ZENITH BLOCK MAKING MACHINE HS.CODE 8016.9991, 8474.9010, 8481.2010 SCAC SSLL AMS DTT209643"
+        ],
+        "BillOfLading": "SSLLDTT209643"
+      }
+    ]
+  },
+  {
+    "contactInfo": "ONE CULVER, STE 210 CULVER CITY CA, CA 90232 US",
+    "totalShipments": 5,
+    "company": "NEW MILANI GROUPE LLC",
+    "shippers": {
+      "totalShipments": 5,
+      "items": [
+        {
+          "grossWeightInKgs": 2403,
+          "grossWeightInLbs": 5287,
+          "lastAddress": {
+            "shortAddress": "Germany",
+            "fullAddress": "PRUMYSLOVA 176 CESKY KRUMLOV 38101 CZ"
+          },
+          "containersCount": 4,
+          "name": "SCHWAN COSMETICS CR, S.R.O.",
+          "mostRecentDate": 1713312000,
+          "shipmentCount": 4,
+          "country": "germany",
+          "overAllShipmentCount": 608,
+          "iso": "de",
+          "landingPageUrl": "suppliers/schwan-cosmetics-cr-s-r-o"
+        },
+        {
+          "grossWeightInKgs": 647,
+          "grossWeightInLbs": 1423,
+          "lastAddress": {
+            "shortAddress": "Germany",
+            "fullAddress": "PRUMYSLOVA 176 CESKY KRUMOV 38101 CZ"
+          },
+          "containersCount": 1,
+          "name": "SCHWAN COSMETICS",
+          "mostRecentDate": 1710633600,
+          "shipmentCount": 1,
+          "country": "germany",
+          "overAllShipmentCount": 89,
+          "iso": "de",
+          "landingPageUrl": "suppliers/schwan-cosmetics"
+        }
+      ]
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/new-milani-groupe-llc",
+    "shipments": [
+      {
+        "GrossWeightKgs": 308,
+        "Shipper": {
+          "link": "suppliers/schwan-cosmetics-cr-s-r-o",
+          "name": "SCHWAN COSMETICS CR, S.R.O."
+        },
+        "Quantity": 2,
+        "GrossWeightLbs": 678,
+        "ProductDescription": [
+          "COSMETICS PENCILS HS CODE 33041000, 33042000 SCAC SSLL AMS REF LAX242582"
+        ],
+        "QuantityUnit": "PLT",
+        "ArrivalDate": 1713312000,
+        "BillOfLading": "SSLLLAX242582",
+        "Consignee": {
+          "name": "NEW MILANI GROUPE LLC"
+        },
+        "EntryId": 263923493,
+        "CountryOfOrigin": "Germany"
+      },
+      {
+        "GrossWeightKgs": 521,
+        "Shipper": {
+          "link": "suppliers/schwan-cosmetics-cr-s-r-o",
+          "name": "SCHWAN COSMETICS CR, S.R.O."
+        },
+        "Quantity": 4,
+        "GrossWeightLbs": 1146,
+        "ProductDescription": [
+          "COSMETIC PENCILS HS CODE 33041000 SCAC CODE SSLL AMS REF LAX242518"
+        ],
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1713312000,
+        "BillOfLading": "SSLLLAX242518",
+        "Consignee": {
+          "name": "NEW MILANI GROUPE LLC"
+        },
+        "EntryId": 263923492,
+        "CountryOfOrigin": "Germany"
+      },
+      {
+        "GrossWeightKgs": 647,
+        "Shipper": {
+          "link": "suppliers/schwan-cosmetics",
+          "name": "SCHWAN COSMETICS"
+        },
+        "Quantity": 1628,
+        "GrossWeightLbs": 1423,
+        "ProductDescription": [
+          "SLAC 1628 CARTONS ON 4 PALLETS COSMETIC PENCILS HS CODE: 330410"
+        ],
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1710633600,
+        "BillOfLading": "ECUWPRGLAX05828",
+        "Consignee": {
+          "name": "NEW MILANI GROUPE LLC"
+        },
+        "EntryId": 262208892,
+        "CountryOfOrigin": "Germany"
+      },
+      {
+        "GrossWeightKgs": 615,
+        "Shipper": {
+          "link": "suppliers/schwan-cosmetics-cr-s-r-o",
+          "name": "SCHWAN COSMETICS CR, S.R.O."
+        },
+        "Quantity": 4,
+        "GrossWeightLbs": 1353,
+        "ProductDescription": [
+          "COSMETICS PRODUCTS ON 4 PALLETS S.L.A.C HS SCACSSLL AMS REFLAX241808"
+        ],
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1706572800,
+        "BillOfLading": "SSLLLAX241808",
+        "Consignee": {
+          "name": "NEW MILANI GROUPE LLC"
+        },
+        "EntryId": 259727976,
+        "CountryOfOrigin": "Germany"
+      },
+      {
+        "GrossWeightKgs": 959,
+        "Shipper": {
+          "link": "suppliers/schwan-cosmetics-cr-s-r-o",
+          "name": "SCHWAN COSMETICS CR, S.R.O."
+        },
+        "Quantity": 7,
+        "GrossWeightLbs": 2110,
+        "ProductDescription": [
+          "COSMETICS PRODUCTS SCACSSLL AMS REFLAX241540"
+        ],
+        "QuantityUnit": "PKG",
+        "ArrivalDate": 1700784000,
+        "BillOfLading": "SSLLLAX241540",
+        "Consignee": {
+          "name": "NEW MILANI GROUPE LLC"
+        },
+        "EntryId": 256471395,
+        "CountryOfOrigin": "Germany"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "PO BOX 1075 SOUTHAMPTON NY 11969 US",
+    "company": "COASTAL FLOORS",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "containersCount": 1,
+          "iso": "de",
+          "country": "germany",
+          "mostRecentDate": 1700784000,
+          "grossWeightInKgs": 4980,
+          "landingPageUrl": "suppliers/dinesen-floors-a-s",
+          "name": "DINESEN FLOORS A/S",
+          "grossWeightInLbs": 10956,
+          "lastAddress": {
+            "fullAddress": "KLOVTOFTVEJ 2 ROEDDING 6630 DK",
+            "shortAddress": "Germany"
+          },
+          "shipmentCount": 1,
+          "overAllShipmentCount": 1
+        }
+      ]
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/coastal-floors",
+    "shipments": [
+      {
+        "ArrivalDate": 1700784000,
+        "CountryOfOrigin": "Germany",
+        "Shipper": {
+          "name": "DINESEN FLOORS A/S",
+          "link": "suppliers/dinesen-floors-a-s"
+        },
+        "ProductDescription": [
+          "WOODEN FLOORING"
+        ],
+        "Quantity": 4,
+        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 4980,
+        "Consignee": {
+          "name": "COASTAL FLOORS"
+        },
+        "GrossWeightLbs": 10956,
+        "EntryId": 256471810,
+        "BillOfLading": "AARG187016"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "name": "JOWEI RHOEN",
+          "containersCount": 1,
+          "overAllShipmentCount": 3,
+          "lastAddress": {
+            "fullAddress": "40 NURNBERGER STRASSE 98597 BREITUNGEN WERRA BREITUNGEN WERRA TH 98597 DE",
+            "shortAddress": "Germany"
+          },
+          "shipmentCount": 1,
+          "grossWeightInKgs": 176,
+          "country": "germany",
+          "mostRecentDate": 1700784000,
+          "iso": "de",
+          "landingPageUrl": "suppliers/jowei-rhoen",
+          "grossWeightInLbs": 387
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "OSTHOFF RESORT",
+    "contactInfo": "101 OSTHOFF AVE ELKHART LAKE WI 53020 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/osthoff-resort",
+    "shipments": [
+      {
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "OSTHOFF RESORT"
+        },
+        "Quantity": 5,
+        "ProductDescription": [
+          "S.T.C. NUTCRACKER, BOOKENDS, INSENCE CANDLES ,PYRAMIDES, FIGURINES MADE OF WOOD HS 44201019 5 PACKAGES HBL 453777384 HAM"
+        ],
+        "EntryId": 256471906,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 176,
+        "Shipper": {
+          "name": "JOWEI RHOEN",
+          "link": "suppliers/jowei-rhoen"
+        },
+        "GrossWeightLbs": 387,
+        "CountryOfOrigin": "Germany",
+        "BillOfLading": "CHSL453777384HAM"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "350 NE 24TH STREET, SUITE 300 MIAMI FL 33137 US",
+    "company": "KITCHEN UNIVERS, LLC",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "containersCount": 1,
+          "iso": "de",
+          "country": "germany",
+          "mostRecentDate": 1700784000,
+          "grossWeightInKgs": 600,
+          "landingPageUrl": "suppliers/sigmar-london",
+          "name": "SIGMAR LONDON",
+          "grossWeightInLbs": 1320,
+          "lastAddress": {
+            "fullAddress": "263 KINGS ROAD LONDON SW3 5EL GB",
+            "shortAddress": "Germany"
+          },
+          "shipmentCount": 1,
+          "overAllShipmentCount": 18
+        }
+      ]
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/kitchen-univers-llc",
+    "shipments": [
+      {
+        "ArrivalDate": 1700784000,
+        "CountryOfOrigin": "Germany",
+        "Shipper": {
+          "name": "SIGMAR LONDON",
+          "link": "suppliers/sigmar-london"
+        },
+        "ProductDescription": [
+          "CERAMIC"
+        ],
+        "Quantity": 2,
+        "QuantityUnit": "CTN",
+        "GrossWeightKgs": 600,
+        "Consignee": {
+          "name": "KITCHEN UNIVERS, LLC"
+        },
+        "GrossWeightLbs": 1320,
+        "EntryId": 256472274,
+        "BillOfLading": "AARG187567"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "SAAIZAH HAJI",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "ISMILE HAJI",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/ismile-haji",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "16 HITCHCOCK BLVD TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "9TH AVENUE BELLEVILLE ST ST.MICHAEL BB",
+    "mostRecentDate": 1700784000,
+    "url": "importers/saaizah-haji",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 1,
+        "EntryId": 256472819,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "BARREL STC USED CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK238647",
+        "Shipper": {
+          "name": "ISMILE HAJI",
+          "link": "suppliers/ismile-haji"
+        },
+        "Consignee": {
+          "name": "SAAIZAH HAJI"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "HARNET MATHURIN",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "TYRAN MARTELLY",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/tyran-martelly",
+          "overAllShipmentCount": 4,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "23 MOUNT OLIVE ETOBICOKE ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "CASTRIES CASTRIES LC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/harnet-mathurin",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 1,
+        "EntryId": 256474723,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "CEREALS, OATMEALS, FLOUR"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK238804",
+        "Shipper": {
+          "name": "TYRAN MARTELLY",
+          "link": "suppliers/tyran-martelly"
+        },
+        "Consignee": {
+          "name": "HARNET MATHURIN"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "FERALYN CHARLEMAGNE",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "N/A",
+          "mostRecentDate": 1700784000,
+          "grossWeightInKgs": 182,
+          "iso": "ca",
+          "grossWeightInLbs": 400,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "125 PARKWAY FOREST DR NORTH YORK ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "CASTRIES CASTRIES LC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/feralyn-charlemagne",
+    "shipments": [
+      {
+        "GrossWeightLbs": 400,
+        "Quantity": 2,
+        "EntryId": 256474734,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 182,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "TOYS, SHOES, PASTA, CEREALS, RICE"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK238815",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "Consignee": {
+          "name": "FERALYN CHARLEMAGNE"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "VERUNDA INNOCENT",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "N/A",
+          "mostRecentDate": 1700784000,
+          "grossWeightInKgs": 182,
+          "iso": "ca",
+          "grossWeightInLbs": 400,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "1011 LANDSDOWNE AVE TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "CASTRIES CASTRIES LC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/verunda-innocent",
+    "shipments": [
+      {
+        "GrossWeightLbs": 400,
+        "Quantity": 2,
+        "EntryId": 256474754,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 182,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "PASTA, RICE, WHEAT, PULSES,"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK238835",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "Consignee": {
+          "name": "VERUNDA INNOCENT"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "OVANDO PATERSON",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "GADFORD STAPLETON",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 130,
+          "landingPageUrl": "suppliers/gadford-stapleton",
+          "overAllShipmentCount": 4,
+          "grossWeightInLbs": 285,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "30 DEBARDA TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "KINGSTOWN KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/ovando-paterson",
+    "shipments": [
+      {
+        "GrossWeightLbs": 285,
+        "Quantity": 2,
+        "EntryId": 256474829,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 130,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "PASTA, RICE CRISPIES COOKING OIL"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK238910",
+        "Shipper": {
+          "name": "GADFORD STAPLETON",
+          "link": "suppliers/gadford-stapleton"
+        },
+        "Consignee": {
+          "name": "OVANDO PATERSON"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "CALISIA SCRUBB SMALL",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "CHERYL MCINNISS",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/cheryl-mcinniss",
+          "overAllShipmentCount": 3,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "30 LIGH HALL CRES TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "CHOPPIN KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/calisia-scrubb-small",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 1,
+        "EntryId": 256474845,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "PASTA, RICE, CEREALS"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK238926",
+        "Shipper": {
+          "name": "CHERYL MCINNISS",
+          "link": "suppliers/cheryl-mcinniss"
+        },
+        "Consignee": {
+          "name": "CALISIA SCRUBB SMALL"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "ANEL SEY,OUR",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "MONALYN YOUNG",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 177,
+          "landingPageUrl": "suppliers/monalyn-young",
+          "overAllShipmentCount": 4,
+          "grossWeightInLbs": 390,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "43 GLENHAVEN ST TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "GEORGETOWN KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/anel-sey-our",
+    "shipments": [
+      {
+        "GrossWeightLbs": 390,
+        "Quantity": 3,
+        "EntryId": 256474870,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 177,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "PASTA, RICE, COOKIES"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK238951",
+        "Shipper": {
+          "name": "MONALYN YOUNG",
+          "link": "suppliers/monalyn-young"
+        },
+        "Consignee": {
+          "name": "ANEL SEY,OUR"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "IUS JERON",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "NASHALINE GEORGE",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 432,
+          "landingPageUrl": "suppliers/nashaline-george",
+          "overAllShipmentCount": 8,
+          "grossWeightInLbs": 950,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "2581 EGLINTON AVE TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "GRACE VIEUX FORT LC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/ius-jeron",
+    "shipments": [
+      {
+        "GrossWeightLbs": 950,
+        "Quantity": 4,
+        "EntryId": 256475011,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 432,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "CANNED VEGETABLS, PAPER TOWELS, SUGAR"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK239091",
+        "Shipper": {
+          "name": "NASHALINE GEORGE",
+          "link": "suppliers/nashaline-george"
+        },
+        "Consignee": {
+          "name": "IUS JERON"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "TRANQUILITY SUITES",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "MONIQUE SMALL C/O",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 225,
+          "landingPageUrl": "suppliers/monique-small-c-o",
+          "overAllShipmentCount": 18,
+          "grossWeightInLbs": 495,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "3 GREENTREE COURT TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "GEORGETOWN GEORGETOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/tranquility-suites",
+    "shipments": [
+      {
+        "GrossWeightLbs": 495,
+        "Quantity": 3,
+        "EntryId": 256475021,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 225,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "COOKING OIL, CANNED MEATS, CANNED JUICES"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK239101",
+        "Shipper": {
+          "name": "MONIQUE SMALL C/O",
+          "link": "suppliers/monique-small-c-o"
+        },
+        "Consignee": {
+          "name": "TRANQUILITY SUITES"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "SARAN ROBERST",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "AUGUSTUS SIMONS",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 182,
+          "landingPageUrl": "suppliers/augustus-simons",
+          "overAllShipmentCount": 5,
+          "grossWeightInLbs": 400,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "1855 JANE ST TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "KINGSTOWN KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/saran-roberst",
+    "shipments": [
+      {
+        "GrossWeightLbs": 400,
+        "Quantity": 2,
+        "EntryId": 256475037,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 182,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "CANNED MEATS, COOKING OIL, KETCHUP"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK239117",
+        "Shipper": {
+          "name": "AUGUSTUS SIMONS",
+          "link": "suppliers/augustus-simons"
+        },
+        "Consignee": {
+          "name": "SARAN ROBERST"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "TRIVOLI PROVIDENCE",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "KAREN NURSE",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/karen-nurse",
+          "overAllShipmentCount": 4,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "36 PORCELAIN WAY WHITBY ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "KINGSTOWN KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/trivoli-providence",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 1,
+        "EntryId": 256475044,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "COOKING OIL, PASTA, RICE,"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK239124",
+        "Shipper": {
+          "name": "KAREN NURSE",
+          "link": "suppliers/karen-nurse"
+        },
+        "Consignee": {
+          "name": "TRIVOLI PROVIDENCE"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "VERONIA MCLEAN",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "LINTON BULZE",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 455,
+          "landingPageUrl": "suppliers/linton-bulze",
+          "overAllShipmentCount": 6,
+          "grossWeightInLbs": 1000,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "15 SAGE BUSH ST TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "KINGSTOWN KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/veronia-mclean",
+    "shipments": [
+      {
+        "GrossWeightLbs": 1000,
+        "Quantity": 1,
+        "EntryId": 256475086,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 455,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "MIXES, BEANS, CANNED MEAT, CANNED FISH, CORN"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK239166",
+        "Shipper": {
+          "name": "LINTON BULZE",
+          "link": "suppliers/linton-bulze"
+        },
+        "Consignee": {
+          "name": "VERONIA MCLEAN"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "SHANDELL FORBES",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "CECIL BENTICK",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 43,
+          "landingPageUrl": "suppliers/cecil-bentick",
+          "overAllShipmentCount": 13,
+          "grossWeightInLbs": 95,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "12 ROCKFORD RD NORTH YORK ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "KINGSTOWN KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/shandell-forbes",
+    "shipments": [
+      {
+        "GrossWeightLbs": 95,
+        "Quantity": 1,
+        "EntryId": 256475165,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 43,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "KETCHUP, CLOTHING, SHOES"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK239245",
+        "Shipper": {
+          "name": "CECIL BENTICK",
+          "link": "suppliers/cecil-bentick"
+        },
+        "Consignee": {
+          "name": "SHANDELL FORBES"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 3,
+    "company": "EMILY NANTON",
+    "contactInfo": "PROSPECT KINGSTOWN VC",
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInKgs": 36,
+          "shipmentCount": 1,
+          "grossWeightInLbs": 80,
+          "mostRecentDate": 1701388800,
+          "containersCount": 1,
+          "iso": "ca",
+          "name": "AILEEN MORGAN",
+          "country": "canada",
+          "overAllShipmentCount": 10,
+          "lastAddress": {
+            "fullAddress": "60 NORTH HILLS TERRACE TORONTO CA",
+            "shortAddress": "Canada"
+          },
+          "landingPageUrl": "suppliers/aileen-morgan"
+        },
+        {
+          "grossWeightInKgs": 318,
+          "shipmentCount": 1,
+          "grossWeightInLbs": 700,
+          "mostRecentDate": 1700784000,
+          "containersCount": 1,
+          "iso": "ca",
+          "name": "SIMONE SUBRAMANIAM",
+          "country": "canada",
+          "overAllShipmentCount": 5,
+          "lastAddress": {
+            "fullAddress": "37 TANASI RD TORONTO ON CA",
+            "shortAddress": "Canada"
+          },
+          "landingPageUrl": "suppliers/simone-subramaniam"
+        },
+        {
+          "grossWeightInKgs": 91,
+          "shipmentCount": 1,
+          "grossWeightInLbs": 200,
+          "mostRecentDate": 1700784000,
+          "containersCount": 1,
+          "iso": "ca",
+          "name": "MARTHA HUTCHISON",
+          "country": "canada",
+          "overAllShipmentCount": 5,
+          "lastAddress": {
+            "fullAddress": "261 INYLETON BLVD TORONTO ON CA",
+            "shortAddress": "Canada"
+          },
+          "landingPageUrl": "suppliers/martha-hutchison"
+        }
+      ],
+      "totalShipments": 3
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/emily-nanton",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "EMILY NANTON"
+        },
+        "BillOfLading": "TSCWK2310209",
+        "EntryId": 256830618,
+        "CountryOfOrigin": "Canada",
+        "Shipper": {
+          "link": "suppliers/aileen-morgan",
+          "name": "AILEEN MORGAN"
+        },
+        "GrossWeightLbs": 80,
+        "GrossWeightKgs": 36,
+        "Quantity": 1,
+        "ProductDescription": [
+          "COOLER"
+        ],
+        "ArrivalDate": 1701388800,
+        "QuantityUnit": "UNT"
+      },
+      {
+        "Consignee": {
+          "name": "EMILY NANTON"
+        },
+        "BillOfLading": "TSCWK239314",
+        "EntryId": 256475234,
+        "CountryOfOrigin": "Canada",
+        "Shipper": {
+          "link": "suppliers/simone-subramaniam",
+          "name": "SIMONE SUBRAMANIAM"
+        },
+        "GrossWeightLbs": 700,
+        "GrossWeightKgs": 318,
+        "Quantity": 4,
+        "ProductDescription": [
+          "PASTA, RICE CANNED MEATS"
+        ],
+        "ArrivalDate": 1700784000,
+        "QuantityUnit": "UNT"
+      },
+      {
+        "Consignee": {
+          "name": "EMILY NANTON"
+        },
+        "BillOfLading": "TSCWK239213",
+        "EntryId": 256475133,
+        "CountryOfOrigin": "Canada",
+        "Shipper": {
+          "link": "suppliers/martha-hutchison",
+          "name": "MARTHA HUTCHISON"
+        },
+        "GrossWeightLbs": 200,
+        "GrossWeightKgs": 91,
+        "Quantity": 1,
+        "ProductDescription": [
+          "CANNED MEATS, COOKING OIL, KETCHUP, CRACKERS"
+        ],
+        "ArrivalDate": 1700784000,
+        "QuantityUnit": "UNT"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "HAZELMEA SIMMON",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "JILLIAN CREESE",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/jillian-creese",
+          "overAllShipmentCount": 3,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "50 DRIFTWOOD AVE TORONTO CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "KINGSTOWN KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/hazelmea-simmon",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 1,
+        "EntryId": 256475443,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "MIXES, BEANS, CANNED MEAT, CANNED FISH"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK239523",
+        "Shipper": {
+          "name": "JILLIAN CREESE",
+          "link": "suppliers/jillian-creese"
+        },
+        "Consignee": {
+          "name": "HAZELMEA SIMMON"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "KAMELIA OLLIVIERRE",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "N/A",
+          "mostRecentDate": 1700784000,
+          "grossWeightInKgs": 273,
+          "iso": "ca",
+          "grossWeightInLbs": 600,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "10 SAN ROMANO WAY TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "BELMONT, MESOPOTAMIA KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/kamelia-ollivierre",
+    "shipments": [
+      {
+        "GrossWeightLbs": 600,
+        "Quantity": 3,
+        "EntryId": 256475525,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 273,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "CEREALS, CANNED MEATS, BOXED BEVERAGES, COOKI"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWK239605",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "Consignee": {
+          "name": "KAMELIA OLLIVIERRE"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "VENICIA CRICHLOW",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "ROSEMARIE JOSEPH",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 100,
+          "landingPageUrl": "suppliers/rosemarie-joseph",
+          "overAllShipmentCount": 3,
+          "grossWeightInLbs": 220,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "248 75TH AVE. CHOMEDY QUEBEC PQ CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "MARCHAND ROAD CASTRIES LC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/venicia-crichlow",
+    "shipments": [
+      {
+        "GrossWeightLbs": 220,
+        "Quantity": 1,
+        "EntryId": 256475712,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 100,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "PERSONAL EFF."
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWLT233557",
+        "Shipper": {
+          "name": "ROSEMARIE JOSEPH",
+          "link": "suppliers/rosemarie-joseph"
+        },
+        "Consignee": {
+          "name": "VENICIA CRICHLOW"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "WIVIANA PINDAR",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "SAMANTHA",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 27,
+          "landingPageUrl": "suppliers/samantha",
+          "overAllShipmentCount": 69,
+          "grossWeightInLbs": 60,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "PASCAL AHMED 33 DURUM DRIVE BRADON ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "BLOCK J APT 238 DARLING ROAD CASTRIES LC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/wiviana-pindar",
+    "shipments": [
+      {
+        "GrossWeightLbs": 60,
+        "Quantity": 1,
+        "EntryId": 256475816,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 27,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "FOOD ITEM, CLOTHING, TOILETRIES"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWLT233661",
+        "Shipper": {
+          "name": "SAMANTHA",
+          "link": "suppliers/samantha"
+        },
+        "Consignee": {
+          "name": "WIVIANA PINDAR"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "MARLON RICHARDS OR CLEVELAND",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "CINDY SAMUEL JACK",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 218,
+          "landingPageUrl": "suppliers/cindy-samuel-jack",
+          "overAllShipmentCount": 4,
+          "grossWeightInLbs": 480,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "21 HANAWAY DR AJAX ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "FRANCIS PRINCESS STREET OTTOS AG",
+    "mostRecentDate": 1700784000,
+    "url": "importers/marlon-richards-or-cleveland",
+    "shipments": [
+      {
+        "GrossWeightLbs": 480,
+        "Quantity": 2,
+        "EntryId": 256475827,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 218,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "FOOD ITEMS"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWLT233672",
+        "Shipper": {
+          "name": "CINDY SAMUEL JACK",
+          "link": "suppliers/cindy-samuel-jack"
+        },
+        "Consignee": {
+          "name": "MARLON RICHARDS OR CLEVELAND"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "JESSIANN PANCHOO",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "ANNETTE RICHARDSON",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 95,
+          "landingPageUrl": "suppliers/annette-richardson",
+          "overAllShipmentCount": 5,
+          "grossWeightInLbs": 210,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "3275 SHEPPARD AVE APT 1214 TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "BRUNO SPRING ST GEORGES GD",
+    "mostRecentDate": 1700784000,
+    "url": "importers/jessiann-panchoo",
+    "shipments": [
+      {
+        "GrossWeightLbs": 210,
+        "Quantity": 1,
+        "EntryId": 256475864,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 95,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD ITEMS"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWLT233709",
+        "Shipper": {
+          "name": "ANNETTE RICHARDSON",
+          "link": "suppliers/annette-richardson"
+        },
+        "Consignee": {
+          "name": "JESSIANN PANCHOO"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "2402 ONDERNEEMING PHASE 2 WEST BANK DEMERARA AG",
+    "totalShipments": 2,
+    "company": "KELAWATTIE PERSAUD",
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "shipmentCount": 2,
+          "grossWeightInLbs": 79,
+          "name": "KAMALDAI PITAMBER",
+          "overAllShipmentCount": 2,
+          "mostRecentDate": 1708214400,
+          "country": "canada",
+          "containersCount": 2,
+          "landingPageUrl": "suppliers/kamaldai-pitamber",
+          "iso": "ca",
+          "lastAddress": {
+            "fullAddress": "93 FLORENCE WHITBY ON CA",
+            "shortAddress": "Canada"
+          },
+          "grossWeightInKgs": 36
+        }
+      ]
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/kelawattie-persaud",
+    "shipments": [
+      {
+        "GrossWeightKgs": 20,
+        "Quantity": 1,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "CLOTHES IRON TOYS SHO"
+        ],
+        "CountryOfOrigin": "Canada",
+        "EntryId": 260836738,
+        "GrossWeightLbs": 43,
+        "ArrivalDate": 1708214400,
+        "BillOfLading": "TSCWL24485",
+        "Shipper": {
+          "name": "KAMALDAI PITAMBER",
+          "link": "suppliers/kamaldai-pitamber"
+        },
+        "Consignee": {
+          "name": "KELAWATTIE PERSAUD"
+        }
+      },
+      {
+        "GrossWeightKgs": 16,
+        "Quantity": 1,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "TOYS CLOTHES & SNACKS"
+        ],
+        "CountryOfOrigin": "Canada",
+        "EntryId": 256476170,
+        "GrossWeightLbs": 36,
+        "ArrivalDate": 1700784000,
+        "BillOfLading": "TSCWM239252",
+        "Shipper": {
+          "name": "KAMALDAI PITAMBER",
+          "link": "suppliers/kamaldai-pitamber"
+        },
+        "Consignee": {
+          "name": "KELAWATTIE PERSAUD"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "VESSANA AKEUNG",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "JAINARINE BUDHRAM",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 344,
+          "landingPageUrl": "suppliers/jainarine-budhram",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 757,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "23 MONIANE CRT MARKHAM ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "114 PHASE B ECCLES PARK EAST BANK DEMERARA GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/vessana-akeung",
+    "shipments": [
+      {
+        "GrossWeightLbs": 757,
+        "Quantity": 1,
+        "EntryId": 256476181,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 344,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          ". USED FREEZER, FOOD, H ITEMS"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239263",
+        "Shipper": {
+          "name": "JAINARINE BUDHRAM",
+          "link": "suppliers/jainarine-budhram"
+        },
+        "Consignee": {
+          "name": "VESSANA AKEUNG"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "AKEYLA NAISAH DAGUIAR",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "ANDREW DAGUIAR",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 248,
+          "landingPageUrl": "suppliers/andrew-daguiar",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 545,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "1350 DANFORTH ROAD SCARBOROUGH ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "64 WILLIAM STREET KITTY GEORGETOWN GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/akeyla-naisah-daguiar",
+    "shipments": [
+      {
+        "GrossWeightLbs": 545,
+        "Quantity": 3,
+        "EntryId": 256476207,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 248,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD ITEMS, CLOTHING,"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239289",
+        "Shipper": {
+          "name": "ANDREW DAGUIAR",
+          "link": "suppliers/andrew-daguiar"
+        },
+        "Consignee": {
+          "name": "AKEYLA NAISAH DAGUIAR"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "CAROLANIE NEERANJAN",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "DAYAWANSTIE NARAYAN",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 227,
+          "landingPageUrl": "suppliers/dayawanstie-narayan",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 500,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "91 CONNOLLY CR BRAMPTON ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "SUPENAAM SEADAM ESSEQUIBO COAST GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/carolanie-neeranjan",
+    "shipments": [
+      {
+        "GrossWeightLbs": 500,
+        "Quantity": 2,
+        "EntryId": 256476289,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 227,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239371",
+        "Shipper": {
+          "name": "DAYAWANSTIE NARAYAN",
+          "link": "suppliers/dayawanstie-narayan"
+        },
+        "Consignee": {
+          "name": "CAROLANIE NEERANJAN"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "ANNGELENA KHATUN",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "ANGELA SAWIA",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/angela-sawia",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "12 TOULFIN RD BRAMPTON ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "3 KUSIGNAN EAST EAST COAST DEM GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/anngelena-khatun",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 1,
+        "EntryId": 256476290,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239372",
+        "Shipper": {
+          "name": "ANGELA SAWIA",
+          "link": "suppliers/angela-sawia"
+        },
+        "Consignee": {
+          "name": "ANNGELENA KHATUN"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "JENNEL WASHINGTON",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "JEAN SAMPSON",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/jean-sampson",
+          "overAllShipmentCount": 4,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "240 DUNN AVE TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "NO 3 VILLAGE WEST COAST BERBICE GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/jennel-washington",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 1,
+        "EntryId": 256476295,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239377",
+        "Shipper": {
+          "name": "JEAN SAMPSON",
+          "link": "suppliers/jean-sampson"
+        },
+        "Consignee": {
+          "name": "JENNEL WASHINGTON"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "ESAR DEEPAK",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "TLALITA ALARY",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 182,
+          "landingPageUrl": "suppliers/tlalita-alary",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 400,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "9 KINGSWELL CR TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "118 SOPHIA GEO GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/esar-deepak",
+    "shipments": [
+      {
+        "GrossWeightLbs": 400,
+        "Quantity": 2,
+        "EntryId": 256476296,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 182,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239378",
+        "Shipper": {
+          "name": "TLALITA ALARY",
+          "link": "suppliers/tlalita-alary"
+        },
+        "Consignee": {
+          "name": "ESAR DEEPAK"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "MANOJ R DHANPAUL",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "GUYATI RAMROOP",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/guyati-ramroop",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "200 LOTHERTON PATHWAY TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "50 LEONOTA H/S WEST COAST DEM GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/manoj-r-dhanpaul",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 1,
+        "EntryId": 256476300,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239382",
+        "Shipper": {
+          "name": "GUYATI RAMROOP",
+          "link": "suppliers/guyati-ramroop"
+        },
+        "Consignee": {
+          "name": "MANOJ R DHANPAUL"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "SWARSATTIE BEERA",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "GOMATY SUKAR",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/gomaty-sukar",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "1825 FINCH AVE W NORTH YORK ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "833 SECTION C BLOCK Y GOLDEN GROVE EAST BANK DEM GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/swarsattie-beera",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 1,
+        "EntryId": 256476311,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239393",
+        "Shipper": {
+          "name": "GOMATY SUKAR",
+          "link": "suppliers/gomaty-sukar"
+        },
+        "Consignee": {
+          "name": "SWARSATTIE BEERA"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "MANBODARRE SINGH",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "LESLYN COBHARY",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 45,
+          "landingPageUrl": "suppliers/leslyn-cobhary",
+          "overAllShipmentCount": 2,
+          "grossWeightInLbs": 100,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "16 CROWN VICTORA DR BRAMPTON ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "LOT 55 STUDDIE H/S ESSEQUIBO COAST GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/manbodarre-singh",
+    "shipments": [
+      {
+        "GrossWeightLbs": 100,
+        "Quantity": 1,
+        "EntryId": 256476318,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 45,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239400",
+        "Shipper": {
+          "name": "LESLYN COBHARY",
+          "link": "suppliers/leslyn-cobhary"
+        },
+        "Consignee": {
+          "name": "MANBODARRE SINGH"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "KILLOWNIE VEEKHAM",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "SABITRI LATCHMAN",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/sabitri-latchman",
+          "overAllShipmentCount": 2,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "6249 KINGSTONE RD TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "22 BLOCK CC MON REPOSE EAST COAST DEM GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/killownie-veekham",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 1,
+        "EntryId": 256476323,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239405",
+        "Shipper": {
+          "name": "SABITRI LATCHMAN",
+          "link": "suppliers/sabitri-latchman"
+        },
+        "Consignee": {
+          "name": "KILLOWNIE VEEKHAM"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "ZOBEDIA CHAN INDERDEO SINGH",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "FAZELIA SINGH",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 136,
+          "landingPageUrl": "suppliers/fazelia-singh",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 300,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "107 GAINSBOROUGH RD HAMILTON ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "43 MON RESPOS NORTH EAST COAST DEM GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/zobedia-chan-inderdeo-singh",
+    "shipments": [
+      {
+        "GrossWeightLbs": 300,
+        "Quantity": 1,
+        "EntryId": 256476326,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 136,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239408",
+        "Shipper": {
+          "name": "FAZELIA SINGH",
+          "link": "suppliers/fazelia-singh"
+        },
+        "Consignee": {
+          "name": "ZOBEDIA CHAN INDERDEO SINGH"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 2,
+    "company": "KARISHAMA LALL",
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 2,
+          "name": "DARSHAINE SINGH",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 182,
+          "landingPageUrl": "suppliers/darshaine-singh",
+          "overAllShipmentCount": 2,
+          "grossWeightInLbs": 400,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "9 MAPLE SYRUP ST BRAMPTON ON CA"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "LOT 17 KERSAINT PARK LA BONNIE INTENTION EAST COAST DEM GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/karishama-lall",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 3,
+        "EntryId": 256476334,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239416",
+        "Shipper": {
+          "name": "DARSHAINE SINGH",
+          "link": "suppliers/darshaine-singh"
+        },
+        "Consignee": {
+          "name": "KARISHAMA LALL"
+        }
+      },
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 3,
+        "EntryId": 256476306,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239388",
+        "Shipper": {
+          "name": "DARSHAINE SINGH",
+          "link": "suppliers/darshaine-singh"
+        },
+        "Consignee": {
+          "name": "KARISHAMA LALL"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "RAMRATTAR DUKHARAN",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "OMAR PERSAUD",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 227,
+          "landingPageUrl": "suppliers/omar-persaud",
+          "overAllShipmentCount": 3,
+          "grossWeightInLbs": 500,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "182 LWINGSTON BLVD BATDEN ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "76 FOURTH ST CUMMING LODGE GY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/ramrattar-dukharan",
+    "shipments": [
+      {
+        "GrossWeightLbs": 500,
+        "Quantity": 5,
+        "EntryId": 256476330,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 227,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD CLOTHING"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239412",
+        "Shipper": {
+          "name": "OMAR PERSAUD",
+          "link": "suppliers/omar-persaud"
+        },
+        "Consignee": {
+          "name": "RAMRATTAR DUKHARAN"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "KYADE DOGIE",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "MAUREEN",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 68,
+          "landingPageUrl": "suppliers/maureen",
+          "overAllShipmentCount": 18,
+          "grossWeightInLbs": 150,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "120 ROCKWELL AVE TORONTO CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "ISAS BAPTISTE LA TANTE ST. DAVIDS GD",
+    "mostRecentDate": 1700784000,
+    "url": "importers/kyade-dogie",
+    "shipments": [
+      {
+        "GrossWeightLbs": 150,
+        "Quantity": 1,
+        "EntryId": 256476343,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 68,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FLOUR, SUGAR, RICE,"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239425",
+        "Shipper": {
+          "name": "MAUREEN",
+          "link": "suppliers/maureen"
+        },
+        "Consignee": {
+          "name": "KYADE DOGIE"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "YOLANDE SPRINGLES",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "ANDREW SPRINGLE",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 68,
+          "landingPageUrl": "suppliers/andrew-springle",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 150,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "62 STEWARD SMITH RD TORONTO CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "HIGH STREET, SAUTERS ST. PATRICKS GD",
+    "mostRecentDate": 1700784000,
+    "url": "importers/yolande-springles",
+    "shipments": [
+      {
+        "GrossWeightLbs": 150,
+        "Quantity": 1,
+        "EntryId": 256476356,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 68,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FLOUR, SUGAR, RICE"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239438",
+        "Shipper": {
+          "name": "ANDREW SPRINGLE",
+          "link": "suppliers/andrew-springle"
+        },
+        "Consignee": {
+          "name": "YOLANDE SPRINGLES"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "EILCEN MCSWEEN",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "DESSIE ANN ADU-KYERA",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 91,
+          "landingPageUrl": "suppliers/dessie-ann-adu-kyera",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "1022 GREAVES AVE MISS CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "MT. PARNASSUS ST. GEORGES GD",
+    "mostRecentDate": 1700784000,
+    "url": "importers/eilcen-mcsween",
+    "shipments": [
+      {
+        "GrossWeightLbs": 200,
+        "Quantity": 2,
+        "EntryId": 256476380,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 91,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FLOUR, SUGAR, RICE"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239462",
+        "Shipper": {
+          "name": "DESSIE ANN ADU-KYERA",
+          "link": "suppliers/dessie-ann-adu-kyera"
+        },
+        "Consignee": {
+          "name": "EILCEN MCSWEEN"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "DELON NEDD",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "NEVILLE JOSEPH",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 618,
+          "landingPageUrl": "suppliers/neville-joseph",
+          "overAllShipmentCount": 9,
+          "grossWeightInLbs": 1360,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "6 KEYWEST AVE. TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "POST ROYAL ST. ANDREW'S GD",
+    "mostRecentDate": 1700784000,
+    "url": "importers/delon-nedd",
+    "shipments": [
+      {
+        "GrossWeightLbs": 1360,
+        "Quantity": 3,
+        "EntryId": 256476388,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 618,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOODSTUFF, 1 PKG DOOR, 1 WASHING MACHINE"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239470",
+        "Shipper": {
+          "name": "NEVILLE JOSEPH",
+          "link": "suppliers/neville-joseph"
+        },
+        "Consignee": {
+          "name": "DELON NEDD"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "RENNA CARRINE HYPOLITE",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "FRANCIS FRANCIQUE",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 127,
+          "landingPageUrl": "suppliers/francis-francique",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 280,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "913-1901 WESTON RD. TORONTO ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "MT. ROSE ST. PATRICK'S GD",
+    "mostRecentDate": 1700784000,
+    "url": "importers/renna-carrine-hypolite",
+    "shipments": [
+      {
+        "GrossWeightLbs": 280,
+        "Quantity": 1,
+        "EntryId": 256476409,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 127,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "1 BARREL FOODSTUFF DRY GOODS"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239491",
+        "Shipper": {
+          "name": "FRANCIS FRANCIQUE",
+          "link": "suppliers/francis-francique"
+        },
+        "Consignee": {
+          "name": "RENNA CARRINE HYPOLITE"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "DANROY CONNELL",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "WRENZO DOYZE",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 68,
+          "landingPageUrl": "suppliers/wrenzo-doyze",
+          "overAllShipmentCount": 2,
+          "grossWeightInLbs": 150,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "3222 BAYHAM LANE LONDON ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "KINGSTOWN KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/danroy-connell",
+    "shipments": [
+      {
+        "GrossWeightLbs": 150,
+        "Quantity": 1,
+        "EntryId": 256476454,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 68,
+        "QuantityUnit": "BBL",
+        "ProductDescription": [
+          "FOOD"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239638",
+        "Shipper": {
+          "name": "WRENZO DOYZE",
+          "link": "suppliers/wrenzo-doyze"
+        },
+        "Consignee": {
+          "name": "DANROY CONNELL"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "SEMNT FRERA COXALL",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "RICHIE STAFFORD",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 125,
+          "landingPageUrl": "suppliers/richie-stafford",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 275,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "802 CLARK BLVD BRAMPTON ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "DUNFERMLINE ST. ANDREWS GD",
+    "mostRecentDate": 1700784000,
+    "url": "importers/semnt-frera-coxall",
+    "shipments": [
+      {
+        "GrossWeightLbs": 275,
+        "Quantity": 3,
+        "EntryId": 256476527,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 125,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "2 BAR CON GROCERIES 1 UMBRELLA"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239713",
+        "Shipper": {
+          "name": "RICHIE STAFFORD",
+          "link": "suppliers/richie-stafford"
+        },
+        "Consignee": {
+          "name": "SEMNT FRERA COXALL"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 2,
+    "company": "CECLEY CELESTINE",
+    "contactInfo": "REQUIN ST. DAVIDS GD",
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInKgs": 136,
+          "shipmentCount": 2,
+          "grossWeightInLbs": 300,
+          "mostRecentDate": 1701388800,
+          "containersCount": 2,
+          "iso": "ca",
+          "name": "DENIS CELESTINE",
+          "country": "canada",
+          "overAllShipmentCount": 3,
+          "lastAddress": {
+            "fullAddress": "19 MONTJOY CR BRAMPTON ON CA",
+            "shortAddress": "Canada"
+          },
+          "landingPageUrl": "suppliers/denis-celestine"
+        }
+      ],
+      "totalShipments": 2
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/cecley-celestine",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "CECLEY CELESTINE"
+        },
+        "BillOfLading": "TSCWM2310061",
+        "EntryId": 256831999,
+        "CountryOfOrigin": "Canada",
+        "Shipper": {
+          "link": "suppliers/denis-celestine",
+          "name": "DENIS CELESTINE"
+        },
+        "GrossWeightLbs": 150,
+        "GrossWeightKgs": 68,
+        "Quantity": 1,
+        "ProductDescription": [
+          "GROCERIES"
+        ],
+        "ArrivalDate": 1701388800,
+        "QuantityUnit": "UNT"
+      },
+      {
+        "Consignee": {
+          "name": "CECLEY CELESTINE"
+        },
+        "BillOfLading": "TSCWM239719",
+        "EntryId": 256476533,
+        "CountryOfOrigin": "Canada",
+        "Shipper": {
+          "link": "suppliers/denis-celestine",
+          "name": "DENIS CELESTINE"
+        },
+        "GrossWeightLbs": 150,
+        "GrossWeightKgs": 68,
+        "Quantity": 1,
+        "ProductDescription": [
+          "1 BAR CON GROCERIES"
+        ],
+        "ArrivalDate": 1700784000,
+        "QuantityUnit": "UNT"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "CORDELIE FINDLAY",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "N/A",
+          "mostRecentDate": 1700784000,
+          "grossWeightInKgs": 345,
+          "iso": "ca",
+          "grossWeightInLbs": 759,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "635 MARCIL LAURIE SAINT LAMBERT QC CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "BARROUALLIE KINGSTOWN VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/cordelie-findlay",
+    "shipments": [
+      {
+        "GrossWeightLbs": 759,
+        "Quantity": 4,
+        "EntryId": 256476534,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 345,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "TOILETRIES, CLOTHES, SOUP, CEREAL, PASTA, TEA"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239720",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "Consignee": {
+          "name": "CORDELIE FINDLAY"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "TASHKER FERGUS",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "SONIA FERGUS",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 220,
+          "landingPageUrl": "suppliers/sonia-fergus",
+          "overAllShipmentCount": 41,
+          "grossWeightInLbs": 484,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "5605 UPPER LACHINE MONTREAL CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "DIAMOND DIAMOND VC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/tashker-fergus",
+    "shipments": [
+      {
+        "GrossWeightLbs": 484,
+        "Quantity": 3,
+        "EntryId": 256476575,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 220,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "GROCERIES, TOILETRIES"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWM239761",
+        "Shipper": {
+          "name": "SONIA FERGUS",
+          "link": "suppliers/sonia-fergus"
+        },
+        "Consignee": {
+          "name": "TASHKER FERGUS"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "LINNETTE ECCLES",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "BEVERLEY BARRETT",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 414,
+          "landingPageUrl": "suppliers/beverley-barrett",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 910,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "1467 WHITES ROAD N APT 602 PICKERING ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "26 PAYMAR TRACE, LIBERTVILLE RIO CLARO TT",
+    "mostRecentDate": 1700784000,
+    "url": "importers/linnette-eccles",
+    "shipments": [
+      {
+        "GrossWeightLbs": 910,
+        "Quantity": 4,
+        "EntryId": 256476671,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 414,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD ITEMS"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWT232030",
+        "Shipper": {
+          "name": "BEVERLEY BARRETT",
+          "link": "suppliers/beverley-barrett"
+        },
+        "Consignee": {
+          "name": "LINNETTE ECCLES"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "ROCHAN KASERAM",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "ROCHAN KASERAM",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 395,
+          "landingPageUrl": "suppliers/rochan-kaseram",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 870,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "516 WINONA RD STONEY CREEK ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "162 MT PLESANT ROAD CAROLINA VILLAGE COUVA TT",
+    "mostRecentDate": 1700784000,
+    "url": "importers/rochan-kaseram",
+    "shipments": [
+      {
+        "GrossWeightLbs": 870,
+        "Quantity": 3,
+        "EntryId": 256476688,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 395,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "CLOTHES & FOOD ITEMS"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWT232047",
+        "Shipper": {
+          "name": "ROCHAN KASERAM",
+          "link": "suppliers/rochan-kaseram"
+        },
+        "Consignee": {
+          "name": "ROCHAN KASERAM"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "ULRIC BLACKMAN",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "EON CADORE",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 1136,
+          "landingPageUrl": "suppliers/eon-cadore",
+          "overAllShipmentCount": 10,
+          "grossWeightInLbs": 2500,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "162 GUELPH ST UNIT 229 GEORGETOWN ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "6 SCIPIOO TRACE CARNBEE TT",
+    "mostRecentDate": 1700784000,
+    "url": "importers/ulric-blackman",
+    "shipments": [
+      {
+        "GrossWeightLbs": 2500,
+        "Quantity": 1,
+        "EntryId": 256476691,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 1136,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD ITEMS, CLOTHES, TOILETRIES"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWT232050",
+        "Shipper": {
+          "name": "EON CADORE",
+          "link": "suppliers/eon-cadore"
+        },
+        "Consignee": {
+          "name": "ULRIC BLACKMAN"
+        }
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "KIRAN NIMCHAN",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "KIRAN NIMCHAN",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 545,
+          "landingPageUrl": "suppliers/kiran-nimchan",
+          "overAllShipmentCount": 1,
+          "grossWeightInLbs": 1200,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "325 CON-13 SIMCOE ON CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "30 SUBRATTIE TRACE BARRACKPORE TT",
+    "mostRecentDate": 1700784000,
+    "url": "importers/kiran-nimchan",
+    "shipments": [
+      {
+        "GrossWeightLbs": 1200,
+        "Quantity": 1,
+        "EntryId": 256476694,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 545,
+        "QuantityUnit": "UNT",
+        "ProductDescription": [
+          "FOOD ITEMS"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCWT232053",
+        "Shipper": {
+          "name": "KIRAN NIMCHAN",
+          "link": "suppliers/kiran-nimchan"
+        },
+        "Consignee": {
+          "name": "KIRAN NIMCHAN"
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "AV SABANA LARGA NO 88 SANTO DOMINGO DO",
+    "totalShipments": 7,
+    "company": "MEAT SUPPLIER FOOD",
+    "shippers": {
+      "totalShipments": 7,
+      "items": [
+        {
+          "grossWeightInKgs": 181834,
+          "grossWeightInLbs": 400035,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "2825 POWER STREET DRUMMONDVILLE QC J2C6Z6 CA"
+          },
+          "containersCount": 7,
+          "name": "DRUMMOND EXPORT",
+          "mostRecentDate": 1714694400,
+          "shipmentCount": 7,
+          "country": "canada",
+          "overAllShipmentCount": 8923,
+          "iso": "ca",
+          "landingPageUrl": "suppliers/drummond-export"
+        }
+      ]
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/meat-supplier-food",
+    "shipments": [
+      {
+        "GrossWeightKgs": 26355,
+        "Shipper": {
+          "link": "suppliers/drummond-export",
+          "name": "DRUMMOND EXPORT"
+        },
+        "Quantity": 1021,
+        "GrossWeightLbs": 57981,
+        "ProductDescription": [
+          "FROZEN PORK LEGS (2 PCS) POR - CERS# TC5934202404243438367"
+        ],
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1714694400,
+        "BillOfLading": "TSCW17002814",
+        "Consignee": {
+          "name": "MEAT SUPPLIER FOOD"
+        },
+        "EntryId": 264931855,
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "GrossWeightKgs": 26102,
+        "Shipper": {
+          "link": "suppliers/drummond-export",
+          "name": "DRUMMOND EXPORT"
+        },
+        "Quantity": 1170,
+        "GrossWeightLbs": 57424,
+        "ProductDescription": [
+          "FROZEN SKINLESS, PORK LOIN BONE IN 1/4 POR - CERS# TC5934202404263444273"
+        ],
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1714694400,
+        "BillOfLading": "TSCW17002743",
+        "Consignee": {
+          "name": "MEAT SUPPLIER FOOD"
+        },
+        "EntryId": 264931851,
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "GrossWeightKgs": 25103,
+        "Shipper": {
+          "link": "suppliers/drummond-export",
+          "name": "DRUMMOND EXPORT"
+        },
+        "Quantity": 992,
+        "GrossWeightLbs": 55227,
+        "ProductDescription": [
+          "FROZEN PORK LEGS (2 PCS) NET WEIGHT: 54,032.68 LBS POR: CERS# TC5934202402133263381 CARGO LOADED IN CANADA ORIGINALS TO BE RELEASED AT DESTINATION"
+        ],
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1708732800,
+        "BillOfLading": "TSCW16843565",
+        "Consignee": {
+          "name": "MEAT SUPPLIER FOOD"
+        },
+        "EntryId": 261275755,
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "GrossWeightKgs": 25131,
+        "Shipper": {
+          "link": "suppliers/drummond-export",
+          "name": "DRUMMOND EXPORT"
+        },
+        "Quantity": 1013,
+        "GrossWeightLbs": 55288,
+        "ProductDescription": [
+          "FROZEN PORK LEGS (2 PCS) POR: CERS# TC5934202402063244515"
+        ],
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1708214400,
+        "BillOfLading": "TSCW16826160",
+        "Consignee": {
+          "name": "MEAT SUPPLIER FOOD"
+        },
+        "EntryId": 260837174,
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "GrossWeightKgs": 26657,
+        "Shipper": {
+          "link": "suppliers/drummond-export",
+          "name": "DRUMMOND EXPORT"
+        },
+        "Quantity": 1199,
+        "GrossWeightLbs": 58645,
+        "ProductDescription": [
+          "FROZEN SKINLESS, PORK LOIN BONE IN 1/4 NET WEIGHT: 55,491.01 LBS POR; CERS# TC5934202401313230741"
+        ],
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1707523200,
+        "BillOfLading": "TSCW16816530",
+        "Consignee": {
+          "name": "MEAT SUPPLIER FOOD"
+        },
+        "EntryId": 260394852,
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "GrossWeightKgs": 26878,
+        "Shipper": {
+          "link": "suppliers/drummond-export",
+          "name": "DRUMMOND EXPORT"
+        },
+        "Quantity": 954,
+        "GrossWeightLbs": 59132,
+        "ProductDescription": [
+          "FORZEN PORK HAM, BONE IN (LEG) NET WEIGHT: 57,026.34 LBS POR: CERS# TC5934202401163192957"
+        ],
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1706313600,
+        "BillOfLading": "TSCW16767807",
+        "Consignee": {
+          "name": "MEAT SUPPLIER FOOD"
+        },
+        "EntryId": 259708625,
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "GrossWeightKgs": 25608,
+        "Shipper": {
+          "link": "suppliers/drummond-export",
+          "name": "DRUMMOND EXPORT"
+        },
+        "Quantity": 980,
+        "GrossWeightLbs": 56338,
+        "ProductDescription": [
+          "FROZEN PORK LEGS (2 PCS) NET WEIGHT: 55,162.45 LBS POR: CERS# TC5934202311153050934 CARGO LOADED IN CANADA RELEASE ORIGINALS AT DESTINATION"
+        ],
+        "QuantityUnit": "PCS",
+        "ArrivalDate": 1700784000,
+        "BillOfLading": "TSCW16639470",
+        "Consignee": {
+          "name": "MEAT SUPPLIER FOOD"
+        },
+        "EntryId": 256476853,
+        "CountryOfOrigin": "Canada"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "KNOWLES, MEARLITA",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "canada",
+          "shipmentCount": 1,
+          "name": "ENVIROSHAKE",
+          "mostRecentDate": 1700784000,
+          "iso": "ca",
+          "grossWeightInKgs": 1965,
+          "landingPageUrl": "suppliers/enviroshake",
+          "overAllShipmentCount": 227,
+          "grossWeightInLbs": 4323,
+          "lastAddress": {
+            "shortAddress": "Canada",
+            "fullAddress": "650 RIVERVIEW DRIVE P.O. BOX 1462 CHATHAM ON N7M5J5 CA"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "P.O. BOX N8550, HIGHLAND PARK NASSAU, BS",
+    "mostRecentDate": 1700784000,
+    "url": "importers/knowles-mearlita",
+    "shipments": [
+      {
+        "GrossWeightLbs": 4323,
+        "Quantity": 3,
+        "EntryId": 256476876,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 1965,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "BUILDING MATERIALS"
+        ],
+        "CountryOfOrigin": "Canada",
+        "BillOfLading": "TSCW16643134",
+        "Shipper": {
+          "name": "ENVIROSHAKE",
+          "link": "suppliers/enviroshake"
+        },
+        "Consignee": {
+          "name": "KNOWLES, MEARLITA"
+        }
+      }
+    ]
+  },
+  {
+    "company": "WINTER AUTOMATIC DOOR SYSTEMS",
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "lastAddress": {
+            "fullAddress": "3655 NW 87TH AVENUE MIAMI, FL 33178 US",
+            "shortAddress": "Unknown"
+          },
+          "containersCount": 1,
+          "grossWeightInKgs": 50,
+          "grossWeightInLbs": 110,
+          "country": "unknown",
+          "landingPageUrl": "suppliers/carnival-cruise-lines",
+          "shipmentCount": 1,
+          "overAllShipmentCount": 216685,
+          "name": "CARNIVAL CRUISE LINES",
+          "mostRecentDate": 1714262400
+        },
+        {
+          "lastAddress": {
+            "fullAddress": "C/O FREEPORT SHIP SERVICES #19A PEEL STREET FREEPORT BS",
+            "shortAddress": "Bahamas"
+          },
+          "containersCount": 1,
+          "grossWeightInKgs": 250,
+          "grossWeightInLbs": 550,
+          "country": "bahamas",
+          "landingPageUrl": "suppliers/m-v-carnival-paradise-co-cruise",
+          "shipmentCount": 1,
+          "overAllShipmentCount": 151,
+          "iso": "bs",
+          "name": "M/V CARNIVAL PARADISE CO CRUISE",
+          "mostRecentDate": 1700784000
+        }
+      ]
+    },
+    "totalShipments": 2,
+    "contactInfo": "1316 SE 20TH STREET CAPE CORAL, FL 33990, USA",
+    "mostRecentDate": 1700784000,
+    "url": "importers/winter-automatic-door-systems",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "WINTER AUTOMATIC DOOR SYSTEMS INC"
+        },
+        "BillOfLading": "CRNV35N042800013",
+        "CountryOfOrigin": "Unknown",
+        "GrossWeightKgs": 50,
+        "GrossWeightLbs": 110,
+        "Quantity": 1,
+        "Shipper": {
+          "name": "CARNIVAL CRUISE LINES",
+          "link": "suppliers/carnival-cruise-lines"
+        },
+        "EntryId": 264588133,
+        "ArrivalDate": 1714262400,
+        "ProductDescription": [
+          "DOOR LEAF MADE IN GERMANY, VALUE $1,400.00, CF 3461 TOTAL 1 PCS IN 1 BOX"
+        ],
+        "QuantityUnit": "PCS"
+      },
+      {
+        "Consignee": {
+          "name": "WINTER AUTOMATIC DOOR SYSTEMS"
+        },
+        "BillOfLading": "TSCW16651203",
+        "CountryOfOrigin": "Bahamas",
+        "GrossWeightKgs": 250,
+        "GrossWeightLbs": 550,
+        "Quantity": 1,
+        "Shipper": {
+          "name": "M/V CARNIVAL PARADISE CO CRUISE",
+          "link": "suppliers/m-v-carnival-paradise-co-cruise"
+        },
+        "EntryId": 256477435,
+        "ArrivalDate": 1700784000,
+        "ProductDescription": [
+          "AUTOMATIC DOOR CLOSER ETC"
+        ],
+        "QuantityUnit": "PCS"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "THE SPONGEARE HOUSE COM INC.",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "bahamas",
+          "shipmentCount": 1,
+          "name": "ANDROS ISLANDS SEA SPONGE",
+          "mostRecentDate": 1700784000,
+          "iso": "bs",
+          "grossWeightInKgs": 559,
+          "landingPageUrl": "suppliers/andros-islands-sea-sponge",
+          "overAllShipmentCount": 7,
+          "grossWeightInLbs": 1229,
+          "lastAddress": {
+            "shortAddress": "Bahamas",
+            "fullAddress": "SOUTH ANDROS MANGO KEY ANDROS BS"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "108-4 BROOK AVENUE DEER OARK NY 11729 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/the-spongeare-house-com-inc",
+    "shipments": [
+      {
+        "GrossWeightLbs": 1229,
+        "Quantity": 13,
+        "EntryId": 256477552,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 559,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "13 BALES OF SPONGE ISF#D7978697052120"
+        ],
+        "CountryOfOrigin": "Bahamas",
+        "BillOfLading": "DORUBKL727MIA004",
+        "Shipper": {
+          "name": "ANDROS ISLANDS SEA SPONGE",
+          "link": "suppliers/andros-islands-sea-sponge"
+        },
+        "Consignee": {
+          "name": "THE SPONGEARE HOUSE COM INC."
+        }
+      }
+    ]
+  },
+  {
+    "contactInfo": "1405 FERNANDEZ JUNCOS AVE 00909 SAN JUAN, PR 0000 PR",
+    "totalShipments": 2,
+    "company": "UNIVERSAL EQUIP SALES & SERVICE",
+    "shippers": {
+      "items": [
+        {
+          "name": "PONY SPA",
+          "grossWeightInLbs": 1371,
+          "containersCount": 2,
+          "mostRecentDate": 1714521600,
+          "iso": "do",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/pony-spa",
+          "grossWeightInKgs": 623,
+          "country": "dominican republic",
+          "overAllShipmentCount": 206,
+          "lastAddress": {
+            "fullAddress": "VIA G. DI VITTORIO, 8 20065 INZAGO, MI 0000 IT",
+            "shortAddress": "Dominican Republic"
+          }
+        }
+      ],
+      "totalShipments": 2
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/universal-equip-sales-service",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "UNIVERSAL EQUIP SALES & SERVICE"
+        },
+        "BillOfLading": "SHPT0124114918",
+        "Shipper": {
+          "name": "PONY SPA",
+          "link": "suppliers/pony-spa"
+        },
+        "GrossWeightLbs": 447,
+        "GrossWeightKgs": 203,
+        "CountryOfOrigin": "Dominican Republic",
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "IRONING, MACHINES, PRESSES"
+        ],
+        "ArrivalDate": 1714521600,
+        "Quantity": 1,
+        "EntryId": 264881315
+      },
+      {
+        "Consignee": {
+          "name": "UNIVERSAL EQUIP SALES & SERVICE"
+        },
+        "BillOfLading": "SHPT0123150531",
+        "Shipper": {
+          "name": "PONY SPA",
+          "link": "suppliers/pony-spa"
+        },
+        "GrossWeightLbs": 924,
+        "GrossWeightKgs": 420,
+        "CountryOfOrigin": "Dominican Republic",
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "IRONING MACHINES PRESSES"
+        ],
+        "ArrivalDate": 1700784000,
+        "Quantity": 2,
+        "EntryId": 256477620
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "ANSELMO GUADLUPE",
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "country": "dominican republic",
+          "shipmentCount": 1,
+          "name": "DEEPER DISCOUNTS LLC DBA",
+          "mostRecentDate": 1700784000,
+          "iso": "do",
+          "grossWeightInKgs": 830,
+          "landingPageUrl": "suppliers/deeper-discounts-llc-dba",
+          "overAllShipmentCount": 2,
+          "grossWeightInLbs": 1826,
+          "lastAddress": {
+            "shortAddress": "Dominican Republic",
+            "fullAddress": "10100 W. SAMPLE ROAD CORAL SPRINGS, FL 0000 US"
+          },
+          "containersCount": 1
+        }
+      ]
+    },
+    "contactInfo": "1-L ESTATE CARLTON FREDERIKSTED ST. CROIX, VI 0000 VI",
+    "mostRecentDate": 1700784000,
+    "url": "importers/anselmo-guadlupe",
+    "shipments": [
+      {
+        "GrossWeightLbs": 1826,
+        "Quantity": 1,
+        "EntryId": 256477625,
+        "ArrivalDate": 1700784000,
+        "GrossWeightKgs": 830,
+        "QuantityUnit": "PKG",
+        "ProductDescription": [
+          "DIESEL GENERATOR, SPARE PARTS"
+        ],
+        "CountryOfOrigin": "Dominican Republic",
+        "BillOfLading": "SHPTPGSGSN80666H",
+        "Shipper": {
+          "name": "DEEPER DISCOUNTS LLC DBA",
+          "link": "suppliers/deeper-discounts-llc-dba"
+        },
+        "Consignee": {
+          "name": "ANSELMO GUADLUPE"
+        }
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 2,
+      "items": [
+        {
+          "overAllShipmentCount": 408,
+          "country": "italy",
+          "shipmentCount": 2,
+          "name": "NERI S.P.A.",
+          "containersCount": 2,
+          "iso": "it",
+          "mostRecentDate": 1704758400,
+          "lastAddress": {
+            "shortAddress": "Italy",
+            "fullAddress": "S S EMILIA 1622 LONGIANO FC 47020 IT"
+          },
+          "grossWeightInLbs": 4873,
+          "grossWeightInKgs": 2215,
+          "landingPageUrl": "suppliers/neri-s-p-a"
+        }
+      ]
+    },
+    "company": "CSI ELECTRIC",
+    "contactInfo": "1030 COMMERCIAL ST 105 SAN JOSE CA 95112 US",
+    "totalShipments": 2,
+    "mostRecentDate": 1700784000,
+    "url": "importers/csi-electric",
+    "shipments": [
+      {
+        "ArrivalDate": 1704758400,
+        "EntryId": 258646188,
+        "CountryOfOrigin": "Italy",
+        "ProductDescription": [
+          "LIGHTING FIXTURES"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "CSI ELECTRIC"
+        },
+        "GrossWeightKgs": 670,
+        "Quantity": 3,
+        "GrossWeightLbs": 1474,
+        "Shipper": {
+          "link": "suppliers/neri-s-p-a",
+          "name": "NERI S.P.A."
+        },
+        "BillOfLading": "ECUWMILSFO01779"
+      },
+      {
+        "ArrivalDate": 1700784000,
+        "EntryId": 256481798,
+        "CountryOfOrigin": "Italy",
+        "ProductDescription": [
+          "LAMP POSTS COMPLETE WITH LANTERNS"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "CSI ELECTRIC"
+        },
+        "GrossWeightKgs": 1545,
+        "Quantity": 3,
+        "GrossWeightLbs": 3399,
+        "Shipper": {
+          "link": "suppliers/neri-s-p-a",
+          "name": "NERI S.P.A."
+        },
+        "BillOfLading": "DCSD4690923A"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInLbs": 46154,
+          "name": "CLC SERVICES",
+          "shipmentCount": 1,
+          "country": "singapore",
+          "landingPageUrl": "suppliers/clc-services",
+          "grossWeightInKgs": 20979,
+          "containersCount": 1,
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 56,
+          "iso": "sg",
+          "lastAddress": {
+            "shortAddress": "Singapore",
+            "fullAddress": "22 RAGLAN GROVE SINGAPORE 556271 SG"
+          }
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "PREMIER FRAGRANC LLC",
+    "contactInfo": "7C JULES LANE NEW BRUNSWICK NJ 08901 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/premier-fragranc-llc",
+    "shipments": [
+      {
+        "BillOfLading": "KLILKASENYC17337",
+        "CountryOfOrigin": "Singapore",
+        "GrossWeightKgs": 20979,
+        "Shipper": {
+          "link": "suppliers/clc-services",
+          "name": "CLC SERVICES"
+        },
+        "ProductDescription": [
+          "PERFUMERY PRODUCTS UN 1266 IMO 3 FP +19 DEG ."
+        ],
+        "QuantityUnit": "CTN",
+        "Quantity": 4310,
+        "ArrivalDate": 1700784000,
+        "EntryId": 256486270,
+        "Consignee": {
+          "name": "PREMIER FRAGRANC LLC"
+        },
+        "GrossWeightLbs": 46154
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInLbs": 14212,
+          "name": "N/A",
+          "shipmentCount": 1,
+          "country": "panama",
+          "grossWeightInKgs": 6460,
+          "containersCount": 2,
+          "mostRecentDate": 1700784000,
+          "iso": "pa",
+          "lastAddress": {
+            "shortAddress": "Panama",
+            "fullAddress": "KONSUMENTVAGEN 14 125 30 ALVSJO ALVSJO AB 125 30 SWEDEN"
+          }
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "CONSULATE OF SWEDEN",
+    "contactInfo": "FLOOR 10 STUDIO AT 595 MARKET 595 M SAN FRANCISCO CA 94105 UNITED STATE",
+    "mostRecentDate": 1700784000,
+    "url": "importers/consulate-of-sweden",
+    "shipments": [
+      {
+        "BillOfLading": "MEDUUG426213",
+        "CountryOfOrigin": "Panama",
+        "GrossWeightKgs": 6460,
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "FURNITURE / DIPLOMATIC CARGO",
+          "FURNITURE / DIPLOMATIC CARGO"
+        ],
+        "QuantityUnit": "PKG",
+        "Quantity": 88,
+        "ArrivalDate": 1700784000,
+        "EntryId": 256492133,
+        "Consignee": {
+          "name": "CONSULATE OF SWEDEN"
+        },
+        "GrossWeightLbs": 14212
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "landingPageUrl": "suppliers/representacoes-steimetz-gross-ltdac",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 49095,
+          "name": "REPRESENTACOES STEIMETZ GROSS LTDAC",
+          "containersCount": 2,
+          "lastAddress": {
+            "shortAddress": "Brazil",
+            "fullAddress": "RUA DR. JOAO INACIO 1095 PORTO ALEGRE, RS - BRAZIL TEL. 5551 21317225 - STELA WALLAU"
+          },
+          "grossWeightInLbs": 108010,
+          "iso": "br",
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 5,
+          "country": "brazil"
+        }
+      ]
+    },
+    "contactInfo": "147-32 FARMERS BLVD, 2ND FLR JAMAICA, NY 11434 PH (718)-995-0662 FAX (718)-995-0664 ATTN. VICTOR LI",
+    "totalShipments": 1,
+    "company": "IFS (N.Y.) INC - EIN: 11-3246790FMC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/ifs-n-y-inc-ein-11-3246790fmc",
+    "shipments": [
+      {
+        "EntryId": 256494143,
+        "ArrivalDate": 1700784000,
+        "Quantity": 5480,
+        "Shipper": {
+          "link": "suppliers/representacoes-steimetz-gross-ltdac",
+          "name": "REPRESENTACOES STEIMETZ GROSS LTDAC"
+        },
+        "BillOfLading": "ZIMUSNT8076462",
+        "GrossWeightKgs": 49095,
+        "ProductDescription": [
+          "01 X 40 REEFER CONTAINING 2740 CARTONS BEING: 1363 CTN 98126 GOLD CHOCO DELIGHTS PEG BAG 1377 CTN 98270 DARK BLUE CHOCO DELIGHTS PEG BAG NW: 17,404.48KG CONTAINER TO BE SHIPPED UNDEDECK AND FAR FROM HEAT CONTAINER REEFER NCM 1806.90.00 HTS 1806.90 WOODEN PACKAGE NOT USED TEMPERATURE 20C REFERENCE TYPE (ABT) - 1806, 9000 3BR521239162000000000DORIEX1312023B",
+          "01 X 40 REEFER CONTAINING 2740 CARTONS BEING: 1370 CTN 98157 PINK CHOCO DELIGHTS PEG BAG 1370 CTN 98188 BLUE CHOCO DELIGHTS PEG BAG NW: 17,404.48KG RUC.: 3BR521239162000000000 DORIEX1312023B SHIPPED ON BOARD INVOICE EX-131/2023-B PO 22154 FREIGHT COLLECT FDA REGISTRATION NUMBER 14230561972 (PRODUCER) AND 195492139, 26 (STUFFING LOCATION/SELLER) CONTAINER TO BE SHIPPED UNDEDECK AND FAR FROM HEAT CONTAINER REEFER NCM 1806.90.00 HTS 1806.90 WOODEN PACKAGE NOT USED TEMPERATURE 20C MRUC 3BR014645502POA202878623 REFERENCE TYPE (ABT) - 18069000 3BR521239162000000000DORIEX1312023B"
+        ],
+        "Consignee": {
+          "name": "IFS (N.Y.) INC - EIN: 11-3246790FMC"
+        },
+        "GrossWeightLbs": 108010,
+        "QuantityUnit": "CTN",
+        "CountryOfOrigin": "Brazil"
+      }
+    ]
+  },
+  {
+    "company": "BGR INC. - CINCINNATI, OH",
+    "contactInfo": "6392 GANO ROAD, WEST CHESTER, OH 45 069, USA",
+    "totalShipments": 6,
+    "shippers": {
+      "totalShipments": 6,
+      "items": [
+        {
+          "lastAddress": {
+            "shortAddress": "Vietnam",
+            "fullAddress": "NHON TRACH INDUSTRIAL ZONE 5, HIEP PHUOC TOWN, NHON TRACH DISTRICT, DO NG NAI PROVINCE, VIETNAM"
+          },
+          "overAllShipmentCount": 1140,
+          "shipmentCount": 6,
+          "landingPageUrl": "suppliers/samhwan-vina-co-ltd",
+          "name": "SAMHWAN VINA CO LTD",
+          "grossWeightInKgs": 124070,
+          "mostRecentDate": 1713830400,
+          "country": "vietnam",
+          "containersCount": 6,
+          "grossWeightInLbs": 272954
+        }
+      ]
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/bgr-inc-cincinnati-oh",
+    "shipments": [
+      {
+        "Shipper": {
+          "name": "SAMHWAN VINA CO LTD",
+          "link": "suppliers/samhwan-vina-co-ltd"
+        },
+        "Consignee": {
+          "name": "BGR INC. - CINCINNATI, OH"
+        },
+        "ArrivalDate": 1713830400,
+        "GrossWeightLbs": 44920,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "Vietnam",
+        "BillOfLading": "RSLCVNAF2404009A",
+        "ProductDescription": [
+          "STEEL STRAPPING, BLACK PAINTED WAXED, COIL ID 16 (406MM) 1. 109046, 12 X 0.020 - RD,"
+        ],
+        "Quantity": 37,
+        "EntryId": 264328804,
+        "GrossWeightKgs": 20418
+      },
+      {
+        "Shipper": {
+          "name": "SAMHWAN VINA CO LTD",
+          "link": "suppliers/samhwan-vina-co-ltd"
+        },
+        "Consignee": {
+          "name": "BGR INC. - CINCINNATI, OH"
+        },
+        "ArrivalDate": 1710460800,
+        "GrossWeightLbs": 45793,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "Vietnam",
+        "BillOfLading": "RSLCVNAF2402071A",
+        "ProductDescription": [
+          "STEEL STRAPPING, BLACK PAINTED WAXED, COIL ID 16 (406MM)"
+        ],
+        "Quantity": 38,
+        "EntryId": 262122006,
+        "GrossWeightKgs": 20815
+      },
+      {
+        "Shipper": {
+          "name": "SAMHWAN VINA CO LTD",
+          "link": "suppliers/samhwan-vina-co-ltd"
+        },
+        "Consignee": {
+          "name": "BGR INC CINCINNATI, OH"
+        },
+        "ArrivalDate": 1708387200,
+        "GrossWeightLbs": 46002,
+        "QuantityUnit": "PKG",
+        "CountryOfOrigin": "Vietnam",
+        "BillOfLading": "GBORRLCVG2401636",
+        "ProductDescription": [
+          "STEEL STRAPPING, BLACK PAINTED - WAXED, COILID 16 INCH"
+        ],
+        "Quantity": 38,
+        "EntryId": 260858317,
+        "GrossWeightKgs": 20910
+      },
+      {
+        "Shipper": {
+          "name": "SAMHWAN VINA CO LTD",
+          "link": "suppliers/samhwan-vina-co-ltd"
+        },
+        "Consignee": {
+          "name": "BGR INC CINCINNATI, OH"
+        },
+        "ArrivalDate": 1706486400,
+        "GrossWeightLbs": 45907,
+        "QuantityUnit": "PKG",
+        "CountryOfOrigin": "Vietnam",
+        "BillOfLading": "GBORRLCVG2312024",
+        "ProductDescription": [
+          "STEEL STRAPPING, BLACK PAINTED - WAXED, COILID 16"
+        ],
+        "Quantity": 38,
+        "EntryId": 259663079,
+        "GrossWeightKgs": 20867
+      },
+      {
+        "Shipper": {
+          "name": "SAMHWAN VINA CO LTD",
+          "link": "suppliers/samhwan-vina-co-ltd"
+        },
+        "Consignee": {
+          "name": "BGR INC. - CINCINNATI, OH"
+        },
+        "ArrivalDate": 1704585600,
+        "GrossWeightLbs": 45074,
+        "QuantityUnit": "PKG",
+        "CountryOfOrigin": "Vietnam",
+        "BillOfLading": "JSSYJSEX11230045",
+        "ProductDescription": [
+          "STEEL STRAPPING, BLACK PAINTED & WAXED, COIL ID 16' (406MM)1) 109046, 1/2' ' X0. 020' - R D, BLACK, OW, 12COILS/PLT2) 109079, 5/8' ' X 0. 020' - RD, BLACK, OW, 12COILS/PLT3) 10906 2, 3/4' ' X0. 020' - RD, BLACK, OW, 12COILS/PLT4) 109067, 3/4' ' X0. 023' - RD, BLACK, OW , 12COILS/PLT"
+        ],
+        "Quantity": 37,
+        "EntryId": 258510545,
+        "GrossWeightKgs": 20488
+      },
+      {
+        "Shipper": {
+          "name": "SAMHWAN VINA CO LTD",
+          "link": "suppliers/samhwan-vina-co-ltd"
+        },
+        "Consignee": {
+          "name": "BGR INC. - CINCINNATI, OH"
+        },
+        "ArrivalDate": 1700784000,
+        "GrossWeightLbs": 45258,
+        "QuantityUnit": "PKG",
+        "CountryOfOrigin": "Vietnam",
+        "BillOfLading": "JSSYJSEX10230031",
+        "ProductDescription": [
+          "STEEL STRAPPING, BLACK PAINTED & WAXED, COIL ID 16' (406MM)1) 109046, 1/2' ' X0. 020' - R D, BLACK, OW, 12COILS/PLT2) 109079, 5/8' ' X 0. 020' - RD, BLACK, OW, 12COILS/PLT3) 10906 2, 3/4' ' X0. 020' - RD, BLACK, OW, 12COILS/PLT4) 109067, 3/4' ' X0. 023' - RD, BLACK, OW , 12COILS/PLT"
+        ],
+        "Quantity": 37,
+        "EntryId": 256494545,
+        "GrossWeightKgs": 20572
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInLbs": 41096,
+          "name": "KALIBRE BORU SANAYI VE TICARET AS",
+          "shipmentCount": 1,
+          "country": "turkey",
+          "landingPageUrl": "suppliers/kalibre-boru-sanayi-ve-ticaret-as",
+          "grossWeightInKgs": 18680,
+          "containersCount": 1,
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 36,
+          "iso": "tr",
+          "lastAddress": {
+            "shortAddress": "Turkey",
+            "fullAddress": ". SANAYI MH. YANKI SK. NO 32 41000 IZ KOCAELI 41000 TR"
+          }
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "UBE FABRICATION INDUSTRIES INC",
+    "contactInfo": ". 130 E. INDUSTRIAL BLVD LOGANSPORT, LOGANSPORT IN 46947 US",
+    "mostRecentDate": 1700784000,
+    "url": "importers/ube-fabrication-industries-inc",
+    "shipments": [
+      {
+        "BillOfLading": "ONEYISTD14722A01",
+        "CountryOfOrigin": "Turkey",
+        "GrossWeightKgs": 18680,
+        "Shipper": {
+          "link": "suppliers/kalibre-boru-sanayi-ve-ticaret-as",
+          "name": "KALIBRE BORU SANAYI VE TICARET AS"
+        },
+        "ProductDescription": [
+          "PARTS AND ACCESSORIES FOR MOTOR VEHICLES HS:8"
+        ],
+        "QuantityUnit": "PKG",
+        "Quantity": 92,
+        "ArrivalDate": 1700784000,
+        "EntryId": 256502792,
+        "Consignee": {
+          "name": "UBE FABRICATION INDUSTRIES INC"
+        },
+        "GrossWeightLbs": 41096
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "landingPageUrl": "suppliers/tesa-tl-bv",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 6950,
+          "name": "TESA TL BV",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "Netherlands",
+            "fullAddress": "MELKRIJDER 6 NIJKERK 3861 SG NL"
+          },
+          "grossWeightInLbs": 15290,
+          "iso": "nl",
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 2,
+          "country": "netherlands"
+        }
+      ]
+    },
+    "contactInfo": "324 SOUTH UNION STREET SPARTA MI 49345 US",
+    "totalShipments": 1,
+    "company": "TESA TL LLC SPARTA",
+    "mostRecentDate": 1700784000,
+    "url": "importers/tesa-tl-llc-sparta",
+    "shipments": [
+      {
+        "EntryId": 256518717,
+        "ArrivalDate": 1700784000,
+        "Quantity": 2,
+        "Shipper": {
+          "link": "suppliers/tesa-tl-bv",
+          "name": "TESA TL BV"
+        },
+        "BillOfLading": "FMALF134332",
+        "GrossWeightKgs": 6950,
+        "ProductDescription": [
+          "2 PIECES TWINLOCK MACHINE, UNIT DIMS 86 X 346 X 19 X 19 (OH X TH X OWL X OWR) 1 PIECE 456 X 276 X 275 ( L X W X H ) GW. 6000 KGS 1 PIECE 131 X 131 X 255 ( L X W X H ) GW. 950 KGS, HS CODE 84798997"
+        ],
+        "Consignee": {
+          "name": "TESA TL LLC SPARTA"
+        },
+        "GrossWeightLbs": 15290,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "Netherlands"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInLbs": 4038,
+          "name": "PRYSMIAN CABLES & SYSTEMS LTD",
+          "shipmentCount": 1,
+          "country": "united kingdom",
+          "landingPageUrl": "suppliers/prysmian-cables-systems-ltd",
+          "grossWeightInKgs": 1835,
+          "containersCount": 1,
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 66,
+          "iso": "gb",
+          "lastAddress": {
+            "shortAddress": "United Kingdom",
+            "fullAddress": "ENERGY DIVISION CHICKENHALL LANE EASTLEIGH, HAMPSHIRE SO50 6YU"
+          }
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "BUYER: PRYSMIAN CABLES & SYSTEMS US",
+    "contactInfo": "700 INDUSTRIAL DRIVE, LEXINGTON 290 DELIVERY ADDRESS: PRYSMIAN CABLES & 1610 GREENS ROAD, SUITE 300, HOUSTO",
+    "mostRecentDate": 1700784000,
+    "url": "importers/buyer-prysmian-cables-systems-us",
+    "shipments": [
+      {
+        "BillOfLading": "IILU130498600",
+        "CountryOfOrigin": "United Kingdom",
+        "GrossWeightKgs": 1835,
+        "Shipper": {
+          "link": "suppliers/prysmian-cables-systems-ltd",
+          "name": "PRYSMIAN CABLES & SYSTEMS LTD"
+        },
+        "ProductDescription": [
+          "ELECTRICAL APPARATUS HARMONIZED CODE: 85369001"
+        ],
+        "QuantityUnit": "PKG",
+        "Quantity": 5,
+        "ArrivalDate": 1700784000,
+        "EntryId": 256536456,
+        "Consignee": {
+          "name": "BUYER: PRYSMIAN CABLES & SYSTEMS US"
+        },
+        "GrossWeightLbs": 4038
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "landingPageUrl": "suppliers/altuntas-baharat-san-ve-tic-a-s",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 5357,
+          "name": "ALTUNTAS BAHARAT SAN VE TIC. A.S.",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "Turkey",
+            "fullAddress": "BOZBURUN MAH. BOZBURUN CAD. NO:9/A MERKEZEFENDI, DENIZLI - TURKEY MERK EZEFENDI, DENIZLI, TURKEY 20000"
+          },
+          "grossWeightInLbs": 11785,
+          "iso": "tr",
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 115,
+          "country": "turkey"
+        }
+      ]
+    },
+    "contactInfo": "22 CASCADE TER., BRANCHBURG 08876, NEW JERSEY U.S.A. BRANCHBURG, SOMER SET, NEW JERSEY, UNITED STATES 0887",
+    "totalShipments": 1,
+    "company": "AMBE INTERNATIONAL LLC D.B.A. FLAVI",
+    "mostRecentDate": 1700784000,
+    "url": "importers/ambe-international-llc-d-b-a-flavi",
+    "shipments": [
+      {
+        "EntryId": 256567659,
+        "ArrivalDate": 1700784000,
+        "Quantity": 573,
+        "Shipper": {
+          "link": "suppliers/altuntas-baharat-san-ve-tic-a-s",
+          "name": "ALTUNTAS BAHARAT SAN VE TIC. A.S."
+        },
+        "BillOfLading": "COSU636741267001",
+        "GrossWeightKgs": 5357,
+        "ProductDescription": [
+          "OREGANO LEAVES R.C."
+        ],
+        "Consignee": {
+          "name": "AMBE INTERNATIONAL LLC D.B.A. FLAVI"
+        },
+        "GrossWeightLbs": 11785,
+        "QuantityUnit": "PKG",
+        "CountryOfOrigin": "Turkey"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "landingPageUrl": "suppliers/haab-makina-ith-ihr-dans-tic-ltd-st",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 1016,
+          "name": "HAAB MAKINA ITH.IHR.DANS.TIC.LTD.ST",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "Turkey",
+            "fullAddress": "YASAMKENT MAH.3053 CAD.NO:9 CANKAYA ANKARA 06000 TR UNKNOWN TE 00"
+          },
+          "grossWeightInLbs": 2235,
+          "iso": "tr",
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 1,
+          "country": "turkey"
+        }
+      ]
+    },
+    "contactInfo": "327 PRICE DRIVE MIDDLETOWN DE 19709 US",
+    "totalShipments": 1,
+    "company": "HASHEM RABED",
+    "mostRecentDate": 1700784000,
+    "url": "importers/hashem-rabed",
+    "shipments": [
+      {
+        "EntryId": 256583850,
+        "ArrivalDate": 1700784000,
+        "Quantity": 39,
+        "Shipper": {
+          "link": "suppliers/haab-makina-ith-ihr-dans-tic-ltd-st",
+          "name": "HAAB MAKINA ITH.IHR.DANS.TIC.LTD.ST"
+        },
+        "BillOfLading": "NAQAVISTEXP99026",
+        "GrossWeightKgs": 1016,
+        "ProductDescription": [
+          "VARIOUS FURNITURE"
+        ],
+        "Consignee": {
+          "name": "HASHEM RABED"
+        },
+        "GrossWeightLbs": 2235,
+        "QuantityUnit": "CAS",
+        "CountryOfOrigin": "Turkey"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "landingPageUrl": "suppliers/agb-kutu-iml-ith-ve-ihr-san-tic",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 1008,
+          "name": "AGB KUTU IML. ITH VE IHR SAN TIC",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "Turkey",
+            "fullAddress": "HALKALI MERKEZ MAH. 1. IHLAMUR SOK NO:31 KUCUKCEKMECE ISTANBUL"
+          },
+          "grossWeightInLbs": 2218,
+          "iso": "tr",
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 12,
+          "country": "turkey"
+        }
+      ]
+    },
+    "contactInfo": "923 MAIN ST - PATERSON, NJ 07503 USA",
+    "totalShipments": 1,
+    "company": "HEBATALLAH JEWELLERY",
+    "mostRecentDate": 1700784000,
+    "url": "importers/hebatallah-jewellery",
+    "shipments": [
+      {
+        "EntryId": 256586061,
+        "ArrivalDate": 1700784000,
+        "Quantity": 62,
+        "Shipper": {
+          "link": "suppliers/agb-kutu-iml-ith-ve-ihr-san-tic",
+          "name": "AGB KUTU IML. ITH VE IHR SAN TIC"
+        },
+        "BillOfLading": "SBXI23USA0586",
+        "GrossWeightKgs": 1008,
+        "ProductDescription": [
+          "PAPER BOX, PAPER BAG"
+        ],
+        "Consignee": {
+          "name": "HEBATALLAH JEWELLERY"
+        },
+        "GrossWeightLbs": 2218,
+        "QuantityUnit": "BOX",
+        "CountryOfOrigin": "Turkey"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "items": [
+        {
+          "landingPageUrl": "suppliers/akel-cam-ve-pergole-sistemleri",
+          "country": "turkey",
+          "shipmentCount": 2,
+          "mostRecentDate": 1710460800,
+          "name": "AKEL CAM VE PERGOLE SISTEMLERI",
+          "lastAddress": {
+            "fullAddress": "NURETTIN OZGUMUS DUMLUPINAR MH. DUMLUPINAR CD. KAYNAR APT. NO 50/A 34760 UMRANIYE, ISTANBUL, VD UMRANIYE VNO 10927697764",
+            "shortAddress": "Turkey"
+          },
+          "grossWeightInKgs": 13539,
+          "containersCount": 2,
+          "overAllShipmentCount": 3,
+          "grossWeightInLbs": 29786,
+          "iso": "tr"
+        }
+      ],
+      "totalShipments": 2
+    },
+    "totalShipments": 2,
+    "company": "PRIME PERGOLE NYC CORP.",
+    "contactInfo": "BRIGHAM STREET BROOKLYN NEW YORK 11229 - 5603 U.S.A. TEL +1 (347) 603-4477 EMAIL ADIRCONTRACTORSGMAIL.COM,",
+    "mostRecentDate": 1700784000,
+    "url": "importers/prime-pergole-nyc-corp",
+    "shipments": [
+      {
+        "GrossWeightKgs": 8339,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "INSULATED SLIDING GLASS SYSTEM (7,60M2 GLASS)- ALUMINUM FRAMED SLIDING GLASS SYSTEM (11,45M2 GLASS) - ZIPPER CURTAIN SYSTEM -BIOCLIMATIC ALUMINUM OPENING CEILING SYSTEM HS CODES 702000800000 -, 630612000000 - 761010000019"
+        ],
+        "ArrivalDate": 1710460800,
+        "CountryOfOrigin": "Turkey",
+        "EntryId": 262139765,
+        "GrossWeightLbs": 18346,
+        "Shipper": {
+          "name": "AKEL CAM VE PERGOLE SISTEMLERI",
+          "link": "suppliers/akel-cam-ve-pergole-sistemleri"
+        },
+        "BillOfLading": "HLCUIZ1OB40027AB",
+        "Consignee": {
+          "name": "PRIME PERGOLE NYC CORP. 2147"
+        },
+        "Quantity": 5
+      },
+      {
+        "GrossWeightKgs": 5200,
+        "QuantityUnit": "PCS",
+        "ProductDescription": [
+          "POP UP AWNING SYSTEM ZIP CURTAIN SYSTEM GUILLOTINE GLASS SYSTEM SLINDING GLASS SYSTEMOPENING ALUMINIUM CELLING SYSTEM ARTICULATED AWNING SYSTEM"
+        ],
+        "ArrivalDate": 1700784000,
+        "CountryOfOrigin": "Turkey",
+        "EntryId": 256586274,
+        "GrossWeightLbs": 11440,
+        "Shipper": {
+          "name": "AKEL CAM VE PERGOLE SISTEMLERI",
+          "link": "suppliers/akel-cam-ve-pergole-sistemleri"
+        },
+        "BillOfLading": "TRKU10097838",
+        "Consignee": {
+          "name": "PRIME PERGOLE NYC CORP."
+        },
+        "Quantity": 5
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "landingPageUrl": "suppliers/mai-grup-danismanlik-ve-elektronik",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 720,
+          "name": "MAI GRUP DANISMANLIK VE ELEKTRONIK",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "Turkey",
+            "fullAddress": "CEVIZLI MAH. CEVIZLI D-100 GUNEY YANYOL CAD. KURIS ISTANBUL TR"
+          },
+          "grossWeightInLbs": 1584,
+          "iso": "tr",
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 1,
+          "country": "turkey"
+        }
+      ]
+    },
+    "contactInfo": "8285 JERICHO TPKE WOODBURY NY 11797 US",
+    "totalShipments": 1,
+    "company": "E&M FOOD CORP",
+    "mostRecentDate": 1700784000,
+    "url": "importers/e-m-food-corp",
+    "shipments": [
+      {
+        "EntryId": 256586521,
+        "ArrivalDate": 1700784000,
+        "Quantity": 1,
+        "Shipper": {
+          "link": "suppliers/mai-grup-danismanlik-ve-elektronik",
+          "name": "MAI GRUP DANISMANLIK VE ELEKTRONIK"
+        },
+        "BillOfLading": "CMJOCCC023102201",
+        "GrossWeightKgs": 720,
+        "ProductDescription": [
+          "TABLE , PLATE HS CODE: 691110000019"
+        ],
+        "Consignee": {
+          "name": "E&M FOOD CORP"
+        },
+        "GrossWeightLbs": 1584,
+        "QuantityUnit": "CAS",
+        "CountryOfOrigin": "Turkey"
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 1,
+      "items": [
+        {
+          "landingPageUrl": "suppliers/temelsan-makina-san-ve-tic-ltd-sti",
+          "shipmentCount": 1,
+          "grossWeightInKgs": 825,
+          "name": "TEMELSAN MAKINA SAN. VE TIC.LTD.STI",
+          "containersCount": 1,
+          "lastAddress": {
+            "shortAddress": "Turkey",
+            "fullAddress": "AKCABURGAZ MH MUHSIN YAZICIOGLU CD NO55 ESENYURT ISTANBUL TR EM INFO@TEMELSAN.COM"
+          },
+          "grossWeightInLbs": 1815,
+          "iso": "tr",
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 5,
+          "country": "turkey"
+        }
+      ]
+    },
+    "contactInfo": "55-15 43RD STREET MASPETH NY 11378 US",
+    "totalShipments": 1,
+    "company": "AWISCO NEW YORK CORP",
+    "mostRecentDate": 1700784000,
+    "url": "importers/awisco-new-york-corp",
+    "shipments": [
+      {
+        "EntryId": 256600321,
+        "ArrivalDate": 1700784000,
+        "Quantity": 1,
+        "Shipper": {
+          "link": "suppliers/temelsan-makina-san-ve-tic-ltd-sti",
+          "name": "TEMELSAN MAKINA SAN. VE TIC.LTD.STI"
+        },
+        "BillOfLading": "FIHC23SE0002702",
+        "GrossWeightKgs": 825,
+        "ProductDescription": [
+          "KN 41 HBC PLC FLASH BUTT WELDING MACHINE TAS 1001 SL HP 3 IN 1 GRINDING MACHINE MAK 01 HP-80 HYDROPNEUMATIC SHEAR CUTTER KN 41 HBC PLC FLASH BUTT WELDING MACHINE TAS 1001 SL HP 3 IN 1 GRINDING MACHINE MAK 01 HP-80 HYDROPNEUMATIC SHEAR CUTTER KN 41 HBC PLC FLASH BUTT WELDING MACHINE TAS, 1001 SL HP 3 IN 1 GRINDING MACHINE MAK 01 HP-80 HYDROPNEUMATIC SHEAR CUTTER"
+        ],
+        "Consignee": {
+          "name": "AWISCO NEW YORK CORP"
+        },
+        "GrossWeightLbs": 1815,
+        "QuantityUnit": "PCS",
+        "CountryOfOrigin": "Turkey"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "ARTEPACK USA LLC",
+    "contactInfo": "7540 SW 139TH ST PALMETTO BAY FL 33158 USA",
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInKgs": 1754,
+          "shipmentCount": 1,
+          "grossWeightInLbs": 3859,
+          "mostRecentDate": 1700784000,
+          "containersCount": 1,
+          "iso": "co",
+          "name": "TAGUA LOGISTICS SAS",
+          "country": "colombia",
+          "overAllShipmentCount": 161,
+          "lastAddress": {
+            "fullAddress": "CLL 93 # 14 20 OF 311 BOGOTA, COLOMBIA COL",
+            "shortAddress": "Colombia"
+          },
+          "landingPageUrl": "suppliers/tagua-logistics-sas"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/artepack-usa-llc",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "ARTEPACK USA LLC"
+        },
+        "BillOfLading": "SMLU7858066A",
+        "EntryId": 256673874,
+        "CountryOfOrigin": "Colombia",
+        "Shipper": {
+          "link": "suppliers/tagua-logistics-sas",
+          "name": "TAGUA LOGISTICS SAS"
+        },
+        "GrossWeightLbs": 3859,
+        "GrossWeightKgs": 1754,
+        "Quantity": 138,
+        "ProductDescription": [
+          "BOXES IN 3 PALLETS WITH BANDEJAS DE PAPEL . MANIFIESTAR SEG N BL PESO BRUTO TOTAL EN KG FREIGHT PREPAID BL EN DESTINO"
+        ],
+        "ArrivalDate": 1700784000,
+        "QuantityUnit": "UNT"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "company": "UNKNOWN NATIONS DBA WORLD MISSIONS",
+    "contactInfo": "4200 ALPINE AVE NW COMSTOCK PARK MI 49321 USA",
+    "shippers": {
+      "items": [
+        {
+          "grossWeightInKgs": 320,
+          "shipmentCount": 1,
+          "grossWeightInLbs": 703,
+          "mostRecentDate": 1700784000,
+          "containersCount": 1,
+          "iso": "co",
+          "name": "ASOCIACION EDITORIAL BUENA SEMILLA",
+          "country": "colombia",
+          "overAllShipmentCount": 2356,
+          "lastAddress": {
+            "fullAddress": "CRA 28 A # 64 A - 34 BOGOTA, COLOMBIA COL",
+            "shortAddress": "Colombia"
+          },
+          "landingPageUrl": "suppliers/asociacion-editorial-buena-semilla"
+        }
+      ],
+      "totalShipments": 1
+    },
+    "mostRecentDate": 1700784000,
+    "url": "importers/unknown-nations-dba-world-missions",
+    "shipments": [
+      {
+        "Consignee": {
+          "name": "UNKNOWN NATIONS DBA WORLD MISSIONS"
+        },
+        "BillOfLading": "SMLU7856868A006",
+        "EntryId": 256732806,
+        "CountryOfOrigin": "Colombia",
+        "Shipper": {
+          "link": "suppliers/asociacion-editorial-buena-semilla",
+          "name": "ASOCIACION EDITORIAL BUENA SEMILLA"
+        },
+        "GrossWeightLbs": 703,
+        "GrossWeightKgs": 320,
+        "Quantity": 20,
+        "ProductDescription": [
+          "BOXES WITH RELIGIOUS BOOKS AND PRINTED MATTER. HS CODE 49.01.99.90.00 NET WEIGHT 307 KG FREIGHT PREPAID"
+        ],
+        "ArrivalDate": 1700784000,
+        "QuantityUnit": "BOX"
+      }
+    ]
+  },
+  {
+    "totalShipments": 1,
+    "contactInfo": "6 BRIANWOOD CT WARWICK RI US 02886",
+    "shippers": {
+      "items": [
+        {
+          "containersCount": 1,
+          "shipmentCount": 1,
+          "grossWeightInLbs": 55125,
+          "name": "NWTB LLC",
+          "mostRecentDate": 1700784000,
+          "overAllShipmentCount": 1,
+          "iso": "fr",
+          "landingPageUrl": "suppliers/nwtb-llc",
+          "grossWeightInKgs": 25000,
+          "country": "france",
+          "lastAddress": {
+            "fullAddress": "6 BRIANWOOD CT WARWICK RI US 02886",
+            "shortAddress": "France"
+          }
+        }
+      ],
+      "totalShipments": 1
+    },
+    "company": "NWTB LLC",
+    "mostRecentDate": 1700784000,
+    "url": "importers/nwtb-llc",
+    "shipments": [
+      {
+        "ArrivalDate": 1700784000,
+        "BillOfLading": "SFFVSTLRPB312009",
+        "Quantity": 1,
+        "QuantityUnit": "UNT",
+        "GrossWeightLbs": 55125,
+        "EntryId": 257102424,
+        "Consignee": {
+          "name": "NWTB LLC"
+        },
+        "ProductDescription": [
+          "MOTOR CATAMARAN YACHT ON CARRIER OWNED CRADLE . . . ."
+        ],
+        "Shipper": {
+          "link": "suppliers/nwtb-llc",
+          "name": "NWTB LLC"
+        },
+        "CountryOfOrigin": "France",
+        "GrossWeightKgs": 25000
+      }
+    ]
+  },
+  {
+    "shippers": {
+      "totalShipments": 4,
+      "items": [
+        {
+          "iso": "bs",
+          "shipmentCount": 2,
+          "country": "bahamas",
+          "name": "N/A",
+          "mostRecentDate": 1709856000,
+          "grossWeightInKgs": 14106,
+          "grossWeightInLbs": 31033,
+          "lastAddress": {
+            "shortAddress": "Bahamas",
+            "fullAddress": "-NOT AVAILABLE-"
+          },
+          "containersCount": 2
+        },
+        {
+          "iso": "bm",
+          "shipmentCount": 2,
+          "landingPageUrl": "suppliers/best-shipping-inc",
+          "overAllShipmentCount": 2699,
+          "country": "bermuda",
+          "name": "BEST SHIPPING INC.",
+          "mostRecentDate": 1595462400,
+          "grossWeightInKgs": 4765,
+          "grossWeightInLbs": 10483,
+          "lastAddress": {
+            "shortAddress": "Bermuda",
+            "fullAddress": "1 CANAL STREET PEMBROKE PEHM 02 BM"
+          },
+          "containersCount": 2
+        }
+      ]
+    },
+    "contactInfo": "OKVISTAVAGEN 28C VALLENTUNA AB 186 40 SWEDEN",
+    "totalShipments": 4,
+    "company": "TBA TRANSPORTER AB",
+    "mostRecentDate": 1700784000,
+    "url": "importers/tba-transporter-ab",
+    "shipments": [
+      {
+        "Quantity": 217,
+        "GrossWeightKgs": 2621,
+        "GrossWeightLbs": 5766,
+        "ArrivalDate": 1709856000,
+        "BillOfLading": "MEDUVD257733",
+        "EntryId": 261909266,
+        "CountryOfOrigin": "Bahamas",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "CERTAIN GOODS, AS PROVIDED FOR IN COUNCIL REGULATI - (UNPACKED PIECES)USED HHGS & PERSONAL EFFECTS HS CODE: 990500 FREIGHT PREPAID"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "TBA TRANSPORTER AB"
+        }
+      },
+      {
+        "Quantity": 22,
+        "GrossWeightKgs": 11485,
+        "GrossWeightLbs": 25267,
+        "ArrivalDate": 1663200000,
+        "BillOfLading": "MEDUU6636085",
+        "EntryId": 235099113,
+        "CountryOfOrigin": "Bahamas",
+        "Shipper": {
+          "name": "N/A"
+        },
+        "ProductDescription": [
+          "OTHER FURNITURE AND PARTS THEREOF- - OTHER - (PIECES) HOMEGOODS & FORNITURES HS CODE: 9403.89.0000 FREIGHT PREPAID"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "TBA TRANSPORTER AB"
+        }
+      },
+      {
+        "Quantity": 42,
+        "GrossWeightKgs": 2053,
+        "GrossWeightLbs": 4517,
+        "ArrivalDate": 1595462400,
+        "BillOfLading": "BCLU2072WBT84719",
+        "EntryId": 191794067,
+        "CountryOfOrigin": "Bermuda",
+        "Shipper": {
+          "link": "suppliers/best-shipping-inc",
+          "name": "BEST SHIPPING INC."
+        },
+        "ProductDescription": [
+          "UTOMOBILE (2017 VW BEETLE) AND 1 LIFT VAN (41PCS) USED HOUSEHOLD GOODS AND PERSONAL EFFEC TS VEHICLE CHASSIS # 3VW517AT7HM819582. ENGINE # 06X903143C"
+        ],
+        "QuantityUnit": "LSE",
+        "Consignee": {
+          "name": "TBA TRANSPORTER AB"
+        }
+      },
+      {
+        "Quantity": 142,
+        "GrossWeightKgs": 2712,
+        "GrossWeightLbs": 5966,
+        "ArrivalDate": 1595462400,
+        "BillOfLading": "BCLU2072WBT84720",
+        "EntryId": 191794066,
+        "CountryOfOrigin": "Bermuda",
+        "Shipper": {
+          "link": "suppliers/best-shipping-inc",
+          "name": "BEST SHIPPING INC."
+        },
+        "ProductDescription": [
+          "USED HOUSEHOLD GOODS AND PERSONAL EFFECTS"
+        ],
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "TBA TRANSPORTER AB"
+        }
+      }
+    ]
+  }
+]

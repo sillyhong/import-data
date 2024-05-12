@@ -31,13 +31,17 @@ fs.readdir(directoryPath, (err, files) => {
                 const productDescriptionArr = shipment.ProductDescription;
                 const productDescriptionStr = productDescriptionArr.join(',');
                 // console.log('\x1b[36m%s', 'productDescriptionStr123', productDescriptionStr);
-                productKeyWords.forEach(productKeyWord => {
+                return productKeyWords.forEach(productKeyWord => {
                     if (productDescriptionStr.toLowerCase().includes(productKeyWord)) {
                         // 将满足规则的项添加到 indexMap 中
                         if (!indexMap[file]) {
                             indexMap[file] = [];
                         }
-                        if (!indexMap[file].includes(item.url)) indexMap[file].push(item.url);
+                        if (!indexMap[file].includes(item.url)) {
+                            // console.log('\x1b[36m%s', 'productDescriptionStr123', productDescriptionStr);
+                            indexMap[file].push(item.url);
+                            return
+                        }
                     }
                 });
             });
@@ -45,9 +49,12 @@ fs.readdir(directoryPath, (err, files) => {
     });
     const arr = []
     Object.entries(indexMap).map((k, v) => {
-        arr.push(v)
+        // console.log('\x1b[36m%s', 'k', k, 'v', v);
+        const importUrl = k[1]
+        arr.push(importUrl)
     })
+    const uniqueArr = Array.from(new Set(arr))
     // 打印结果
     // console.log('indexMap:', indexMap, 'arr', arr.length,);
-    console.log('arr', arr.length,);
+    console.log('uniqueArr', JSON.stringify(uniqueArr), 'uniqueArr.length', uniqueArr.length);
 });
