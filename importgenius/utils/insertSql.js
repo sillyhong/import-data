@@ -1,28 +1,47 @@
 const fs = require('fs').promises; // Using fs.promises for async file operations
 const mysql = require('mysql2/promise'); // Using mysql2/promise for async database operations
 
+const country = 'usa'// 美国
+// const country = 'argentina'// 阿根廷
+// const country = 'chile'// 智利
+// const country = 'colombia'// 哥伦比亚
+
+const writeFileDir = country
+
+const localDbConfig = {
+    host: 'localhost',
+    user: 'test',
+    password: '123456',
+    database: 'import_data',
+}
+
+const cloudDbConfig = {
+    host: '43.156.33.21',
+    user: 'root',
+    password: 'Asd123456!',
+    database: 'import_data',
+}
+
 // 创建数据库连接
 async function main() {
     try {
-        const connection = await mysql.createConnection({
-            host: 'localhost',
-            user: 'test',
-            password: '123456',
-            database: 'import_data',
-        });
+        const connection = await mysql.createConnection(cloudDbConfig);
 
         console.log('Connected to database.');
 
         // 读取 JSON 文件夹中的所有文件
-        const jsonFilesPath = '/Users/liangweihong/Documents/import-data/importgenius/importer/usa';
+        const directoryPath = `/Users/liangweihong/Documents/import-data/importgenius/importer/${writeFileDir}`;
+        // 读取 importer/country 目录下的所有 JSON 文件
 
-        const files = await fs.readdir(jsonFilesPath);
+        //正序
+        const files = (await fs.readdir(directoryPath)).sort((a, b) => parseInt(a) - parseInt(b));
 
         // 逐个读取并插入文件内容到数据库
         for (const file of files) {
-            const filePath = `${jsonFilesPath}/${file}`;
+            const filePath = `${directoryPath}/${file}`;
             const fileNumber = parseInt(file)
-            if (fileNumber <= 1801) continue
+            // 新数据库
+            if (fileNumber < 678) continue
             // console.log('\x1b[36m%s', 'filePath123', filePath);
 
             const data = await fs.readFile(filePath, 'utf8');
@@ -43,7 +62,7 @@ async function main() {
 async function insertData(data, filePath, connection) {
     const selectQueryUrl = 'SELECT COUNT(*) AS count FROM importgenius WHERE url = ?';
     const updateQuery = 'UPDATE importgenius SET totalShipments = ?, mostRecentDate = ?, raw = ? WHERE url = ?';
-    const insertQuery = 'INSERT INTO importgenius (raw, totalShipments, company, contactInfo, mostRecentDate, url) VALUES (?, ?, ?, ?, ?, ?)';
+    const insertQuery = 'INSERT INTO importgenius (raw, totalShipments, company, contactInfo, mostRecentDate, url, country) VALUES (?, ?, ?, ?, ?, ?, ?)';
 
     for (const item of data) {
         const values = [
@@ -53,6 +72,7 @@ async function insertData(data, filePath, connection) {
             item.contactInfo,
             new Date(item.mostRecentDate * 1000).toISOString().slice(0, 10),
             item.url,
+            country,
         ];
 
         try {

@@ -7,8 +7,10 @@ const vm = require('vm');
 //优先读取scrapeArr
 const scrapeArr = []
 
-const country = 'usa'// 美国
+// const country = 'usa'// 美国
 // const country = 'argentina'// 阿根廷
+// const country = 'chile'// 智利
+const country = 'colombia'// 哥伦比亚
 
 const writeFileDir = country
 // 获取当前文件最后一个json名字
@@ -51,7 +53,8 @@ const getUrl = (country, pageNumber) => {
 
 const countryMap = {
     'usa': 'us',
-    'argentina': 'argentina'
+    'argentina': 'argentina',
+    'chile': 'chile',
 }
 
 // 定义爬取函数
@@ -87,7 +90,8 @@ async function scrapePage(pageNumber) {
                     // 输出 window.__NUXT__ 的值
                     // console.log('window.__NUXT__ 的值为:', nuxtData.state.tradebase.traders[country].importers[pageNumber]);
                     // window.__NUXT__.state.tradebase.traders.us.importers[134]
-                    importerData = nuxtData.state.tradebase.traders[countryMap[country]].importers[pageNumber]
+                    const countryMapRes = countryMap[country] || country
+                    importerData = nuxtData.state.tradebase.traders[countryMapRes].importers[pageNumber]
                     return false; // 结束循环
                 }
             }

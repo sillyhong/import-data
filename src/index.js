@@ -4,19 +4,23 @@ import './index.css';
 import App from './App';
 import Tradesns from './Tradesns';
 import Detail from './Detail';
+import Importgenius from './Importgenius';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <Router>
-      <Routes>
-      <Route exact path="/app" element={<App/>}></Route>
-      <Route  path="/app/tradesns" element={<Tradesns/>}></Route>
-      <Route  path="/app/detail" element={<Detail/>}></Route>
-      </Routes>
-      
-    </Router>
+  <Router>
+    <Routes>
+      <Route exact path="/app" element={<App />}></Route>
+      <Route path="/app/tradesns" element={<Tradesns />}></Route>
+      <Route path="/app/detail" element={<Detail />}></Route>
+    </Routes>
+    <Routes>
+      <Route path="/importgenius" element={<Importgenius />}></Route>
+    </Routes>
+
+  </Router>
 );
 
 // If you want to start measuring performance in your app, pass a function

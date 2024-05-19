@@ -8,10 +8,15 @@ const vm = require('vm');
 const batchSize = 4;
 
 
-const country = 'usa'// 美国
+// const country = 'usa'// 美国
 // const country = 'argentina'// 阿根廷
+// const country = 'chile'// 智利
+const country = 'colombia'// 哥伦比亚
 
 const writeFileDir = country
+
+
+const isUSA = country === 'usa'
 
 // 读取 importer/country 目录下的所有 JSON 文件
 const directoryPath = path.join(__dirname, `importer/${writeFileDir}`);
@@ -120,14 +125,15 @@ async function processAllJsonFiles(files, index) {
         console.log('所有数据已处理完成');
         return;
     }
-
-    const fileName = files[index];
+    // usa 从0.json开始, 其他从1.json开始
+    const curIndex = isUSA ? index : index - 1
+    const fileName = files[curIndex];
     const readPath = path.join(directoryPath, fileName);
     console.log('\x1b[36m%s', '处理文件:', readPath);
     const jsonData = fs.readFileSync(readPath, 'utf8');
     const data = JSON.parse(jsonData);
     // 开始处理数据，从索引 0 开始
-    for (let i = 0; i < data.length; i += batchSize) {
+    for (let i = 0; i <= data.length; i += batchSize) {
         await processDataBatch(data, i, readPath)
             .then(() => {
                 console.log(`批次 ${Math.floor(i / batchSize) + 1} 已处理`);
@@ -144,5 +150,5 @@ async function processAllJsonFiles(files, index) {
     await processAllJsonFiles(files, index + 1);
 }
 
-// 开始处理所有 JSON 文件，从索引 0 开始
-processAllJsonFiles(jsonFiles, 1801);
+// 开始处理所有 JSON 文件，从索引 1 开始
+processAllJsonFiles(jsonFiles, 200);

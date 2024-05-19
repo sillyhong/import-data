@@ -1,6 +1,6 @@
 
 
- SELECT *
+ SELECT url, target, totalShipments, id
 FROM import_data.importgenius
 WHERE JSON_CONTAINS_PATH(raw, 'all', '$.shipments[*].ProductDescription[*]')
 AND (
@@ -52,3 +52,27 @@ AND (
     OR JSON_SEARCH(raw, 'one', '%METAL%', NULL, '$.shipments[*].ProductDescription') IS NOT NULL
     OR JSON_SEARCH(raw, 'one', '%BRASS%', NULL, '$.shipments[*].ProductDescription') IS NOT NULL
 )
+
+
+
+-- 最新使用
+--  SELECT `url`, isTarget, totalShipments, `id`
+-- FROM import_data.importgenius
+-- WHERE JSON_CONTAINS_PATH(raw, 'all', '$.shipments[*].ProductDescription[*]')
+-- AND (
+--      JSON_SEARCH(raw, 'one', '%BATHROOM%', NULL, '$.shipments[*].ProductDescription') IS NOT NULL
+-- )
+
+-- 创建索引
+-- ALTER TABLE importgenius ADD INDEX idx_company (company);
+-- ALTER TABLE importgenius ADD INDEX idx_country (country);
+-- ALTER TABLE importgenius ADD INDEX idx_isTarget (isTarget);
+
+-- ALTER TABLE importgenius
+-- ADD COLUMN product_description_generated TEXT GENERATED ALWAYS AS (
+--     JSON_UNQUOTE(
+--         JSON_EXTRACT(raw, '$.shipments[*].ProductDescription')
+--     )
+-- ) VIRTUAL;
+
+
