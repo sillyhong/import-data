@@ -25,7 +25,7 @@ function Importgenius() {
   const [countryValue, setCountryValue] = useState('usa')
   const [isLocalhost, setIsLocalhost] = useState(hostname == 'localhost')
   const [productType, setProductType] = useState('shower door')
-  const [isTarget, setIsTarget] = useState(2)
+  const [isTarget, setIsTarget] = useState(null)
   const [keyword, setKeyword] = useState('')
 
   const [messageApi, contextHolder] = message.useMessage();
@@ -147,7 +147,8 @@ function Importgenius() {
       title: 'id',
       dataIndex: 'id',
       key: 'id',
-      width: 40,
+      fixed: true,
+      width: 80,
     },
     {
       title: '最新进口日期',
@@ -164,7 +165,9 @@ function Importgenius() {
       title: '采购商',
       dataIndex: 'company',
       key: 'company',
-      responsive: ['md', 'sm'],
+      // responsive: ['md', 'sm'],
+      width: 300,
+      fixed: true,
       render: (_, { company, url }) => (
         <a target={'_blank'} href={`https://www.importgenius.com/${url}`} rel="noreferrer">{company}</a>
       )
@@ -174,14 +177,16 @@ function Importgenius() {
       key: 'action',
       dataIndex: 'action',
       responsive: ['md', 'sm'],
+      fixed: true,
+      width: 120,
       render: (_, { isTarget, id }) => {
-        const curIsTarget = !!isTarget ? 1 : 0;
         return (
           <Space size="middle">
             {/* <div className='detail-text' onClick={handelDetailClick}>Detail</div> */}
-            <Select placeholder="目标客户" onChange={(value) => { handleUpdateTarget(value, id) }} value={curIsTarget}>
-              <Option value={1}>true</Option>
-              <Option value={0}>false</Option>
+            <Select placeholder="目标客户" onChange={(value) => { handleUpdateTarget(value, id) }} value={isTarget}>
+              <Option value={0}>否</Option>
+              <Option value={1}>是</Option>
+              <Option value={2}>未开发</Option>
             </Select>
           </Space>
         )
@@ -191,7 +196,9 @@ function Importgenius() {
       title: '供应商',
       dataIndex: 'shipper_name',
       key: 'shipper_name',
-      responsive: ['md', 'sm'],
+      fixed: true,
+      width: 400,
+      // responsive: ['md', 'sm'],
       render: (_, { raw }) => {
         const shipments = raw?.shipments || []
         return (
@@ -266,7 +273,8 @@ function Importgenius() {
       title: '重量',
       key: 'weight',
       dataIndex: 'weight',
-      responsive: ['md', 'sm'],
+      // responsive: ['md', 'sm'],
+      width: 110,
       render: (_, { raw }) => {
         const shipments = raw?.shipments || []
         return (
@@ -334,16 +342,17 @@ function Importgenius() {
             <Input placeholder="关键词搜索" onBlur={handleKeyWordChange} allowClear />
           </Space>
         </Col>
-        <Col span={4} style={{ display: 'flex', alignItems: 'center', flexDirection: 'center', }}>
+        <Col span={6} style={{ display: 'flex', alignItems: 'center', flexDirection: 'center' }}>
           是否目标客户
           <Select
+            style={{ width: 200 }}
             defaultValue={isTarget}
             onChange={(value) => {
-              console.log('\x1b[36m%s', 'setIsTarget123', value);
               setIsTarget(value)
             }}
             options={[
-              { value: 2, label: '全部' },
+              { value: null, label: '全部' },
+              { value: 2, label: '未开发' },
               { value: 1, label: '是' },
               { value: 0, label: '否' },
             ]}
@@ -361,7 +370,10 @@ function Importgenius() {
       {
         data && <Table style={{ marginTop: 12 }}
           loading={loading}
-          columns={columns} rowkey='new_date' dataSource={data} pagination={
+          columns={columns}
+          scroll={{ x: 2800 }}
+          rowkey='new_date'
+          dataSource={data} pagination={
             {
               showQuickJumper: true,
               total: totalRef.current,

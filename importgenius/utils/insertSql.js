@@ -17,7 +17,8 @@ const localDbConfig = {
 }
 
 const cloudDbConfig = {
-    host: '43.156.33.21',
+    // host: '43.156.33.21',
+    host: 'localhost',
     user: 'root',
     password: 'Asd123456!',
     database: 'import_data',
@@ -41,7 +42,7 @@ async function main() {
             const filePath = `${directoryPath}/${file}`;
             const fileNumber = parseInt(file)
             // 新数据库
-            if (fileNumber < 678) continue
+            if (fileNumber < 921) continue
             // console.log('\x1b[36m%s', 'filePath123', filePath);
 
             const data = await fs.readFile(filePath, 'utf8');

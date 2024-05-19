@@ -2,6 +2,7 @@
 const mysql = require('mysql2/promise');
 
 // 创建数据库连接池
+//TODO 环境变量
 const pool = mysql.createPool({
     host: '43.156.33.21',
     user: 'root',
@@ -42,7 +43,7 @@ async function getImportgenius(ctx) {
         queryParams.push(url);
     }
 
-    if ([0, 1].includes(Number(isTarget))) {
+    if ([0, 1, 2].includes(Number(isTarget))) {
         query += ' AND isTarget = ?';
         queryParams.push(isTarget);
     }
@@ -82,7 +83,8 @@ async function getImportgenius(ctx) {
 async function updateImportGenius(ctx) {
     const { id, isTarget } = ctx.request.body || {};
     console.log('\x1b[36m%s', 'ctx.body123', ctx.request.body);
-    if (!id || ![0, 1].includes(Number(isTarget))) {
+    // 0 表示 非目标， 1目标客户， 2 表示未开发
+    if (!id || ![0, 1, 2].includes(Number(isTarget))) {
         ctx.status = 500;
         ctx.body = { message: 'Data is not correct' };
         return
