@@ -15,9 +15,9 @@ root.render(
       <Route exact path="/app" element={<App />}></Route>
       <Route path="/app/tradesns" element={<Tradesns />}></Route>
       <Route path="/app/detail" element={<Detail />}></Route>
+      <Route path="/app/importgenius" element={<Importgenius />}></Route>
     </Routes>
     <Routes>
-      <Route path="/importgenius" element={<Importgenius />}></Route>
     </Routes>
 
   </Router>
