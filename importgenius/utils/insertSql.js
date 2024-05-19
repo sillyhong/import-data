@@ -30,7 +30,7 @@ async function main() {
 
         console.log('Connected to database.');
         // 读取 JSON 文件夹中的所有文件
-        const directoryPath = path.join(__dirname, `../hasUsed.jsonimporter/${writeFileDir}`);
+        const directoryPath = path.join(__dirname, `../importer/${writeFileDir}`);
         // 读取 importer/country 目录下的所有 JSON 文件
 
         //正序
