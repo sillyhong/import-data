@@ -1,4 +1,5 @@
 const fs = require('fs').promises; // Using fs.promises for async file operations
+const path = require('path');
 const mysql = require('mysql2/promise'); // Using mysql2/promise for async database operations
 
 const country = 'usa'// 美国
@@ -28,9 +29,8 @@ async function main() {
         const connection = await mysql.createConnection(cloudDbConfig);
 
         console.log('Connected to database.');
-
         // 读取 JSON 文件夹中的所有文件
-        const directoryPath = `/Users/liangweihong/Documents/import-data/importgenius/importer/${writeFileDir}`;
+        const directoryPath = path.join(__dirname, `../hasUsed.jsonimporter/${writeFileDir}`);
         // 读取 importer/country 目录下的所有 JSON 文件
 
         //正序
