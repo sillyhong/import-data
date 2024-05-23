@@ -111,10 +111,23 @@ function Importgenius() {
         onChange={handleCountryValueChange}
         allowClear
         options={[
+          /* 北美 */
           { value: 'usa', label: '美国' },
+          /* 亚洲 */
+          { value: 'india', label: '印度' },
+          { value: 'vietnam', label: '越南' },
+          /* 欧洲 */
+          /* 拉丁美洲 */
           { value: 'argentina', label: '阿根廷' },
           { value: 'chile', label: '智利' },
           { value: 'colombia', label: '哥伦比亚' },
+          { value: 'costarica', label: '哥斯达黎加' },
+          { value: 'ecuador', label: '厄瓜多尔' },
+          { value: 'panama', label: '巴拿马' },
+          { value: 'peru', label: '秘鲁' },
+          { value: 'paraguay', label: '巴拉圭' },
+          { value: 'uruguay', label: '乌拉圭' },
+          { value: 'venezuela', label: '委内瑞拉' },
         ]}
       />
     )
