@@ -82,27 +82,7 @@
     },
     "mostRecentDate": 1709164800,
     "url": "ecuador/importers/burbano-luciana",
-    "shipments": [
-      {
-        "QuantityUnit": "NUMERO DE UNIDADES",
-        "CountryOfOrigin": "UNITED STATES",
-        "Consignee": {
-          "name": "BURBANO LUCIANA"
-        },
-        "CountryOfDestination": "EC",
-        "ProductDescription": [
-          "1 PRENDA DE VESTIR 1 PRENDA DE VESTIR"
-        ],
-        "ArrivalDate": 1697846400,
-        "BillOfLading": "SH147480",
-        "Quantity": "1.00",
-        "Shipper": {
-          "name": "BOOHOO-TMALOGISTICS CORP",
-          "link": "ecuador/suppliers/boohoo-tmalogistics-corp"
-        },
-        "GrossWeightKgs": null
-      }
-    ]
+    "shipments": null
   },
   {
     "totalShipments": 1,
@@ -125,27 +105,7 @@
     },
     "mostRecentDate": 1709164800,
     "url": "ecuador/importers/meza-alexi",
-    "shipments": [
-      {
-        "QuantityUnit": "NUMERO DE UNIDADES",
-        "CountryOfOrigin": "UNITED STATES",
-        "Consignee": {
-          "name": "MEZA ALEXI"
-        },
-        "CountryOfDestination": "EC",
-        "ProductDescription": [
-          "ZAPATOS"
-        ],
-        "ArrivalDate": 1697846400,
-        "BillOfLading": "SH225841",
-        "Quantity": "1.00",
-        "Shipper": {
-          "name": "SHEIN-ZONE DIGITAL ENTERPRISES CORP",
-          "link": "ecuador/suppliers/shein-zone-digital-enterprise-corp"
-        },
-        "GrossWeightKgs": null
-      }
-    ]
+    "shipments": null
   },
   {
     "totalShipments": 1,

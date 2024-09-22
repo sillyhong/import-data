@@ -78,24 +78,24 @@
     "url": "importers/horton-photography",
     "shipments": [
       {
+        "QuantityUnit": "CTN",
         "Consignee": {
           "name": "HORTON PHOTOGRAPHY"
         },
-        "EntryId": 263880410,
-        "BillOfLading": "KFUNTCS9WO21610",
-        "ArrivalDate": 1713312000,
-        "GrossWeightLbs": 601,
+        "GrossWeightKgs": 273,
         "Quantity": 117,
         "CountryOfOrigin": "China",
-        "QuantityUnit": "CTN",
-        "Shipper": {
-          "name": "HAN EXIM COMPANY LIMITED",
-          "link": "suppliers/han-exim-company-limited"
-        },
-        "GrossWeightKgs": 273,
+        "BillOfLading": "KFUNTCS9WO21610",
         "ProductDescription": [
           "BAMBOO LANTERNS"
-        ]
+        ],
+        "ArrivalDate": 1713312000,
+        "EntryId": 263880410,
+        "Shipper": {
+          "link": "suppliers/han-exim-company-limited",
+          "name": "HAN EXIM COMPANY LIMITED"
+        },
+        "GrossWeightLbs": 601
       }
     ]
   },
@@ -128,24 +128,24 @@
     "url": "importers/bdm-incorporated",
     "shipments": [
       {
-        "BillOfLading": "SVDLSDB06S018059",
-        "GrossWeightLbs": 9900,
+        "QuantityUnit": "PKG",
+        "Consignee": {
+          "name": "BDM INCORPORATED"
+        },
+        "GrossWeightKgs": 4500,
         "Quantity": 7,
+        "CountryOfOrigin": "Italy",
+        "BillOfLading": "SVDLSDB06S018059",
+        "ProductDescription": [
+          "ELECTRICAL CIRCUITS SWITCHING, PROTECTING APP"
+        ],
+        "ArrivalDate": 1713312000,
         "EntryId": 263880929,
         "Shipper": {
           "link": "suppliers/ram-elettronica-srl",
           "name": "RAM ELETTRONICA SRL"
         },
-        "CountryOfOrigin": "Italy",
-        "ArrivalDate": 1713312000,
-        "GrossWeightKgs": 4500,
-        "QuantityUnit": "PKG",
-        "Consignee": {
-          "name": "BDM INCORPORATED"
-        },
-        "ProductDescription": [
-          "ELECTRICAL CIRCUITS SWITCHING, PROTECTING APP"
-        ]
+        "GrossWeightLbs": 9900
       }
     ]
   },

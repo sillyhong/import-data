@@ -4,6 +4,14 @@ const cheerio = require('cheerio');
 const axios = require('axios');
 const vm = require('vm');
 
+
+// 获取命令行参数 需要读取的长度
+let needFetchArg = process.argv.slice(2);
+
+if (needFetchArg && needFetchArg.length) {
+    needFetchArg = needFetchArg.map(item => Number(item))
+}
+
 // 定义每次处理的数据数量
 const batchSize = 4;
 
@@ -28,14 +36,11 @@ const batchSize = 4;
 // const country = 'colombia'// 哥伦比亚 done
 // const country = 'costarica'// 哥斯达黎加  done
 // const country = 'ecuador'// 厄瓜多尔  done
-// const country = 'panama'// 巴拿马 
+const country = 'panama'// 巴拿马 
 // const country = 'peru'// 秘鲁 
 // const country = 'paraguay'// 巴拉圭 
-const country = 'uruguay'// 乌拉圭 
+// const country = 'uruguay'// 乌拉圭 
 // const country = 'venezuela'// 委内瑞拉 
-
-const writeFileDir = country
-
 
 const isUSA = country === 'usa'
 
@@ -49,14 +54,17 @@ const handleUruguay = (nuxtData, shipments) => {
 
 }
 
-// 读取 importer/country 目录下的所有 JSON 文件
-const directoryPath = path.join(__dirname, `importer/${writeFileDir}`);
-let jsonFiles = fs.readdirSync(directoryPath);
-jsonFiles = jsonFiles.sort((a, b) => {
-    const numberA = parseInt(a.match(/\d+/)[0]); // 提取数字部分并转换为整数
-    const numberB = parseInt(b.match(/\d+/)[0]); // 提取数字部分并转换为整数
-    return numberA - numberB;
-})
+const getJSONFilesByCountry = (country) => {
+    // 读取 importer/country 目录下的所有 JSON 文件
+    const directoryPath = path.join(__dirname, `importer/${country}`);
+    let jsonFiles = fs.readdirSync(directoryPath);
+    jsonFiles = jsonFiles.sort((a, b) => {
+        const numberA = parseInt(a.match(/\d+/)[0]); // 提取数字部分并转换为整数
+        const numberB = parseInt(b.match(/\d+/)[0]); // 提取数字部分并转换为整数
+        return numberA - numberB;
+    })
+    return jsonFiles
+}
 
 // 获取当前文件最后一个json名字
 // const lastJsonFile = jsonFiles.length ? jsonFiles[jsonFiles.length - 1] : 0
@@ -153,20 +161,25 @@ function processDataBatch(data, startIndex, readPath) {
 }
 
 // 定义一个函数，用于处理所有 JSON 文件
-async function processAllJsonFiles(files, index) {
+async function fetchShipments(country, index, isIncrementalExecute = true) {
     // if (index !== 1) {
     //     console.log('所有数据已处理完成');
     //     return;
     // }
-    if (index > files.length) {
+    // 开始处理所有 JSON 文件，默认从索引 1 开始 
+    const files = getJSONFilesByCountry(country)
+    if (isIncrementalExecute && index > files.length) {
         console.log('所有数据已处理完成');
         return;
     }
     // usa 从0.json开始, 其他从1.json开始
     const curIndex = isUSA ? index : index - 1
     const fileName = files[curIndex];
-    const readPath = path.join(directoryPath, fileName);
-    console.log('\x1b[36m%s', '处理文件:', readPath);
+    const readPath = path.join(__dirname, `importer/${country}`, fileName);
+
+    // console.log('\x1b[36m%s', 'directoryPath2222', readPath);
+
+    // console.log('\x1b[36m%s', '处理文件:', readPath);
     const jsonData = fs.readFileSync(readPath, 'utf8');
     const data = JSON.parse(jsonData);
     // 开始处理数据，从索引 0 开始
@@ -179,13 +192,21 @@ async function processAllJsonFiles(files, index) {
                 console.error(`处理批次 ${Math.floor(i / batchSize) + 1} 失败:`, error);
             });
 
-        // 等待 3 秒
-        await new Promise(resolve => setTimeout(resolve, 2500));
+        // 等待 5 秒
+        await new Promise(resolve => setTimeout(resolve, 5000));
     }
-
-    // 处理下一个 JSON 文件
-    await processAllJsonFiles(files, index + 1);
+    // 自动递增执行
+    if (isIncrementalExecute) {
+        // 处理下一个 JSON 文件
+        await fetchShipments(country, files, index + 1);
+    }
 }
 
-// 开始处理所有 JSON 文件，从索引 1 开始
-processAllJsonFiles(jsonFiles, 126);
+
+
+// fetchShipments('panama', 2, false);
+
+
+module.exports = {
+    fetchShipments
+}

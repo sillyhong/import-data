@@ -18,7 +18,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "winston": "^3.14.2"
   },
   "scripts": {
     "fetchImport": "node importgenius/fetchImporter.js",
@@ -27,6 +28,8 @@
     "insertSql:batch:dev": "ENV=dev node importgenius/utils/batchInsertSql.js",
     "insertSql:pro": "ENV=production node importgenius/utils/inSertSql.js",
     "insertSql:batch:pro": "ENV=production node importgenius/utils/batchInsertSql.js",
+    "schedule:dev": "ENV=dev node importgenius/schedule/getData",
+    "schedule:pro": "ENV=production node importgenius/schedule/getData",
     "start": "cross-env PORT=8080 react-scripts start",
     "start2": "cross-env PORT=8080 react-scripts start & npm run server",
     "build": "react-scripts build",

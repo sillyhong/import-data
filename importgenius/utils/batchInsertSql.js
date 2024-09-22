@@ -23,13 +23,13 @@ const isLive = process.env.ENV === 'production'
 // const country = 'colombia'// 哥伦比亚 done
 // const country = 'costarica'// 哥斯达黎加 
 // const country = 'ecuador'// 厄瓜多尔 
-const country = 'panama'// 巴拿马 
+// const country = 'panama'// 巴拿马 
 // const country = 'peru'// 秘鲁 
 // const country = 'paraguay'// 巴拉圭 
 // const country = 'uruguay'// 乌拉圭 
 // const country = 'venezuela'// 委内瑞拉 
 
-const writeFileDir = country
+
 
 const dbConfig = isLive ? {
     host: '43.156.33.21',
@@ -45,17 +45,27 @@ const dbConfig = isLive ? {
 }
 
 // 创建数据库连接
-async function main() {
+async function batchInsertSql(country, fileNumber) {
     try {
         const connection = await mysql.createConnection(dbConfig);
 
         console.log('Connected to database.');
-        // 读取 JSON 文件夹中的所有文件
-        const directoryPath = path.join(__dirname, `../importer/${writeFileDir}`);
-        // 读取 importer/country 目录下的所有 JSON 文件
 
-        //正序
-        const files = (await fs.readdir(directoryPath)).sort((a, b) => parseInt(a) - parseInt(b));
+        // 读取 JSON 文件夹中的路径
+        const directoryPath = path.join(__dirname, `../importer/${country}`);
+
+        let files = []
+        if (fileNumber) {
+            // 读取文件夹中的fileNumber文件
+            files = [`${fileNumber}.json`]
+        } else {
+
+            // 读取 importer/country 目录下的所有 JSON 文件
+
+            //正序
+            files = (await fs.readdir(directoryPath)).sort((a, b) => parseInt(a) - parseInt(b));
+        }
+
         // 逐个读取并插入文件内容到数据库
         for (const file of files) {
             const filePath = `${directoryPath}/${file}`;
@@ -67,7 +77,7 @@ async function main() {
             const data = await fs.readFile(filePath, 'utf8');
             const jsonData = JSON.parse(data);
 
-            await insertData(jsonData, filePath, connection);
+            await insertData(country, jsonData, filePath, connection);
         }
 
         // 关闭数据库连接
@@ -79,7 +89,7 @@ async function main() {
 }
 
 // 插入数据到数据库表
-async function insertData(data, filePath, connection) {
+async function insertData(country, data, filePath, connection) {
     const selectQueryUrls = 'SELECT url, raw FROM importgenius WHERE url IN (?)';
     const insertQuery = 'INSERT INTO importgenius (raw, totalShipments, company, contactInfo, mostRecentDate, url, country) VALUES ?';
 
@@ -225,4 +235,8 @@ async function insertData(data, filePath, connection) {
 
 
 // 执行主函数
-main();
+// batchInsertSql('panama', 2);
+
+module.exports = {
+    batchInsertSql
+}

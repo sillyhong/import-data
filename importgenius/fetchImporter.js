@@ -1,3 +1,9 @@
+/* 
+    优先机： 
+    1. 如果优先传入scrapeArr 只会读取scrapeArr里面的页码，不如传入[1,3, 5], 只拉取这三页
+    2. 默认读取200页
+*/
+
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
@@ -27,41 +33,53 @@ const scrapeArr = []
 // const country = 'colombia'// 哥伦比亚 done
 // const country = 'costarica'// 哥斯达黎加  done
 // const country = 'ecuador'// 厄瓜多尔 done
-// const country = 'panama'// 巴拿马  done
+const country = 'panama'// 巴拿马  done
 // const country = 'peru'// 秘鲁  done
 // const country = 'paraguay'// 巴拉圭 done 
-const country = 'uruguay'// 乌拉圭 
+// const country = 'uruguay'// 乌拉圭 
 // const country = 'venezuela'// 委内瑞拉 
 
 
 
-const writeFileDir = country
-// 获取当前文件最后一个json名字
 
 
+// 返回 startPage 和 endPage
+const getIndexByFile = (country) => {
+    // 读取 importer/country 目录下的所有 JSON 文件
+    const directoryPath = path.join(__dirname, `importer/${country}`);
+    // 检查目录是否存在，如果不存在则创建它
+    if (!fs.existsSync(directoryPath)) {
+        fs.mkdirSync(directoryPath, { recursive: true });
+        console.log(`Directory ${directoryPath} created.`);
+    }
+    let jsonFiles = fs.readdirSync(directoryPath);
 
+    jsonFiles = jsonFiles.sort((a, b) => {
+        const numberA = parseInt(a.match(/\d+/)[0]); // 提取数字部分并转换为整数
+        const numberB = parseInt(b.match(/\d+/)[0]); // 提取数字部分并转换为整数
+        return numberA - numberB;
+    })
 
-// 读取 importer/country 目录下的所有 JSON 文件
-const directoryPath = path.join(__dirname, `importer/${writeFileDir}`);
-let jsonFiles = fs.readdirSync(directoryPath);
-jsonFiles = jsonFiles.sort((a, b) => {
-    const numberA = parseInt(a.match(/\d+/)[0]); // 提取数字部分并转换为整数
-    const numberB = parseInt(b.match(/\d+/)[0]); // 提取数字部分并转换为整数
-    return numberA - numberB;
-})
+    // 获取当前文件最后一个json名字
+    const lastJsonFile = jsonFiles.length ? jsonFiles[jsonFiles.length - 1] : 0
 
-const lastJsonFile = jsonFiles.length ? jsonFiles[jsonFiles.length - 1] : 0
+    // 定义要爬取的页面范围
+    const startPage = parseInt(lastJsonFile) + 1
 
-// 定义要爬取的页面范围
-const startPage = parseInt(lastJsonFile) + 1
-const endPage = startPage + 200
-console.log('\x1b[36m%s', 'startPage123', startPage, 'endPage', endPage);
+    const endPage = startPage + 200
+    return {
+        startPage,
+        endPage
+    }
+
+}
 
 const urlPrefix = country === 'usa' ? '' : `${country}/`
 
 async function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
+
 const getUrl = (country, pageNumber) => {
     if (country === 'usa') {
         // https://www.importgenius.cn/tradebase/browse/importer/latest/1
@@ -81,10 +99,10 @@ const countryMap = {
 }
 
 // 定义爬取函数
-async function scrapePage(pageNumber) {
+async function scrapePage(country, pageNumber) {
     try {
         const url = getUrl(country, pageNumber)
-        console.log('\x1b[36m%s', 'url123', url);
+        // console.log('\x1b[36m%s', 'url123', url);
         const response = await axios.get(url);
         const html = response.data;
         // console.log('\x1b[36m%s', 'html123', html);
@@ -129,8 +147,8 @@ async function scrapePage(pageNumber) {
             return item
         })
         // 写入数据到文件
-        const writhPath = path.join(__dirname, `importer/${writeFileDir}/${pageNumber}.json`)
-        console.log('\x1b[36m%s', 'writhPath123', `importer/${writeFileDir}/${pageNumber}.json`);
+        const writhPath = path.join(__dirname, `importer/${country}/${pageNumber}.json`)
+        console.log('\x1b[36m%s', 'writhPath123', `importer/${country}/${pageNumber}.json`);
         fs.writeFileSync(writhPath, JSON.stringify(importerData));
 
         console.log(`Page ${pageNumber} scraped successfully.`);
@@ -141,7 +159,10 @@ async function scrapePage(pageNumber) {
 
 
 // 主函数，循环爬取指定页面范围的数据
-async function main(scrapeArr = []) {
+async function fetchImporter(country, scrapeArr = [] | number) {
+    // 转换为数组
+    scrapeArr = Array.isArray(scrapeArr) ? scrapeArr : [scrapeArr]
+    const { startPage, endPage } = getIndexByFile(country)
     if (!scrapeArr.length) {
         for (let i = startPage; i <= endPage; i++) {
             scrapeArr.push(i);
@@ -149,9 +170,13 @@ async function main(scrapeArr = []) {
     }
     for (let i = 0; i < scrapeArr.length; i++) {
         const pageNumber = scrapeArr[i];
-        await scrapePage(pageNumber);
-        await delay(650); // 等待 800 毫秒
+        await scrapePage(country, pageNumber);
+        await delay(4000); // 等待 800 毫秒
     }
 }
 
-main(scrapeArr);
+// fetchImporter('panama', 2);
+
+module.exports = {
+    fetchImporter
+}

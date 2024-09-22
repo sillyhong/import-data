@@ -26,28 +26,7 @@
     },
     "mostRecentDate": 1713398400,
     "url": "importers/art-of-gutter-inc-fairfield",
-    "shipments": [
-      {
-        "Consignee": {
-          "name": "ART OF GUTTER INC-FAIRFIELD"
-        },
-        "EntryId": 263928805,
-        "BillOfLading": "HYSLNTSN02240053",
-        "ArrivalDate": 1713398400,
-        "GrossWeightLbs": 36322,
-        "Quantity": 156,
-        "CountryOfOrigin": "China",
-        "QuantityUnit": "PKG",
-        "Shipper": {
-          "name": "ANPING COUNTY BOLIN METAL WIRE",
-          "link": "suppliers/anping-county-bolin-metal-wire"
-        },
-        "GrossWeightKgs": 16510,
-        "ProductDescription": [
-          "METAL WIRE MESH"
-        ]
-      }
-    ]
+    "shipments": null
   },
   {
     "totalShipments": 1,
@@ -76,27 +55,6 @@
     },
     "mostRecentDate": 1713398400,
     "url": "importers/marketing-and-digital-media-llc",
-    "shipments": [
-      {
-        "Consignee": {
-          "name": "MARKETING AND DIGITAL MEDIA LLC"
-        },
-        "EntryId": 263929794,
-        "BillOfLading": "CHKMPHSE24020002",
-        "ArrivalDate": 1713398400,
-        "GrossWeightLbs": 1036,
-        "Quantity": 42,
-        "CountryOfOrigin": "Hong Kong",
-        "QuantityUnit": "CTN",
-        "Shipper": {
-          "name": "BRACKETS CO.LTD",
-          "link": "suppliers/brackets-co-ltd"
-        },
-        "GrossWeightKgs": 471,
-        "ProductDescription": [
-          "STAINLESS STEEL TUMBLER PACK"
-        ]
-      }
-    ]
+    "shipments": null
   }
 ]

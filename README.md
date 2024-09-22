@@ -22,6 +22,7 @@
 2024-05-21 argentina 406
 2024-05-21 chile 200
 2024-05-21 colombia 201
+2024-09-22 uruguay 126(TO BE DONE)
 
 #### 插入数据库
 
