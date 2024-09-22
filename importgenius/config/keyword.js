@@ -25,6 +25,7 @@ exports.productKeyWords = [
     "glass door",
     //玻璃夹
     "8302410000",
+    "830140",//https://www.seair.co.in/us-import/i-moh-ideal-glass-hardware/e-prowin-hardware-co-limited.aspx
     "glass clamp",
     "clamp",
     //玻璃落地弹簧

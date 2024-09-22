@@ -5,8 +5,9 @@ const mysql = require('mysql2/promise'); // Using mysql2/promise for async datab
 /* 北美 */
 // const country = 'usa'// 美国 done
 
+
 /* 亚洲 */
-const country = 'india'// 印度
+// const country = 'india'// 印度
 // const country = 'vietnam'//越南
 // const country = 'turkey'//土耳其 error
 
@@ -22,7 +23,7 @@ const country = 'india'// 印度
 // const country = 'colombia'// 哥伦比亚 done
 // const country = 'costarica'// 哥斯达黎加 
 // const country = 'ecuador'// 厄瓜多尔 
-// const country = 'panama'// 巴拿马 
+const country = 'panama'// 巴拿马 
 // const country = 'peru'// 秘鲁 
 // const country = 'paraguay'// 巴拉圭 
 // const country = 'uruguay'// 乌拉圭 
@@ -38,8 +39,8 @@ const localDbConfig = {
 }
 
 const cloudDbConfig = {
-    // host: '43.156.33.21',
-    host: 'localhost',
+    host: '43.156.33.21',
+    // host: 'localhost',
     user: 'root',
     password: 'Asd123456!',
     database: 'import_data',

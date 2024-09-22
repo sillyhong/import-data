@@ -28,16 +28,26 @@ const batchSize = 4;
 // const country = 'colombia'// 哥伦比亚 done
 // const country = 'costarica'// 哥斯达黎加  done
 // const country = 'ecuador'// 厄瓜多尔  done
-const country = 'panama'// 巴拿马 
+// const country = 'panama'// 巴拿马 
 // const country = 'peru'// 秘鲁 
 // const country = 'paraguay'// 巴拉圭 
-// const country = 'uruguay'// 乌拉圭 
+const country = 'uruguay'// 乌拉圭 
 // const country = 'venezuela'// 委内瑞拉 
 
 const writeFileDir = country
 
 
 const isUSA = country === 'usa'
+
+// 处理乌拉圭 'uruguay' 
+const handleUruguay = (nuxtData, shipments) => {
+    const shipmentDetail = nuxtData.state.profile.shipmentDetails
+    shipments = shipments.map(item => {
+        item.BillOfLading = item.ArrivalDate
+        item.ProductDescription = [shipmentDetail.HSCode, shipmentDetail.HSCodeDescription]
+    })
+
+}
 
 // 读取 importer/country 目录下的所有 JSON 文件
 const directoryPath = path.join(__dirname, `importer/${writeFileDir}`);
@@ -92,12 +102,18 @@ function processDataBatch(data, startIndex, readPath) {
 
 
                                 // 输出 window.__NUXT__ 的值
-                                // 只打印 nuxtData.state.profile.shipments[0].shipments 下 第一个数据的ProductDescription， 也是一个数据
-                                const tmpData = nuxtData.state.profile.shipments[0].shipments
-                                console.log('第一个数据的ProductDescription 的值为:', tmpData && tmpData[0] && tmpData[0].ProductDescription);
+
 
                                 // 需要返回的shipments
                                 shipments = nuxtData.state.profile.shipments[0].shipments;
+
+                                // 处理乌拉圭 'uruguay' 
+                                if (country === 'uruguay') {
+                                    handleUruguay(nuxtData, shipments)
+                                }
+                                // 只打印处理后的 shipments下 第一个数据的ProductDescription， 也是一个数据
+                                console.log('第一个数据的ProductDescription 的值为:', shipments && shipments[0] && shipments[0].ProductDescription);
+
                                 return false; // 结束循环
                             }
                         }
@@ -172,4 +188,4 @@ async function processAllJsonFiles(files, index) {
 }
 
 // 开始处理所有 JSON 文件，从索引 1 开始
-processAllJsonFiles(jsonFiles, 1);
+processAllJsonFiles(jsonFiles, 126);

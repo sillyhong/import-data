@@ -25,12 +25,12 @@ const scrapeArr = []
 // const country = 'argentina'// 阿根廷 done
 // const country = 'chile'// 智利 done
 // const country = 'colombia'// 哥伦比亚 done
-// const country = 'costarica'// 哥斯达黎加 
-// const country = 'ecuador'// 厄瓜多尔 
-// const country = 'panama'// 巴拿马 
-// const country = 'peru'// 秘鲁 
-// const country = 'paraguay'// 巴拉圭 
-// const country = 'uruguay'// 乌拉圭 
+// const country = 'costarica'// 哥斯达黎加  done
+// const country = 'ecuador'// 厄瓜多尔 done
+// const country = 'panama'// 巴拿马  done
+// const country = 'peru'// 秘鲁  done
+// const country = 'paraguay'// 巴拉圭 done 
+const country = 'uruguay'// 乌拉圭 
 // const country = 'venezuela'// 委内瑞拉 
 
 
