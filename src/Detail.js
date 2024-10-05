@@ -1,14 +1,15 @@
 import './App.css';
+import React from 'react';
 import { useState, useRouter, useEffect } from 'react';
 import Table from 'react-bootstrap/Table';
-import { useParams, useLocation} from 'react-router-dom';
+import { useParams, useLocation } from 'react-router-dom';
 
 function Detail(props) {
   // const routerParams = useParams()
-  const {state} = useLocation()
+  const { state } = useLocation()
   const [data, setData] = useState(null)
-  useEffect(()=>{
-    if(state){
+  useEffect(() => {
+    if (state) {
       setData(state)
     }
   }, [state])
@@ -65,8 +66,8 @@ function Detail(props) {
         //       </tr>
         //     </tbody>
 
-          
-          
+
+
         //     {/* 航运信息 */}
         //     <thead>
         //       <tr>
