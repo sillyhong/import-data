@@ -19,7 +19,7 @@ const getQueryString = (params) => {
 
 
 function Importgenius() {
-  const hostname = location.hostname
+  const hostname = window.location.hostname
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
   const [countryValue, setCountryValue] = useState('usa')

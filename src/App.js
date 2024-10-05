@@ -9,7 +9,7 @@ import './App.css';
 
 
 function App() {
-  const hostname = location.hostname
+  const hostname = window.location.hostname
   const [data, setData] = useState(null)
   const [dataSource, setDataSource] = useState(null)
   const [index, setIndex] = useState(0)

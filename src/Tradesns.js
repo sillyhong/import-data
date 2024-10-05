@@ -9,16 +9,16 @@ import './App.css';
 
 
 function App() {
-  const hostname = location.hostname
+  const hostname = window.location.hostname
   const [data, setData] = useState(null)
   const [dataSource, setDataSource] = useState(null)
   const [index, setIndex] = useState(0)
   const [countryValue, setCountryValue] = useState('tradesns')
   const [isLocalhost, setIsLocalhost] = useState(hostname == 'localhost')
   const [productType, setProductType] = useState('hscode')
-  
+
   const [messageApi, contextHolder] = message.useMessage();
- 
+
 
   const fetchData = useCallback(async (pageIndex, curCountryValue, curProductType) => {
     try {
