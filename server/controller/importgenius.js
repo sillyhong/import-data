@@ -4,7 +4,8 @@ const mysql = require('mysql2/promise');
 // 创建数据库连接池
 //TODO 环境变量
 const pool = mysql.createPool({
-    host: '43.156.33.21',
+    // host: '43.156.33.21',
+    host: 'localhost',
     user: 'root',
     password: 'Asd123456!',
     database: 'import_data',
