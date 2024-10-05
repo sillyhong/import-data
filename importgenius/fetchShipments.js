@@ -42,8 +42,6 @@ const country = 'panama'// 巴拿马
 // const country = 'uruguay'// 乌拉圭 
 // const country = 'venezuela'// 委内瑞拉 
 
-const isUSA = country === 'usa'
-
 // 处理乌拉圭 'uruguay' 
 const handleUruguay = (nuxtData, shipments) => {
     const shipmentDetail = nuxtData.state.profile.shipmentDetails
@@ -173,7 +171,7 @@ async function fetchShipments(country, index, isIncrementalExecute = true) {
         return;
     }
     // usa 从0.json开始, 其他从1.json开始
-    const curIndex = isUSA ? index : index - 1
+    const curIndex = country === 'usa' ? index : index - 1
     const fileName = files[curIndex];
     const readPath = path.join(__dirname, `importer/${country}`, fileName);
 

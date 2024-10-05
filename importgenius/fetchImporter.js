@@ -74,7 +74,10 @@ const getIndexByFile = (country) => {
 
 }
 
-const urlPrefix = country === 'usa' ? '' : `${country}/`
+
+const getUrlPrefix = (country) => {
+    return country === 'usa' ? '' : `${country}/`
+}
 
 async function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
@@ -86,7 +89,7 @@ const getUrl = (country, pageNumber) => {
         return `https://www.importgenius.cn/tradebase/browse/importer/latest/${pageNumber}`;
     } else {
         // https://www.importgenius.cn/argentina/tradebase/importer/latest/1
-        return `https://www.importgenius.cn/${urlPrefix}tradebase/importer/latest/${pageNumber}`;
+        return `https://www.importgenius.cn/${getUrlPrefix(country)}tradebase/importer/latest/${pageNumber}`;
 
     }
 
