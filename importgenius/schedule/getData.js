@@ -86,6 +86,7 @@ async function fetchDatas(country) {
 const timestamp = dayjs().format('YYYY-MM-DD HH:MM:SS');
 (async () => {
     for (const country of countryList) {
+        logger.info(`Starting immediate data fetch and insert job at ${timestamp}`);
         await fetchDatas(country);
         logger.info(`Data fetch and insert job for ${country} started at ${timestamp}`);
     }
