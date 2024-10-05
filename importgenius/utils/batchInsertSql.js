@@ -32,8 +32,8 @@ const isLive = process.env.ENV === 'production'
 
 
 const dbConfig = isLive ? {
-    host: '43.156.33.21',
-    // host: 'localhost',
+    // host: '43.156.33.21',
+    host: 'localhost',
     user: 'root',
     password: 'Asd123456!',
     database: 'import_data',
