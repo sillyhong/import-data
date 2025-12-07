@@ -6,9 +6,12 @@
 
 const axios = require('axios');
 const cheerio = require('cheerio');
+const dayjs = require('dayjs');
 const fs = require('fs');
 const path = require('path');
 const vm = require('vm');
+const utc = require('dayjs/plugin/utc')
+dayjs.extend(utc)
 
 //优先读取scrapeArr
 const scrapeArr = []
@@ -147,6 +150,20 @@ async function scrapePage(country, pageNumber) {
             delete item.consignees;//收货人
             delete item.datapoints; // 图标信息
             delete item.ports;//港口细腻下
+            
+            // 转换 mostRecentDate 为北京时间格式（Unix 时间戳是秒，需要用 dayjs.unix()）
+            if (item.mostRecentDate && typeof item.mostRecentDate === 'number') {
+                item.mostRecentDate = dayjs.unix(item.mostRecentDate).format('YYYY-MM-DD HH:mm:ss');
+            }
+            // 处理 shippers 中的 mostRecentDate
+            if (item.shippers && item.shippers.items) {
+                item.shippers.items = item.shippers.items.map(shipper => {
+                    if (shipper.mostRecentDate && typeof shipper.mostRecentDate === 'number') {
+                        shipper.mostRecentDate = dayjs.unix(shipper.mostRecentDate).format('YYYY-MM-DD HH:mm:ss');
+                    }
+                    return shipper;
+                });
+            }
             return item
         })
         // 写入数据到文件
@@ -162,7 +179,7 @@ async function scrapePage(country, pageNumber) {
 
 
 // 主函数，循环爬取指定页面范围的数据
-async function fetchImporter(country, scrapeArr = [] | number) {
+async function fetchImporter(country, scrapeArr = []) {
     // 转换为数组
     scrapeArr = Array.isArray(scrapeArr) ? scrapeArr : [scrapeArr]
     const { startPage, endPage } = getIndexByFile(country)

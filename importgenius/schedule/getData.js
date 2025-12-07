@@ -17,8 +17,14 @@ const fetchImporter = require('../fetchImporter').fetchImporter
 const fetchShipments = require('../fetchShipments').fetchShipments
 const batchInsertSql = require('../utils/batchInsertSql').batchInsertSql
 
+const isLive = process.env.ENV === 'production'
+const DEFAULG_PAGE = isLive ? 10 : 1
 
-const countryList = [
+const envCountryList = [
+    'usa',
+]
+
+const proCountryList = [
     /* 北美 */
     'usa',
     /* 亚洲 */
@@ -40,6 +46,8 @@ const countryList = [
     'uruguay',// 乌拉圭 
     'venezuela',// 委内瑞拉 
 ]
+
+const countryList = isLive ? proCountryList : envCountryList
 
 
 // 设置日志记录
@@ -64,8 +72,8 @@ async function deleteJsonFiles(country, page) {
 }
 
 async function fetchDatas(country) {
-    try {
-        for (let page = 1; page <= 10; page++) {
+    for (let page = 1; page <= DEFAULG_PAGE; page++) {
+        try {
             await fetchImporter(country, page);
             logger.info(`[FetchImporter] Fetched importer for page: ${page} success`);
 
@@ -73,17 +81,20 @@ async function fetchDatas(country) {
             logger.info(`[FetchShipments] Fetched shipments for page: ${page} success`);
 
             await batchInsertSql(country, page);
-            logger.info(`[BatchInsertSql] Inserted data p to database, page: ${page}`);
+            logger.info(`[BatchInsertSql] Inserted data to database, page: ${page}`);
 
             await deleteJsonFiles(country, page);
-        }
+            logger.info(`[DeleteFiles] Deleted JSON file for page: ${page} success`);
 
-    } catch (error) {
-        logger.error(`Error processing pages: ${error.message}`);
+        } catch (error) {
+            // 单页失败只记录错误，继续处理下一页
+            logger.error(`Error processing page ${page} for ${country}: ${error.message}`);
+            continue;
+        }
     }
 }
 
-const timestamp = dayjs().format('YYYY-MM-DD HH:MM:SS');
+const timestamp = dayjs().format('YYYY-MM-DD HH:mm:ss');
 (async () => {
     for (const country of countryList) {
         logger.info(`Starting immediate data fetch and insert job at ${timestamp}`);
@@ -94,7 +105,7 @@ const timestamp = dayjs().format('YYYY-MM-DD HH:MM:SS');
 
 // 设置每周日的定时任务
 cron.schedule('0 0 * * 0', async () => {
-    const timestamp = dayjs().format('YYYY-MM-DD HH:MM:SS');
+    const timestamp = dayjs().format('YYYY-MM-DD HH:mm:ss');
     logger.info(`Starting weekly data fetch and insert job at ${timestamp}`);
 
     for (const country of countryList) {

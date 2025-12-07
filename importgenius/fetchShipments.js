@@ -1,8 +1,11 @@
 const fs = require('fs');
 const path = require('path');
+const dayjs = require('dayjs');
 const cheerio = require('cheerio');
 const axios = require('axios');
 const vm = require('vm');
+const utc = require('dayjs/plugin/utc')
+dayjs.extend(utc)
 
 
 // 获取命令行参数 需要读取的长度
@@ -117,6 +120,16 @@ function processDataBatch(data, startIndex, readPath) {
                                 if (country === 'uruguay') {
                                     handleUruguay(nuxtData, shipments)
                                 }
+                                
+                                // 转换 shipments 中的 mostRecentDate 为北京时间格式（Unix 时间戳是秒，需要用 dayjs.unix()）
+                                if (shipments && Array.isArray(shipments)) {
+                                    shipments = shipments.map(shipment => {
+                                        if (shipment.mostRecentDate && typeof shipment.mostRecentDate === 'number') {
+                                            shipment.mostRecentDate = dayjs.unix(shipment.mostRecentDate).format('YYYY-MM-DD HH:mm:ss');
+                                        }
+                                        return shipment;
+                                    });
+                                }
                                 // 只打印处理后的 shipments下 第一个数据的ProductDescription， 也是一个数据
                                 console.log('第一个数据的ProductDescription 的值为:', shipments && shipments[0] && shipments[0].ProductDescription);
 
@@ -158,30 +171,60 @@ function processDataBatch(data, startIndex, readPath) {
     });
 }
 
-// 定义一个函数，用于处理所有 JSON 文件
-async function fetchShipments(country, index, isIncrementalExecute = true) {
-    // if (index !== 1) {
-    //     console.log('所有数据已处理完成');
-    //     return;
-    // }
-    // 开始处理所有 JSON 文件，默认从索引 1 开始 
-    const files = getJSONFilesByCountry(country)
-    if (isIncrementalExecute && index > files.length) {
-        console.log('所有数据已处理完成');
-        return;
+/**
+ * 处理指定国家的 shipments 数据
+ * 
+ * @param {string} country - 国家代码
+ * @param {number} pageOrIndex - 页码或索引
+ *   - 当 isIncrementalExecute=false 时，作为页码使用，直接读取 {pageOrIndex}.json
+ *   - 当 isIncrementalExecute=true 时，作为起始索引使用，从目录列表中按顺序处理
+ * @param {boolean} isIncrementalExecute - 是否增量执行模式
+ *   - false: 单次执行模式，直接处理 {pageOrIndex}.json（getData.js 使用）
+ *   - true: 增量执行模式，从目录读取文件列表按顺序处理（独立执行时使用）
+ */
+async function fetchShipments(country, pageOrIndex, isIncrementalExecute = true) {
+    let fileName;
+    let readPath;
+
+    if (!isIncrementalExecute) {
+        // 单次执行模式：直接使用页码作为文件名
+        fileName = `${pageOrIndex}.json`;
+        readPath = path.join(__dirname, `importer/${country}`, fileName);
+        
+        // 检查文件是否存在
+        if (!fs.existsSync(readPath)) {
+            console.log(`⚠️ 文件不存在: ${readPath}`);
+            return;
+        }
+        console.log(`📄 单次模式 - 处理文件: ${fileName}`);
+    } else {
+        // 增量执行模式：从目录读取文件列表
+        const files = getJSONFilesByCountry(country);
+        
+        if (pageOrIndex > files.length) {
+            console.log('所有数据已处理完成');
+            return;
+        }
+        
+        const curIndex = pageOrIndex - 1;
+        fileName = files[curIndex];
+        
+        if (!fileName) {
+            console.log(`⚠️ 文件不存在: index=${pageOrIndex}, curIndex=${curIndex}, files.length=${files.length}`);
+            console.log(`📁 目录 importer/${country} 下没有找到对应的 JSON 文件`);
+            return;
+        }
+        
+        readPath = path.join(__dirname, `importer/${country}`, fileName);
+        console.log(`📄 增量模式 - 处理文件: ${fileName} (${pageOrIndex}/${files.length})`);
     }
-    // usa 从0.json开始, 其他从1.json开始
-    const curIndex = country === 'usa' ? index : index - 1
-    const fileName = files[curIndex];
-    const readPath = path.join(__dirname, `importer/${country}`, fileName);
 
-    // console.log('\x1b[36m%s', 'directoryPath2222', readPath);
 
-    // console.log('\x1b[36m%s', '处理文件:', readPath);
     const jsonData = fs.readFileSync(readPath, 'utf8');
     const data = JSON.parse(jsonData);
+    
     // 开始处理数据，从索引 0 开始
-    for (let i = 0; i <= data.length; i += batchSize) {
+    for (let i = 0; i < data.length; i += batchSize) {
         await processDataBatch(data, i, readPath)
             .then(() => {
                 console.log(`批次 ${Math.floor(i / batchSize) + 1} 已处理`);
@@ -193,16 +236,17 @@ async function fetchShipments(country, index, isIncrementalExecute = true) {
         // 等待 5 秒
         await new Promise(resolve => setTimeout(resolve, 5000));
     }
-    // 自动递增执行
+    
+    // 增量执行模式：自动处理下一个文件
     if (isIncrementalExecute) {
-        // 处理下一个 JSON 文件
-        await fetchShipments(country, files, index + 1);
+        const files = getJSONFilesByCountry(country);
+        await fetchShipments(country, pageOrIndex + 1, true);
     }
 }
 
 
 
-// fetchShipments('panama', 2, false);
+// fetchShipments('usa', 1, false);
 
 
 module.exports = {

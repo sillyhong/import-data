@@ -93,7 +93,7 @@ async function insertData(data, filePath, connection) {
             item.totalShipments,
             item.company,
             item.contactInfo,
-            new Date(item.mostRecentDate * 1000).toISOString().slice(0, 10),
+            item.mostRecentDate,
             item.url,
             country,
         ];
@@ -119,7 +119,7 @@ async function insertData(data, filePath, connection) {
 
                 // If there are new shipments, update existing record
                 const updatedTotalShipments = item.totalShipments;
-                const updatedMostRecentDate = new Date(item.mostRecentDate * 1000).toISOString().slice(0, 10);
+                const updatedMostRecentDate = item.mostRecentDate
 
                 // 旧数据没有 shipments
                 if (!existingRaw.shipments || !existingRaw.shipments.length) {

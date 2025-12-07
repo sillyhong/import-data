@@ -39,7 +39,7 @@ const dbConfig = isLive ? {
     database: 'import_data',
 } : {
     host: 'localhost',
-    user: 'test',
+    user: 'root',
     password: '123456',
     database: 'import_data',
 }
@@ -109,7 +109,6 @@ async function insertData(country, data, filePath, connection) {
     // 准备批量插入和更新的数据
     const insertValues = []; // 新记录
     const updateValues = []; // 需要更新的记录
-    // console.log('\x1b[36m%s', 'insertValues123', insertValues.length, 'updateValues', updateValues.length);
     for (const item of data) {
         const existingRecord = existingRecords[item.url];
 
@@ -118,7 +117,7 @@ async function insertData(country, data, filePath, connection) {
             item.totalShipments,
             item.company,
             item.contactInfo,
-            new Date(item.mostRecentDate * 1000).toISOString().slice(0, 10),
+            item.mostRecentDate,
             item.url,
             country,
         ];
@@ -151,7 +150,7 @@ async function insertData(country, data, filePath, connection) {
 
                 updateValues.push([
                     item.totalShipments,
-                    new Date(item.mostRecentDate * 1000).toISOString().slice(0, 10),
+                    item.mostRecentDate,
                     updatedRaw,
                     item.url,
                 ]);
@@ -176,7 +175,7 @@ async function insertData(country, data, filePath, connection) {
 
                 updateValues.push([
                     item.totalShipments,
-                    new Date(item.mostRecentDate * 1000).toISOString().slice(0, 10),
+                    item.mostRecentDate,
                     updatedRaw,
                     item.url,
                 ]);
@@ -235,7 +234,7 @@ async function insertData(country, data, filePath, connection) {
 
 
 // 执行主函数
-// batchInsertSql('panama', 2);
+// batchInsertSql('usa', 0);
 
 module.exports = {
     batchInsertSql
