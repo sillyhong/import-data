@@ -1,0 +1,9 @@
+.importgenius .ant-table-cell {
+  line-height: 1.65;
+}
+
+.importgenius .ant-table-tbody > tr > td > div > div + div {
+  margin-top: 5px;
+  padding-top: 5px;
+  border-top: 1px dashed #edf0f4;
+}

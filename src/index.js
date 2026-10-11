@@ -5,6 +5,7 @@ import App from './App';
 import Tradesns from './Tradesns';
 import Detail from './Detail';
 import Importgenius from './Importgenius';
+import AppLayout from './AppLayout';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
 
@@ -12,12 +13,12 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Router>
     <Routes>
-      <Route exact path="/app" element={<App />}></Route>
-      <Route path="/app/tradesns" element={<Tradesns />}></Route>
-      <Route path="/app/detail" element={<Detail />}></Route>
-      <Route path="/app/importgenius" element={<Importgenius />}></Route>
-    </Routes>
-    <Routes>
+      <Route path="/app" element={<AppLayout />}>
+        <Route index element={<App />} />
+        <Route path="tradesns" element={<Tradesns />} />
+        <Route path="detail" element={<Detail />} />
+        <Route path="importgenius" element={<Importgenius />} />
+      </Route>
     </Routes>
 
   </Router>

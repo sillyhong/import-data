@@ -1,14 +1,17 @@
 
 import React, { useEffect, useState, useMemo, useCallback } from 'react';
 import { Link } from 'react-router-dom';
-import { Space, Table, Select } from 'antd';
+import { Table, Select, Card, Row, Col, Typography } from 'antd';
 import { message } from 'antd';
 import 'antd/dist/antd.min.css'
 import './App.css';
+import PageHeading from './PageHeading';
 
+const plainText = (value = '') => String(value || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
 
 
 function App() {
+  const { Text } = Typography;
   const hostname = window.location.hostname
   const [data, setData] = useState(null)
   const [dataSource, setDataSource] = useState(null)
@@ -62,38 +65,36 @@ function App() {
 
   const renderSelect = useMemo(() => {
     return (
-      <Space wrap>
-        <Select
-          defaultValue={countryValue}
-          style={{ width: 120, marginTop: 12, marginLeft: 12 }}
-          onChange={handleCountryValueChange}
-          options={[
+      <Select
+        size="large"
+        className="filter-select"
+        value={countryValue}
+        onChange={handleCountryValueChange}
+        options={[
             // { value: 'american', label: '美国' },
             // { value: 'pakistan', label: '巴基斯坦' },
             // { value: 'ecuador', label: '厄瓜多尔' },
             // { value: 'india', label: '印度' },
             { value: 'tradesns', label: 'tradesns' },
-          ]}
-        />
-      </Space>
+        ]}
+      />
     )
   }, [handleCountryValueChange, countryValue])
 
   const renderProductType = useMemo(() => {
     return (
-      <Space wrap >
-        <Select
-          defaultValue={productType}
-          style={{ width: 'auto', marginTop: 12, marginLeft: 12 }}
-          onChange={handleProductTypeChange}
-          options={[
+      <Select
+        size="large"
+        className="filter-select"
+        value={productType}
+        onChange={handleProductTypeChange}
+        options={[
             { value: 'glass-door-handles', label: 'glass-door-handles' },
             { value: 'shower-door', label: 'shower-door' },
             { value: 'shower-hinges', label: 'shower-hinges' },
             { value: 'hscode', label: 'hscode' },
-          ]}
-        />
-      </Space>
+        ]}
+      />
     )
   }, [handleProductTypeChange, productType])
 
@@ -103,6 +104,7 @@ function App() {
       title: '进出口日期',
       dataIndex: 'last_date',
       key: 'last_date',
+      render: (value) => <span className="trade-date">{value}</span>,
     },
     {
       title: '网站',
@@ -110,12 +112,17 @@ function App() {
       dataIndex: 'websiteUrl',
       // responsive: ['md', 'sm'],
       render: (_, { websiteUrl }) => {
-        return websiteUrl?.map((item, index) =>
-          <div key={item.websiteUrl + index}>
-            {/* <Link to={item.websiteUrl} target='_blank'>{item.websiteUrl}</Link> */}
-            <a target={'_blank'} href={`https://${item.websiteUrl}`} rel="noreferrer">{item.websiteUrl}</a>
+        const websites = websiteUrl || [];
+        return (
+          <div className="trade-cell-clamp" title={websites.map((item) => item.websiteUrl).join(' · ')}>
+            {websites.map((item, index) => (
+              <React.Fragment key={item.websiteUrl + index}>
+                {index > 0 && ' · '}
+                <a target="_blank" href={`https://${item.websiteUrl}`} rel="noreferrer">{item.websiteUrl}</a>
+              </React.Fragment>
+            ))}
           </div>
-        )
+        );
       }
     },
     {
@@ -123,7 +130,7 @@ function App() {
       dataIndex: 'shipper_name',
       key: 'shipper_name',
       render: (_, { shipper_name }) => (
-        <a target={'_blank'} href={`https://www.google.com.hk/search?q=${shipper_name}`} rel="noreferrer">{shipper_name}</a>
+        <a className="trade-cell-clamp" title={shipper_name} target="_blank" href={`https://www.google.com.hk/search?q=${shipper_name}`} rel="noreferrer">{shipper_name}</a>
       )
     },
     {
@@ -131,7 +138,7 @@ function App() {
       dataIndex: 'company',
       key: 'company',
       render: (_, { company }) => (
-        <a target={'_blank'} href={`https://www.google.com.hk/search?q=${company}`} rel="noreferrer">{company}</a>
+        <a className="trade-cell-clamp" title={company} target="_blank" href={`https://www.google.com.hk/search?q=${company}`} rel="noreferrer">{company}</a>
       )
     },
     {
@@ -140,10 +147,8 @@ function App() {
       dataIndex: 'hscode',
       responsive: ['md', 'sm'],
       render: (_, { hscode }) => {
-        return hscode?.map((item, index) =>
-          <div key={item.name + index}>{item.name}
-          </div>
-        )
+        const codes = hscode?.map((item) => item.name).join('、') || '';
+        return <span className="trade-cell-clamp" title={codes}>{codes}</span>;
       }
     },
     {
@@ -152,10 +157,9 @@ function App() {
       dataIndex: 'info',
       responsive: ['md', 'sm'],
       render: (_, { info }) => (
-        <>
-          {/* {product_desc} */}
-          <div dangerouslySetInnerHTML={{ __html: info }}></div>
-        </>
+        <div className="trade-cell-clamp trade-description" title={plainText(info)}>
+          {plainText(info)}
+        </div>
       ),
     },
     {
@@ -182,10 +186,8 @@ function App() {
       dataIndex: 'country',
       responsive: ['md', 'sm'],
       render: (_, { country }) => {
-        return country?.map((item, index) =>
-          <div key={item.country_id + index}>{item.country_id}
-          </div>
-        )
+        const countries = country?.map((item) => item.country_id).join('、') || '';
+        return <span className="trade-cell-clamp" title={countries}>{countries}</span>;
       }
     },
     {
@@ -193,31 +195,43 @@ function App() {
       key: 'action',
       dataIndex: 'action',
       responsive: ['md', 'sm'],
+      width: 112,
+      fixed: 'right',
       render: (_, record) => {
-        return (
-          <Space size="middle">
-            {/* <div className='detail-text' onClick={handelDetailClick}>Detail</div> */}
-            {/* <Link to={{path: '/detail', query: record }}>Detail</Link> */}
-            <Link to='detail' state={record}>Detail</Link>
-          </Space>
-        )
+        return <Link className="record-detail-link" to="detail" state={record}>查看详情</Link>
       },
     },
   ];
 
   return (
-    <div className="App">
+    <div className="data-page tradesns-page">
       {contextHolder}
-      <div style={{ display: 'flex', flexDirection: 'column' }}>
-        {
-          renderSelect
-        }
-        {
-          renderProductType
-        }
-      </div>
+      <PageHeading
+        eyebrow="TRADESNS RECORDS"
+        title="TradeSNS 数据"
+        description="查看 TradeSNS 采集的供应链网站、企业信息与商品线索。"
+      />
+      <Card className="filter-panel" bordered={false}>
+        <div className="panel-caption">
+          <Text strong>筛选条件</Text>
+          <Text type="secondary">选择数据主题</Text>
+        </div>
+        <Row gutter={[16, 12]} align="middle">
+          <Col xs={24} sm={12} md={8}>
+            <div className="filter-field"><Text className="filter-label">数据源</Text>{renderSelect}</div>
+          </Col>
+          <Col xs={24} sm={12} md={10}>
+            <div className="filter-field"><Text className="filter-label">商品类别</Text>{renderProductType}</div>
+          </Col>
+        </Row>
+      </Card>
       {
-        data && <Table style={{ marginTop: 12 }} columns={columns} rowkey='new_date' dataSource={dataSource} pagination={
+        data && <Card className="table-panel" bordered={false}>
+          <div className="table-panel-heading">
+            <div><Text strong>企业与商品线索</Text><Text type="secondary">TradeSNS 采集结果</Text></div>
+            <span className="result-count">{dataSource?.length ?? 0} 条记录</span>
+          </div>
+          <Table columns={columns} scroll={{ x: 1100 }} rowKey="last_date" dataSource={dataSource} pagination={
           {
             showQuickJumper: true,
             total: dataSource.length,
@@ -229,6 +243,7 @@ function App() {
             pageSize: 10
           }
         } />
+        </Card>
       }
     </div>
   );

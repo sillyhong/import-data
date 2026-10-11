@@ -1,11 +1,12 @@
 
 import React, { useEffect, useState, useMemo, useCallback, useRef } from 'react';
-import { Space, Table, Select, Row, Col, Input, Button } from 'antd';
+import { Space, Table, Select, Row, Col, Input, Button, Card, Typography } from 'antd';
 import { message } from 'antd';
 import dayjs from 'dayjs';
 import { updateTargetById } from './API/importgenius';
 import 'antd/dist/antd.min.css'
 import './Importgenius.css';
+import PageHeading from './PageHeading';
 
 
 const getQueryString = (params) => {
@@ -19,6 +20,8 @@ const getQueryString = (params) => {
 
 
 function Importgenius() {
+  const { Text } = Typography;
+  const Option = Select.Option;
   const hostname = window.location.hostname
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
@@ -106,8 +109,9 @@ function Importgenius() {
   const renderCountrySelect = useMemo(() => {
     return (
       <Select
+        size="large"
         defaultValue={countryValue}
-        style={{ width: 120 }}
+        style={{ width: '100%' }}
         onChange={handleCountryValueChange}
         allowClear
         options={[
@@ -136,8 +140,9 @@ function Importgenius() {
   const renderProductType = useMemo(() => {
     return (
       <Select
+        size="large"
         defaultValue={productType}
-        style={{ width: 160 }}
+        style={{ width: '100%' }}
         allowClear
         onChange={handleProductTypeChange}
         options={[
@@ -341,47 +346,64 @@ function Importgenius() {
     },
   ];
   return (
-    <div className="importgenius">
+    <div className="data-page importgenius">
       {contextHolder}
-      <Row style={{ marginTop: 12 }}>
-        <Col span={4}> 选择国家 {
-          renderCountrySelect
-        }</Col>
-        <Col span={4}> 选择产品类型 {
-          renderProductType
-        }</Col>
-        <Col span={4}>
-          <Space>
-            <Input placeholder="关键词搜索" onBlur={handleKeyWordChange} allowClear />
-          </Space>
-        </Col>
-        <Col span={6} style={{ display: 'flex', alignItems: 'center', flexDirection: 'center' }}>
-          是否目标客户
-          <Select
-            style={{ width: 200 }}
-            defaultValue={isTarget}
-            onChange={(value) => {
-              setIsTarget(value)
-            }}
-            options={[
-              { value: null, label: '全部' },
-              { value: 2, label: '未开发' },
-              { value: 1, label: '是' },
-              { value: 0, label: '否' },
-            ]}
-          />
-        </Col>
-
-        <Button
-          onClick={fetchData}
-          size="middle"
-          type="primary"
-        >
-          查询
-        </Button>
-      </Row>
+      <PageHeading
+        eyebrow="IMPORTGENIUS PROSPECTS"
+        title="进口商与客户线索"
+        description="检索进口商、供应商和提单记录，并维护目标客户状态。"
+      />
+      <Card className="filter-panel" bordered={false}>
+        <div className="panel-caption">
+          <Text strong>线索筛选</Text>
+          <Text type="secondary">设置国家、品类与客户状态</Text>
+        </div>
+        <Row gutter={[16, 14]} align="bottom">
+          <Col xs={24} sm={12} xl={5}>
+            <div className="filter-field"><Text className="filter-label">国家 / 地区</Text>{renderCountrySelect}</div>
+          </Col>
+          <Col xs={24} sm={12} xl={5}>
+            <div className="filter-field"><Text className="filter-label">商品类别</Text>{renderProductType}</div>
+          </Col>
+          <Col xs={24} sm={12} xl={5}>
+            <div className="filter-field">
+              <Text className="filter-label">关键词</Text>
+              <Input size="large" placeholder="输入关键词搜索" onBlur={handleKeyWordChange} allowClear />
+            </div>
+          </Col>
+          <Col xs={24} sm={12} xl={5}>
+            <div className="filter-field">
+              <Text className="filter-label">目标客户状态</Text>
+              <Select
+                size="large"
+                style={{ width: '100%' }}
+                defaultValue={isTarget}
+                onChange={(value) => {
+                  setIsTarget(value)
+                }}
+                options={[
+                  { value: null, label: '全部' },
+                  { value: 2, label: '未开发' },
+                  { value: 1, label: '是' },
+                  { value: 0, label: '否' },
+                ]}
+              />
+            </div>
+          </Col>
+          <Col xs={24} sm={12} xl={4}>
+            <Button className="filter-submit" onClick={fetchData} size="large" type="primary" block>
+              查询线索
+            </Button>
+          </Col>
+        </Row>
+      </Card>
       {
-        data && <Table style={{ marginTop: 12 }}
+        data && <Card className="table-panel" bordered={false}>
+          <div className="table-panel-heading">
+            <div><Text strong>进口商档案</Text><Text type="secondary">供应商与提单明细</Text></div>
+            <span className="result-count">{totalRef.current?.toLocaleString?.() ?? totalRef.current} 条记录</span>
+          </div>
+          <Table
           loading={loading}
           columns={columns}
           scroll={{ x: 2800 }}
@@ -399,6 +421,7 @@ function Importgenius() {
               pageSize: pageSizeRef.current,
             }
           } />
+        </Card>
       }
     </div >
   );
