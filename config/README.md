@@ -91,6 +91,6 @@ npm run start:all:prod
 npm run importyeti:production -- status
 ```
 
-`start:all:prod` 会为生产 API 显式启用本机开发页面的同源例外，只接受相同协议下来自 `localhost` 或 `127.0.0.1` 的请求，以适配 React 开发服务器代理。部署环境直接运行 `npm run server`，不会启用此例外。
+任务接口仅检查 `Origin` 请求头是否存在且格式有效，不再比对来源域名、协议和端口，也不依赖代理转发的来源信息。生产写操作继续校验任务控制令牌和二次确认；`TASK_ALLOW_LOCAL_DEV_ORIGIN` 不再参与任务接口校验。
 
 生产 API 保持单实例，启动后自动启用周日 00:00（Asia/Shanghai）定时采集；任务日志仍保存到项目根目录 `logs/tasks/`，旧 `logs/scheduler/` 历史仍可查询及清理。

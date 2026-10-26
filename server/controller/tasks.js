@@ -8,30 +8,18 @@ const COUNTRIES = [
   'ecuador', 'panama', 'peru', 'paraguay', 'uruguay', 'venezuela',
 ];
 
-function validateSameOrigin(ctx) {
+function validateOrigin(ctx) {
   const origin = ctx.get('origin');
-  if (!origin) throw Object.assign(new Error('写操作必须来自当前站点。'), { status: 403 });
-  let originUrl;
+  if (!origin) throw Object.assign(new Error('写操作必须提供 Origin 请求头。'), { status: 403 });
   try {
-    originUrl = new URL(origin);
+    new URL(origin);
   } catch (_) {
     throw Object.assign(new Error('请求来源无效。'), { status: 403 });
   }
-  const forwardedHost = (ctx.get('x-forwarded-host') || ctx.host).split(',')[0].trim();
-  const requestProtocol = (ctx.get('x-forwarded-proto') || ctx.protocol).split(',')[0].trim();
-  const requestOrigin = `${requestProtocol}://${forwardedHost}`;
-  let requestUrl;
-  try { requestUrl = new URL(requestOrigin); } catch (_) { requestUrl = null; }
-  const normalizedRequestOrigin = requestUrl?.origin;
-  const allowLocalDevOrigin = process.env.TASK_ENV === 'local' || process.env.TASK_ALLOW_LOCAL_DEV_ORIGIN === 'true';
-  const sameLocalHost = allowLocalDevOrigin && requestUrl &&
-    ['localhost', '127.0.0.1'].includes(originUrl.hostname) && originUrl.hostname === requestUrl.hostname &&
-    originUrl.protocol === requestUrl.protocol;
-  if (originUrl.origin !== normalizedRequestOrigin && !sameLocalHost) throw Object.assign(new Error('跨站写操作已拒绝。'), { status: 403 });
 }
 
 function validateWrite(ctx) {
-  validateSameOrigin(ctx);
+  validateOrigin(ctx);
   const environment = runner.getEnvironment();
   if (environment === 'unknown') throw Object.assign(new Error('后端 TASK_ENV 未配置，任务执行已禁用。'), { status: 503 });
   if (environment === 'production') {
@@ -121,7 +109,7 @@ async function getImportGeniusBatches(ctx) {
 
 async function runTask(ctx) {
   if (['importyeti.status', 'database.inspect', 'robot.inspect'].includes(ctx.params.taskId)) {
-    validateSameOrigin(ctx);
+    validateOrigin(ctx);
     if (!runner.isWriteEnvironmentConfigured()) throw Object.assign(new Error('后端 TASK_ENV 未配置，任务执行已禁用。'), { status: 503 });
   } else {
     validateWrite(ctx);
