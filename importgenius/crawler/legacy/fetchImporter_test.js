@@ -58,7 +58,7 @@ async function scrapePage(pageNumber) {
                         // console.log('\x1b[36m%s', 'code123', '(' + matches[1] + '))');
 
                         // 写入数据到文件
-                        // const writhPath = path.join(__dirname, `importer/${pageNumber}test.json`)
+                        // const writhPath = path.join(__dirname, `../../data/importer/${pageNumber}test.json`)
                         // console.log('\x1b[36m%s', 'writhPath123', `importer/${pageNumber}test.json`);
                         // fs.writeFileSync(writhPath, '(' + matches[1] + ')');
                         // 执行 JavaScript 代码
@@ -82,7 +82,7 @@ async function scrapePage(pageNumber) {
                 return item
             })
             // 写入数据到文件
-            const writhPath = path.join(__dirname, `importer/usa/${pageNumber}.json`)
+            const writhPath = path.join(__dirname, `../../data/importer/usa/${pageNumber}.json`)
             console.log('\x1b[36m%s', 'writhPath123', `importer/usa/${pageNumber}.json`);
             fs.writeFileSync(writhPath, JSON.stringify(importerData));
             //结束promise

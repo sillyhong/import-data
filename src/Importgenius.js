@@ -1,85 +1,87 @@
 
 import React, { useEffect, useState, useMemo, useCallback, useRef } from 'react';
-import { Space, Table, Select, Row, Col, Input, Button, Card, Typography } from 'antd';
+import { Space, Table, Select, Row, Col, Input, Button, Card, Typography, DatePicker, Tooltip } from 'antd';
+import { SearchOutlined } from '@ant-design/icons';
 import { message } from 'antd';
 import dayjs from 'dayjs';
-import { updateTargetById } from './API/importgenius';
+import 'moment/locale/zh-cn';
+import datePickerLocale from 'antd/es/date-picker/locale/zh_CN';
+import { getImportGenius, updateTargetById } from './API/importgenius';
 import 'antd/dist/antd.min.css'
 import './Importgenius.css';
 import PageHeading from './PageHeading';
-
-
-const getQueryString = (params) => {
-  const queryString = Object.keys(params)
-    .filter(key => params[key] !== undefined && params[key] !== null && params[key] !== '')
-    .map(key => `${encodeURIComponent(key)}=${encodeURIComponent(params[key])}`)
-    .join('&');
-
-  return queryString;
-}
-
+import DataPagination from './DataPagination';
 
 function Importgenius() {
   const { Text } = Typography;
   const Option = Select.Option;
-  const hostname = window.location.hostname
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(false)
   const [countryValue, setCountryValue] = useState('usa')
-  const [isLocalhost, setIsLocalhost] = useState(hostname == 'localhost')
   const [productType, setProductType] = useState('shower door')
   const [isTarget, setIsTarget] = useState(null)
   const [keyword, setKeyword] = useState('')
+  const [mostRecentRange, setMostRecentRange] = useState(null)
+  const [createdRange, setCreatedRange] = useState(null)
+  const [createdAtAvailable, setCreatedAtAvailable] = useState(null)
 
   const [messageApi, contextHolder] = message.useMessage();
 
 
-  const pageIndexRef = useRef(1); // 初始化pageIndex的ref
-  const pageSizeRef = useRef(10); // 初始化pageSize的ref
-  const totalRef = useRef(0); // 初始化pageSize的ref
+  const [pageSize, setPageSize] = useState(20);
+  const [pageIndex, setPageIndex] = useState(1);
+  const [total, setTotal] = useState(0);
+  const cursorByPageRef = useRef({ 1: null });
 
 
-  const fetchData = useCallback(async () => {
+  const fetchData = useCallback(async (requestedPage = 1, requestedPageSize = pageSize, cursor) => {
     try {
       setLoading(true)
-      const pageIndex = pageIndexRef.current
-      const pageSize = pageSizeRef.current
       const currentCountryValue = countryValue
       const currentProductType = productType
-      const prefix = isLocalhost ? '' : '/api'
       // input输入的优先级最高 > curProductType
       const curKeyWord = keyword ? keyword : currentProductType
 
       const queryObj = {
         country: currentCountryValue,
         keyword: curKeyWord,
-        pageSize,
-        pageIndex,
+        page: requestedPage,
+        pageSize: requestedPageSize,
+        cursor,
         isTarget,
+        mostRecentFrom: mostRecentRange?.[0]?.format('YYYY-MM-DD') || '',
+        mostRecentTo: mostRecentRange?.[1]?.format('YYYY-MM-DD') || '',
+        createdFrom: createdRange?.[0]?.format('YYYY-MM-DD') || '',
+        createdTo: createdRange?.[1]?.format('YYYY-MM-DD') || '',
       }
-      const queryString = getQueryString(queryObj)
-      // console.log('\x1b[36m%s', 'string123', `${prefix}/Importgenius?${queryString}`);
-      const res = await fetch(`${prefix}/getImportgenius?${queryString}`)
-      const data = await res.json()
-      if (data) {
-        totalRef.current = data.total
-        setData(data?.data)
-      }
+      const result = await getImportGenius(queryObj)
+      setData(result?.data || [])
+      setTotal(Number(result?.total || 0))
+      setPageIndex(Number(result?.page || requestedPage))
+      setCreatedAtAvailable(result?.creationTimeAvailable !== false)
+      if (result?.nextCursor) cursorByPageRef.current[requestedPage + 1] = result.nextCursor
+      else delete cursorByPageRef.current[requestedPage + 1]
     } catch (error) {
       console.log('error123', error);
       messageApi.open({
         type: 'error',
-        content: '请求失败, 请修改参数',
+        content: error.message || '请求失败，请检查数据库和关键词索引。',
       });
     } finally {
       setLoading(false)
 
     }
-  }, [countryValue, productType, isLocalhost, keyword, isTarget])
+  }, [countryValue, productType, keyword, isTarget, mostRecentRange, createdRange, pageSize])
 
   useEffect(() => {
-    fetchData(1)
+    fetchData(1, pageSize, null)
   }, [])
+
+  const resetAndFetch = useCallback(() => {
+    cursorByPageRef.current = { 1: null }
+    setPageIndex(1)
+    fetchData(1, pageSize, null)
+  }, [fetchData, pageSize])
 
   const handleCountryValueChange = useCallback((value) => {
     setCountryValue(value)
@@ -87,12 +89,12 @@ function Importgenius() {
 
   const handleProductTypeChange = useCallback((value) => {
     setProductType(value)
-  }, [countryValue]);
+  }, []);
 
 
   const handleUpdateTarget = useCallback(async (updateValue, id) => {
     const res = await updateTargetById(id, updateValue)
-    if (res) {
+    if (res.ok) {
       // 更新data
       const curData = data.map(item => {
         if (item.id === id) {
@@ -104,6 +106,19 @@ function Importgenius() {
 
     }
   }, [data])
+
+  const handlePaginationChange = useCallback((page, nextPageSize) => {
+    if (loading) return
+    if (nextPageSize !== pageSize) {
+      setPageSize(nextPageSize)
+      cursorByPageRef.current = { 1: null }
+      setPageIndex(1)
+      fetchData(1, nextPageSize, null)
+      return
+    }
+    setPageIndex(page)
+    fetchData(page, pageSize, cursorByPageRef.current[page])
+  }, [fetchData, loading, pageSize])
 
 
   const renderCountrySelect = useMemo(() => {
@@ -153,12 +168,6 @@ function Importgenius() {
       />
     )
   }, [handleProductTypeChange, productType])
-
-  const handleKeyWordChange = useCallback((event,) => {
-    if (!event?.target?.value) return
-    setKeyword(event.target.value)
-  }, [])
-
 
   const columns = [
     {
@@ -349,29 +358,25 @@ function Importgenius() {
     <div className="data-page importgenius">
       {contextHolder}
       <PageHeading
+        compact
         eyebrow="IMPORTGENIUS PROSPECTS"
         title="进口商与客户线索"
-        description="检索进口商、供应商和提单记录，并维护目标客户状态。"
       />
       <Card className="filter-panel" bordered={false}>
-        <div className="panel-caption">
-          <Text strong>线索筛选</Text>
-          <Text type="secondary">设置国家、品类与客户状态</Text>
-        </div>
-        <Row gutter={[16, 14]} align="bottom">
-          <Col xs={24} sm={12} xl={5}>
+        <Row className="filter-primary-row" gutter={[16, 6]} align="bottom">
+          <Col xs={12} sm={6} xl={6}>
             <div className="filter-field"><Text className="filter-label">国家 / 地区</Text>{renderCountrySelect}</div>
           </Col>
-          <Col xs={24} sm={12} xl={5}>
+          <Col xs={12} sm={6} xl={6}>
             <div className="filter-field"><Text className="filter-label">商品类别</Text>{renderProductType}</div>
           </Col>
-          <Col xs={24} sm={12} xl={5}>
+          <Col xs={12} sm={6} xl={6}>
             <div className="filter-field">
               <Text className="filter-label">关键词</Text>
-              <Input size="large" placeholder="输入关键词搜索" onBlur={handleKeyWordChange} allowClear />
+              <Input size="large" placeholder="输入关键词" value={keyword} onChange={event => setKeyword(event.target.value)} allowClear />
             </div>
           </Col>
-          <Col xs={24} sm={12} xl={5}>
+          <Col xs={12} sm={6} xl={6}>
             <div className="filter-field">
               <Text className="filter-label">目标客户状态</Text>
               <Select
@@ -390,10 +395,49 @@ function Importgenius() {
               />
             </div>
           </Col>
-          <Col xs={24} sm={12} xl={4}>
-            <Button className="filter-submit" onClick={fetchData} size="large" type="primary" block>
-              查询线索
-            </Button>
+        </Row>
+        <Row className="importgenius-date-filters" gutter={[16, 6]} align="bottom">
+          <Col xs={24} sm={12} md={9} xl={9}>
+            <div className="filter-field">
+              <Text className="filter-label">最新进口日期</Text>
+              <DatePicker.RangePicker
+                size="large"
+                locale={datePickerLocale}
+                format="YYYY-MM-DD"
+                placeholder={['开始日期', '结束日期']}
+                value={mostRecentRange}
+                onChange={setMostRecentRange}
+                allowClear
+              />
+            </div>
+          </Col>
+          <Col xs={24} sm={12} md={9} xl={9}>
+            <div className="filter-field">
+              <Text className="filter-label">数据创建时间</Text>
+              <Tooltip
+                title={createdAtAvailable === false ? '数据库尚未添加创建时间字段，请先运行“盘点并补齐索引”任务。' : ''}
+              >
+                <span className="filter-picker-wrap">
+                  <DatePicker.RangePicker
+                    size="large"
+                    locale={datePickerLocale}
+                    format="YYYY-MM-DD"
+                    placeholder={createdAtAvailable === false ? ['字段待升级', '字段待升级'] : ['开始日期', '结束日期']}
+                    value={createdRange}
+                    onChange={setCreatedRange}
+                    disabled={createdAtAvailable === false}
+                    allowClear
+                  />
+                </span>
+              </Tooltip>
+            </div>
+          </Col>
+          <Col xs={24} sm={24} md={6} xl={6}>
+            <div className="filter-actions">
+              <Button className="filter-submit" onClick={resetAndFetch} size="large" type="primary" icon={<SearchOutlined />}>
+                查询线索
+              </Button>
+            </div>
           </Col>
         </Row>
       </Card>
@@ -401,26 +445,23 @@ function Importgenius() {
         data && <Card className="table-panel" bordered={false}>
           <div className="table-panel-heading">
             <div><Text strong>进口商档案</Text><Text type="secondary">供应商与提单明细</Text></div>
-            <span className="result-count">{totalRef.current?.toLocaleString?.() ?? totalRef.current} 条记录</span>
+            <span className="result-count">共 {total.toLocaleString()} 条</span>
           </div>
           <Table
           loading={loading}
           columns={columns}
           scroll={{ x: 2800 }}
-          rowkey='new_date'
-          dataSource={data} pagination={
-            {
-              showQuickJumper: true,
-              total: totalRef.current,
-              onChange: (pageIndexNumber, pageSize) => {
-                pageIndexRef.current = pageIndexNumber
-                pageSizeRef.current = pageSize
-                fetchData(pageIndexNumber, pageSize)
-              },
-              current: pageIndexRef.current,
-              pageSize: pageSizeRef.current,
-            }
-          } />
+          rowKey="id"
+          dataSource={data}
+          pagination={false}
+          />
+          <DataPagination
+            current={pageIndex}
+            pageSize={pageSize}
+            total={total}
+            onChange={handlePaginationChange}
+            disabled={loading}
+          />
         </Card>
       }
     </div >

@@ -1,0 +1,87 @@
+.importyeti-page {
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+  color: var(--ui-text);
+}
+
+.iy-summary-alert {
+  margin-bottom: 14px;
+}
+
+.iy-summary-row {
+  margin-bottom: 10px;
+}
+
+.iy-stat-card.ant-card {
+  height: 100%;
+  border: 1px solid var(--ui-border);
+  border-radius: var(--ui-radius-card);
+  background: #fff;
+  box-shadow: 0 6px 22px rgba(35, 59, 88, 0.045);
+}
+
+.iy-stat-card .ant-card-body {
+  padding: 12px 18px;
+}
+
+.iy-stat-card .ant-statistic-title {
+  margin-bottom: 7px;
+  color: #8795a7;
+  font-size: 11px;
+}
+
+.iy-stat-card .ant-statistic-content {
+  color: #2b405b;
+  font-size: 21px;
+  font-weight: 650;
+}
+
+.iy-tabs > .ant-tabs-nav {
+  margin-bottom: 18px;
+}
+
+.iy-tabs .ant-tabs-tab {
+  color: #78879a;
+  font-size: 13px;
+}
+
+.iy-tabs .ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: var(--ui-accent);
+  font-weight: 600;
+}
+
+.iy-range-picker.ant-picker {
+  width: 100%;
+}
+
+.iy-table-alert {
+  margin: 14px 20px 0;
+}
+
+.iy-cell-clamp {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow-wrap: anywhere;
+  line-height: 1.55;
+}
+
+.importyeti-page .table-panel .ant-table-tbody > tr > td {
+  vertical-align: top;
+}
+
+@media (max-width: 575px) {
+  .iy-stat-card .ant-card-body {
+    padding: 14px 18px;
+  }
+
+  .iy-stat-card .ant-statistic-content {
+    font-size: 21px;
+  }
+
+  .iy-tabs > .ant-tabs-nav {
+    margin-bottom: 14px;
+  }
+}

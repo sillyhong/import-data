@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // 定义文件夹路径
-const directoryPath = path.join(__dirname, 'importer/usa');
+const directoryPath = path.join(__dirname, '../data/importer/usa');
 
 // 初始化一个数组，用于存储缺失的文件序号
 const missingIndexes = [];

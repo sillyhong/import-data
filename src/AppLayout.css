@@ -131,8 +131,7 @@
   font-size: 11px;
 }
 
-.workspace-status-dot,
-.workspace-header-indicator {
+.workspace-status-dot {
   width: 7px;
   height: 7px;
   border-radius: 50%;
@@ -146,51 +145,9 @@
   background: #f4f7fb;
 }
 
-.workspace-header {
-  position: sticky;
-  top: 0;
-  z-index: 10;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 68px;
-  padding: 0 38px;
-  border-bottom: 1px solid #e8edf4;
-  background: rgba(255, 255, 255, 0.94);
-  backdrop-filter: blur(12px);
-  line-height: normal;
-}
-
-.workspace-header > div:first-child {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-}
-
-.workspace-header-kicker {
-  color: #99a6b7;
-  font-size: 9px;
-  font-weight: 600;
-  letter-spacing: 1.2px;
-}
-
-.workspace-header-title {
-  color: #263a54;
-  font-size: 14px;
-  font-weight: 600;
-}
-
-.workspace-header-meta {
-  display: flex;
-  align-items: center;
-  gap: 9px;
-  color: #7c8a9d;
-  font-size: 12px;
-}
-
 .workspace-content {
-  min-height: calc(100vh - 68px);
-  padding: 34px 38px 48px;
+  min-height: 100vh;
+  padding: 16px 28px 32px;
 }
 
 @media (max-width: 991px) {
@@ -220,26 +177,13 @@
     margin-left: 0;
   }
 
-  .workspace-header {
-    padding: 0 24px;
-  }
-
   .workspace-content {
-    padding: 28px 24px 40px;
+    padding: 16px 20px 32px;
   }
 }
 
 @media (max-width: 575px) {
-  .workspace-header {
-    height: 60px;
-    padding: 0 16px;
-  }
-
-  .workspace-header-meta {
-    font-size: 0;
-  }
-
   .workspace-content {
-    padding: 22px 14px 32px;
+    padding: 14px 12px 24px;
   }
 }

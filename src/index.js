@@ -5,6 +5,10 @@ import App from './App';
 import Tradesns from './Tradesns';
 import Detail from './Detail';
 import Importgenius from './Importgenius';
+import Importyeti from './Importyeti';
+import TaskRunner from './TaskRunner';
+import RobotTasks from './RobotTasks';
+import SchedulerLogs from './SchedulerLogs';
 import AppLayout from './AppLayout';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
@@ -18,6 +22,11 @@ root.render(
         <Route path="tradesns" element={<Tradesns />} />
         <Route path="detail" element={<Detail />} />
         <Route path="importgenius" element={<Importgenius />} />
+        <Route path="importyeti" element={<Importyeti />} />
+        <Route path="tasks" element={<TaskRunner />} />
+        <Route path="robot-tasks" element={<RobotTasks />} />
+        <Route path="scheduler-logs" element={<SchedulerLogs />} />
+        <Route path="task-logs" element={<SchedulerLogs />} />
       </Route>
     </Routes>
 

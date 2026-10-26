@@ -1,3 +1,5 @@
+require('../config/environment').loadServerEnvironment();
+
 const Koa = require('koa'); // 引入koa
 const Router = require('koa-router'); // 引入koa-router
 const path = require('path');
@@ -5,6 +7,10 @@ const serve = require('koa-static');
 const bodyParser = require('koa-bodyparser');
 const getImportgenius = require('./controller/importgenius').getImportgenius;
 const updateImportGenius = require('./controller/importgenius').updateImportGenius;
+const importYetiController = require('./controller/importyeti');
+const tradesnsController = require('./controller/tradesns');
+const taskController = require('./controller/tasks');
+const taskLogController = require('./controller/task-logs');
 const app = new Koa(); // 创建koa应用
 const router = new Router(); // 创建路由，支持传递参数
 
@@ -30,16 +36,36 @@ app.use(router.allowedMethods({
     // methodNotAllowed: () => '不支持的请求方式'
 }));
 const main = serve(path.join(__dirname));
-app.use(main)
+app.use(async (ctx, next) => {
+    if (!/^[a-z0-9/_-]+\.json$/i.test(ctx.path)) return next();
+    await main(ctx, next);
+});
 
 // importgenius
 router.get('/getImportgenius', getImportgenius)
 router.post('/updateImportgenius', updateImportGenius)
+router.get('/getTradesns', tradesnsController.getTradesns)
+router.get('/getImportyeti/summary', importYetiController.getImportYetiSummary)
+router.get('/getImportyeti/shipments', importYetiController.getImportYetiShipments)
+router.get('/getImportyeti/entities', importYetiController.getImportYetiEntities)
+router.get('/tasks', taskController.getTasks)
+router.get('/tasks/importgenius/batches', taskController.getImportGeniusBatches)
+router.post('/tasks/:taskId/run', taskController.runTask)
+router.get('/tasks/:taskId/runs/:runId', taskController.getTaskRun)
+router.post('/tasks/:taskId/runs/:runId/stop', taskController.stopTask)
+router.post('/tasks/scheduler', taskController.updateScheduler)
+router.get('/task-logs', taskLogController.listLogs)
+router.get('/task-logs/:id/output', taskLogController.getOutput)
+router.get('/task-logs/:id', taskLogController.getLog)
+router.get('/scheduler-logs', taskLogController.listLogs)
+router.get('/scheduler-logs/:id/output', taskLogController.getOutput)
+router.get('/scheduler-logs/:id', taskLogController.getLog)
 
 
 // 启动服务监听本地8081端口
-app.listen(8081, () => {
-    console.log('应用已经启动，http://localhost:8081');
+const port = Number(process.env.PORT || 8081);
+app.listen(port, () => {
+    console.log(`Import Desk API started on port ${port}; task environment: ${process.env.TASK_ENV || 'unknown'}`);
 })
 
 app.on('error', (err) => {

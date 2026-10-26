@@ -1,3 +1,106 @@
+.importgenius .filter-panel.ant-card {
+  margin-bottom: 10px;
+  border-color: #e4eaf2;
+}
+
+.importgenius .page-heading--compact {
+  margin-bottom: 8px;
+}
+
+.importgenius .filter-panel .ant-card-body {
+  padding: 10px 14px;
+}
+
+.importgenius .filter-panel .filter-field {
+  gap: 3px;
+}
+
+.importgenius .filter-panel .filter-label {
+  color: #526477;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 15px;
+}
+
+.importgenius .filter-panel .ant-select,
+.importgenius .filter-panel .ant-input,
+.importgenius .filter-panel .ant-input-affix-wrapper,
+.importgenius .filter-panel .ant-picker {
+  width: 100%;
+}
+
+.importgenius .filter-panel {
+  --ig-filter-control-height: 36px;
+}
+
+.importgenius .filter-panel .ant-input-lg,
+.importgenius .filter-panel .ant-input-affix-wrapper-lg,
+.importgenius .filter-panel .ant-select-lg .ant-select-selector,
+.importgenius .filter-panel .ant-picker {
+  box-sizing: border-box;
+  height: var(--ig-filter-control-height) !important;
+  min-height: var(--ig-filter-control-height);
+  border-radius: 7px;
+}
+
+.importgenius .filter-panel .ant-input-affix-wrapper-lg {
+  padding: 4px 8px;
+  font-size: 13px;
+}
+
+.importgenius .filter-panel .ant-input-affix-wrapper-lg > .ant-input {
+  height: auto !important;
+  min-height: 0;
+  padding: 0;
+  font-size: 13px;
+  line-height: 24px;
+}
+
+.importgenius .filter-panel .filter-picker-wrap {
+  display: block;
+  width: 100%;
+}
+
+.importgenius .filter-panel .ant-select-lg .ant-select-selector {
+  padding: 3px 7px;
+  font-size: 13px;
+}
+
+.importgenius .filter-panel .ant-select-single.ant-select-lg .ant-select-selector .ant-select-selection-item,
+.importgenius .filter-panel .ant-select-single.ant-select-lg .ant-select-selector .ant-select-selection-placeholder {
+  line-height: 28px;
+  font-size: 13px;
+}
+
+.importgenius .filter-panel .ant-picker {
+  padding: 4px 9px;
+}
+
+.importgenius .filter-panel .ant-picker-input > input {
+  font-size: 13px;
+}
+
+.importgenius-date-filters {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid #edf1f6;
+}
+
+.importgenius .filter-actions {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.importgenius .filter-submit.ant-btn-lg {
+  min-width: 144px;
+  height: var(--ig-filter-control-height);
+  padding: 0 14px;
+  border-radius: 7px;
+  box-shadow: 0 3px 8px rgba(40, 103, 207, 0.14);
+  font-weight: 600;
+}
+
 .importgenius .ant-table-cell {
   line-height: 1.65;
 }
@@ -6,4 +109,19 @@
   margin-top: 5px;
   padding-top: 5px;
   border-top: 1px dashed #edf0f4;
+}
+
+@media (max-width: 767px) {
+  .importgenius .filter-panel .ant-card-body {
+    padding: 10px 12px;
+  }
+
+  .importgenius-date-filters {
+    margin-top: 8px;
+    padding-top: 8px;
+  }
+
+  .importgenius .filter-submit.ant-btn-lg {
+    width: 100%;
+  }
 }

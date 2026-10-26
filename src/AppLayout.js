@@ -4,27 +4,42 @@ import {
   AppstoreOutlined,
   DatabaseOutlined,
   GlobalOutlined,
+  SearchOutlined,
+  FileTextOutlined,
   TeamOutlined,
+  ThunderboltOutlined,
 } from '@ant-design/icons';
 import { Link, Outlet, useLocation } from 'react-router-dom';
 import './AppLayout.css';
 
-const { Sider, Header, Content } = Layout;
+const { Sider, Content } = Layout;
 const { Text } = Typography;
 
 const navigation = [
   { key: '/app', icon: <DatabaseOutlined />, label: <Link to="/app">进出口数据</Link> },
   { key: '/app/tradesns', icon: <GlobalOutlined />, label: <Link to="/app/tradesns">TradeSNS</Link> },
   { key: '/app/importgenius', icon: <TeamOutlined />, label: <Link to="/app/importgenius">ImportGenius</Link> },
+  { key: '/app/importyeti', icon: <SearchOutlined />, label: <Link to="/app/importyeti">ImportYeti</Link> },
+  { key: '/app/tasks', icon: <ThunderboltOutlined />, label: <Link to="/app/tasks">任务执行</Link> },
+  { key: '/app/robot-tasks', icon: <TeamOutlined />, label: <Link to="/app/robot-tasks">客户开发任务</Link> },
+  { key: '/app/task-logs', icon: <FileTextOutlined />, label: <Link to="/app/task-logs">任务日志</Link> },
 ];
 
 function AppLayout() {
   const { pathname } = useLocation();
-  const selectedKey = pathname.startsWith('/app/importgenius')
-    ? '/app/importgenius'
-    : pathname.startsWith('/app/tradesns')
-      ? '/app/tradesns'
-      : '/app';
+  const selectedKey = pathname.startsWith('/app/task-logs') || pathname.startsWith('/app/scheduler-logs')
+    ? '/app/task-logs'
+    : pathname.startsWith('/app/robot-tasks')
+    ? '/app/robot-tasks'
+    : pathname.startsWith('/app/tasks')
+    ? '/app/tasks'
+    : pathname.startsWith('/app/importyeti')
+    ? '/app/importyeti'
+    : pathname.startsWith('/app/importgenius')
+      ? '/app/importgenius'
+      : pathname.startsWith('/app/tradesns')
+        ? '/app/tradesns'
+        : '/app';
 
   return (
     <Layout className="workspace-layout">
@@ -51,16 +66,6 @@ function AppLayout() {
         </div>
       </Sider>
       <Layout className="workspace-main">
-        <Header className="workspace-header">
-          <div>
-            <span className="workspace-header-kicker">IMPORT DATA PLATFORM</span>
-            <span className="workspace-header-title">全球贸易数据工作台</span>
-          </div>
-          <div className="workspace-header-meta">
-            <span className="workspace-header-indicator" />
-            <Text>数据服务正常</Text>
-          </div>
-        </Header>
         <Content className="workspace-content">
           <Outlet />
         </Content>

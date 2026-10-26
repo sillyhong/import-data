@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#data
+
+/importgenius/data/importer
+
 # dependencies
 /node_modules
 /.pnp
@@ -13,12 +17,19 @@
 /.superpowers
 
 # 日志
+/logs/tasks/
+/logs/scheduler/
 **/schedule.log
 schedule.log
 
 # misc
 .DS_Store
+/config/.env.*
+/config/.prod.*
+!/config/*.example
 .env.local
+.env.importyeti
+.env.importgenius
 .env.development.local
 .env.test.local
 .env.production.local
@@ -26,3 +37,8 @@ schedule.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
+

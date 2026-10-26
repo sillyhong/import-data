@@ -1,0 +1,16 @@
+# TASK_ENV=production selects config/.prod.importgenius.
+# Use canonical PRODUCTION keys for new production configuration.
+IMPORTGENIUS_PRODUCTION_DB_HOST=your-production-mysql-host
+IMPORTGENIUS_PRODUCTION_DB_PORT=3306
+IMPORTGENIUS_PRODUCTION_DB_USER=your_production_mysql_user
+IMPORTGENIUS_PRODUCTION_DB_PASSWORD="replace-with-production-password"
+IMPORTGENIUS_PRODUCTION_DB_NAME=import_data
+IMPORTGENIUS_DB_CONNECTION_LIMIT=10
+IMPORTGENIUS_RETRY_ATTEMPTS=4
+IMPORTGENIUS_COUNTRY=usa
+
+# Fill in a long random token for production task controls, then restart the API.
+# Enter the same token in the app confirmation dialog. External env takes priority.
+TASK_CONTROL_TOKEN=""
+
+# Quote passwords containing #.

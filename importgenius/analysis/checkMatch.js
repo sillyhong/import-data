@@ -1,12 +1,12 @@
 const fs = require('fs');
 const path = require('path');
-const { productKeyWords } = require('./config/keyword');
+const { productKeyWords } = require('../config/keyword');
 
 // 定义一个空对象，用于存储满足条件的项
 const indexMap = {};
 
-// 遍历读取 importer/usa 目录下的所有 JSON 文件
-const directoryPath = './importer/usa/';
+// Inspect collected USA pages under data/importer/usa.
+const directoryPath = path.join(__dirname, '../data/importer/usa');
 fs.readdir(directoryPath, (err, files) => {
     if (err) {
         console.error('Error reading directory:', err);

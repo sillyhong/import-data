@@ -6,67 +6,71 @@ import { message } from 'antd';
 import 'antd/dist/antd.min.css'
 import './App.css';
 import PageHeading from './PageHeading';
+import DataPagination from './DataPagination';
+import { getTradesnsRecords } from './API/tradesns';
 
 const plainText = (value = '') => String(value || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
 
 
 function App() {
   const { Text } = Typography;
-  const hostname = window.location.hostname
-  const [data, setData] = useState(null)
   const [dataSource, setDataSource] = useState(null)
-  const [index, setIndex] = useState(0)
+  const [total, setTotal] = useState(0)
+  const [loading, setLoading] = useState(false)
+  const [pageIndex, setPageIndex] = useState(1)
+  const [pageSize, setPageSize] = useState(10)
   const [countryValue, setCountryValue] = useState('tradesns')
-  const [isLocalhost, setIsLocalhost] = useState(hostname == 'localhost')
   const [productType, setProductType] = useState('hscode')
 
   const [messageApi, contextHolder] = message.useMessage();
 
 
-  const fetchData = useCallback(async (pageIndex, curCountryValue, curProductType) => {
+  const fetchData = useCallback(async (requestedPage, requestedPageSize, category) => {
+    setLoading(true)
     try {
-      const currentCountryValue = curCountryValue || countryValue
-      const currentProductType = curProductType || productType
-      const prefix = isLocalhost ? '' : '/api'
-      // const res = await fetch(`/${currentCountryValue}/${currentProductType}/${pageIndex}.json`)
-      const res = await fetch(`${prefix}/${currentCountryValue}/${currentProductType}/${pageIndex}.json`)
-      const data = await res.json()
-      console.log('====================================');
-      console.log('data', data);
-      console.log('====================================');
-      if (data) {
-        setData(data)
-        const curDataSource = data?.filter(item => item.websiteUrl?.length)
-        setDataSource(curDataSource)
-      }
+      const result = await getTradesnsRecords({ category, page: requestedPage, pageSize: requestedPageSize })
+      setDataSource(result.data || [])
+      setTotal(Number(result.total || 0))
+      setPageIndex(Number(result.page || requestedPage))
     } catch (error) {
       console.log('error123', error);
       messageApi.open({
         type: 'error',
         content: '请求失败, 请修改参数',
       });
+    } finally {
+      setLoading(false)
     }
-  }, [countryValue, productType, isLocalhost])
+  }, [messageApi])
 
   useEffect(() => {
-    fetchData(1)
-  }, [])
+    fetchData(pageIndex, pageSize, productType)
+  }, [fetchData, pageIndex, pageSize, productType])
 
   const handleCountryValueChange = useCallback((value) => {
+    setPageIndex(1)
     setCountryValue(value)
-    fetchData(1, value, productType)
-  }, [fetchData, productType]);
+  }, []);
 
   const handleProductTypeChange = useCallback((value) => {
+    setPageIndex(1)
     setProductType(value)
-    fetchData(1, countryValue, value)
-  }, [fetchData, countryValue]);
+  }, []);
+
+  const handlePaginationChange = useCallback((page, nextPageSize) => {
+    if (nextPageSize !== pageSize) {
+      setPageSize(nextPageSize)
+      setPageIndex(1)
+      return
+    }
+    setPageIndex(page)
+  }, [pageSize]);
 
 
   const renderSelect = useMemo(() => {
     return (
       <Select
-        size="large"
+        size="middle"
         className="filter-select"
         value={countryValue}
         onChange={handleCountryValueChange}
@@ -84,7 +88,7 @@ function App() {
   const renderProductType = useMemo(() => {
     return (
       <Select
-        size="large"
+        size="middle"
         className="filter-select"
         value={productType}
         onChange={handleProductTypeChange}
@@ -207,9 +211,9 @@ function App() {
     <div className="data-page tradesns-page">
       {contextHolder}
       <PageHeading
+        compact
         eyebrow="TRADESNS RECORDS"
         title="TradeSNS 数据"
-        description="查看 TradeSNS 采集的供应链网站、企业信息与商品线索。"
       />
       <Card className="filter-panel" bordered={false}>
         <div className="panel-caption">
@@ -226,23 +230,19 @@ function App() {
         </Row>
       </Card>
       {
-        data && <Card className="table-panel" bordered={false}>
+        dataSource && <Card className="table-panel" bordered={false}>
           <div className="table-panel-heading">
             <div><Text strong>企业与商品线索</Text><Text type="secondary">TradeSNS 采集结果</Text></div>
-            <span className="result-count">{dataSource?.length ?? 0} 条记录</span>
+            <span className="result-count">共 {total.toLocaleString()} 条</span>
           </div>
-          <Table columns={columns} scroll={{ x: 1100 }} rowKey="last_date" dataSource={dataSource} pagination={
-          {
-            showQuickJumper: true,
-            total: dataSource.length,
-            onChange: (val) => {
-              fetchData(val)
-              setIndex(val - 1);
-            },
-            current: index + 1,
-            pageSize: 10
-          }
-        } />
+          <Table columns={columns} scroll={{ x: 1100 }} rowKey="last_date" dataSource={dataSource} loading={loading} pagination={false} />
+          <DataPagination
+            current={pageIndex}
+            pageSize={pageSize}
+            total={total}
+            onChange={handlePaginationChange}
+            disabled={loading}
+          />
         </Card>
       }
     </div>
