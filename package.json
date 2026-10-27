@@ -31,6 +31,7 @@
     "importyeti:production": "cross-env TASK_ENV=production node importyeti/cli.js",
     "importyeti:init": "cross-env TASK_ENV=local node importyeti/cli.js init",
     "importyeti:crawl": "cross-env TASK_ENV=local node importyeti/cli.js crawl",
+    "importyeti:sync": "cross-env TASK_ENV=local node importyeti/cli.js full-sync",
     "importyeti:enrich-importinfo": "cross-env TASK_ENV=local node importyeti/cli.js enrich-importinfo",
     "importyeti:status": "cross-env TASK_ENV=local node importyeti/cli.js status",
     "importyeti:export": "cross-env TASK_ENV=local node importyeti/cli.js export",

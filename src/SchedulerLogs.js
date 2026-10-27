@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useRef, useState } from 'react';
-import { Alert, Button, Card, Col, DatePicker, Descriptions, Drawer, Empty, Input, Row, Select, Space, Spin, Table, Tag, Typography } from 'antd';
+import { Alert, Button, Card, Col, DatePicker, Descriptions, Drawer, Empty, Input, Row, Select, Space, Spin, Tag, Typography } from 'antd';
 import { DownOutlined, ReloadOutlined, SearchOutlined, UpOutlined } from '@ant-design/icons';
 import moment from 'moment';
 import 'moment/locale/zh-cn';
@@ -7,6 +7,7 @@ import datePickerLocale from 'antd/es/date-picker/locale/zh_CN';
 import { useSearchParams } from 'react-router-dom';
 import PageHeading from './PageHeading';
 import DataPagination from './DataPagination';
+import ResponsiveTable from './ResponsiveTable';
 import { getTaskLogs, getTaskLog, getTaskLogOutput } from './API/taskLogs';
 import './SchedulerLogs.css';
 
@@ -243,7 +244,20 @@ function SchedulerLogs() {
       {result.invalidRecords > 0 && <Alert className="scheduler-log-alert" type="warning" showIcon message={`有 ${result.invalidRecords} 个日志文件无法读取，未计入查询结果。`} />}
       <Card className="table-panel" bordered={false}>
         <div className="table-panel-heading"><Text strong>执行记录</Text><span className="result-count">按触发时间倒序 · 共 {result.total.toLocaleString()} 条</span></div>
-        <Table columns={columns} dataSource={result.items} rowKey="id" pagination={false} loading={loading} size="small" scroll={{ x: 1428 }} locale={{ emptyText: <Empty image={Empty.PRESENTED_IMAGE_SIMPLE} description={error ? '日志加载失败，请重试' : Object.values(query.filters).some(Boolean) ? '没有符合筛选条件的执行记录' : '暂无任务日志，手动或定时任务执行后会记录在这里'} /> }} />
+        <ResponsiveTable
+          columns={columns}
+          dataSource={result.items}
+          rowKey="id"
+          pagination={false}
+          loading={loading}
+          size="small"
+          scroll={{ x: 1428 }}
+          locale={{ emptyText: <Empty image={Empty.PRESENTED_IMAGE_SIMPLE} description={error ? '日志加载失败，请重试' : Object.values(query.filters).some(Boolean) ? '没有符合筛选条件的执行记录' : '暂无任务日志，手动或定时任务执行后会记录在这里'} /> }}
+          mobileTitleKey="task"
+          mobileSummaryKeys={['triggeredAt', 'status', 'triggerType', 'durationMs', 'action']}
+          mobilePreviewKeys={['error']}
+          mobileLabel="执行记录"
+        />
         <DataPagination current={query.page} pageSize={query.pageSize} total={result.total} disabled={loading} onChange={(page, pageSize) => setQuery(current => ({ ...current, page: pageSize === current.pageSize ? page : 1, pageSize }))} />
       </Card>
 

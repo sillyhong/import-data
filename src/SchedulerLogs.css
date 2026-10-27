@@ -129,3 +129,78 @@
     padding: 16px;
   }
 }
+
+@media (max-width: 767px) {
+  .scheduler-logs-page,
+  .scheduler-log-filters .ant-col,
+  .scheduler-log-drawer .ant-descriptions-view {
+    min-width: 0;
+  }
+
+  .scheduler-log-filter-actions {
+    gap: 6px;
+  }
+
+  .scheduler-log-filter-actions .ant-btn {
+    min-height: 36px;
+  }
+
+  .scheduler-log-filters .ant-picker {
+    min-width: 0;
+  }
+
+  .scheduler-log-filters .ant-picker-input > input {
+    min-width: 0;
+    font-size: 12px;
+  }
+
+  .scheduler-log-drawer .ant-drawer-header {
+    padding: 12px 14px;
+  }
+
+  .scheduler-log-drawer .ant-drawer-body {
+    padding: 12px;
+  }
+
+  .scheduler-log-drawer .ant-descriptions-view > table {
+    width: 100%;
+    table-layout: fixed;
+  }
+
+  .scheduler-log-drawer .ant-descriptions-bordered .ant-descriptions-item-label,
+  .scheduler-log-drawer .ant-descriptions-bordered .ant-descriptions-item-content {
+    padding: 9px 10px;
+    font-size: 12px;
+    overflow-wrap: anywhere;
+  }
+
+  .scheduler-log-drawer .ant-descriptions-item-label {
+    width: 94px;
+  }
+
+  .scheduler-log-output-filters {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 8px;
+  }
+
+  .scheduler-log-output-filters .ant-select {
+    grid-column: 1 / -1;
+    width: 100%;
+  }
+
+  .scheduler-log-output-filters .ant-input-affix-wrapper {
+    min-width: 0;
+  }
+
+  .scheduler-log-params,
+  .scheduler-log-output {
+    max-width: 100%;
+    padding: 10px;
+    word-break: break-word;
+  }
+
+  .scheduler-log-detail-heading {
+    margin-top: 16px;
+  }
+}

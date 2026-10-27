@@ -101,6 +101,17 @@
   margin-top: 20px;
 }
 
+.task-scheduler-notes {
+  margin-top: 10px;
+  max-width: 1050px;
+  font-size: 12px;
+  line-height: 1.8;
+}
+
+.task-scheduler-notes > div + div {
+  margin-top: 3px;
+}
+
 .task-field-label {
   display: block;
   margin-bottom: 7px;
@@ -314,5 +325,131 @@
   .task-scheduler-actions {
     align-items: flex-start;
     flex-direction: column;
+  }
+}
+
+@media (max-width: 767px) {
+  .task-runner-page,
+  .task-runner-page .ant-col,
+  .task-card-heading > div,
+  .task-item-heading > div,
+  .task-environment-main > div {
+    min-width: 0;
+  }
+
+  .task-environment-card .ant-card-body,
+  .scheduler-card .ant-card-body,
+  .task-parameters-card .ant-card-body,
+  .task-log-card .ant-card-body,
+  .task-item-card .ant-card-body {
+    padding: 14px;
+  }
+
+  .task-environment-card,
+  .scheduler-card,
+  .task-parameters-card,
+  .task-log-card {
+    margin-bottom: 12px;
+  }
+
+  .task-environment-main,
+  .task-card-heading {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .task-environment-main > .ant-space {
+    flex-wrap: wrap;
+  }
+
+  .task-item-heading {
+    gap: 8px;
+  }
+
+  .task-item-heading > .ant-tag {
+    flex-shrink: 0;
+    margin-right: 0;
+  }
+
+  .task-workspace-tabs > .ant-tabs-nav {
+    margin-bottom: 12px;
+  }
+
+  .task-workspace-tabs > .ant-tabs-nav .ant-tabs-tab {
+    padding: 10px 6px;
+  }
+
+  .task-workspace-tabs > .ant-tabs-nav .ant-tabs-tab + .ant-tabs-tab {
+    margin-left: 16px;
+  }
+
+  .task-card-title,
+  .task-item-heading .ant-typography-secondary,
+  .task-run-meta,
+  .task-run-summary,
+  .task-metric,
+  .task-scheduler-actions .ant-tag {
+    overflow-wrap: anywhere;
+  }
+
+  .task-item-card .ant-card-body {
+    min-height: 0;
+  }
+
+  .task-item-heading .ant-typography-secondary {
+    font-size: 12px;
+    line-height: 1.7;
+  }
+
+  .task-group-heading {
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 16px 2px 10px;
+  }
+
+  .task-item-actions {
+    gap: 7px;
+    padding-top: 12px;
+  }
+
+  .task-item-actions .ant-btn,
+  .task-scheduler-actions .ant-btn {
+    min-height: 36px;
+  }
+
+  .task-scheduler-actions {
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 14px;
+  }
+
+  .task-scheduler-actions .ant-tag {
+    max-width: 100%;
+    white-space: normal;
+  }
+
+  .task-scheduler-notes {
+    line-height: 1.65;
+  }
+
+  .task-log-output {
+    max-width: 100%;
+    padding: 10px;
+    font-size: 12px;
+    word-break: break-word;
+  }
+
+  .task-parameters-card .ant-input,
+  .task-parameters-card .ant-select,
+  .task-parameters-card .ant-input-number {
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .task-batch-option,
+  .task-batch-option-progress {
+    white-space: normal;
+    overflow-wrap: anywhere;
   }
 }

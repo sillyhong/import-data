@@ -313,7 +313,7 @@ async function markTarget(target, status, error, httpStatus = null, retryDelayMs
   );
 }
 
-async function claimNextTarget(statuses, maxDepth) {
+async function claimNextTarget(statuses, maxDepth, attemptedIds = []) {
   const connection = await getPool().getConnection();
   try {
     await connection.beginTransaction();
@@ -321,8 +321,9 @@ async function claimNextTarget(statuses, maxDepth) {
       `SELECT id, entity_type, slug, url, depth, attempts FROM iy_crawl_targets
        WHERE status IN (${statuses.map(() => '?').join(',')}) AND depth <= ?
          AND (next_attempt_at IS NULL OR next_attempt_at <= UTC_TIMESTAMP())
+         ${attemptedIds.length ? `AND id NOT IN (${attemptedIds.map(() => '?').join(',')})` : ''}
        ORDER BY depth ASC, id ASC LIMIT 1 FOR UPDATE`,
-      [...statuses, maxDepth]
+      [...statuses, maxDepth, ...attemptedIds]
     );
     if (!rows.length) {
       await connection.commit();
@@ -340,7 +341,7 @@ async function claimNextTarget(statuses, maxDepth) {
   }
 }
 
-async function crawl({ maxTargets = 200, maxDepth = 2, delayMs, retryFailed = false, retryBlocked = false } = {}) {
+async function crawl({ maxTargets = 200, maxDepth = 2, delayMs, retryFailed = false, retryBlocked = false, returnSummary = false } = {}) {
   const config = getCrawlerConfig();
   if (Number.isFinite(delayMs)) config.delayMs = Math.max(2000, delayMs);
   const rules = await getRobotsRules(BASE_URL, config.userAgent);
@@ -352,14 +353,19 @@ async function crawl({ maxTargets = 200, maxDepth = 2, delayMs, retryFailed = fa
   if (retryFailed) statuses.push('failed');
   if (retryBlocked) statuses.push('blocked');
   let completed = 0;
+  const attemptedIds = [];
+  const summary = { processed: 0, succeeded: 0, failed: 0, retryScheduled: 0, blocked: 0, stopReason: null };
 
   while (completed < maxTargets) {
-    const target = await claimNextTarget(statuses, maxDepth);
+    const target = await claimNextTarget(statuses, maxDepth, attemptedIds);
     if (!target) break;
+    attemptedIds.push(target.id);
     const parsedTarget = parseProfileUrl(target.url);
 
     if (!isAllowedByRobots(parsedTarget.url, rules)) {
       await markTarget(target, 'blocked', 'Blocked by the current robots.txt rules.', 403);
+      summary.blocked += 1;
+      summary.stopReason = `robots.txt 禁止抓取 ${parsedTarget.url}`;
       console.warn(`Robots.txt disallows ${parsedTarget.url}; stopping.`);
       break;
     }
@@ -381,17 +387,22 @@ async function crawl({ maxTargets = 200, maxDepth = 2, delayMs, retryFailed = fa
         await seedTargets(discovered, saved.entityId, nextDepth);
       }
       console.log(`  saved ${saved.shipmentCount} visible shipment rows, ${saved.relationCount} profile links`);
+      summary.succeeded += 1;
       completed += 1;
     } catch (error) {
       const statusCode = error.statusCode || error.response?.status || null;
       if (error.blocked || [403, 429].includes(statusCode)) {
         await markTarget(target, 'blocked', error.message, statusCode);
+        summary.blocked += 1;
+        summary.stopReason = error.message;
         console.warn(`  paused: ${error.message}`);
         break;
       }
       const attempts = Number(target.attempts || 0) + 1;
       const canRetry = attempts < 3;
       await markTarget(target, canRetry ? 'pending' : 'failed', error.message, statusCode, canRetry ? attempts * 60000 : 0);
+      summary.failed += 1;
+      if (canRetry) summary.retryScheduled += 1;
       console.error(`  ${canRetry ? 'retry scheduled' : 'failed'}: ${error.message}`);
       completed += 1;
     }
@@ -399,7 +410,8 @@ async function crawl({ maxTargets = 200, maxDepth = 2, delayMs, retryFailed = fa
     if (completed < maxTargets) await sleep(config.delayMs);
   }
   console.log(`Crawl finished. Processed ${completed} target(s).`);
-  return completed;
+  summary.processed = completed;
+  return returnSummary ? summary : completed;
 }
 
 async function seedFromFile(filePath) {

@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useRef, useState } from 'react';
-import { Alert, Button, Card, Col, DatePicker, Input, Row, Select, Statistic, Table, Tabs, Tag, Typography } from 'antd';
+import { Alert, Button, Card, Col, DatePicker, Input, Row, Select, Statistic, Tabs, Tag, Typography } from 'antd';
 import dayjs from 'dayjs';
 import PageHeading from './PageHeading';
 import {
@@ -9,6 +9,7 @@ import {
 } from './API/importyeti';
 import './Importyeti.css';
 import DataPagination from './DataPagination';
+import ResponsiveTable from './ResponsiveTable';
 
 const { Text } = Typography;
 const DEFAULT_PAGE_SIZE = 10;
@@ -322,7 +323,7 @@ function Importyeti() {
           <Text strong>筛选条件</Text>
           <Text type="secondary">按提单、企业名称、货品描述或到港日期查找</Text>
         </div>
-        <Row gutter={[16, 12]} align="bottom">
+        <Row className="iy-shipment-filters" gutter={[16, 12]} align="bottom">
           <Col xs={24} md={10}>
             <div className="filter-field">
               <Text className="filter-label">关键词</Text>
@@ -340,8 +341,9 @@ function Importyeti() {
             <div className="filter-field">
               <Text className="filter-label">到港日期</Text>
               <DatePicker.RangePicker
-              size="middle"
+                size="middle"
                 className="iy-range-picker"
+                dropdownClassName="iy-date-range-popup"
                 value={shipmentDateDraft}
                 onChange={setShipmentDateDraft}
                 allowClear
@@ -370,8 +372,12 @@ function Importyeti() {
             action={<Button size="small" onClick={() => loadShipments(shipmentPage, shipmentPageSize, shipmentQuery, shipmentCursorByPageRef.current[shipmentPage])}>重试</Button>}
           />
         )}
-        <Table
+        <ResponsiveTable
           columns={shipmentColumns}
+          mobileTitleKey="company_name"
+          mobileSummaryKeys={['arrival_date', 'bol_number', 'supplier_country', 'quantity']}
+          mobilePreviewKeys={['supplier_name', 'product_description']}
+          mobileLabel="提单"
           dataSource={shipmentRows}
           rowKey="id"
           loading={shipmentLoading}
@@ -397,8 +403,8 @@ function Importyeti() {
           <Text strong>筛选条件</Text>
           <Text type="secondary">浏览已发现的公司和供应商</Text>
         </div>
-        <Row gutter={[16, 12]} align="bottom">
-          <Col xs={24} sm={8} md={6}>
+        <Row className="iy-entity-filters" gutter={[16, 12]} align="bottom">
+          <Col xs={12} sm={8} md={6}>
             <div className="filter-field">
               <Text className="filter-label">实体类型</Text>
               <Select
@@ -413,7 +419,7 @@ function Importyeti() {
               />
             </div>
           </Col>
-          <Col xs={24} sm={10} md={10}>
+          <Col xs={12} sm={10} md={10}>
             <div className="filter-field">
               <Text className="filter-label">关键词</Text>
               <Input
@@ -448,8 +454,12 @@ function Importyeti() {
             action={<Button size="small" onClick={() => loadEntities(entityPage, entityPageSize, entityQuery, entityCursorByPageRef.current[entityPage])}>重试</Button>}
           />
         )}
-        <Table
+        <ResponsiveTable
           columns={entityColumns}
+          mobileTitleKey="name"
+          mobileSummaryKeys={['entity_type', 'country_code', 'total_shipments', 'relation_count']}
+          mobilePreviewKeys={['address', 'last_crawled_at']}
+          mobileLabel="公司 / 供应商"
           dataSource={entityRows}
           rowKey="id"
           loading={entityLoading}
@@ -487,17 +497,17 @@ function Importyeti() {
       )}
 
       <Row className="iy-summary-row" gutter={[14, 14]}>
-        <Col xs={24} sm={8}>
+        <Col xs={8} sm={8}>
           <Card className="iy-stat-card" bordered={false}>
             <Statistic title="提单记录（估算）" value={summaryLoading || summaryError ? '—' : Number(summary?.shipments || 0)} />
           </Card>
         </Col>
-        <Col xs={24} sm={8}>
+        <Col xs={8} sm={8}>
           <Card className="iy-stat-card" bordered={false}>
             <Statistic title="公司 / 供应商（估算）" value={summaryLoading || summaryError ? '—' : Number(summary?.entities || 0)} />
           </Card>
         </Col>
-        <Col xs={24} sm={8}>
+        <Col xs={8} sm={8}>
           <Card className="iy-stat-card" bordered={false}>
             <Statistic title="查询方式" value="游标分页" />
           </Card>

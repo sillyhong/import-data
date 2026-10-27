@@ -34,11 +34,11 @@ export const stopTask = (taskId, runId, control = {}) => request(`/tasks/${encod
   },
 });
 
-export const updateTaskScheduler = (action, control = {}) => request('/tasks/scheduler', {
+export const updateTaskScheduler = (action, control = {}, schedulerId) => request('/tasks/scheduler', {
   method: 'POST',
   headers: {
     ...(control.token ? { 'X-Task-Control-Token': control.token } : {}),
     ...(control.confirmed ? { 'X-Task-Confirmed': 'true' } : {}),
   },
-  body: JSON.stringify({ action }),
+  body: JSON.stringify({ action, ...(schedulerId ? { schedulerId } : {}) }),
 });

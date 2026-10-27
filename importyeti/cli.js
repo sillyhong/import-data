@@ -15,6 +15,7 @@ Commands:
   seed <profile-url...>                 Add company/supplier profile URLs
   seed --file <path>                    Read profile URLs from a text/CSV file
   crawl [options]                       Crawl public profiles and discover linked entities
+  full-sync [options]                   Initialize tables, refresh due profiles, crawl and report status
   enrich-importinfo <profile-url>       Fill matched shipment details from a public ImportInfo profile
   status                                Show queue and storage counts
   export [--out <path>]                 Export shipments as CSV
@@ -25,12 +26,14 @@ Crawl options:
   --delay-ms <n>     Request interval, minimum 2000 ms (default: 3000)
   --retry-failed      Also retry failed targets
   --retry-blocked     Retry targets previously blocked by robots/HTTP/challenge
+  --no-retry-failed   full-sync only: leave previously failed targets untouched
 
 Examples:
   npm run importyeti:init
   npm run importyeti -- seed https://www.importyeti.com/company/wal-mart
   npm run importyeti -- seed --file targets.csv
   npm run importyeti:crawl -- --max-targets 100 --max-depth 1
+  npm run importyeti:production -- full-sync --max-targets 100 --max-depth 2
   npm run importyeti:enrich-importinfo -- https://www.importinfo.com/gemtek-vietnam-corporation-limited
   npm run importyeti:export -- --out exports/importyeti.csv
   npm run importyeti:production -- status
@@ -88,6 +91,17 @@ async function main() {
       maxDepth: integerOption(args, '--max-depth', 2, 0),
       delayMs: integerOption(args, '--delay-ms', getDataSourceOption('importyeti', 'IMPORTYETI_DELAY_MS', 3000), 2000),
       retryFailed: args.includes('--retry-failed'),
+      retryBlocked: args.includes('--retry-blocked'),
+    });
+    return;
+  }
+  if (command === 'full-sync') {
+    const { runFullSync } = require('./workflows/fullSync');
+    await runFullSync({
+      maxTargets: integerOption(args, '--max-targets', 100, 1),
+      maxDepth: integerOption(args, '--max-depth', 2, 0),
+      delayMs: integerOption(args, '--delay-ms', getDataSourceOption('importyeti', 'IMPORTYETI_DELAY_MS', 3000), 2000),
+      retryFailed: !args.includes('--no-retry-failed'),
       retryBlocked: args.includes('--retry-blocked'),
     });
     return;

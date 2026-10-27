@@ -33,6 +33,26 @@ Quote passwords containing `#`, for example `IMPORTYETI_LOCAL_DB_PASSWORD="repla
 
 Start the local API with `npm run server:dev`; use `npm run server` for production. Production API startup automatically reads `TASK_CONTROL_TOKEN` from `config/.prod.importgenius`, including for ImportYeti task controls. Set a long random token there and enter the same value in the production confirmation dialog. Local task controls do not require a token. Restart the API after changing the token. An explicitly supplied process variable takes priority, even when empty; run `unset TASK_CONTROL_TOKEN` before restarting if a previous export is masking the file setting.
 
-Only the token is loaded into the service environment: `.prod.importyeti` is not a token source, and file values cannot change `TASK_ENV` or `NODE_ENV` or populate global database variables. `npm run start:all:dev` and `npm run start:all:prod` start the React development server with the corresponding API environment for local integration work. Keep the production API to one instance because it enables the Sunday 00:00 Asia/Shanghai schedule at startup. Task output remains in the repository-root `logs/tasks/` archive; historical `logs/scheduler/` records remain readable and cleanable from the app.
+Only the token is loaded into the service environment: `.prod.importyeti` is not a token source, and file values cannot change `TASK_ENV` or `NODE_ENV` or populate global database variables. `npm run start:all:dev` and `npm run start:all:prod` start the React development server with the corresponding API environment for local integration work. Keep the production API to one instance because it enables the collection schedules at startup. Task output remains in the repository-root `logs/tasks/` archive; historical `logs/scheduler/` records remain readable and cleanable from the app.
+
+## Full collection workflow
+
+`importyeti.full-sync` checks or creates the `iy_*` tables and indexes, prepares the target queue, fetches public company/supplier profiles, stores visible shipments and trade relationships in MySQL, and prints the final data estimates. Pages are saved through the existing per-profile transactions; a later failure does not discard already committed profiles.
+
+```bash
+# Local environment
+npm run importyeti:sync -- --max-targets 100 --max-depth 2 --delay-ms 3000
+
+# Production environment, also used by the four-day scheduler
+npm run importyeti:production -- full-sync --max-targets 100 --max-depth 2 --delay-ms 3000
+```
+
+The defaults are 100 profiles per run, maximum depth 2, and a 3000 ms request interval. Existing failed targets are retried by default (`--no-retry-failed` disables this); blocked targets remain blocked unless `--retry-blocked` is explicitly supplied after investigating the restriction. Each profile is attempted at most once per run, so a failed target cannot consume the entire run's quota through repeated immediate retries.
+
+The refresh stage fills the unused queue capacity with completed profiles whose `updated_at` is at least four days old, oldest first, up to the run's profile limit and maximum depth. It resets those profiles' retry counters but preserves their URLs and discovery relationships. Already queued eligible profiles take priority over adding refresh work. The crawler continues discovering related profiles within the selected depth; remaining queue work is retained for future runs. A new empty installation must first add seed URLs with `npm run importyeti:production -- seed <profile-url...>`; the workflow does not invent initial companies or crawl prohibited search pages.
+
+The application scheduler runs this workflow once every four days with its own fixed parameters, separate from the manual form. It records scheduled runs in `logs/tasks/`, reports failures and access restrictions as failed runs, and retains completed data and queue checkpoints. The task page shows the next trigger and offers an independent start/stop control. Scheduling state survives API restarts; keep the deployment's scheduler state file when upgrading or moving the application. The exact interval/first-run policy is documented in the task scheduler section of the root README.
+
+This workflow collects publicly visible ImportYeti data and writes it directly to MySQL. ImportInfo enrichment still requires a specific company profile URL and remains a separate task; CSV export is also separate. The workflow stops when robots rules, HTTP 403/429 or a challenge restrict access, and does not automatically retry blocked targets.
 
 Restart the backend or rerun the CLI after changing database configuration. Existing connection pools do not switch databases while the process is running.

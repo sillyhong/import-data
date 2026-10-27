@@ -1,12 +1,13 @@
 
 import React, { useEffect, useState, useMemo, useCallback } from 'react';
 import { Link } from 'react-router-dom';
-import { Table, Select, Card, Row, Col, Typography } from 'antd';
+import { Select, Card, Row, Col, Typography } from 'antd';
 import { message } from 'antd';
 import 'antd/dist/antd.min.css'
 import './App.css';
 import PageHeading from './PageHeading';
 import DataPagination from './DataPagination';
+import ResponsiveTable from './ResponsiveTable';
 import { getTradesnsRecords } from './API/tradesns';
 
 const plainText = (value = '') => String(value || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
@@ -221,10 +222,10 @@ function App() {
           <Text type="secondary">选择数据主题</Text>
         </div>
         <Row gutter={[16, 12]} align="middle">
-          <Col xs={24} sm={12} md={8}>
+          <Col xs={12} sm={12} md={8}>
             <div className="filter-field"><Text className="filter-label">数据源</Text>{renderSelect}</div>
           </Col>
-          <Col xs={24} sm={12} md={10}>
+          <Col xs={12} sm={12} md={10}>
             <div className="filter-field"><Text className="filter-label">商品类别</Text>{renderProductType}</div>
           </Col>
         </Row>
@@ -235,7 +236,18 @@ function App() {
             <div><Text strong>企业与商品线索</Text><Text type="secondary">TradeSNS 采集结果</Text></div>
             <span className="result-count">共 {total.toLocaleString()} 条</span>
           </div>
-          <Table columns={columns} scroll={{ x: 1100 }} rowKey="last_date" dataSource={dataSource} loading={loading} pagination={false} />
+          <ResponsiveTable
+            columns={columns}
+            scroll={{ x: 1100 }}
+            rowKey="last_date"
+            dataSource={dataSource}
+            loading={loading}
+            pagination={false}
+            mobileTitleKey="company"
+            mobileSummaryKeys={['last_date', 'doc_count', 'country', 'action']}
+            mobilePreviewKeys={['shipper_name', 'info', 'websiteUrl']}
+            mobileLabel="企业线索"
+          />
           <DataPagination
             current={pageIndex}
             pageSize={pageSize}

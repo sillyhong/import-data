@@ -70,12 +70,12 @@ function normalizeParams(taskId, value = {}) {
     }
     return params;
   }
-  if (taskId === 'importyeti.crawl') {
+  if (['importyeti.crawl', 'importyeti.full-sync'].includes(taskId)) {
     return {
       maxTargets: integer(value.maxTargets, 'maxTargets', 1, 1000, 100),
       maxDepth: integer(value.maxDepth, 'maxDepth', 0, 5, 2),
       delayMs: integer(value.delayMs, 'delayMs', 2000, 60000, 3000),
-      retryFailed: value.retryFailed === true,
+      retryFailed: value.retryFailed === undefined ? taskId === 'importyeti.full-sync' : value.retryFailed === true,
       retryBlocked: value.retryBlocked === true,
     };
   }
@@ -138,7 +138,9 @@ async function stopTask(ctx) {
 async function updateScheduler(ctx) {
   validateWrite(ctx);
   const action = String((ctx.request.body || {}).action || '');
-  ctx.body = runner.setScheduler(action);
+  const schedulerId = ctx.request.body?.schedulerId;
+  if (schedulerId !== undefined && typeof schedulerId !== 'string') throw Object.assign(new Error('定时任务 ID 必须是字符串。'), { status: 400 });
+  ctx.body = runner.setScheduler(action, schedulerId);
 }
 
 module.exports = { getTasks, getImportGeniusBatches, runTask, stopTask, getTaskRun, updateScheduler };

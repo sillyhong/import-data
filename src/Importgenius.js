@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState, useMemo, useCallback, useRef } from 'react';
-import { Space, Table, Select, Row, Col, Input, Button, Card, Typography, DatePicker, Tooltip } from 'antd';
-import { SearchOutlined } from '@ant-design/icons';
+import { Space, Select, Row, Col, Input, Button, Card, Typography, DatePicker, Tooltip } from 'antd';
+import { CalendarOutlined, DownOutlined, SearchOutlined, UpOutlined } from '@ant-design/icons';
 import { message } from 'antd';
 import dayjs from 'dayjs';
 import 'moment/locale/zh-cn';
@@ -11,6 +11,7 @@ import 'antd/dist/antd.min.css'
 import './Importgenius.css';
 import PageHeading from './PageHeading';
 import DataPagination from './DataPagination';
+import ResponsiveTable, { useMobileLayout } from './ResponsiveTable';
 
 function Importgenius() {
   const { Text } = Typography;
@@ -24,6 +25,10 @@ function Importgenius() {
   const [mostRecentRange, setMostRecentRange] = useState(null)
   const [createdRange, setCreatedRange] = useState(null)
   const [createdAtAvailable, setCreatedAtAvailable] = useState(null)
+  const mobileLayout = useMobileLayout();
+  const [timeFiltersOpen, setTimeFiltersOpen] = useState(false);
+  const selectedTimeFilters = Number(Boolean(mostRecentRange?.[0] && mostRecentRange?.[1]))
+    + Number(Boolean(createdRange?.[0] && createdRange?.[1]));
 
   const [messageApi, contextHolder] = message.useMessage();
 
@@ -396,11 +401,31 @@ function Importgenius() {
             </div>
           </Col>
         </Row>
-        <Row className="importgenius-date-filters" gutter={[16, 6]} align="bottom">
+        {mobileLayout && (
+          <div className="ig-mobile-filter-actions">
+            <Button
+              className="ig-mobile-time-toggle"
+              icon={<CalendarOutlined />}
+              aria-expanded={timeFiltersOpen}
+              aria-controls="ig-time-filter-fields"
+              aria-label={`时间筛选${selectedTimeFilters ? `，已选 ${selectedTimeFilters} 项` : ''}`}
+              onClick={() => setTimeFiltersOpen(open => !open)}
+            >
+              时间筛选
+              {selectedTimeFilters > 0 && <span className="ig-time-filter-count">{selectedTimeFilters}</span>}
+              {timeFiltersOpen ? <UpOutlined /> : <DownOutlined />}
+            </Button>
+            <Button className="filter-submit" onClick={resetAndFetch} size="large" type="primary" icon={<SearchOutlined />}>
+              查询线索
+            </Button>
+          </div>
+        )}
+        {(!mobileLayout || timeFiltersOpen) && <Row id="ig-time-filter-fields" className="importgenius-date-filters" gutter={[16, 6]} align="bottom">
           <Col xs={24} sm={12} md={9} xl={9}>
             <div className="filter-field">
               <Text className="filter-label">最新进口日期</Text>
               <DatePicker.RangePicker
+                dropdownClassName="ig-date-range-popup"
                 size="large"
                 locale={datePickerLocale}
                 format="YYYY-MM-DD"
@@ -419,6 +444,7 @@ function Importgenius() {
               >
                 <span className="filter-picker-wrap">
                   <DatePicker.RangePicker
+                    dropdownClassName="ig-date-range-popup"
                     size="large"
                     locale={datePickerLocale}
                     format="YYYY-MM-DD"
@@ -432,14 +458,14 @@ function Importgenius() {
               </Tooltip>
             </div>
           </Col>
-          <Col xs={24} sm={24} md={6} xl={6}>
+          {!mobileLayout && <Col xs={24} sm={24} md={6} xl={6}>
             <div className="filter-actions">
               <Button className="filter-submit" onClick={resetAndFetch} size="large" type="primary" icon={<SearchOutlined />}>
                 查询线索
               </Button>
             </div>
-          </Col>
-        </Row>
+          </Col>}
+        </Row>}
       </Card>
       {
         data && <Card className="table-panel" bordered={false}>
@@ -447,7 +473,11 @@ function Importgenius() {
             <div><Text strong>进口商档案</Text><Text type="secondary">供应商与提单明细</Text></div>
             <span className="result-count">共 {total.toLocaleString()} 条</span>
           </div>
-          <Table
+          <ResponsiveTable
+          mobileTitleKey="company"
+          mobileSummaryKeys={['mostRecentDate', 'action']}
+          mobilePreviewKeys={['shipper_name', 'product_desc']}
+          mobileLabel="进口商"
           loading={loading}
           columns={columns}
           scroll={{ x: 2800 }}

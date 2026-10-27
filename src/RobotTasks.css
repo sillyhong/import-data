@@ -171,3 +171,90 @@
   .robot-platforms .ant-btn { padding: 4px 10px; }
   .robot-task-card h3 { font-size: 16px; }
 }
+
+@media (max-width: 767px) {
+  .robot-tasks-page,
+  .robot-tasks-page .ant-col,
+  .robot-overview-heading > div,
+  .robot-card-top > div,
+  .robot-section-intro > span {
+    min-width: 0;
+  }
+
+  .robot-overview .ant-card-body,
+  .robot-task-card .ant-card-body,
+  .robot-log-card .ant-card-body,
+  .robot-snapshot-card .ant-card-body,
+  .robot-finding .ant-card-body,
+  .robot-boundaries .ant-card-body {
+    padding: 14px;
+  }
+
+  .robot-overview,
+  .robot-alert,
+  .robot-snapshots {
+    margin-bottom: 12px;
+  }
+
+  .robot-metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px 12px;
+    margin: 16px 0 12px;
+    padding-top: 14px;
+  }
+
+  .robot-overview-heading,
+  .robot-card-top,
+  .robot-section-intro {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .robot-task-description {
+    font-size: 12px;
+    line-height: 1.7;
+    overflow-wrap: anywhere;
+  }
+
+  .robot-task-batch,
+  .robot-root,
+  .robot-run-meta,
+  .robot-run-summary {
+    min-width: 0;
+    flex-wrap: wrap;
+    overflow-wrap: anywhere;
+  }
+
+  .robot-card-actions {
+    gap: 7px;
+    padding-top: 12px;
+  }
+
+  .robot-card-actions .ant-btn {
+    min-height: 36px;
+  }
+
+  .robot-toolbar {
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+
+  .robot-toolbar > .ant-input-affix-wrapper {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .robot-section-intro .ant-typography {
+    margin-left: 0;
+  }
+
+  .robot-log-output {
+    max-width: 100%;
+    padding: 10px;
+    word-break: break-word;
+  }
+
+  .robot-instruction {
+    margin-top: 12px;
+  }
+}

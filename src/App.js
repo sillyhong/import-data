@@ -1,12 +1,13 @@
 
 import React, { useEffect, useState, useMemo, useCallback } from 'react';
 import { Link } from 'react-router-dom';
-import { Table, Select, Card, Row, Col, Typography } from 'antd';
+import { Select, Card, Row, Col, Typography } from 'antd';
 import { message } from 'antd';
 import 'antd/dist/antd.min.css'
 import './App.css';
 import PageHeading from './PageHeading';
 import DataPagination from './DataPagination';
+import ResponsiveTable from './ResponsiveTable';
 
 const plainText = (value = '') => String(value || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
 const SOURCE_PAGE_SIZE = 10;
@@ -213,13 +214,13 @@ function App() {
           <Text type="secondary">选择国家与商品类别</Text>
         </div>
         <Row gutter={[16, 12]} align="middle">
-          <Col xs={24} sm={12} md={8}>
+          <Col xs={12} sm={12} md={8}>
             <div className="filter-field">
               <Text className="filter-label">国家 / 地区</Text>
               {renderSelect}
             </div>
           </Col>
-          <Col xs={24} sm={12} md={10}>
+          <Col xs={12} sm={12} md={10}>
             <div className="filter-field">
               <Text className="filter-label">商品类别</Text>
               {renderProductType}
@@ -233,7 +234,17 @@ function App() {
             <div><Text strong>贸易记录</Text><Text type="secondary">供应链往来明细</Text></div>
             <span className="result-count">{data.total?.toLocaleString?.() ?? data.total} 条记录</span>
           </div>
-          <Table columns={columns} scroll={{ x: 1100 }} rowKey="new_date" dataSource={dataSource} pagination={false} />
+          <ResponsiveTable
+            columns={columns}
+            scroll={{ x: 1100 }}
+            rowKey="new_date"
+            dataSource={dataSource}
+            pagination={false}
+            mobileTitleKey="importer"
+            mobileSummaryKeys={['new_date', 'quantity', 'country', 'detail']}
+            mobilePreviewKeys={['shipper_name', 'product_desc']}
+            mobileLabel="贸易记录"
+          />
           <DataPagination
             current={pageIndex}
             pageSize={pageSize}

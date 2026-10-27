@@ -7,6 +7,7 @@ const { getRobotCatalog, getRobotTask, validateRobotParams, assertRobotTaskAvail
 const { createRobotOutputFilter } = require('./robot/runtime');
 const batchStorage = require('../importgenius/storage/batches');
 const { createBatchId, validateBatchId } = batchStorage;
+const { INTERVAL_DAYS, firstRunAt, advanceRunAt, createIntervalState } = require('./interval-schedule');
 
 const projectRoot = path.resolve(__dirname, '..');
 const workerPath = path.join(__dirname, 'tasks', 'worker.js');
@@ -14,6 +15,9 @@ const MAX_LOG_CHARS = 64000;
 const LOG_LINES = 300;
 const SCHEDULER_CRON = '0 0 * * 0';
 const SCHEDULER_TIMEZONE = 'Asia/Shanghai';
+const WEEKLY_SCHEDULER_ID = 'importgenius.weekly';
+const IMPORTYETI_SCHEDULER_ID = 'importyeti.every-four-days';
+const IMPORTYETI_SCHEDULE_PARAMS = { maxTargets: 100, maxDepth: 2, delayMs: 3000, retryFailed: true, retryBlocked: false };
 const TASKS = [
   { id: 'importgenius.fetch-importers', group: 'ImportGenius', name: '抓取 importer 列表', description: '新采集按上海日期和唯一批次保存指定页码，不覆盖历史列表；选择已有批次时只补未完成列表页，旧版数据可选 legacy。', params: ['country', 'pages', 'batchId'] },
   { id: 'importgenius.fetch-shipments', group: 'ImportGenius', name: '补充 shipment 明细', description: '读取选中采集批次的 importer JSON，补充当前站点的提单明细；同批次续跑跳过已完成记录，新批次不沿用旧批次详情。旧版数据可选 legacy。', params: ['country', 'pages', 'batchId'] },
@@ -21,6 +25,7 @@ const TASKS = [
   { id: 'importgenius.full-sync', group: 'ImportGenius', name: '完整采集流程', description: '新建独立采集批次，按列表、详情、入库顺序执行并保留历史 JSON；选择已有批次可跨日续跑，复用本批次已完成列表和详情，继续未完成阶段。', params: ['country', 'pages', 'batchId'] },
   { id: 'importyeti.init', group: '数据库', name: '创建 ImportYeti 缺失表并补齐查询索引', description: '作用于当前环境配置的 ImportYeti 数据库：创建缺失表，并补齐档案队列、公司/供应商和提单的查询索引，便于保存数据和搜索。已有大表建索引可能耗时较长并影响写入。', params: [] },
   { id: 'importyeti.crawl', group: 'ImportYeti', name: '采集排队的公司与供应商档案', description: '处理已有队列中、符合采集深度的公司和供应商档案，单次不超过上方采集上限；将档案、贸易关系及页面可见提单写入数据库，并把范围内的关联档案加入队列。遵守网站抓取规则，遇到访问限制时暂停。', params: ['maxTargets', 'maxDepth', 'delayMs', 'retryFailed', 'retryBlocked'] },
+  { id: 'importyeti.full-sync', group: 'ImportYeti', name: '完整采集流程', description: '准备 ImportYeti 表和索引，优先处理已有队列，并按剩余额度刷新超过 4 天的旧档案；采集公开档案、贸易关系和页面可见提单后直接写入 MySQL，最后输出数据概况。使用上方采集参数，首次需已有种子链接；受限目标默认不重试，ImportInfo 补充与 CSV 导出需单独执行。', params: ['maxTargets', 'maxDepth', 'delayMs', 'retryFailed', 'retryBlocked'] },
   { id: 'importyeti.enrich', group: 'ImportYeti', name: '用 ImportInfo 补充匹配提单', description: '读取上方填写的 ImportInfo 公司档案，仅更新按提单号匹配到的本库记录；补充缺失的国家、港口、货品描述等信息，并保存公开的 HS 编码和来源。未匹配或页面未公开的信息无法补充。', params: ['profileUrl'] },
   { id: 'importyeti.status', group: 'ImportYeti', name: '查看采集数据概况', description: '在运行日志中显示当前 ImportYeti 数据库的档案队列、公司/供应商和提单总量估算值；只读取数据，不会启动采集或更新记录。', params: [] },
   { id: 'importyeti.export', group: 'ImportYeti', name: '分块导出 CSV', description: '按主键分块读取并写出全部提单记录。', params: ['filename'] },
@@ -38,6 +43,13 @@ let schedulerRunId = null;
 let schedulerLastTriggeredAt = null;
 let schedulerLastRunStatus = null;
 let schedulerLastError = null;
+let schedulerTriggerPending = false;
+let importYetiSchedulerTask = null;
+let importYetiScheduleState = null;
+let importYetiSchedulerRunId = null;
+let importYetiTickRunning = false;
+let importYetiLastSkippedDue = null;
+let importYetiSchedulerError = null;
 
 function getEnvironment() {
   return ['local', 'production'].includes(process.env.TASK_ENV) ? process.env.TASK_ENV : 'unknown';
@@ -106,6 +118,7 @@ function pushLog(run, stream, chunk) {
 function summarize(run) {
   return {
     runId: run.runId,
+    schedulerId: run.schedulerId || null,
     logId: run.logRecord?.id || null,
     triggerType: run.triggerType,
     taskId: run.taskId,
@@ -202,6 +215,7 @@ async function runTask(taskId, params = {}, options = {}) {
   const run = {
     runId,
     taskId,
+    schedulerId: options.scheduled ? (options.schedulerId || (taskId === 'importyeti.full-sync' ? IMPORTYETI_SCHEDULER_ID : WEEKLY_SCHEDULER_ID)) : null,
     params: runParams,
     logRecord: options.logRecord || options.scheduleRecord || null,
     pendingLogChunks: [],
@@ -223,11 +237,12 @@ async function runTask(taskId, params = {}, options = {}) {
   runs.set(runId, run);
   latestRunByTask.set(taskId, runId);
   activeRunId = runId;
-  if (options.scheduled) {
+  if (run.schedulerId === WEEKLY_SCHEDULER_ID) {
     schedulerRunId = runId;
     schedulerLastRunStatus = run.status;
     schedulerLastError = null;
   }
+  if (run.schedulerId === IMPORTYETI_SCHEDULER_ID) importYetiSchedulerRunId = runId;
   try {
     if (!run.logRecord) {
       run.logRecord = await createTaskRecord(taskId, runParams, triggeredAt, triggerType);
@@ -237,7 +252,7 @@ async function runTask(taskId, params = {}, options = {}) {
     }
     run.pendingLogChunks = null;
     await run.logRecord.update({
-      runId, startedAt: run.startedAt, status: run.status, triggerType,
+      runId, schedulerId: run.schedulerId, startedAt: run.startedAt, status: run.status, triggerType,
       params: runParams, stopRequestedAt: run.stopRequestedAt || null,
     });
     pushLog(run, 'stdout', `[task-runner][开始] ${definitions.get(taskId).name}；触发方式 ${triggerType}；运行 ID ${runId}；参数 ${JSON.stringify(runParams)}。\n`);
@@ -396,6 +411,14 @@ async function finishRun(run) {
     schedulerLastRunStatus = run.status;
     schedulerLastError = run.error || run.logPersistenceError || null;
   }
+  if (importYetiSchedulerRunId === run.runId) {
+    importYetiSchedulerRunId = null;
+    try {
+      importYetiScheduleState?.update({ lastRunStatus: run.status, lastError: run.error || run.logPersistenceError || null });
+    } catch (error) {
+      disableImportYetiScheduler(error);
+    }
+  }
   run.onLog = null;
   run.resolveCompletion?.(summarize(run));
   return summarize(run);
@@ -459,19 +482,127 @@ function getNextSundayMidnight() {
 }
 
 function createTaskRecord(taskId, params, triggeredAt, triggerType) {
+  const isImportYetiSchedule = taskId === 'importyeti.full-sync';
   return taskLogs.createRecord({
     taskId, taskName: definitions.get(taskId).name, environment: getEnvironment(),
-    ...(triggerType === 'scheduled' ? { cron: SCHEDULER_CRON } : {}),
+    ...(triggerType === 'scheduled' ? {
+      schedulerId: isImportYetiSchedule ? IMPORTYETI_SCHEDULER_ID : WEEKLY_SCHEDULER_ID,
+      ...(isImportYetiSchedule ? { intervalDays: INTERVAL_DAYS } : { cron: SCHEDULER_CRON }),
+    } : {}),
     timezone: SCHEDULER_TIMEZONE, triggeredAt, triggerType,
     params, status: 'pending', runId: null, startedAt: null, finishedAt: null,
     durationMs: null, exitCode: null, error: null,
   });
 }
 
+function disableImportYetiScheduler(error) {
+  importYetiSchedulerError = error.message;
+  importYetiSchedulerTask?.stop();
+  console.error('[task-runner] ImportYeti 定时计划已暂停:', error.message);
+}
+
+function initializeImportYetiScheduler() {
+  if (importYetiSchedulerTask || getEnvironment() === 'unknown' || process.env.IMPORT_DATA_DISABLE_SCHEDULERS === 'true') return;
+  importYetiScheduleState = createIntervalState(projectRoot, getEnvironment());
+  importYetiSchedulerTask = cron.schedule('* * * * *', async () => {
+    const state = importYetiScheduleState.snapshot();
+    if (importYetiTickRunning || importYetiSchedulerError || !state.enabled || !state.nextRunAt || Date.parse(state.nextRunAt) > Date.now()) return;
+    if (state.retryNotBefore && Date.parse(state.retryNotBefore) > Date.now()) return;
+    const shanghai = new Date(Date.now() + 8 * 60 * 60 * 1000);
+    // Preserve the weekly job's launch window when both plans share midnight.
+    // The four-day slot remains due and can run after the weekly job finishes.
+    if (schedulerTriggerPending || (schedulerEnabled && shanghai.getUTCDay() === 0 && shanghai.getUTCHours() === 0 && shanghai.getUTCMinutes() === 0)) return;
+    importYetiTickRunning = true;
+    const dueAt = state.nextRunAt;
+    const triggeredAt = new Date().toISOString();
+    try {
+      if (activeRunId) {
+        if (importYetiLastSkippedDue !== dueAt) {
+          importYetiLastSkippedDue = dueAt;
+          const skipReason = '触发时已有任务运行，保留本轮到期时间，空闲后自动执行。';
+          importYetiScheduleState.update({ lastTriggeredAt: triggeredAt, lastRunStatus: 'skipped', lastError: skipReason });
+          const blockedByRunId = activeRunId;
+          const record = await createTaskRecord('importyeti.full-sync', IMPORTYETI_SCHEDULE_PARAMS, triggeredAt, 'scheduled');
+          await record.append('stderr', `[task-runner][等待] ${skipReason} 当前运行 ID ${blockedByRunId}。\n`);
+          await record.update({ status: 'skipped', finishedAt: new Date().toISOString(), error: skipReason, blockedByRunId });
+          await record.flush();
+        }
+        return;
+      }
+      // Persist the next slot before claiming the global task slot. Both steps
+      // are synchronous until runTask's first await, so another trigger cannot
+      // slip between the active-run check and the task claim.
+      importYetiScheduleState.update({
+        nextRunAt: advanceRunAt(dueAt), lastTriggeredAt: triggeredAt,
+        lastRunStatus: 'pending', lastError: null, retryNotBefore: null,
+      });
+      importYetiLastSkippedDue = null;
+      try {
+        const run = await runTask('importyeti.full-sync', IMPORTYETI_SCHEDULE_PARAMS, {
+          scheduled: true, schedulerId: IMPORTYETI_SCHEDULER_ID,
+        });
+        if (!run.finishedAt) importYetiScheduleState.update({ lastRunStatus: 'running' });
+      } catch (error) {
+        // A distributed lock conflict should defer this due slot, rather than
+        // consume another four days without doing any collection.
+        importYetiScheduleState.update({
+          ...(error.status === 409 ? { nextRunAt: dueAt, retryNotBefore: new Date(Date.now() + 5 * 60 * 1000).toISOString() } : {}),
+          lastRunStatus: error.status === 409 ? 'skipped' : 'failed', lastError: error.message,
+        });
+        console.error('[task-runner] ImportYeti 定时任务未启动:', error.message);
+      }
+    } catch (error) {
+      disableImportYetiScheduler(error);
+    } finally {
+      importYetiTickRunning = false;
+    }
+  }, { scheduled: importYetiScheduleState.snapshot().enabled, timezone: SCHEDULER_TIMEZONE });
+}
+
+function setImportYetiScheduler(action) {
+  if (!importYetiSchedulerTask) initializeImportYetiScheduler();
+  if (!importYetiSchedulerTask) throw Object.assign(new Error('当前环境未初始化定时器。'), { status: 503 });
+  const state = importYetiScheduleState.snapshot();
+  importYetiScheduleState.update({
+    enabled: action === 'start',
+    retryNotBefore: null,
+    ...(action === 'start' && !state.nextRunAt ? { nextRunAt: firstRunAt() } : {}),
+  });
+  importYetiSchedulerError = null;
+  if (action === 'start') importYetiSchedulerTask.start();
+  else importYetiSchedulerTask.stop();
+  return getImportYetiSchedulerStatus();
+}
+
+function getImportYetiSchedulerStatus() {
+  const state = importYetiScheduleState?.snapshot();
+  const enabled = Boolean(state?.enabled && !importYetiSchedulerError);
+  return {
+    id: IMPORTYETI_SCHEDULER_ID, taskId: 'importyeti.full-sync',
+    name: 'ImportYeti 每 4 天全流程采集',
+    description: '首次启用后第 4 天上海时间 00:00 执行，之后按固定 4 天间隔调度；建表、处理队列、刷新旧档案并采集入库，最后输出概况。',
+    enabled, cron: null, intervalDays: INTERVAL_DAYS, timezone: SCHEDULER_TIMEZONE,
+    params: { ...IMPORTYETI_SCHEDULE_PARAMS },
+    logDirectory: LOG_RELATIVE_DIRECTORY, legacyLogDirectory: LEGACY_LOG_RELATIVE_DIRECTORY,
+    nextRunAt: enabled ? (state.retryNotBefore && Date.parse(state.retryNotBefore) > Date.parse(state.nextRunAt) ? state.retryNotBefore : state.nextRunAt) : null,
+    plannedRunAt: state?.nextRunAt || null,
+    running: Boolean(importYetiSchedulerRunId), activeRunId: importYetiSchedulerRunId,
+    lastTriggeredAt: state?.lastTriggeredAt || null,
+    lastRunStatus: importYetiSchedulerRunId ? 'running' : (state?.lastRunStatus || null),
+    lastError: importYetiSchedulerError || state?.lastError || null,
+  };
+}
+
+function shutdownSchedulers() {
+  schedulerTask?.stop();
+  importYetiSchedulerTask?.stop();
+}
+
 function initializeScheduler() {
-  if (schedulerTask || getEnvironment() === 'unknown') return;
+  if (schedulerTask || getEnvironment() === 'unknown' || process.env.IMPORT_DATA_DISABLE_SCHEDULERS === 'true') return;
   schedulerEnabled = getEnvironment() === 'production';
   schedulerTask = cron.schedule(SCHEDULER_CRON, async () => {
+    schedulerTriggerPending = true;
     schedulerLastTriggeredAt = new Date().toISOString();
     schedulerLastError = null;
     const triggeredAt = schedulerLastTriggeredAt;
@@ -511,11 +642,17 @@ function initializeScheduler() {
           console.error('[task-runner] 定时触发失败记录写入失败:', logError.message);
         }
       }
+    } finally {
+      schedulerTriggerPending = false;
     }
   }, { scheduled: schedulerEnabled, timezone: SCHEDULER_TIMEZONE });
+  initializeImportYetiScheduler();
 }
 
-function setScheduler(action) {
+function setScheduler(action, schedulerId = WEEKLY_SCHEDULER_ID) {
+  if (!['start', 'stop'].includes(action)) throw Object.assign(new Error('操作仅支持 start 或 stop。'), { status: 400 });
+  if (![WEEKLY_SCHEDULER_ID, IMPORTYETI_SCHEDULER_ID].includes(schedulerId)) throw Object.assign(new Error('未知定时任务。'), { status: 400 });
+  if (schedulerId === IMPORTYETI_SCHEDULER_ID) return setImportYetiScheduler(action);
   if (!schedulerTask) initializeScheduler();
   if (!schedulerTask) throw Object.assign(new Error('当前环境未初始化定时器。'), { status: 503 });
   if (action === 'start') {
@@ -532,6 +669,10 @@ function setScheduler(action) {
 
 function getSchedulerStatus() {
   return {
+    id: WEEKLY_SCHEDULER_ID,
+    taskId: 'importgenius.full-sync',
+    name: 'ImportGenius 周采集',
+    description: '每周日 00:00（Asia/Shanghai）新建独立批次，执行列表、详情和入库。',
     enabled: schedulerEnabled,
     cron: SCHEDULER_CRON,
     timezone: SCHEDULER_TIMEZONE,
@@ -556,6 +697,7 @@ function getCatalog() {
     logDirectory: LOG_RELATIVE_DIRECTORY,
     legacyLogDirectory: LEGACY_LOG_RELATIVE_DIRECTORY,
     scheduler: getSchedulerStatus(),
+    schedulers: [getSchedulerStatus(), getImportYetiSchedulerStatus()],
     robot: robotCatalog.robot,
     tasks: [...TASKS, ...robotCatalog.tasks].map(task => ({
       ...task,
@@ -584,4 +726,4 @@ function isWriteEnvironmentConfigured() {
 
 initializeScheduler();
 
-module.exports = { getCatalog, getRun, runTask, stopTask, waitForRun, setScheduler, getEnvironment, isWriteEnvironmentConfigured };
+module.exports = { getCatalog, getRun, runTask, stopTask, waitForRun, setScheduler, shutdownSchedulers, getEnvironment, isWriteEnvironmentConfigured };

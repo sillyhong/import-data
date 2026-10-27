@@ -93,4 +93,4 @@ npm run importyeti:production -- status
 
 任务接口仅检查 `Origin` 请求头是否存在且格式有效，不再比对来源域名、协议和端口，也不依赖代理转发的来源信息。生产写操作继续校验任务控制令牌和二次确认；`TASK_ALLOW_LOCAL_DEV_ORIGIN` 不再参与任务接口校验。
 
-生产 API 保持单实例，启动后自动启用周日 00:00（Asia/Shanghai）定时采集；任务日志仍保存到项目根目录 `logs/tasks/`，旧 `logs/scheduler/` 历史仍可查询及清理。
+生产 API 保持单实例：启动后自动启用 ImportGenius 周日 00:00（Asia/Shanghai）采集，并加载 ImportYeti 每 4 天全流程计划（首次默认启用，本地默认关闭）。ImportYeti 启停状态与执行时间保存在 `logs/tasks/schedulers/importyeti-every-four-days-<环境>.json`，部署升级需保留该目录，避免重置周期。两个计划在任务页分别启停；完整流程与首次触发规则见根目录 README 的“采集定时任务”。任务日志仍保存到项目根目录 `logs/tasks/`，旧 `logs/scheduler/` 历史仍可查询及清理。

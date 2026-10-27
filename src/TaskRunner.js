@@ -30,6 +30,7 @@ const TASK_HELP = {
   'importgenius.full-sync': '新建采集会创建一个独立批次，列表、详情、入库全程使用该批次并保留 JSON。续跑需选择原批次，仅继续未完成阶段，跨日也不会改读当天其他批次。新批次重新抓取详情，不复制旧批次的 shipments。',
   'importyeti.init': '数据表用来保存公司、供应商、提单及它们的关系；索引类似书的目录，用来加快搜索和排序。本任务会创建缺失表，并为已有表补充缺失的查询索引，不会清空已有记录。大表建索引需要扫描数据，可能耗时较长并影响写入。',
   'importyeti.crawl': '采集队列保存数据库中已登记的采集目标链接及其处理状态；贸易关系指公开页面展示的公司与供应商往来。此任务使用上方的采集上限、采集深度、请求间隔和重试选项。robots.txt 是网站公布的自动抓取规则；规则禁止抓取或网站限制访问时，任务会暂停。',
+  'importyeti.full-sync': '依次创建缺失表并补齐索引、将至少 4 天前完成的档案重新排队、采集公司与供应商档案及页面可见提单并写入 MySQL，最后输出数据概况。使用上方采集参数，已有队列进度会保留。受限目标默认不会自动重试；ImportInfo 补充需要单独填写档案链接执行。',
   'importyeti.enrich': 'ImportInfo 是另一个展示公开货运信息的网站。提单是运输货物的单据，本任务用提单号匹配本库记录，并补充原先为空的业务字段；提单号可能被规范化，来源信息也会更新。HS 编码是海关对商品的分类编码，仅保存公开页面提供的编码，不根据描述推测。只读取填写的公司档案页面，不会遍历整个网站。',
   'importyeti.status': '估算值来自 MySQL 的表统计信息，可能与实际精确数量不同。档案队列总量包括待处理、完成、失败和受限的档案，并非剩余待采集数量。点击执行后，在“运行详情与日志”查看结果：targets 是队列档案数，entities 是公司/供应商数，shipments 是提单数。',
   'importyeti.export': 'CSV 是 Excel 等表格软件可打开的文本表格。分块导出表示按记录的唯一编号（主键），每批最多读取 1000 条提单，减少内存占用。文件写入当前后端服务的 exports/ 目录，不会自动下载到浏览器；文件名取自上方输入。',
@@ -61,12 +62,12 @@ function parsePages(value) {
 }
 
 function statusLabel(status) {
-  return ({ running: ['运行中', 'processing'], stopping: ['终止中', 'warning'], stopped: ['已终止', 'default'], success: ['成功', 'success'], failed: ['失败', 'error'], idle: ['未运行', 'default'] })[status] || ['未知', 'default'];
+  return ({ pending: ['待启动', 'default'], running: ['运行中', 'processing'], stopping: ['终止中', 'warning'], stopped: ['已终止', 'default'], success: ['成功', 'success'], failed: ['失败', 'error'], start_failed: ['启动失败', 'error'], skipped: ['已跳过', 'warning'], interrupted: ['已中断', 'warning'], idle: ['未运行', 'default'] })[status] || ['未知', 'default'];
 }
 
 function formatDate(value) {
   if (!value) return '—';
-  return new Date(value).toLocaleString('zh-CN', { hour12: false });
+  return new Date(value).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai', hour12: false });
 }
 
 function batchLabel(batch) {
@@ -310,8 +311,8 @@ function TaskRunner() {
         } : current);
         messageApi.success(run.status === 'stopping' ? '已请求终止任务，正在等待进程退出。' : `任务${statusLabel(run.status)[0]}。`);
       } else {
-        await updateTaskScheduler(action.action, control);
-        messageApi.success(action.action === 'start' ? '定时任务已启动。' : '定时任务已停止。');
+        await updateTaskScheduler(action.action, control, action.schedulerId);
+        messageApi.success(`${action.schedulerName || '定时任务'}${action.action === 'start' ? '已启动' : '已停止'}。`);
       }
       await loadCatalog();
     } catch (error) {
@@ -359,7 +360,7 @@ function TaskRunner() {
           params.batchId = batch.batchId;
         }
       }
-      if (taskId === 'importyeti.crawl') params = {
+      if (['importyeti.crawl', 'importyeti.full-sync'].includes(taskId)) params = {
         maxTargets: crawlTargets,
         maxDepth: crawlDepth,
         delayMs: crawlDelay,
@@ -392,7 +393,9 @@ function TaskRunner() {
 
   const taskGroups = useMemo(() => Object.fromEntries(tasksByGroup), [tasksByGroup]);
 
-  const scheduler = catalog?.scheduler;
+  const schedulers = Array.isArray(catalog?.schedulers) && catalog.schedulers.length
+    ? catalog.schedulers
+    : [{ ...catalog?.scheduler, id: 'importgenius.weekly', name: 'ImportGenius 周采集' }];
   const logDirectory = catalog?.logDirectory || 'logs/tasks';
   const legacyLogDirectory = catalog?.legacyLogDirectory || 'logs/scheduler';
   const waitingForCreatedBatch = pendingCreatedBatch?.country === taskCountry;
@@ -512,11 +515,11 @@ function TaskRunner() {
               <Text type="secondary">仅用于下方手动执行，不影响定时采集</Text>
             </div>
             <Row gutter={[16, 14]} align="bottom">
-              <Col xs={24} sm={12} xl={8}>
+              <Col xs={12} sm={12} xl={8}>
                 <Text className="task-field-label">国家 / 地区</Text>
                 <Select aria-label="国家 / 地区" size="large" value={taskCountry} onChange={changeCountry} options={COUNTRY_OPTIONS} />
               </Col>
-              <Col xs={24} sm={12} xl={8}>
+              <Col xs={12} sm={12} xl={8}>
                 <Text className="task-field-label">页码 / 范围</Text>
                 <Input aria-label="页码 / 范围" size="large" value={pageExpression} onChange={event => { pageEditedRef.current = true; setPageExpression(event.target.value); }} placeholder={selectedBatch?.pages.length > 20 ? '请从所选批次中明确选择最多 20 页' : '1-10'} />
               </Col>
@@ -607,14 +610,14 @@ function TaskRunner() {
               <Text type="secondary">仅用于下方手动执行</Text>
             </div>
             <Row gutter={[16, 14]} align="bottom">
-              <Col xs={24} sm={12} xl={8}>
+              <Col xs={12} sm={12} xl={8}>
                 <Text className="task-field-label">
                   单次采集上限（档案数）
                   <TaskHelp label="单次采集上限" text="仅用于采集档案任务。100 表示本次最多处理 100 次公司或供应商档案，失败尝试也计入上限，并非成功新增 100 条提单。队列中没有可处理档案或遇到网站限制时会提前结束。" />
                 </Text>
                 <InputNumber size="large" min={1} max={1000} value={crawlTargets} onChange={value => setCrawlTargets(value || 1)} />
               </Col>
-              <Col xs={24} sm={12} xl={8}>
+              <Col xs={12} sm={12} xl={8}>
                 <Text className="task-field-label">
                   采集深度
                   <TaskHelp label="采集深度" text="仅用于采集档案任务。从最初加入队列的档案向外查找贸易伙伴：0 只访问起始档案；1 可访问直接关联的公司或供应商；2 再向外扩展一层。实际读取队列中深度不超过该值的档案，仍受单次采集上限限制。" />
@@ -670,33 +673,54 @@ function TaskRunner() {
         </Tabs.TabPane>
 
         <Tabs.TabPane tab={<span><ClockCircleOutlined /> 定时任务</span>} key="scheduler">
-          <Card className="scheduler-card" bordered={false}>
-            <div className="task-card-heading">
-              <div>
-                <Text className="task-section-eyebrow">SCHEDULER</Text>
-                <div className="task-card-title">ImportGenius 周采集</div>
-                <Text type="secondary">每周日 00:00 · Asia/Shanghai · 生产启动时自动启用，本地默认关闭</Text>
-                <div><Text type="secondary">定时采集使用独立计划，不读取手动任务参数。</Text></div>
-                <div><Text type="secondary">每次周采集新建独立批次，列表、详情和入库共用该批次，保留历史 JSON；失败后可在手动任务中选择原批次续跑。</Text></div>
-                <div><Text type="secondary">批次日期是列表采集时间，补抓详情记录实际执行时的站点内容。</Text></div>
-              </div>
-              <Tag color={scheduler?.enabled ? 'success' : 'default'}>{scheduler?.enabled ? '定时已启用' : '定时已停止'}</Tag>
-            </div>
-            <Divider />
-            <Row gutter={[20, 12]}>
-              <Col xs={24} sm={12} xl={6}><Text type="secondary">Cron / 时区</Text><div className="task-metric">{scheduler?.cron || '—'} · {scheduler?.timezone || '—'}</div></Col>
-              <Col xs={24} sm={12} xl={6}><Text type="secondary">下次触发</Text><div className="task-metric">{scheduler?.nextRunAt ? formatDate(scheduler.nextRunAt) : '—'}</div></Col>
-              <Col xs={24} sm={12} xl={6}><Text type="secondary">上次触发</Text><div className="task-metric">{formatDate(scheduler?.lastTriggeredAt)}</div></Col>
-              <Col xs={24} sm={12} xl={6}><Text type="secondary">上次运行 / 当前状态</Text><div className="task-metric">{scheduler?.running ? '运行中' : (scheduler?.lastRunStatus || '尚未运行')}</div></Col>
-            </Row>
-            {scheduler?.lastError && <Alert className="task-inline-alert" type="warning" showIcon message={scheduler.lastError} />}
-            <div className="task-scheduler-actions">
-              <Button type={scheduler?.enabled ? 'default' : 'primary'} disabled={environment === 'unknown' || (isProduction && !catalog?.productionControlConfigured)} onClick={() => requestAction({ type: 'scheduler', action: scheduler?.enabled ? 'stop' : 'start', label: scheduler?.enabled ? '停止定时任务' : '启动定时任务' })}>
-                {scheduler?.enabled ? '停止定时任务' : '启动定时任务'}
-              </Button>
-              {running && <Tag color="processing">手动任务执行中 · {catalog?.activeRunId}</Tag>}
-            </div>
-          </Card>
+          {schedulers.map(scheduler => {
+            const isImportYeti = scheduler.id === 'importyeti.every-four-days';
+            const schedulerName = scheduler.name || (isImportYeti ? 'ImportYeti 全流程采集' : 'ImportGenius 周采集');
+            const action = scheduler.enabled ? 'stop' : 'start';
+            const actionLabel = scheduler.enabled ? '停止定时任务' : '启动定时任务';
+            return (
+              <Card key={scheduler.id} className="scheduler-card" bordered={false}>
+                <div className="task-card-heading">
+                  <div>
+                    <Text className="task-section-eyebrow">SCHEDULER</Text>
+                    <div className="task-card-title">{schedulerName}</div>
+                    <Text type="secondary">{isImportYeti ? '每隔 4 天 00:00' : '每周日 00:00'} · Asia/Shanghai · 生产默认启用，本地默认关闭</Text>
+                    <div className="task-scheduler-notes">
+                      <div><Text type="secondary">每项定时任务独立启停，使用固定计划参数，不读取手动任务参数。</Text></div>
+                      {isImportYeti ? (
+                        <>
+                          <div><Text type="secondary">创建缺失表及索引 → 将至少 4 天前完成的档案重新排队 → 采集公司、供应商、贸易关系及页面可见提单并写入 MySQL → 输出概况。</Text></div>
+                          <div><Text type="secondary">每轮最多 {scheduler.params?.maxTargets ?? 100} 个档案，深度 {scheduler.params?.maxDepth ?? 2}，请求间隔 {(scheduler.params?.delayMs ?? 3000) / 1000} 秒；重试普通失败，不自动重试受限目标。ImportInfo 补充需单独填写链接执行。</Text></div>
+                          <div><Text type="secondary">首次使用需先添加公司或供应商种子链接；队列为空时不会自动遍历整个网站。</Text></div>
+                          <div><Text type="secondary">首次启用后第 4 天零点触发，之后每隔 4 天执行；计划时间持久保存，跨月或重启不会重新计时。</Text></div>
+                        </>
+                      ) : (
+                        <>
+                          <div><Text type="secondary">每次周采集新建独立批次，列表、详情和入库共用该批次，保留历史 JSON；失败后可在手动任务中选择原批次续跑。</Text></div>
+                          <div><Text type="secondary">批次日期是列表采集时间，补抓详情记录实际执行时的站点内容。</Text></div>
+                        </>
+                      )}
+                    </div>
+                  </div>
+                  <Tag color={scheduler.enabled ? 'success' : 'default'}>{scheduler.enabled ? '定时已启用' : '定时已停止'}</Tag>
+                </div>
+                <Divider />
+                <Row gutter={[20, 12]}>
+                  <Col xs={24} sm={12} xl={6}><Text type="secondary">{isImportYeti ? '执行间隔 / 时区' : 'Cron / 时区'}</Text><div className="task-metric">{isImportYeti ? `每隔 ${scheduler.intervalDays || 4} 天` : (scheduler.cron || '—')} · {scheduler.timezone || 'Asia/Shanghai'}</div></Col>
+                  <Col xs={24} sm={12} xl={6}><Text type="secondary">下次触发</Text><div className="task-metric">{scheduler.nextRunAt ? formatDate(scheduler.nextRunAt) : '—'}</div></Col>
+                  <Col xs={24} sm={12} xl={6}><Text type="secondary">上次触发</Text><div className="task-metric">{formatDate(scheduler.lastTriggeredAt)}</div></Col>
+                  <Col xs={24} sm={12} xl={6}><Text type="secondary">上次运行 / 当前状态</Text><div className="task-metric">{scheduler.running ? '运行中' : (scheduler.lastRunStatus ? statusLabel(scheduler.lastRunStatus)[0] : '尚未运行')}</div></Col>
+                </Row>
+                {scheduler.lastError && <Alert className="task-inline-alert" type="warning" showIcon message={scheduler.lastError} />}
+                <div className="task-scheduler-actions">
+                  <Button type={scheduler.enabled ? 'default' : 'primary'} aria-label={`${actionLabel}：${schedulerName}`} disabled={environment === 'unknown' || (isProduction && !catalog?.productionControlConfigured)} onClick={() => requestAction({ type: 'scheduler', schedulerId: scheduler.id, schedulerName, action, label: `${actionLabel}：${schedulerName}` })}>
+                    {actionLabel}
+                  </Button>
+                  {running && <Tag color="processing">当前有任务执行中 · {catalog?.activeRunId}</Tag>}
+                </div>
+              </Card>
+            );
+          })}
         </Tabs.TabPane>
 
         <Tabs.TabPane tab={<span><FileTextOutlined /> 日志管理</span>} key="logs">

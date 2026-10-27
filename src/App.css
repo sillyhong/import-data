@@ -257,6 +257,135 @@
   overflow-wrap: anywhere;
 }
 
+@media (max-width: 767px) {
+  .data-page,
+  .importgenius,
+  .tradesns-page,
+  .detail-page,
+  .importyeti-page,
+  .scheduler-logs-page,
+  .task-runner-page {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .page-heading,
+  .page-heading-copy,
+  .filter-field,
+  .table-panel-heading > div {
+    min-width: 0;
+  }
+
+  .page-heading-copy {
+    overflow-wrap: anywhere;
+  }
+
+  .filter-panel.ant-card,
+  .table-panel.ant-card,
+  .detail-card.ant-card {
+    border-radius: 10px;
+  }
+
+  .page-heading .page-description {
+    font-size: 12px;
+    line-height: 1.5;
+  }
+
+  .table-panel-heading {
+    gap: 8px;
+    padding: 10px 12px;
+  }
+
+  .result-count {
+    flex-shrink: 0;
+    font-size: 11px;
+  }
+
+  .filter-field .ant-select,
+  .filter-field .ant-picker,
+  .filter-field .ant-input-affix-wrapper {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .filter-field .ant-picker-input,
+  .filter-field .ant-picker-input input {
+    min-width: 0;
+  }
+
+  .data-pagination-mobile {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 12px;
+    border-top: 1px solid #edf0f4;
+  }
+
+  .data-pagination-mobile-summary {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    color: #78879a;
+    font-size: 11px;
+  }
+
+  .data-pagination-mobile-summary .ant-select {
+    width: 106px;
+    flex-shrink: 0;
+    font-size: 12px;
+  }
+
+  .data-pagination-mobile .ant-pagination {
+    margin: 0;
+    font-size: 12px;
+  }
+
+  .data-pagination-mobile .ant-pagination-prev,
+  .data-pagination-mobile .ant-pagination-next {
+    min-width: 36px;
+    height: 32px;
+    line-height: 32px;
+  }
+
+  .data-pagination-mobile .ant-pagination-simple-pager {
+    height: 32px;
+    line-height: 32px;
+  }
+
+  .ant-picker-dropdown {
+    max-width: calc(100vw - 16px);
+  }
+
+  .ant-picker-dropdown .ant-picker-panel-container {
+    max-width: 100%;
+    max-height: 70vh;
+    overflow: auto;
+  }
+
+  .ant-picker-dropdown .ant-picker-panels {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ant-picker-dropdown .ant-picker-footer {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .detail-card .ant-card-body {
+    padding: 14px;
+  }
+
+  .detail-card .ant-descriptions-item-container {
+    flex-wrap: wrap;
+    gap: 3px;
+  }
+}
+
 @media (max-width: 575px) {
   .data-pagination.ant-pagination {
     justify-content: center;

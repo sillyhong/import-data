@@ -112,6 +112,15 @@
 }
 
 @media (max-width: 767px) {
+  .importgenius .filter-primary-row {
+    row-gap: 7px !important;
+  }
+
+  .importgenius .filter-primary-row > .ant-col {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
   .importgenius .filter-panel .ant-card-body {
     padding: 10px 12px;
   }
@@ -123,5 +132,75 @@
 
   .importgenius .filter-submit.ant-btn-lg {
     width: 100%;
+    min-width: 0;
+  }
+
+  .ig-mobile-filter-actions {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+    gap: 8px;
+    margin-top: 9px;
+  }
+
+  .ig-mobile-time-toggle.ant-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    height: var(--ig-filter-control-height);
+    padding: 0 8px;
+    border-radius: 7px;
+    color: #60768d;
+    font-size: 12px;
+  }
+
+  .ig-mobile-time-toggle.ant-btn > span + span {
+    margin-left: 0;
+  }
+
+  .ig-time-filter-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 17px;
+    height: 17px;
+    padding: 0 3px;
+    border-radius: 9px;
+    background: #eaf2fc;
+    color: #3177c5;
+    font-size: 10px;
+    font-weight: 600;
+  }
+
+  .importgenius .responsive-record-field dd > div > div + div {
+    margin-top: 4px;
+  }
+
+  .importgenius .responsive-record-details {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .importgenius .responsive-record-details > :last-child {
+    grid-column: 1 / -1;
+  }
+
+  .ig-date-range-popup {
+    max-width: calc(100vw - 16px);
+  }
+
+  .ig-date-range-popup .ant-picker-panel-container {
+    max-width: 100%;
+    max-height: min(560px, 70vh);
+    overflow: auto;
+  }
+
+  .ig-date-range-popup .ant-picker-panels {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ig-date-range-popup .ant-picker-footer {
+    width: 100%;
+    min-width: 0;
   }
 }

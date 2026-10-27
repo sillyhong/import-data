@@ -95,6 +95,11 @@ async function run(taskId, params) {
     });
   }
 
+  if (taskId === 'importyeti.full-sync') {
+    const { runFullSync } = require('../../importyeti/workflows/fullSync');
+    return runFullSync(params);
+  }
+
   if (taskId === 'importyeti.enrich') {
     const { enrichFromImportInfo, parseImportInfoProfileUrl } = require('../../importyeti/enrichment/importinfo');
     return enrichFromImportInfo(parseImportInfoProfileUrl(requireString(params.profileUrl, 'profileUrl')));

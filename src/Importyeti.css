@@ -72,16 +72,89 @@
   vertical-align: top;
 }
 
-@media (max-width: 575px) {
+@media (max-width: 767px) {
+  .importyeti-page,
+  .importyeti-page .ant-tabs-content-holder,
+  .importyeti-page .ant-tabs-tabpane,
+  .importyeti-page .filter-field,
+  .importyeti-page .ant-col {
+    min-width: 0;
+  }
+
+  .iy-summary-row {
+    margin-bottom: 4px;
+  }
+
   .iy-stat-card .ant-card-body {
-    padding: 14px 18px;
+    padding: 9px 8px;
+  }
+
+  .iy-stat-card .ant-statistic-title {
+    min-height: 30px;
+    margin-bottom: 3px;
+    font-size: 10px;
+    line-height: 1.5;
   }
 
   .iy-stat-card .ant-statistic-content {
-    font-size: 21px;
+    font-size: clamp(14px, 4.3vw, 20px);
+    line-height: 1.4;
+    overflow-wrap: anywhere;
   }
 
   .iy-tabs > .ant-tabs-nav {
-    margin-bottom: 14px;
+    margin-bottom: 10px;
+  }
+
+  .importyeti-page .filter-panel .ant-card-body {
+    padding: 10px 12px;
+  }
+
+  .iy-shipment-filters,
+  .iy-entity-filters {
+    row-gap: 8px !important;
+  }
+
+  .iy-table-alert {
+    margin: 10px 12px 0;
+  }
+
+  .iy-range-picker .ant-picker-input > input {
+    min-width: 0;
+    font-size: 12px;
+  }
+
+  .iy-range-picker .ant-picker-range-separator {
+    padding: 0 5px;
+  }
+
+  .importyeti-page .responsive-record--expanded .iy-cell-clamp {
+    display: block;
+    overflow: visible;
+    -webkit-line-clamp: unset;
+  }
+
+  .iy-date-range-popup {
+    max-width: calc(100vw - 16px);
+  }
+
+  .iy-date-range-popup .ant-picker-panel-container {
+    max-width: 100%;
+    max-height: min(560px, 70vh);
+    overflow: auto;
+  }
+
+  .iy-date-range-popup .ant-picker-panels {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .iy-date-range-popup .ant-picker-panel {
+    max-width: 100%;
+  }
+
+  .iy-date-range-popup .ant-picker-footer {
+    width: 100%;
+    min-width: 0;
   }
 }

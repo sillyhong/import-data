@@ -88,9 +88,17 @@ async function main(args = process.argv.slice(2)) {
 
   let runner;
   try {
-    runner = require('../server/task-runner');
-    // This short-lived CLI process must not start its own production weekly scheduler.
-    runner.setScheduler('stop');
+    const previousSchedulerSetting = process.env.IMPORT_DATA_DISABLE_SCHEDULERS;
+    process.env.IMPORT_DATA_DISABLE_SCHEDULERS = 'true';
+    try {
+      runner = require('../server/task-runner');
+    } finally {
+      if (previousSchedulerSetting === undefined) delete process.env.IMPORT_DATA_DISABLE_SCHEDULERS;
+      else process.env.IMPORT_DATA_DISABLE_SCHEDULERS = previousSchedulerSetting;
+    }
+    // This short-lived CLI process must not keep API schedulers alive or
+    // persist a change to their enabled state.
+    runner.shutdownSchedulers();
     console.log(`[ImportGenius][任务] 通过 server/task-runner 启动 ${command}：${country} 页 ${options.pages.join(', ')}；${options.batchId ? `续跑批次 ${options.batchId}` : '新建采集批次'}。`);
     const started = await runner.runTask(taskIds[command], {
       country,
@@ -115,7 +123,7 @@ async function main(args = process.argv.slice(2)) {
     }
     console.log(`[ImportGenius][任务] 完成：runId=${result.runId}，耗时 ${(result.durationMs / 1000).toFixed(1)} 秒。`);
   } finally {
-    if (runner) runner.setScheduler('stop');
+    if (runner) runner.shutdownSchedulers();
     await require('./database/db').closePool().catch(() => {});
   }
 }
